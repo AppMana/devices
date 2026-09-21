@@ -39,3 +39,23 @@ test('all indexed phones and tablets have reviewed physical scale', () => {
  assert.deepEqual(findDevice('iphone-se-2nd-generation').frontCamera,findDevice('iphone-se-3rd-generation').frontCamera);
  assert.equal(findDevice('iphone-se-3rd-generation').frontCamera.x,-10.655);
 });
+
+test('reviewed accessory dimensions preserve mechanical meaning and unknowns', () => {
+ const t=getTable();assert.equal(t.coverage.reviewedDrawings,90);
+ const watches=t.devices.filter(d=>d.drawing && d.id.startsWith('apple-watch-'));
+ assert.equal(watches.length,19);
+ assert.equal(findDevice('Watch7,13').id,'apple-watch-se-3-40mm');
+ assert.equal(findDevice('Watch7,5').id,'apple-watch-ultra-2');
+ for(const d of watches) assert.ok(pixelsPerInch(d).x>300 && pixelsPerInch(d).x<350,d.id);
+ for(const d of watches){
+  assert.ok(d.display.activeMm.width<d.bodyMm.width,d.id);
+  assert.ok(d.additionalDimensions.find(v=>v.feature==='body-including-rear-sensor').value>d.bodyMm.depth,d.id);
+ }
+ assert.equal(findDevice('apple-watch-ultra-3').display.activeMm.width,32.92);
+ assert.equal(findDevice('siri-remote-3rd-generation').bodyMm.height,null);
+ assert.equal(findDevice('airpods-4').bodyMm,null);
+ assert.equal(findDevice('wireless-charging-case-usb-c-for-airpods-4').bodyMm.depth,null);
+ assert.equal(findDevice('apple-magsafe-charger').bodyMm.depth,5.30);
+ assert.equal(findDevice('apple-magsafe-charger-1-m-and-apple-magsafe-charger-2-m').bodyMm.depth,4.37);
+ assert.throws(()=>pixelsPerInch('macbook-neo'));
+});

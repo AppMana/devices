@@ -2,13 +2,13 @@ export interface Size { width: number; height: number }
 export interface Annotation { text: string; bbox: [number, number, number, number]; nearbyTokens: string[]; confidence?: number }
 export interface Device {
   id: string; name: string; identifiers: string[];
-  display: { activeMm: Size | null; nativePixels: Size | null; nominalPpi: number | null; ppi: {x: number; y: number} | null; source: string | null };
-  bodyMm: {width: number; height: number; depth?: number} | null;
+  display: { activeMm: Size | null; nativePixels: Size | null; nominalPpi: number | null; ppi: {x: number; y: number} | null; source: string | null; resolutionReview?: Record<string, unknown> };
+  bodyMm: {width: number | null; height: number | null; depth?: number | null} | null;
   coverGlassMm: Size | null;
   additionalDimensions: {feature: string; quantity: string; value: number; unit: 'mm' | 'degree'; page: number; detail?: string; note?: string}[];
   frontCameraPartial: {x: number | null; y: number | null} | null;
   frontCamera: { x: number; y: number; convention: string; source: string; page: number } | null;
-  review: { status: string; derivation: string | null; source?: string; page?: number; bodyDepthPage?: number; scope?: string; pagesReviewed?: number[]; ambiguities?: string[] };
+  review: { status: string; derivation: string | null; source?: string; page?: number; bodyPage?: number; bodyDepthPage?: number; bodyDepthDefinition?: string | null; scope?: string; pagesReviewed?: number[]; ambiguities?: string[] };
   drawing: { url: string; sha256: string; pages: {page: number; sizePoints: [number, number]; method: string; annotations: Annotation[]}[] } | null;
 }
 export interface Table { schemaVersion: number; sources: Record<string, unknown>; devices: Device[]; coverage: Record<string, unknown> }

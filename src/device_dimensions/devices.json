@@ -19,11 +19,12 @@
     }
   },
   "coverage": {
-    "devices": 285,
+    "devices": 282,
     "drawings": 90,
+    "reviewedDrawings": 90,
     "drawingPages": 259,
-    "nativeResolutions": 125,
-    "reviewedDisplays": 50,
+    "nativeResolutions": 129,
+    "reviewedDisplays": 69,
     "reviewedCameras": 22,
     "note": "All current index PDFs are represented; positioned annotations are an extraction aid, not a complete semantic translation. OCR and numerical-token extraction can omit or misread dimensions. Only reviewed fields are used for physical conversions."
   },
@@ -67,12 +68,72 @@
       },
       "bodyMm": null,
       "coverGlassMm": null,
-      "additionalDimensions": [],
+      "additionalDimensions": [
+        {
+          "feature": "stem-keepout",
+          "quantity": "height-from-bottom",
+          "value": 23.8,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "stem-contact-region",
+          "quantity": "height-from-bottom",
+          "value": 2.4,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "speaker-keepout",
+          "quantity": "width",
+          "value": 4.8,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "speaker-keepout",
+          "quantity": "height",
+          "value": 7.9,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "side-keepout",
+          "quantity": "margin",
+          "value": 0.8,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "sensor-keepout",
+          "quantity": "margin",
+          "value": 1.0,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "top-vent-keepout",
+          "quantity": "margin",
+          "value": 0.5,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Visually reviewed PDF page 2 (the only mechanical sheet): the dimensioned shaded areas are accessory keepout regions, not overall earbud dimensions. No total body envelope is inferred. Additional measurements retain their keepout meaning; ports/sensors may have differently oriented boundaries.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-2nd-generation.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2
+        ],
+        "ambiguities": [],
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-2nd-generation.pdf",
@@ -379,12 +440,58 @@
       },
       "bodyMm": null,
       "coverGlassMm": null,
-      "additionalDimensions": [],
+      "additionalDimensions": [
+        {
+          "feature": "stem-side-keepout",
+          "quantity": "height-from-bottom",
+          "value": 26.2,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "stem-front-keepout",
+          "quantity": "height-from-bottom",
+          "value": 17.6,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "speaker-keepout",
+          "quantity": "width",
+          "value": 5.3,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "speaker-keepout",
+          "quantity": "height",
+          "value": 9.2,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "sensor-keepout",
+          "quantity": "margin",
+          "value": 1.0,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Visually reviewed PDF page 2 (the only mechanical sheet): the dimensioned shaded areas are accessory keepout regions, not overall earbud dimensions. No total body envelope is inferred. Additional measurements retain their keepout meaning; ports/sensors may have differently oriented boundaries.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-3rd-generation.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2
+        ],
+        "ambiguities": [],
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-3rd-generation.pdf",
@@ -674,12 +781,51 @@
       },
       "bodyMm": null,
       "coverGlassMm": null,
-      "additionalDimensions": [],
+      "additionalDimensions": [
+        {
+          "feature": "stem-side-keepout",
+          "quantity": "height-from-bottom",
+          "value": 23.8,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "stem-front-keepout",
+          "quantity": "height-from-bottom",
+          "value": 17.6,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "stem-contact-region",
+          "quantity": "height-from-bottom",
+          "value": 3.0,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "sensor-keepout",
+          "quantity": "margin",
+          "value": 1.0,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Visually reviewed PDF page 2 (the only mechanical sheet): the dimensioned shaded areas are accessory keepout regions, not overall earbud dimensions. No total body envelope is inferred. Additional measurements retain their keepout meaning; ports/sensors may have differently oriented boundaries.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-4.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2
+        ],
+        "ambiguities": [],
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-4.pdf",
@@ -1009,14 +1155,53 @@
         "ppi": null,
         "source": null
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 199.84,
+        "height": 193.23,
+        "depth": 51.94
+      },
       "coverGlassMm": null,
-      "additionalDimensions": [],
+      "additionalDimensions": [
+        {
+          "feature": "as-worn",
+          "quantity": "width",
+          "value": 168.62,
+          "unit": "mm",
+          "page": 4
+        },
+        {
+          "feature": "as-worn",
+          "quantity": "depth",
+          "value": 83.44,
+          "unit": "mm",
+          "page": 4
+        },
+        {
+          "feature": "sliding-arm",
+          "quantity": "approximate-maximum-extension",
+          "value": 25,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Body envelope uses explicit as-stowed dimensions on PDF page 4 (cups rotated, sliding arms retracted). As-worn dimensions differ; drawing height 167.85 ends at canopy underside, not overall top, so not used as overall height.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+        "page": 4,
+        "bodyPage": 4,
+        "bodyDepthDefinition": null,
+        "bodyDepthPage": 4,
+        "pagesReviewed": [
+          2,
+          3,
+          4,
+          5
+        ],
+        "ambiguities": [],
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
@@ -4922,12 +5107,65 @@
       },
       "bodyMm": null,
       "coverGlassMm": null,
-      "additionalDimensions": [],
+      "additionalDimensions": [
+        {
+          "feature": "stem-keepout",
+          "quantity": "height-from-bottom",
+          "value": 23.3,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "stem-keepout",
+          "quantity": "width",
+          "value": 5.7,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "stem-contact-region",
+          "quantity": "height-from-bottom",
+          "value": 3.0,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "speaker-keepout",
+          "quantity": "width",
+          "value": 7.6,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "speaker-keepout",
+          "quantity": "height",
+          "value": 11.9,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "sensor-keepout",
+          "quantity": "margin",
+          "value": 1.0,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Visually reviewed PDF page 2 (the only mechanical sheet): the dimensioned shaded areas are accessory keepout regions, not overall earbud dimensions. No total body envelope is inferred. Additional measurements retain their keepout meaning; ports/sensors may have differently oriented boundaries.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-pro-2nd-generation.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2
+        ],
+        "ambiguities": [],
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-pro-2nd-generation.pdf",
@@ -5399,12 +5637,58 @@
       },
       "bodyMm": null,
       "coverGlassMm": null,
-      "additionalDimensions": [],
+      "additionalDimensions": [
+        {
+          "feature": "stem-side-keepout",
+          "quantity": "height-from-bottom",
+          "value": 28.2,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "stem-front-keepout",
+          "quantity": "height-from-bottom",
+          "value": 17.6,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "speaker-keepout",
+          "quantity": "width",
+          "value": 4.2,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "speaker-keepout",
+          "quantity": "height",
+          "value": 5.7,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "sensor-keepout",
+          "quantity": "margin",
+          "value": 1.0,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Visually reviewed PDF page 2 (the only mechanical sheet): the dimensioned shaded areas are accessory keepout regions, not overall earbud dimensions. No total body envelope is inferred. Additional measurements retain their keepout meaning; ports/sensors may have differently oriented boundaries.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-pro-3.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2
+        ],
+        "ambiguities": [],
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-pro-3.pdf",
@@ -5804,14 +6088,43 @@
         "ppi": null,
         "source": null
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 31.87,
+        "height": 31.87,
+        "depth": 7.98
+      },
       "coverGlassMm": null,
-      "additionalDimensions": [],
+      "additionalDimensions": [
+        {
+          "feature": "speaker-keepout",
+          "quantity": "diameter",
+          "value": 25.75,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "antenna-keepout",
+          "quantity": "diameter",
+          "value": 37.31,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "PDF page 2: outer diameter 31.87; total thickness from bottom 0 datum to top 7.98. Body excludes no attachments.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airtag.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2
+        ],
+        "ambiguities": [],
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airtag.pdf",
@@ -6502,14 +6815,64 @@
         "ppi": null,
         "source": null
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 55.9,
+        "height": 55.9,
+        "depth": 5.3
+      },
       "coverGlassMm": null,
-      "additionalDimensions": [],
+      "additionalDimensions": [
+        {
+          "feature": "cable",
+          "quantity": "diameter",
+          "value": 2.74,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "cable-strain-relief",
+          "quantity": "diameter",
+          "value": 3.94,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "usb-c-plug-body",
+          "quantity": "length",
+          "value": 20.4,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "usb-c-plug-body",
+          "quantity": "width",
+          "value": 12.35,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "usb-c-plug-body",
+          "quantity": "thickness",
+          "value": 6.49,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "PDF page 2: puck diameter 55.90 and thickness 5.30; cable and plug excluded from body envelope. Model A2140.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-magsafe-charger.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2
+        ],
+        "ambiguities": [],
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-magsafe-charger.pdf",
@@ -6673,14 +7036,57 @@
         "ppi": null,
         "source": null
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 55.5,
+        "height": 55.5,
+        "depth": 4.37
+      },
       "coverGlassMm": null,
-      "additionalDimensions": [],
+      "additionalDimensions": [
+        {
+          "feature": "cable",
+          "quantity": "diameter",
+          "value": 3.05,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "usb-c-plug-body",
+          "quantity": "length",
+          "value": 19.38,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "usb-c-plug-body",
+          "quantity": "width",
+          "value": 12.35,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "usb-c-plug-body",
+          "quantity": "thickness",
+          "value": 6.49,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "PDF page 2: puck diameter 55.50 and thickness 4.37; cable and plug excluded from body envelope. Models A2580 and A3250.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-magsafe-charger-1-m-and-apple-magsafe-charger-2-m.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2
+        ],
+        "ambiguities": [],
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-magsafe-charger-1-m-and-apple-magsafe-charger-2-m.pdf",
@@ -7012,14 +7418,28 @@
         "ppi": null,
         "source": "https://support.apple.com/kb/SP886"
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 93.24,
+        "height": 93.24,
+        "depth": 31.0
+      },
       "coverGlassMm": null,
       "additionalDimensions": [],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "PDF page 2 top-view footprint 93.24 × 93.24; vertical thickness 31.00, including bottom projection. Dimensions apply to Wi-Fi and Wi-Fi+Ethernet variants.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2
+        ],
+        "ambiguities": [],
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf",
@@ -8016,12 +8436,122 @@
       },
       "bodyMm": null,
       "coverGlassMm": null,
-      "additionalDimensions": [],
+      "additionalDimensions": [
+        {
+          "feature": "light-seal-and-face-cushion-largest",
+          "quantity": "width",
+          "value": 161.35,
+          "unit": "mm",
+          "page": 3,
+          "note": "Published boundary-condition dimensions; not the complete headset envelope."
+        },
+        {
+          "feature": "light-seal-and-face-cushion-largest",
+          "quantity": "depth",
+          "value": 98.4,
+          "unit": "mm",
+          "page": 3,
+          "note": "Published boundary-condition dimensions; not the complete headset envelope."
+        },
+        {
+          "feature": "light-seal-and-face-cushion-largest",
+          "quantity": "height",
+          "value": 104.26,
+          "unit": "mm",
+          "page": 3,
+          "note": "Published boundary-condition dimensions; not the complete headset envelope."
+        },
+        {
+          "feature": "light-seal-and-face-cushion-smallest",
+          "quantity": "width",
+          "value": 147.57,
+          "unit": "mm",
+          "page": 3,
+          "note": "Published boundary-condition dimensions; not the complete headset envelope."
+        },
+        {
+          "feature": "light-seal-and-face-cushion-smallest",
+          "quantity": "depth",
+          "value": 72.38,
+          "unit": "mm",
+          "page": 3,
+          "note": "Published boundary-condition dimensions; not the complete headset envelope."
+        },
+        {
+          "feature": "light-seal-and-face-cushion-smallest",
+          "quantity": "height",
+          "value": 94.07,
+          "unit": "mm",
+          "page": 3,
+          "note": "Published boundary-condition dimensions; not the complete headset envelope."
+        },
+        {
+          "feature": "dual-loop-band-small",
+          "quantity": "upper-length",
+          "value": 335,
+          "unit": "mm",
+          "page": 5,
+          "note": "Upper length tolerance ±0.7%; lower length tolerance ±1.5%."
+        },
+        {
+          "feature": "dual-loop-band-small",
+          "quantity": "lower-length",
+          "value": 328,
+          "unit": "mm",
+          "page": 5,
+          "note": "Upper length tolerance ±0.7%; lower length tolerance ±1.5%."
+        },
+        {
+          "feature": "dual-loop-band-medium",
+          "quantity": "upper-length",
+          "value": 343,
+          "unit": "mm",
+          "page": 5,
+          "note": "Upper length tolerance ±0.7%; lower length tolerance ±1.5%."
+        },
+        {
+          "feature": "dual-loop-band-medium",
+          "quantity": "lower-length",
+          "value": 366,
+          "unit": "mm",
+          "page": 5,
+          "note": "Upper length tolerance ±0.7%; lower length tolerance ±1.5%."
+        },
+        {
+          "feature": "dual-loop-band-large",
+          "quantity": "upper-length",
+          "value": 352,
+          "unit": "mm",
+          "page": 5,
+          "note": "Upper length tolerance ±0.7%; lower length tolerance ±1.5%."
+        },
+        {
+          "feature": "dual-loop-band-large",
+          "quantity": "lower-length",
+          "value": 411,
+          "unit": "mm",
+          "page": 5,
+          "note": "Upper length tolerance ±0.7%; lower length tolerance ±1.5%."
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Storage-case guide: reviewed overview, light-seal boundary/contact and dual-loop-band sheets. Component boundary dimensions depend on fit/size and are not a single headset body. Other band and contour sheets remain unnormalized.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+        "page": 3,
+        "bodyPage": 3,
+        "bodyDepthDefinition": null,
+        "bodyDepthPage": 3,
+        "pagesReviewed": [
+          2,
+          3,
+          4,
+          5
+        ],
+        "ambiguities": [],
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
@@ -16233,12 +16763,65 @@
       },
       "bodyMm": null,
       "coverGlassMm": null,
-      "additionalDimensions": [],
+      "additionalDimensions": [
+        {
+          "feature": "connector",
+          "quantity": "width",
+          "value": 6.03,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "connector",
+          "quantity": "height",
+          "value": 13.82,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "connector",
+          "quantity": "height-from-faceplate",
+          "value": 3.83,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "faceplate",
+          "quantity": "diameter",
+          "value": 16.2,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "connector-lead-in-chamfer",
+          "quantity": "length",
+          "value": 0.1,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "connector-lead-in-chamfer",
+          "quantity": "angle",
+          "value": 45,
+          "unit": "degree",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Left audio strap connector/faceplate mechanical dimensions only. Right strap mirrors left. Overall strap envelope not dimensioned on this sheet.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-audio-strap.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2
+        ],
+        "ambiguities": [],
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-audio-strap.pdf",
@@ -16886,14 +17469,50 @@
         "ppi": null,
         "source": null
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 68.65,
+        "height": 143.86,
+        "depth": 19.09
+      },
       "coverGlassMm": null,
-      "additionalDimensions": [],
+      "additionalDimensions": [
+        {
+          "feature": "cable",
+          "quantity": "length",
+          "value": 1200,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "cable",
+          "quantity": "diameter",
+          "value": 4.22,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "cable",
+          "quantity": "minimum-bend-radius",
+          "value": 13,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "PDF page 2 explicit main enclosure width 68.65, length 143.86, thickness 19.09; cable excluded.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-battery.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2
+        ],
+        "ambiguities": [],
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-battery.pdf",
@@ -18152,10 +18771,22 @@
       ],
       "display": {
         "activeMm": null,
-        "nativePixels": null,
+        "nativePixels": {
+          "width": 272,
+          "height": 340
+        },
         "nominalPpi": 290,
         "ppi": null,
-        "source": "https://support.apple.com/kb/SP735"
+        "source": "https://developer.apple.com/videos/play/tech-talks/802/",
+        "resolutionReview": {
+          "sourceURL": "https://developer.apple.com/videos/play/tech-talks/802/",
+          "derivation": "Apple Developer Tech Talk Designing for Apple Watch Series 4, opening transcript: Apple describes the earlier 38mm and 42mm watches before the Series 4 display change, giving 272 by 340 pixels for 38mm. The first-generation technical specification identifies this model as a 38mm watch. This uses the explicit earlier-watch display dimensions, not a PPI calculation or an assumption that first generation means Series 1. The first-generation support specification itself omits pixel dimensions.",
+          "reviewedAt": "2026-09-21",
+          "resolutionUnit": "physical display pixels",
+          "resolutionOrientation": "portrait",
+          "missingReason": "linked-tech-spec-omits-native-pixels",
+          "supportingSourceURL": "https://support.apple.com/en-us/112009"
+        }
       },
       "bodyMm": null,
       "coverGlassMm": null,
@@ -18176,10 +18807,22 @@
       ],
       "display": {
         "activeMm": null,
-        "nativePixels": null,
+        "nativePixels": {
+          "width": 312,
+          "height": 390
+        },
         "nominalPpi": 303,
         "ppi": null,
-        "source": "https://support.apple.com/kb/SP735"
+        "source": "https://developer.apple.com/videos/play/tech-talks/802/",
+        "resolutionReview": {
+          "sourceURL": "https://developer.apple.com/videos/play/tech-talks/802/",
+          "derivation": "Apple Developer Tech Talk Designing for Apple Watch Series 4, opening transcript: Apple describes the earlier 38mm and 42mm watches before the Series 4 display change, giving 312 by 390 pixels for 42mm. The first-generation technical specification identifies this model as a 42mm watch. This uses the explicit earlier-watch display dimensions, not a PPI calculation or an assumption that first generation means Series 1. The first-generation support specification itself omits pixel dimensions.",
+          "reviewedAt": "2026-09-21",
+          "resolutionUnit": "physical display pixels",
+          "resolutionOrientation": "portrait",
+          "missingReason": "linked-tech-spec-omits-native-pixels",
+          "supportingSourceURL": "https://support.apple.com/en-us/112009"
+        }
       },
       "bodyMm": null,
       "coverGlassMm": null,
@@ -18251,22 +18894,67 @@
     {
       "id": "apple-watch-se-3-40mm",
       "name": "Apple Watch SE 3, 40 mm",
-      "identifiers": [],
+      "identifiers": [
+        "Watch7,13",
+        "Watch7,14"
+      ],
       "display": {
-        "activeMm": null,
-        "nativePixels": null,
-        "nominalPpi": null,
-        "ppi": null,
-        "source": null
+        "activeMm": {
+          "width": 25.27,
+          "height": 30.73
+        },
+        "nativePixels": {
+          "width": 324,
+          "height": 394
+        },
+        "nominalPpi": 326,
+        "ppi": {
+          "x": 325.6667985753858,
+          "y": 325.66221932964527
+        },
+        "source": "https://support.apple.com/en-us/125094",
+        "resolutionReview": {
+          "sourceURL": "https://support.apple.com/en-us/125094",
+          "derivation": "Apple Watch SE 3 technical specifications, Size and Weight, 40mm section explicitly gives 324 by 394 pixels. Width and height are copied in portrait order, without PPI calculations. Source extraction already has this value under Apple Watch SE (3rd generation); override associates it with the drawing identity.",
+          "reviewedAt": "2026-09-21",
+          "resolutionUnit": "physical display pixels",
+          "resolutionOrientation": "portrait",
+          "missingReason": "marketing-name-join-mismatch"
+        }
       },
-      "bodyMm": null,
-      "coverGlassMm": null,
-      "additionalDimensions": [],
+      "bodyMm": {
+        "width": 34.41,
+        "height": 39.82,
+        "depth": 10.7
+      },
+      "coverGlassMm": {
+        "width": 31.36,
+        "height": 36.82
+      },
+      "additionalDimensions": [
+        {
+          "feature": "body-including-rear-sensor",
+          "quantity": "depth",
+          "value": 12.67,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Explicit DISPLAY ACTIVE AREA envelope 25.27 x 30.73 mm transcribed visually from PDF page 2; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 12.67 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-se-3-40mm.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": "Printed case-profile depth between the front and rear case/glass reference planes; excludes protruding rear sensor dome.",
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2
+        ],
+        "ambiguities": [],
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-se-3-40mm.pdf",
@@ -19871,22 +20559,67 @@
     {
       "id": "apple-watch-se-3-44mm",
       "name": "Apple Watch SE 3, 44 mm",
-      "identifiers": [],
+      "identifiers": [
+        "Watch7,15",
+        "Watch7,16"
+      ],
       "display": {
-        "activeMm": null,
-        "nativePixels": null,
-        "nominalPpi": null,
-        "ppi": null,
-        "source": null
+        "activeMm": {
+          "width": 28.71,
+          "height": 34.95
+        },
+        "nativePixels": {
+          "width": 368,
+          "height": 448
+        },
+        "nominalPpi": 326,
+        "ppi": {
+          "x": 325.57297109021243,
+          "y": 325.58512160228895
+        },
+        "source": "https://support.apple.com/en-us/125094",
+        "resolutionReview": {
+          "sourceURL": "https://support.apple.com/en-us/125094",
+          "derivation": "Apple Watch SE 3 technical specifications, Size and Weight, 44mm section explicitly gives 368 by 448 pixels. Width and height are copied in portrait order, without PPI calculations. Source extraction already has this value under Apple Watch SE (3rd generation); override associates it with the drawing identity.",
+          "reviewedAt": "2026-09-21",
+          "resolutionUnit": "physical display pixels",
+          "resolutionOrientation": "portrait",
+          "missingReason": "marketing-name-join-mismatch"
+        }
       },
-      "bodyMm": null,
-      "coverGlassMm": null,
-      "additionalDimensions": [],
+      "bodyMm": {
+        "width": 37.84,
+        "height": 44.08,
+        "depth": 10.7
+      },
+      "coverGlassMm": {
+        "width": 34.79,
+        "height": 41.03
+      },
+      "additionalDimensions": [
+        {
+          "feature": "body-including-rear-sensor",
+          "quantity": "depth",
+          "value": 13.07,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Explicit DISPLAY ACTIVE AREA envelope 28.71 x 34.95 mm transcribed visually from PDF page 2; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 13.07 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-se-3-44mm.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": "Printed case-profile depth between the front and rear case/glass reference planes; excludes protruding rear sensor dome.",
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2
+        ],
+        "ambiguities": [],
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-se-3-44mm.pdf",
@@ -21688,62 +22421,6 @@
       }
     },
     {
-      "id": "apple-watch-se-3rd-generation-40mm",
-      "name": "Apple Watch SE (3rd generation) 40mm",
-      "identifiers": [
-        "Watch7,13",
-        "Watch7,14"
-      ],
-      "display": {
-        "activeMm": null,
-        "nativePixels": {
-          "width": 324,
-          "height": 394
-        },
-        "nominalPpi": 326,
-        "ppi": null,
-        "source": "https://support.apple.com/en-us/125094"
-      },
-      "bodyMm": null,
-      "coverGlassMm": null,
-      "additionalDimensions": [],
-      "frontCameraPartial": null,
-      "frontCamera": null,
-      "review": {
-        "status": "unreviewed",
-        "derivation": null
-      },
-      "drawing": null
-    },
-    {
-      "id": "apple-watch-se-3rd-generation-44mm",
-      "name": "Apple Watch SE (3rd generation) 44mm",
-      "identifiers": [
-        "Watch7,15",
-        "Watch7,16"
-      ],
-      "display": {
-        "activeMm": null,
-        "nativePixels": {
-          "width": 368,
-          "height": 448
-        },
-        "nominalPpi": 326,
-        "ppi": null,
-        "source": "https://support.apple.com/en-us/125094"
-      },
-      "bodyMm": null,
-      "coverGlassMm": null,
-      "additionalDimensions": [],
-      "frontCameraPartial": null,
-      "frontCamera": null,
-      "review": {
-        "status": "unreviewed",
-        "derivation": null
-      },
-      "drawing": null
-    },
-    {
       "id": "apple-watch-se-40mm",
       "name": "Apple Watch SE, 40 mm",
       "identifiers": [
@@ -21751,23 +22428,54 @@
         "Watch5,9"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 25.27,
+          "height": 30.73
+        },
         "nativePixels": {
           "width": 324,
           "height": 394
         },
         "nominalPpi": 326,
-        "ppi": null,
+        "ppi": {
+          "x": 325.6667985753858,
+          "y": 325.66221932964527
+        },
         "source": "https://support.apple.com/kb/SP827"
       },
-      "bodyMm": null,
-      "coverGlassMm": null,
-      "additionalDimensions": [],
+      "bodyMm": {
+        "width": 34.41,
+        "height": 39.87,
+        "depth": 10.7
+      },
+      "coverGlassMm": {
+        "width": 31.36,
+        "height": 36.82
+      },
+      "additionalDimensions": [
+        {
+          "feature": "body-including-rear-sensor",
+          "quantity": "depth",
+          "value": 12.67,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Explicit DISPLAY ACTIVE AREA envelope 25.27 x 30.73 mm transcribed visually from PDF page 2; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 12.67 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-se-40mm.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": "Printed case-profile depth between the front and rear case/glass reference planes; excludes protruding rear sensor dome.",
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2
+        ],
+        "ambiguities": [],
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-se-40mm.pdf",
@@ -23304,23 +24012,54 @@
         "Watch5,12"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 28.71,
+          "height": 34.95
+        },
         "nativePixels": {
           "width": 368,
           "height": 448
         },
         "nominalPpi": 326,
-        "ppi": null,
+        "ppi": {
+          "x": 325.57297109021243,
+          "y": 325.58512160228895
+        },
         "source": "https://support.apple.com/kb/SP827"
       },
-      "bodyMm": null,
-      "coverGlassMm": null,
-      "additionalDimensions": [],
+      "bodyMm": {
+        "width": 37.84,
+        "height": 44.08,
+        "depth": 10.7
+      },
+      "coverGlassMm": {
+        "width": 34.79,
+        "height": 41.03
+      },
+      "additionalDimensions": [
+        {
+          "feature": "body-including-rear-sensor",
+          "quantity": "depth",
+          "value": 13.06,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Explicit DISPLAY ACTIVE AREA envelope 28.71 x 34.95 mm transcribed visually from PDF page 2; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 13.06 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-se-44mm.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": "Printed case-profile depth between the front and rear case/glass reference planes; excludes protruding rear sensor dome.",
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2
+        ],
+        "ambiguities": [],
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-se-44mm.pdf",
@@ -24758,23 +25497,54 @@
         "Watch7,8"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 29.17,
+          "height": 34.79
+        },
         "nativePixels": {
           "width": 374,
           "height": 446
         },
         "nominalPpi": 326,
-        "ppi": null,
+        "ppi": {
+          "x": 325.6633527596846,
+          "y": 325.62230526013224
+        },
         "source": "https://support.apple.com/en-us/121202"
       },
-      "bodyMm": null,
-      "coverGlassMm": null,
-      "additionalDimensions": [],
+      "bodyMm": {
+        "width": 36.44,
+        "height": 42.05,
+        "depth": 9.7
+      },
+      "coverGlassMm": {
+        "width": 33.89,
+        "height": 39.5
+      },
+      "additionalDimensions": [
+        {
+          "feature": "body-including-rear-sensor",
+          "quantity": "depth",
+          "value": 11.74,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Explicit DISPLAY ACTIVE AREA envelope 29.17 x 34.79 mm transcribed visually from PDF page 2; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 11.74 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork. The drawing explicitly labels the two thickness datums FLAT OF BACK TO FLAT OF DISPLAY GLASS and APEX OF DOME TO FLAT OF DISPLAY GLASS.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-10-42mm.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": "Flat of back to flat of display glass, excluding rear sensor dome.",
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2
+        ],
+        "ambiguities": [],
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-10-42mm.pdf",
@@ -26147,23 +26917,54 @@
         "Watch7,9"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 32.45,
+          "height": 38.69
+        },
         "nativePixels": {
           "width": 416,
           "height": 496
         },
         "nominalPpi": 326,
-        "ppi": null,
+        "ppi": {
+          "x": 325.6209553158705,
+          "y": 325.6241922977514
+        },
         "source": "https://support.apple.com/en-us/121202"
       },
-      "bodyMm": null,
-      "coverGlassMm": null,
-      "additionalDimensions": [],
+      "bodyMm": {
+        "width": 39.76,
+        "height": 46.0,
+        "depth": 9.7
+      },
+      "coverGlassMm": {
+        "width": 37.21,
+        "height": 43.45
+      },
+      "additionalDimensions": [
+        {
+          "feature": "body-including-rear-sensor",
+          "quantity": "depth",
+          "value": 12.14,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Explicit DISPLAY ACTIVE AREA envelope 32.45 x 38.69 mm transcribed visually from PDF page 2; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 12.14 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork. The drawing explicitly labels the two thickness datums FLAT OF BACK TO FLAT OF DISPLAY GLASS and APEX OF DOME TO FLAT OF DISPLAY GLASS.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-10-46mm.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": "Flat of back to flat of display glass, excluding rear sensor dome.",
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2
+        ],
+        "ambiguities": [],
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-10-46mm.pdf",
@@ -27441,23 +28242,54 @@
         "Watch7,19"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 29.17,
+          "height": 34.79
+        },
         "nativePixels": {
           "width": 374,
           "height": 446
         },
         "nominalPpi": 326,
-        "ppi": null,
+        "ppi": {
+          "x": 325.6633527596846,
+          "y": 325.62230526013224
+        },
         "source": "https://support.apple.com/en-us/125093"
       },
-      "bodyMm": null,
-      "coverGlassMm": null,
-      "additionalDimensions": [],
+      "bodyMm": {
+        "width": 36.44,
+        "height": 42.05,
+        "depth": 9.7
+      },
+      "coverGlassMm": {
+        "width": 33.89,
+        "height": 39.5
+      },
+      "additionalDimensions": [
+        {
+          "feature": "body-including-rear-sensor",
+          "quantity": "depth",
+          "value": 11.74,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Explicit DISPLAY ACTIVE AREA envelope 29.17 x 34.79 mm transcribed visually from PDF page 2; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 11.74 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork. The drawing explicitly labels the two thickness datums FLAT OF BACK TO FLAT OF DISPLAY GLASS and APEX OF DOME TO FLAT OF DISPLAY GLASS.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-11-42mm.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": "Flat of back to flat of display glass, excluding rear sensor dome.",
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2
+        ],
+        "ambiguities": [],
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-11-42mm.pdf",
@@ -28830,23 +29662,54 @@
         "Watch7,20"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 32.45,
+          "height": 38.69
+        },
         "nativePixels": {
           "width": 416,
           "height": 496
         },
         "nominalPpi": 326,
-        "ppi": null,
+        "ppi": {
+          "x": 325.6209553158705,
+          "y": 325.6241922977514
+        },
         "source": "https://support.apple.com/en-us/125093"
       },
-      "bodyMm": null,
-      "coverGlassMm": null,
-      "additionalDimensions": [],
+      "bodyMm": {
+        "width": 39.76,
+        "height": 46.0,
+        "depth": 9.7
+      },
+      "coverGlassMm": {
+        "width": 37.21,
+        "height": 43.45
+      },
+      "additionalDimensions": [
+        {
+          "feature": "body-including-rear-sensor",
+          "quantity": "depth",
+          "value": 12.14,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Explicit DISPLAY ACTIVE AREA envelope 32.45 x 38.69 mm transcribed visually from PDF page 2; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 12.14 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork. The drawing explicitly labels the two thickness datums FLAT OF BACK TO FLAT OF DISPLAY GLASS and APEX OF DOME TO FLAT OF DISPLAY GLASS.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-11-46mm.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": "Flat of back to flat of display glass, excluding rear sensor dome.",
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2
+        ],
+        "ambiguities": [],
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-11-46mm.pdf",
@@ -30346,23 +31209,54 @@
         "Watch6,3"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 25.27,
+          "height": 30.73
+        },
         "nativePixels": {
           "width": 324,
           "height": 394
         },
         "nominalPpi": 326,
-        "ppi": null,
+        "ppi": {
+          "x": 325.6667985753858,
+          "y": 325.66221932964527
+        },
         "source": "https://support.apple.com/kb/SP826"
       },
-      "bodyMm": null,
-      "coverGlassMm": null,
-      "additionalDimensions": [],
+      "bodyMm": {
+        "width": 34.41,
+        "height": 39.87,
+        "depth": 10.7
+      },
+      "coverGlassMm": {
+        "width": 31.36,
+        "height": 36.82
+      },
+      "additionalDimensions": [
+        {
+          "feature": "body-including-rear-sensor",
+          "quantity": "depth",
+          "value": 12.74,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Explicit DISPLAY ACTIVE AREA envelope 25.27 x 30.73 mm transcribed visually from PDF page 2; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 12.74 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-6-40mm.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": "Printed case-profile depth between the front and rear case/glass reference planes; excludes protruding rear sensor dome.",
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2
+        ],
+        "ambiguities": [],
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-6-40mm.pdf",
@@ -31824,23 +32718,54 @@
         "Watch6,4"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 28.71,
+          "height": 34.95
+        },
         "nativePixels": {
           "width": 368,
           "height": 448
         },
         "nominalPpi": 326,
-        "ppi": null,
+        "ppi": {
+          "x": 325.57297109021243,
+          "y": 325.58512160228895
+        },
         "source": "https://support.apple.com/kb/SP826"
       },
-      "bodyMm": null,
-      "coverGlassMm": null,
-      "additionalDimensions": [],
+      "bodyMm": {
+        "width": 37.84,
+        "height": 44.08,
+        "depth": 10.7
+      },
+      "coverGlassMm": {
+        "width": 34.79,
+        "height": 41.03
+      },
+      "additionalDimensions": [
+        {
+          "feature": "body-including-rear-sensor",
+          "quantity": "depth",
+          "value": 13.14,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Explicit DISPLAY ACTIVE AREA envelope 28.71 x 34.95 mm transcribed visually from PDF page 2; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 13.14 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-6-44mm.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": "Printed case-profile depth between the front and rear case/glass reference planes; excludes protruding rear sensor dome.",
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2
+        ],
+        "ambiguities": [],
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-6-44mm.pdf",
@@ -33377,23 +34302,54 @@
         "Watch6,8"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 27.78,
+          "height": 33.86
+        },
         "nativePixels": {
           "width": 352,
           "height": 430
         },
         "nominalPpi": 326,
-        "ppi": null,
+        "ppi": {
+          "x": 321.8430525557955,
+          "y": 322.563496751329
+        },
         "source": "https://support.apple.com/kb/SP860"
       },
-      "bodyMm": null,
-      "coverGlassMm": null,
-      "additionalDimensions": [],
+      "bodyMm": {
+        "width": 34.77,
+        "height": 40.85,
+        "depth": 10.7
+      },
+      "coverGlassMm": {
+        "width": 31.15,
+        "height": 37.23
+      },
+      "additionalDimensions": [
+        {
+          "feature": "body-including-rear-sensor",
+          "quantity": "depth",
+          "value": 12.74,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Explicit DISPLAY ACTIVE AREA envelope 27.78 x 33.86 mm transcribed visually from PDF page 2; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 12.74 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork. Active-area dimensions describe the top-view projection, not the unrolled surface of curved glass.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-7-41mm.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": "Printed case-profile depth between the front and rear case/glass reference planes; excludes protruding rear sensor dome.",
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2
+        ],
+        "ambiguities": [],
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-7-41mm.pdf",
@@ -34946,23 +35902,54 @@
         "Watch6,9"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 31.2,
+          "height": 38.06
+        },
         "nativePixels": {
           "width": 396,
           "height": 484
         },
         "nominalPpi": 326,
-        "ppi": null,
+        "ppi": {
+          "x": 322.38461538461536,
+          "y": 323.00578034682076
+        },
         "source": "https://support.apple.com/kb/SP860"
       },
-      "bodyMm": null,
-      "coverGlassMm": null,
-      "additionalDimensions": [],
+      "bodyMm": {
+        "width": 38.22,
+        "height": 45.08,
+        "depth": 10.65
+      },
+      "coverGlassMm": {
+        "width": 34.59,
+        "height": 41.45
+      },
+      "additionalDimensions": [
+        {
+          "feature": "body-including-rear-sensor",
+          "quantity": "depth",
+          "value": 13.14,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Explicit DISPLAY ACTIVE AREA envelope 31.20 x 38.06 mm transcribed visually from PDF page 2; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 13.14 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork. Active-area dimensions describe the top-view projection, not the unrolled surface of curved glass.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-7-45mm.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": "Printed case-profile depth between the front and rear case/glass reference planes; excludes protruding rear sensor dome.",
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2
+        ],
+        "ambiguities": [],
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-7-45mm.pdf",
@@ -36430,23 +37417,54 @@
         "Watch6,16"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 27.78,
+          "height": 33.86
+        },
         "nativePixels": {
           "width": 352,
           "height": 430
         },
         "nominalPpi": 326,
-        "ppi": null,
+        "ppi": {
+          "x": 321.8430525557955,
+          "y": 322.563496751329
+        },
         "source": "https://support.apple.com/kb/SP878"
       },
-      "bodyMm": null,
-      "coverGlassMm": null,
-      "additionalDimensions": [],
+      "bodyMm": {
+        "width": 34.77,
+        "height": 40.85,
+        "depth": 10.7
+      },
+      "coverGlassMm": {
+        "width": 31.15,
+        "height": 37.23
+      },
+      "additionalDimensions": [
+        {
+          "feature": "body-including-rear-sensor",
+          "quantity": "depth",
+          "value": 12.74,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Explicit DISPLAY ACTIVE AREA envelope 27.78 x 33.86 mm transcribed visually from PDF page 2; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 12.74 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork. Active-area dimensions describe the top-view projection, not the unrolled surface of curved glass. The internal title block says 40MM/44MM while the PDF cover, indexed name and page footer identify Series 8 41 mm/45 mm; the indexed identity is retained.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-8-41mm.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": "Printed case-profile depth between the front and rear case/glass reference planes; excludes protruding rear sensor dome.",
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2
+        ],
+        "ambiguities": [],
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-8-41mm.pdf",
@@ -37997,23 +39015,54 @@
         "Watch6,17"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 31.2,
+          "height": 38.06
+        },
         "nativePixels": {
           "width": 396,
           "height": 484
         },
         "nominalPpi": 326,
-        "ppi": null,
+        "ppi": {
+          "x": 322.38461538461536,
+          "y": 323.00578034682076
+        },
         "source": "https://support.apple.com/kb/SP878"
       },
-      "bodyMm": null,
-      "coverGlassMm": null,
-      "additionalDimensions": [],
+      "bodyMm": {
+        "width": 38.22,
+        "height": 45.08,
+        "depth": 10.65
+      },
+      "coverGlassMm": {
+        "width": 34.59,
+        "height": 41.45
+      },
+      "additionalDimensions": [
+        {
+          "feature": "body-including-rear-sensor",
+          "quantity": "depth",
+          "value": 13.14,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Explicit DISPLAY ACTIVE AREA envelope 31.20 x 38.06 mm transcribed visually from PDF page 2; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 13.14 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork. Active-area dimensions describe the top-view projection, not the unrolled surface of curved glass. The internal title block says 40MM/44MM while the PDF cover, indexed name and page footer identify Series 8 41 mm/45 mm; the indexed identity is retained.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-8-45mm.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": "Printed case-profile depth between the front and rear case/glass reference planes; excludes protruding rear sensor dome.",
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2
+        ],
+        "ambiguities": [],
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-8-45mm.pdf",
@@ -39516,20 +40565,63 @@
         "Watch7,3"
       ],
       "display": {
-        "activeMm": null,
-        "nativePixels": null,
+        "activeMm": {
+          "width": 27.78,
+          "height": 33.86
+        },
+        "nativePixels": {
+          "width": 352,
+          "height": 430
+        },
         "nominalPpi": 326,
-        "ppi": null,
-        "source": "https://support.apple.com/kb/SP905"
+        "ppi": {
+          "x": 321.8430525557955,
+          "y": 322.563496751329
+        },
+        "source": "https://developer.apple.com/design/human-interface-guidelines/layout",
+        "resolutionReview": {
+          "sourceURL": "https://developer.apple.com/design/human-interface-guidelines/layout",
+          "derivation": "Apple Human Interface Guidelines, Layout, watchOS device screen dimensions table: row for Series 7, 8, and 9, 41mm explicitly lists width 352 and height 430 in pixels. The linked Series 9 support specification omits total pixel dimensions; the HIG supplies them directly.",
+          "reviewedAt": "2026-09-21",
+          "resolutionUnit": "physical display pixels",
+          "resolutionOrientation": "portrait",
+          "missingReason": "linked-tech-spec-omits-native-pixels",
+          "supportingSourceURL": "https://support.apple.com/en-us/111833"
+        }
       },
-      "bodyMm": null,
-      "coverGlassMm": null,
-      "additionalDimensions": [],
+      "bodyMm": {
+        "width": 34.77,
+        "height": 40.85,
+        "depth": 10.7
+      },
+      "coverGlassMm": {
+        "width": 31.15,
+        "height": 37.23
+      },
+      "additionalDimensions": [
+        {
+          "feature": "body-including-rear-sensor",
+          "quantity": "depth",
+          "value": 12.74,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Explicit DISPLAY ACTIVE AREA envelope 27.78 x 33.86 mm transcribed visually from PDF page 2; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 12.74 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork. Active-area dimensions describe the top-view projection, not the unrolled surface of curved glass.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-9-41mm.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": "Printed case-profile depth between the front and rear case/glass reference planes; excludes protruding rear sensor dome.",
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2
+        ],
+        "ambiguities": [],
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-9-41mm.pdf",
@@ -41047,20 +42139,63 @@
         "Watch7,4"
       ],
       "display": {
-        "activeMm": null,
-        "nativePixels": null,
+        "activeMm": {
+          "width": 31.2,
+          "height": 38.06
+        },
+        "nativePixels": {
+          "width": 396,
+          "height": 484
+        },
         "nominalPpi": 326,
-        "ppi": null,
-        "source": "https://support.apple.com/kb/SP905"
+        "ppi": {
+          "x": 322.38461538461536,
+          "y": 323.00578034682076
+        },
+        "source": "https://developer.apple.com/design/human-interface-guidelines/layout",
+        "resolutionReview": {
+          "sourceURL": "https://developer.apple.com/design/human-interface-guidelines/layout",
+          "derivation": "Apple Human Interface Guidelines, Layout, watchOS device screen dimensions table: row for Series 7, 8, and 9, 45mm explicitly lists width 396 and height 484 in pixels. The linked Series 9 support specification omits total pixel dimensions; the HIG supplies them directly.",
+          "reviewedAt": "2026-09-21",
+          "resolutionUnit": "physical display pixels",
+          "resolutionOrientation": "portrait",
+          "missingReason": "linked-tech-spec-omits-native-pixels",
+          "supportingSourceURL": "https://support.apple.com/en-us/111833"
+        }
       },
-      "bodyMm": null,
-      "coverGlassMm": null,
-      "additionalDimensions": [],
+      "bodyMm": {
+        "width": 38.22,
+        "height": 45.08,
+        "depth": 10.65
+      },
+      "coverGlassMm": {
+        "width": 34.59,
+        "height": 41.45
+      },
+      "additionalDimensions": [
+        {
+          "feature": "body-including-rear-sensor",
+          "quantity": "depth",
+          "value": 13.14,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Explicit DISPLAY ACTIVE AREA envelope 31.20 x 38.06 mm transcribed visually from PDF page 2; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 13.14 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork. Active-area dimensions describe the top-view projection, not the unrolled surface of curved glass.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-9-45mm.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": "Printed case-profile depth between the front and rear case/glass reference planes; excludes protruding rear sensor dome.",
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2
+        ],
+        "ambiguities": [],
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-9-45mm.pdf",
@@ -42572,23 +43707,54 @@
         "Watch6,18"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 31.98,
+          "height": 39.16
+        },
         "nativePixels": {
           "width": 410,
           "height": 502
         },
         "nominalPpi": 338,
-        "ppi": null,
+        "ppi": {
+          "x": 325.64102564102564,
+          "y": 325.60776302349336
+        },
         "source": "https://support.apple.com/kb/SP879"
       },
-      "bodyMm": null,
-      "coverGlassMm": null,
-      "additionalDimensions": [],
+      "bodyMm": {
+        "width": 43.32,
+        "height": 49.14,
+        "depth": 12.0
+      },
+      "coverGlassMm": {
+        "width": 35.79,
+        "height": 43.07
+      },
+      "additionalDimensions": [
+        {
+          "feature": "body-including-rear-sensor",
+          "quantity": "depth",
+          "value": 14.44,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Explicit DISPLAY ACTIVE AREA envelope 31.98 x 39.16 mm transcribed visually from PDF page 4; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 14.44 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork. Body width is the printed 43.32 mm case envelope including the crown guard; it is not the narrower 38.42 mm front/bezel profile dimension. The independently projecting crown is not included as an inferred overall width.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-ultra.pdf",
+        "page": 4,
+        "bodyPage": 2,
+        "bodyDepthDefinition": "Printed case-profile depth between the front and rear case/glass reference planes; excludes protruding rear sensor dome.",
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          4
+        ],
+        "ambiguities": [],
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-ultra.pdf",
@@ -48351,22 +49517,66 @@
     {
       "id": "apple-watch-ultra-2",
       "name": "Apple Watch Ultra 2",
-      "identifiers": [],
+      "identifiers": [
+        "Watch7,5"
+      ],
       "display": {
-        "activeMm": null,
-        "nativePixels": null,
-        "nominalPpi": null,
-        "ppi": null,
-        "source": null
+        "activeMm": {
+          "width": 31.98,
+          "height": 39.16
+        },
+        "nativePixels": {
+          "width": 410,
+          "height": 502
+        },
+        "nominalPpi": 338,
+        "ppi": {
+          "x": 325.64102564102564,
+          "y": 325.60776302349336
+        },
+        "source": "https://support.apple.com/en-us/111832",
+        "resolutionReview": {
+          "sourceURL": "https://support.apple.com/en-us/111832",
+          "derivation": "Apple Watch Ultra 2 technical specifications, Size and Weight, explicitly lists 410 by 502 pixels. Source extraction already contains these pixels under Apple Watch Ultra2; override associates the record with the spaced drawing name.",
+          "reviewedAt": "2026-09-21",
+          "resolutionUnit": "physical display pixels",
+          "resolutionOrientation": "portrait",
+          "missingReason": "marketing-name-join-mismatch"
+        }
       },
-      "bodyMm": null,
-      "coverGlassMm": null,
-      "additionalDimensions": [],
+      "bodyMm": {
+        "width": 43.32,
+        "height": 49.14,
+        "depth": 12.0
+      },
+      "coverGlassMm": {
+        "width": 35.79,
+        "height": 43.07
+      },
+      "additionalDimensions": [
+        {
+          "feature": "body-including-rear-sensor",
+          "quantity": "depth",
+          "value": 14.44,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Explicit DISPLAY ACTIVE AREA envelope 31.98 x 39.16 mm transcribed visually from PDF page 4; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 14.44 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork. Body width is the printed 43.32 mm case envelope including the crown guard; it is not the narrower 38.42 mm front/bezel profile dimension. The independently projecting crown is not included as an inferred overall width.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-ultra-2.pdf",
+        "page": 4,
+        "bodyPage": 2,
+        "bodyDepthDefinition": "Printed case-profile depth between the front and rear case/glass reference planes; excludes protruding rear sensor dome.",
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          4
+        ],
+        "ambiguities": [],
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-ultra-2.pdf",
@@ -54205,23 +55415,54 @@
         "Watch7,12"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 32.92,
+          "height": 40.09
+        },
         "nativePixels": {
           "width": 422,
           "height": 514
         },
         "nominalPpi": 338,
-        "ppi": null,
+        "ppi": {
+          "x": 325.6014580801944,
+          "y": 325.65727113993506
+        },
         "source": "https://support.apple.com/en-us/125095"
       },
-      "bodyMm": null,
-      "coverGlassMm": null,
-      "additionalDimensions": [],
+      "bodyMm": {
+        "width": 43.32,
+        "height": 49.14,
+        "depth": 12.0
+      },
+      "coverGlassMm": {
+        "width": 35.79,
+        "height": 43.07
+      },
+      "additionalDimensions": [
+        {
+          "feature": "body-including-rear-sensor",
+          "quantity": "depth",
+          "value": 14.44,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Explicit DISPLAY ACTIVE AREA envelope 32.92 x 40.09 mm transcribed visually from PDF page 4; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 14.44 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork. Body width is the printed 43.32 mm case envelope including the crown guard; it is not the narrower 38.42 mm front/bezel profile dimension. The independently projecting crown is not included as an inferred overall width. Page 4 compares Ultra 2 and Ultra 3; the right-hand Ultra 3 dimensions are used.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-ultra-3.pdf",
+        "page": 4,
+        "bodyPage": 2,
+        "bodyDepthDefinition": "Printed case-profile depth between the front and rear case/glass reference planes; excludes protruding rear sensor dome.",
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          4
+        ],
+        "ambiguities": [],
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-ultra-3.pdf",
@@ -57326,33 +58567,6 @@
       }
     },
     {
-      "id": "apple-watch-ultra2",
-      "name": "Apple Watch Ultra2",
-      "identifiers": [
-        "Watch7,5"
-      ],
-      "display": {
-        "activeMm": null,
-        "nativePixels": {
-          "width": 410,
-          "height": 502
-        },
-        "nominalPpi": 338,
-        "ppi": null,
-        "source": "https://support.apple.com/en-us/111832"
-      },
-      "bodyMm": null,
-      "coverGlassMm": null,
-      "additionalDimensions": [],
-      "frontCameraPartial": null,
-      "frontCamera": null,
-      "review": {
-        "status": "unreviewed",
-        "derivation": null
-      },
-      "drawing": null
-    },
-    {
       "id": "homepod",
       "name": "HomePod",
       "identifiers": [
@@ -58139,6 +59353,8 @@
         "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Front camera is the upper point in the three-point stack (detail J), 5.24 from right edge and 124.31 from bottom: x=179.51/2-5.24=84.515; y=124.31-248.63/2=-0.005. The other heights 117.56 and 111.15 belong to microphone/ALS. The 0.005 mm residual is retained from printed dimensions.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-10th-generation.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
           2
@@ -64822,6 +66038,8 @@
         "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Front camera is 87.04 from right edge and 11.07 below top: x=174.08/2-87.04=0; y=250.59/2-11.07=114.225. 11.03 is ALS, not camera. Thickness is shown in side view on page 2.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
           2
@@ -66621,6 +67839,8 @@
         "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Front camera is 87.04 from right edge and 11.07 below top: x=174.08/2-87.04=0; y=250.59/2-11.07=114.225. 11.03 is ALS, not camera. Thickness is shown in side view on page 2.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
           2
@@ -68621,6 +69841,8 @@
         "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Front camera is the upper point in the three-point stack (detail J), 5.24 from right edge and 124.31 from bottom: x=179.51/2-5.24=84.515; y=124.31-248.63/2=-0.005. The other heights 117.56 and 111.15 belong to microphone/ALS. The 0.005 mm residual is retained from printed dimensions.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
           2
@@ -71823,6 +73045,8 @@
         "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. FC centre is 4.49 from right edge (detail AL), 114.32 from top: x=178.52/2-4.49=84.77; y=247.64/2-114.32=9.50. Other right-edge points are microphone and ALS.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m2.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 3,
         "pagesReviewed": [
           2
@@ -75568,6 +76792,8 @@
         "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. FC centre is 4.49 from right edge (detail AL), 114.32 from top: x=178.52/2-4.49=84.77; y=247.64/2-114.32=9.50. Other right-edge points are microphone and ALS.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m3.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 3,
         "pagesReviewed": [
           2
@@ -81122,6 +82348,8 @@
         "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. FC centre is 4.49 from right edge (detail AL), 114.32 from top: x=178.52/2-4.49=84.77; y=247.64/2-114.32=9.50. Other right-edge points are microphone and ALS.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 3,
         "pagesReviewed": [
           2
@@ -84867,6 +86095,8 @@
         "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Front camera centre is 4.22 from right edge and 9.50 above horizontal body centreline: x=215/2-4.22=103.28; y=+9.50. The microphone is below the centreline; ALS dimensions are distinct.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m2.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 3,
         "pagesReviewed": [
           2
@@ -89869,6 +91099,8 @@
         "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Front camera centre is 4.22 from right edge and 9.50 above horizontal body centreline: x=215/2-4.22=103.28; y=+9.50. The microphone is below the centreline; ALS dimensions are distinct.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m3.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 3,
         "pagesReviewed": [
           2
@@ -95587,6 +96819,8 @@
         "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Front camera centre is 4.22 from right edge and 9.50 above horizontal body centreline: x=215/2-4.22=103.28; y=+9.50. The microphone is below the centreline; ALS dimensions are distinct.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 3,
         "pagesReviewed": [
           2
@@ -100644,6 +101878,8 @@
         "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Front camera is 89.26 from right edge, 5.00 below top (detail B): x=178.51/2-89.26; y=247.64/2-5.00=118.82. The resulting 0.005 mm horizontal residual is retained from printed dimensions, not an inferred real offset.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 3,
         "pagesReviewed": [
           2
@@ -103229,6 +104465,8 @@
         "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Front camera is 89.25 from right edge, 5.00 below top (detail B): x=178.51/2-89.25; y=247.64/2-5.00=118.82. The resulting 0.005 mm horizontal residual is retained from printed dimensions, not an inferred real offset.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 3,
         "pagesReviewed": [
           2
@@ -106327,6 +107565,8 @@
         "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Camera horizontal location is explicitly 67.37 from left edge, but the nearby 4.38 vertical annotation is labelled ALS CELL ONLY. Camera vertical centre is not independently dimensioned unambiguously on reviewed front sheet; do not promote its visual alignment with the ALS to a camera coordinate. A second visual pass reviewed every technical sheet (PDF pages 2–7), including magnified front view, magnets/sensors, antenna and profile detail. No independent camera Y datum was found.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 3,
         "pagesReviewed": [
           2,
@@ -108771,6 +110011,8 @@
         "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Camera horizontal location is explicitly 67.37 from left edge, but the nearby 4.38 vertical annotation is labelled ALS CELL ONLY. Camera vertical centre is not independently dimensioned unambiguously on reviewed front sheet; do not promote its visual alignment with the ALS to a camera coordinate. A second visual pass reviewed every technical sheet (PDF pages 2–7), including magnified front view, magnets/sensors, antenna and profile detail. No independent camera Y datum was found.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 3,
         "pagesReviewed": [
           2,
@@ -111804,6 +113046,8 @@
         "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Detail J identifies the middle large aperture as front camera, at 89.26 from left edge and 4.13 below top: x=89.26-178.52/2=0; y=247.64/2-4.13=119.69. IR camera, flood illuminator and dot projector use the separate 4.22 height.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-3rd-generation.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 3,
         "pagesReviewed": [
           2
@@ -115622,6 +116866,8 @@
         "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Detail J identifies the middle large aperture as front camera, at 89.26 from left edge and 4.13 below top: x=89.26-178.52/2=0; y=247.64/2-4.13=119.69. IR camera, flood illuminator and dot projector use the separate 4.22 height.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-4th-generation.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 3,
         "pagesReviewed": [
           2
@@ -119523,6 +120769,8 @@
         "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. FCAM is 4.71 from right edge, 116.20 below top: x=177.51/2-4.71=84.045; y=249.70/2-116.20=8.65. Detail F distinguishes FCAM from IR camera and illuminator/projector capsule; 103.65 and 110.90 locate capsule, not FCAM.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 3,
         "pagesReviewed": [
           2
@@ -126204,6 +127452,8 @@
         "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. FCAM is 4.71 from right edge, 116.20 below top: x=177.51/2-4.71=84.045; y=249.70/2-116.20=8.65. Detail F distinguishes FCAM from IR camera and illuminator/projector capsule; 103.65 and 110.90 locate capsule, not FCAM.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 3,
         "pagesReviewed": [
           2
@@ -131673,6 +132923,8 @@
         "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Detail K identifies the middle large aperture as front camera, at 107.50 from left edge and 4.13 below top: x=107.50-215/2=0; y=280.66/2-4.13=136.20. IR camera, flood illuminator and dot projector use the separate 4.22 height.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-12.9-inch-5th-generation.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 3,
         "pagesReviewed": [
           2
@@ -135330,6 +136582,8 @@
         "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Detail K identifies the middle large aperture as front camera, at 107.50 from left edge and 4.13 below top: x=107.50-215/2=0; y=280.66/2-4.13=136.20. IR camera, flood illuminator and dot projector use the separate 4.22 height.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-12.9-inch-6th-generation.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 3,
         "pagesReviewed": [
           2
@@ -139241,6 +140495,8 @@
         "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. FCAM is 4.71 from right edge, 132.14 below top: x=215.53/2-4.71=103.055; y=281.58/2-132.14=8.65. Detail F distinguishes FCAM from IR camera and illuminator/projector capsule; 119.79 and 126.64 locate capsule, not FCAM.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 3,
         "pagesReviewed": [
           2
@@ -143648,6 +144904,8 @@
         "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. FCAM is 4.71 from right edge, 132.14 below top: x=215.53/2-4.71=103.055; y=281.58/2-132.14=8.65. Detail F distinguishes FCAM from IR camera and illuminator/projector capsule; 119.79 and 126.64 locate capsule, not FCAM.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 3,
         "pagesReviewed": [
           2
@@ -148184,6 +149442,8 @@
         "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-12.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
           2
@@ -149626,6 +150886,8 @@
         "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-12-mini.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
           2
@@ -151617,6 +152879,8 @@
         "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-12-pro.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
           2
@@ -153295,6 +154559,8 @@
         "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-12-pro-max.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
           2
@@ -154723,6 +155989,8 @@
         "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-13.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
           2
@@ -157222,6 +158490,8 @@
         "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-13-mini.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
           2
@@ -159785,6 +161055,8 @@
         "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-13-pro.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
           2
@@ -162292,6 +163564,8 @@
         "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-13-pro-max.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
           2
@@ -164740,6 +166014,8 @@
         "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-14.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
           2
@@ -167232,6 +168508,8 @@
         "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-14-plus.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
           2
@@ -169636,6 +170914,8 @@
         "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-14-pro.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
           2
@@ -172280,6 +173560,8 @@
         "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-14-pro-max.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
           2
@@ -174686,6 +175968,8 @@
         "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-15.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
           2
@@ -177134,6 +178418,8 @@
         "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-15-plus.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
           2
@@ -179712,6 +180998,8 @@
         "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-15-pro.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
           2
@@ -182546,6 +183834,8 @@
         "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-15-pro-max.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
           2
@@ -185416,6 +186706,8 @@
         "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-16.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
           2
@@ -189507,6 +190799,8 @@
         "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-16-plus.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
           2
@@ -192002,6 +193296,8 @@
         "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-16-pro.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
           2
@@ -196537,6 +197833,8 @@
         "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-16-pro-max.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
           2
@@ -201116,6 +202414,8 @@
         "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-16e.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
           2
@@ -203348,6 +204648,8 @@
         "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-17.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
           2
@@ -206762,6 +208064,8 @@
         "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-17-pro.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
           2
@@ -210211,6 +211515,8 @@
         "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-17-pro-max.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
           2
@@ -213624,6 +214930,8 @@
         "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-17e.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
           2
@@ -216824,6 +218132,8 @@
         "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-air.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
           2
@@ -220277,6 +221587,8 @@
         "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout. Detail A places front camera centre 22.98 mm from left edge, 9.10 mm from top: x=22.98-67.27/2; y=138.44/2-9.10. Sheet explicitly applies to SE 2nd and 3rd generations.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-se-3rd-generation.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
           2
@@ -220357,6 +221669,8 @@
         "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout. Detail A places front camera centre 22.98 mm from left edge, 9.10 mm from top: x=22.98-67.27/2; y=138.44/2-9.10. Sheet explicitly applies to SE 2nd and 3rd generations.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-se-3rd-generation.pdf",
         "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
           2
@@ -223008,14 +224322,43 @@
         "ppi": null,
         "source": null
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 297.55,
+        "height": 206.39,
+        "depth": 14.7
+      },
       "coverGlassMm": null,
-      "additionalDimensions": [],
+      "additionalDimensions": [
+        {
+          "feature": "closed-body",
+          "quantity": "thickness-without-feet",
+          "value": 12.75,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "feet",
+          "quantity": "diameter",
+          "value": 26.74,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "PDF page 2, closed-lid top view: 297.55 wide × 206.39 front-to-back. Depth 14.70 includes feet; 12.75 excludes feet. No open display drawing or active panel dimensions are present in the two-page PDF.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/macbook-neo.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2
+        ],
+        "ambiguities": [],
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/macbook-neo.pdf",
@@ -224823,14 +226166,50 @@
         "ppi": null,
         "source": null
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 54.4,
+        "height": 46.4,
+        "depth": 21.4
+      },
       "coverGlassMm": null,
-      "additionalDimensions": [],
+      "additionalDimensions": [
+        {
+          "feature": "status-led",
+          "quantity": "diameter",
+          "value": 0.8,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "status-led-recommended-keepout",
+          "quantity": "diameter",
+          "value": 2.8,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "lid",
+          "quantity": "nominal-open-angle",
+          "value": 115,
+          "unit": "degree",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Explicit front-view product width/height and thickness when dimensioned. Missing depth is not inferred from the separate open-lid keepout envelope. Recommended keepouts are accessory clearances, not product dimensions.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-3rd-generation.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2
+        ],
+        "ambiguities": [],
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-3rd-generation.pdf",
@@ -225329,14 +226708,73 @@
         "ppi": null,
         "source": null
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 60.62,
+        "height": 45.21,
+        "depth": null
+      },
       "coverGlassMm": null,
-      "additionalDimensions": [],
+      "additionalDimensions": [
+        {
+          "feature": "connector-recommended-keepout",
+          "quantity": "width",
+          "value": 12.6,
+          "unit": "mm",
+          "page": 3
+        },
+        {
+          "feature": "connector-recommended-keepout",
+          "quantity": "height",
+          "value": 6.51,
+          "unit": "mm",
+          "page": 3
+        },
+        {
+          "feature": "status-led",
+          "quantity": "diameter",
+          "value": 0.8,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "status-led-recommended-keepout",
+          "quantity": "diameter",
+          "value": 2.8,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "lid",
+          "quantity": "nominal-open-angle",
+          "value": 115,
+          "unit": "degree",
+          "page": 2
+        },
+        {
+          "feature": "lid-clearance-scoop",
+          "quantity": "length",
+          "value": 45.01,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Explicit front-view product width/height and thickness when dimensioned. Missing depth is not inferred from the separate open-lid keepout envelope. Recommended keepouts are accessory clearances, not product dimensions.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-2nd-generation.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2,
+          3,
+          4
+        ],
+        "ambiguities": [],
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-2nd-generation.pdf",
@@ -226068,14 +227506,57 @@
         "ppi": null,
         "source": null
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 62.22,
+        "height": 47.22,
+        "depth": 21.84
+      },
       "coverGlassMm": null,
-      "additionalDimensions": [],
+      "additionalDimensions": [
+        {
+          "feature": "status-led",
+          "quantity": "diameter",
+          "value": 0.8,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "status-led-recommended-keepout",
+          "quantity": "diameter",
+          "value": 2.8,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "lid",
+          "quantity": "nominal-open-angle",
+          "value": 115,
+          "unit": "degree",
+          "page": 2
+        },
+        {
+          "feature": "lid-clearance-scoop",
+          "quantity": "length",
+          "value": 47.1,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Explicit front-view product width/height and thickness when dimensioned. Missing depth is not inferred from the separate open-lid keepout envelope. Recommended keepouts are accessory clearances, not product dimensions.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2
+        ],
+        "ambiguities": [],
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf",
@@ -226874,14 +228355,73 @@
         "ppi": null,
         "source": null
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 60.62,
+        "height": 45.21,
+        "depth": null
+      },
       "coverGlassMm": null,
-      "additionalDimensions": [],
+      "additionalDimensions": [
+        {
+          "feature": "connector-recommended-keepout",
+          "quantity": "width",
+          "value": 12.45,
+          "unit": "mm",
+          "page": 3
+        },
+        {
+          "feature": "connector-recommended-keepout",
+          "quantity": "height",
+          "value": 6.6,
+          "unit": "mm",
+          "page": 3
+        },
+        {
+          "feature": "status-led",
+          "quantity": "diameter",
+          "value": 0.8,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "status-led-recommended-keepout",
+          "quantity": "diameter",
+          "value": 2.8,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "lid",
+          "quantity": "nominal-open-angle",
+          "value": 115,
+          "unit": "degree",
+          "page": 2
+        },
+        {
+          "feature": "lid-clearance-scoop",
+          "quantity": "length",
+          "value": 45.01,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Explicit front-view product width/height and thickness when dimensioned. Missing depth is not inferred from the separate open-lid keepout envelope. Recommended keepouts are accessory clearances, not product dimensions.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2,
+          3,
+          4
+        ],
+        "ambiguities": [],
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf",
@@ -227982,14 +229522,50 @@
         "ppi": null,
         "source": null
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 35,
+        "height": null,
+        "depth": 9.25
+      },
       "coverGlassMm": null,
-      "additionalDimensions": [],
+      "additionalDimensions": [
+        {
+          "feature": "clickpad",
+          "quantity": "diameter",
+          "value": 31,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "clickpad-centre-button",
+          "quantity": "diameter",
+          "value": 17.5,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "power-button",
+          "quantity": "centre-from-bottom",
+          "value": 129,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "PDF page 2 bottom-view width 35.00, total thickness 9.25. The 129.00 dimension is bottom edge to power-button centre, not overall height; overall height is left unknown.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2
+        ],
+        "ambiguities": [],
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf",
@@ -229427,14 +231003,50 @@
         "ppi": null,
         "source": null
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 35,
+        "height": null,
+        "depth": 9.25
+      },
       "coverGlassMm": null,
-      "additionalDimensions": [],
+      "additionalDimensions": [
+        {
+          "feature": "clickpad",
+          "quantity": "diameter",
+          "value": 31,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "clickpad-centre-button",
+          "quantity": "diameter",
+          "value": 17.5,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "power-button",
+          "quantity": "centre-from-bottom",
+          "value": 129,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "PDF page 2 bottom-view width 35.00, total thickness 9.25. The 129.00 dimension is bottom edge to power-button centre, not overall height; overall height is left unknown.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2
+        ],
+        "ambiguities": [],
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf",
@@ -231387,14 +232999,73 @@
         "ppi": null,
         "source": null
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 50.08,
+        "height": 46.2,
+        "depth": null
+      },
       "coverGlassMm": null,
-      "additionalDimensions": [],
+      "additionalDimensions": [
+        {
+          "feature": "connector-recommended-keepout",
+          "quantity": "width",
+          "value": 12.46,
+          "unit": "mm",
+          "page": 3
+        },
+        {
+          "feature": "connector-recommended-keepout",
+          "quantity": "height",
+          "value": 6.6,
+          "unit": "mm",
+          "page": 3
+        },
+        {
+          "feature": "status-led",
+          "quantity": "diameter",
+          "value": 0.8,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "status-led-recommended-keepout",
+          "quantity": "diameter",
+          "value": 2.8,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "lid",
+          "quantity": "nominal-open-angle",
+          "value": 115,
+          "unit": "degree",
+          "page": 2
+        },
+        {
+          "feature": "lid-clearance-scoop",
+          "quantity": "length",
+          "value": 35.04,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Explicit front-view product width/height and thickness when dimensioned. Missing depth is not inferred from the separate open-lid keepout envelope. Recommended keepouts are accessory clearances, not product dimensions.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/wireless-charging-case-usb-c-for-airpods-4.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2,
+          3,
+          4
+        ],
+        "ambiguities": [],
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/wireless-charging-case-usb-c-for-airpods-4.pdf",
@@ -232415,14 +234086,64 @@
         "ppi": null,
         "source": null
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 47.37,
+        "height": 39.09,
+        "depth": null
+      },
       "coverGlassMm": null,
-      "additionalDimensions": [],
+      "additionalDimensions": [
+        {
+          "feature": "frame",
+          "quantity": "depth",
+          "value": 8.24,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "finger-scoop",
+          "quantity": "width",
+          "value": 11.92,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "finger-scoop",
+          "quantity": "height",
+          "value": 1.5,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "lens-relative-to-frame",
+          "quantity": "maximum-proud",
+          "value": 1.35,
+          "unit": "mm",
+          "page": 2
+        },
+        {
+          "feature": "lens-relative-to-frame",
+          "quantity": "maximum-subflush",
+          "value": 3.63,
+          "unit": "mm",
+          "page": 2
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Left optical insert overall front-view envelope; right insert symmetric. Frame depth 8.24 excludes prescription-dependent lens protrusion (up to 1.35 proud or 3.63 subflush); total optical assembly thickness unavailable.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf",
+        "page": 2,
+        "bodyPage": 2,
+        "bodyDepthDefinition": null,
+        "bodyDepthPage": 2,
+        "pagesReviewed": [
+          2
+        ],
+        "ambiguities": [],
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf",

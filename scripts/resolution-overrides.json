@@ -1,0 +1,128 @@
+{
+  "apple-watch-se-3-40mm": {
+    "resolution": {
+      "width": 324,
+      "height": 394
+    },
+    "sourceURL": "https://support.apple.com/en-us/125094",
+    "derivation": "Apple Watch SE 3 technical specifications, Size and Weight, 40mm section explicitly gives 324 by 394 pixels. Width and height are copied in portrait order, without PPI calculations. Source extraction already has this value under Apple Watch SE (3rd generation); override associates it with the drawing identity.",
+    "reviewedAt": "2026-09-21",
+    "resolutionUnit": "physical display pixels",
+    "resolutionOrientation": "portrait",
+    "missingReason": "marketing-name-join-mismatch",
+    "mergeAliases": [
+      "apple-watch-se-3rd-generation-40mm"
+    ],
+    "machineIds": [
+      "Watch7,13",
+      "Watch7,14"
+    ]
+  },
+  "apple-watch-se-3-44mm": {
+    "resolution": {
+      "width": 368,
+      "height": 448
+    },
+    "sourceURL": "https://support.apple.com/en-us/125094",
+    "derivation": "Apple Watch SE 3 technical specifications, Size and Weight, 44mm section explicitly gives 368 by 448 pixels. Width and height are copied in portrait order, without PPI calculations. Source extraction already has this value under Apple Watch SE (3rd generation); override associates it with the drawing identity.",
+    "reviewedAt": "2026-09-21",
+    "resolutionUnit": "physical display pixels",
+    "resolutionOrientation": "portrait",
+    "missingReason": "marketing-name-join-mismatch",
+    "mergeAliases": [
+      "apple-watch-se-3rd-generation-44mm"
+    ],
+    "machineIds": [
+      "Watch7,15",
+      "Watch7,16"
+    ]
+  },
+  "apple-watch-series-9-41mm": {
+    "resolution": {
+      "width": 352,
+      "height": 430
+    },
+    "sourceURL": "https://developer.apple.com/design/human-interface-guidelines/layout",
+    "derivation": "Apple Human Interface Guidelines, Layout, watchOS device screen dimensions table: row for Series 7, 8, and 9, 41mm explicitly lists width 352 and height 430 in pixels. The linked Series 9 support specification omits total pixel dimensions; the HIG supplies them directly.",
+    "reviewedAt": "2026-09-21",
+    "resolutionUnit": "physical display pixels",
+    "resolutionOrientation": "portrait",
+    "missingReason": "linked-tech-spec-omits-native-pixels",
+    "mergeAliases": [],
+    "machineIds": [
+      "Watch7,1",
+      "Watch7,3"
+    ],
+    "supportingSourceURL": "https://support.apple.com/en-us/111833"
+  },
+  "apple-watch-series-9-45mm": {
+    "resolution": {
+      "width": 396,
+      "height": 484
+    },
+    "sourceURL": "https://developer.apple.com/design/human-interface-guidelines/layout",
+    "derivation": "Apple Human Interface Guidelines, Layout, watchOS device screen dimensions table: row for Series 7, 8, and 9, 45mm explicitly lists width 396 and height 484 in pixels. The linked Series 9 support specification omits total pixel dimensions; the HIG supplies them directly.",
+    "reviewedAt": "2026-09-21",
+    "resolutionUnit": "physical display pixels",
+    "resolutionOrientation": "portrait",
+    "missingReason": "linked-tech-spec-omits-native-pixels",
+    "mergeAliases": [],
+    "machineIds": [
+      "Watch7,2",
+      "Watch7,4"
+    ],
+    "supportingSourceURL": "https://support.apple.com/en-us/111833"
+  },
+  "apple-watch-ultra-2": {
+    "resolution": {
+      "width": 410,
+      "height": 502
+    },
+    "sourceURL": "https://support.apple.com/en-us/111832",
+    "derivation": "Apple Watch Ultra 2 technical specifications, Size and Weight, explicitly lists 410 by 502 pixels. Source extraction already contains these pixels under Apple Watch Ultra2; override associates the record with the spaced drawing name.",
+    "reviewedAt": "2026-09-21",
+    "resolutionUnit": "physical display pixels",
+    "resolutionOrientation": "portrait",
+    "missingReason": "marketing-name-join-mismatch",
+    "mergeAliases": [
+      "apple-watch-ultra2"
+    ],
+    "machineIds": [
+      "Watch7,5"
+    ]
+  },
+  "apple-watch-1st-generation-38mm": {
+    "resolution": {
+      "width": 272,
+      "height": 340
+    },
+    "sourceURL": "https://developer.apple.com/videos/play/tech-talks/802/",
+    "derivation": "Apple Developer Tech Talk Designing for Apple Watch Series 4, opening transcript: Apple describes the earlier 38mm and 42mm watches before the Series 4 display change, giving 272 by 340 pixels for 38mm. The first-generation technical specification identifies this model as a 38mm watch. This uses the explicit earlier-watch display dimensions, not a PPI calculation or an assumption that first generation means Series 1. The first-generation support specification itself omits pixel dimensions.",
+    "reviewedAt": "2026-09-21",
+    "resolutionUnit": "physical display pixels",
+    "resolutionOrientation": "portrait",
+    "missingReason": "linked-tech-spec-omits-native-pixels",
+    "mergeAliases": [],
+    "machineIds": [
+      "Watch1,1"
+    ],
+    "supportingSourceURL": "https://support.apple.com/en-us/112009"
+  },
+  "apple-watch-1st-generation-42mm": {
+    "resolution": {
+      "width": 312,
+      "height": 390
+    },
+    "sourceURL": "https://developer.apple.com/videos/play/tech-talks/802/",
+    "derivation": "Apple Developer Tech Talk Designing for Apple Watch Series 4, opening transcript: Apple describes the earlier 38mm and 42mm watches before the Series 4 display change, giving 312 by 390 pixels for 42mm. The first-generation technical specification identifies this model as a 42mm watch. This uses the explicit earlier-watch display dimensions, not a PPI calculation or an assumption that first generation means Series 1. The first-generation support specification itself omits pixel dimensions.",
+    "reviewedAt": "2026-09-21",
+    "resolutionUnit": "physical display pixels",
+    "resolutionOrientation": "portrait",
+    "missingReason": "linked-tech-spec-omits-native-pixels",
+    "mergeAliases": [],
+    "machineIds": [
+      "Watch1,2"
+    ],
+    "supportingSourceURL": "https://support.apple.com/en-us/112009"
+  }
+}

@@ -1,0 +1,1136 @@
+[
+  {
+    "id": "macbook-neo",
+    "bodyMm": {
+      "width": 297.55,
+      "height": 206.39,
+      "depth": 14.7
+    },
+    "derivation": "PDF page 2, closed-lid top view: 297.55 wide \u00d7 206.39 front-to-back. Depth 14.70 includes feet; 12.75 excludes feet. No open display drawing or active panel dimensions are present in the two-page PDF.",
+    "additionalDimensions": [
+      {
+        "feature": "closed-body",
+        "quantity": "thickness-without-feet",
+        "value": 12.75,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "feet",
+        "quantity": "diameter",
+        "value": 26.74,
+        "unit": "mm",
+        "page": 2
+      }
+    ],
+    "name": "MacBook Neo",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/macbook-neo.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": null,
+    "reviewScope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation.",
+    "sourcePage": 2,
+    "sourcePagesReviewed": [
+      2
+    ]
+  },
+  {
+    "id": "apple-tv-4k-3rd-generation",
+    "bodyMm": {
+      "width": 93.24,
+      "height": 93.24,
+      "depth": 31.0
+    },
+    "derivation": "PDF page 2 top-view footprint 93.24 \u00d7 93.24; vertical thickness 31.00, including bottom projection. Dimensions apply to Wi-Fi and Wi-Fi+Ethernet variants.",
+    "name": "Apple TV 4K (3rd generation)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": null,
+    "reviewScope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation.",
+    "sourcePage": 2,
+    "sourcePagesReviewed": [
+      2
+    ]
+  },
+  {
+    "id": "siri-remote-3rd-generation",
+    "bodyMm": {
+      "width": 35,
+      "height": null,
+      "depth": 9.25
+    },
+    "derivation": "PDF page 2 bottom-view width 35.00, total thickness 9.25. The 129.00 dimension is bottom edge to power-button centre, not overall height; overall height is left unknown.",
+    "additionalDimensions": [
+      {
+        "feature": "clickpad",
+        "quantity": "diameter",
+        "value": 31,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "clickpad-centre-button",
+        "quantity": "diameter",
+        "value": 17.5,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "power-button",
+        "quantity": "centre-from-bottom",
+        "value": 129,
+        "unit": "mm",
+        "page": 2
+      }
+    ],
+    "name": "Siri Remote (3rd generation)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": null,
+    "reviewScope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation.",
+    "sourcePage": 2,
+    "sourcePagesReviewed": [
+      2
+    ]
+  },
+  {
+    "id": "siri-remote-2nd-generation",
+    "bodyMm": {
+      "width": 35,
+      "height": null,
+      "depth": 9.25
+    },
+    "derivation": "PDF page 2 bottom-view width 35.00, total thickness 9.25. The 129.00 dimension is bottom edge to power-button centre, not overall height; overall height is left unknown.",
+    "additionalDimensions": [
+      {
+        "feature": "clickpad",
+        "quantity": "diameter",
+        "value": 31,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "clickpad-centre-button",
+        "quantity": "diameter",
+        "value": 17.5,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "power-button",
+        "quantity": "centre-from-bottom",
+        "value": 129,
+        "unit": "mm",
+        "page": 2
+      }
+    ],
+    "name": "Siri Remote (2nd generation)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": null,
+    "reviewScope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation.",
+    "sourcePage": 2,
+    "sourcePagesReviewed": [
+      2
+    ]
+  },
+  {
+    "id": "apple-magsafe-charger",
+    "bodyMm": {
+      "width": 55.9,
+      "height": 55.9,
+      "depth": 5.3
+    },
+    "derivation": "PDF page 2: puck diameter 55.90 and thickness 5.30; cable and plug excluded from body envelope. Model A2140.",
+    "additionalDimensions": [
+      {
+        "feature": "cable",
+        "quantity": "diameter",
+        "value": 2.74,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "cable-strain-relief",
+        "quantity": "diameter",
+        "value": 3.94,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "usb-c-plug-body",
+        "quantity": "length",
+        "value": 20.4,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "usb-c-plug-body",
+        "quantity": "width",
+        "value": 12.35,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "usb-c-plug-body",
+        "quantity": "thickness",
+        "value": 6.49,
+        "unit": "mm",
+        "page": 2
+      }
+    ],
+    "name": "Apple MagSafe Charger",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-magsafe-charger.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": null,
+    "reviewScope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation.",
+    "sourcePage": 2,
+    "sourcePagesReviewed": [
+      2
+    ]
+  },
+  {
+    "id": "apple-magsafe-charger-1-m-and-apple-magsafe-charger-2-m",
+    "bodyMm": {
+      "width": 55.5,
+      "height": 55.5,
+      "depth": 4.37
+    },
+    "derivation": "PDF page 2: puck diameter 55.50 and thickness 4.37; cable and plug excluded from body envelope. Models A2580 and A3250.",
+    "additionalDimensions": [
+      {
+        "feature": "cable",
+        "quantity": "diameter",
+        "value": 3.05,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "usb-c-plug-body",
+        "quantity": "length",
+        "value": 19.38,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "usb-c-plug-body",
+        "quantity": "width",
+        "value": 12.35,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "usb-c-plug-body",
+        "quantity": "thickness",
+        "value": 6.49,
+        "unit": "mm",
+        "page": 2
+      }
+    ],
+    "name": "Apple MagSafe Charger (1 m) and Apple MagSafe Charger (2 m)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-magsafe-charger-1-m-and-apple-magsafe-charger-2-m.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": null,
+    "reviewScope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation.",
+    "sourcePage": 2,
+    "sourcePagesReviewed": [
+      2
+    ]
+  },
+  {
+    "id": "airtag",
+    "bodyMm": {
+      "width": 31.87,
+      "height": 31.87,
+      "depth": 7.98
+    },
+    "derivation": "PDF page 2: outer diameter 31.87; total thickness from bottom 0 datum to top 7.98. Body excludes no attachments.",
+    "additionalDimensions": [
+      {
+        "feature": "speaker-keepout",
+        "quantity": "diameter",
+        "value": 25.75,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "antenna-keepout",
+        "quantity": "diameter",
+        "value": 37.31,
+        "unit": "mm",
+        "page": 2
+      }
+    ],
+    "name": "AirTag",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airtag.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": null,
+    "reviewScope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation.",
+    "sourcePage": 2,
+    "sourcePagesReviewed": [
+      2
+    ]
+  },
+  {
+    "id": "apple-vision-pro-battery",
+    "bodyMm": {
+      "width": 68.65,
+      "height": 143.86,
+      "depth": 19.09
+    },
+    "derivation": "PDF page 2 explicit main enclosure width 68.65, length 143.86, thickness 19.09; cable excluded.",
+    "additionalDimensions": [
+      {
+        "feature": "cable",
+        "quantity": "length",
+        "value": 1200,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "cable",
+        "quantity": "diameter",
+        "value": 4.22,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "cable",
+        "quantity": "minimum-bend-radius",
+        "value": 13,
+        "unit": "mm",
+        "page": 2
+      }
+    ],
+    "name": "Apple Vision Pro Battery",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-battery.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": null,
+    "reviewScope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation.",
+    "sourcePage": 2,
+    "sourcePagesReviewed": [
+      2
+    ]
+  },
+  {
+    "id": "airpods-2nd-generation",
+    "bodyMm": null,
+    "derivation": "Visually reviewed PDF page 2 (the only mechanical sheet): the dimensioned shaded areas are accessory keepout regions, not overall earbud dimensions. No total body envelope is inferred. Additional measurements retain their keepout meaning; ports/sensors may have differently oriented boundaries.",
+    "additionalDimensions": [
+      {
+        "feature": "stem-keepout",
+        "quantity": "height-from-bottom",
+        "value": 23.8,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "stem-contact-region",
+        "quantity": "height-from-bottom",
+        "value": 2.4,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "speaker-keepout",
+        "quantity": "width",
+        "value": 4.8,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "speaker-keepout",
+        "quantity": "height",
+        "value": 7.9,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "side-keepout",
+        "quantity": "margin",
+        "value": 0.8,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "sensor-keepout",
+        "quantity": "margin",
+        "value": 1.0,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "top-vent-keepout",
+        "quantity": "margin",
+        "value": 0.5,
+        "unit": "mm",
+        "page": 2
+      }
+    ],
+    "name": "AirPods (2nd generation)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-2nd-generation.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": null,
+    "reviewScope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation.",
+    "sourcePage": 2,
+    "sourcePagesReviewed": [
+      2
+    ]
+  },
+  {
+    "id": "airpods-3rd-generation",
+    "bodyMm": null,
+    "derivation": "Visually reviewed PDF page 2 (the only mechanical sheet): the dimensioned shaded areas are accessory keepout regions, not overall earbud dimensions. No total body envelope is inferred. Additional measurements retain their keepout meaning; ports/sensors may have differently oriented boundaries.",
+    "additionalDimensions": [
+      {
+        "feature": "stem-side-keepout",
+        "quantity": "height-from-bottom",
+        "value": 26.2,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "stem-front-keepout",
+        "quantity": "height-from-bottom",
+        "value": 17.6,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "speaker-keepout",
+        "quantity": "width",
+        "value": 5.3,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "speaker-keepout",
+        "quantity": "height",
+        "value": 9.2,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "sensor-keepout",
+        "quantity": "margin",
+        "value": 1.0,
+        "unit": "mm",
+        "page": 2
+      }
+    ],
+    "name": "AirPods (3rd generation)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-3rd-generation.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": null,
+    "reviewScope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation.",
+    "sourcePage": 2,
+    "sourcePagesReviewed": [
+      2
+    ]
+  },
+  {
+    "id": "airpods-4",
+    "bodyMm": null,
+    "derivation": "Visually reviewed PDF page 2 (the only mechanical sheet): the dimensioned shaded areas are accessory keepout regions, not overall earbud dimensions. No total body envelope is inferred. Additional measurements retain their keepout meaning; ports/sensors may have differently oriented boundaries.",
+    "additionalDimensions": [
+      {
+        "feature": "stem-side-keepout",
+        "quantity": "height-from-bottom",
+        "value": 23.8,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "stem-front-keepout",
+        "quantity": "height-from-bottom",
+        "value": 17.6,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "stem-contact-region",
+        "quantity": "height-from-bottom",
+        "value": 3.0,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "sensor-keepout",
+        "quantity": "margin",
+        "value": 1.0,
+        "unit": "mm",
+        "page": 2
+      }
+    ],
+    "name": "AirPods 4",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-4.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": null,
+    "reviewScope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation.",
+    "sourcePage": 2,
+    "sourcePagesReviewed": [
+      2
+    ]
+  },
+  {
+    "id": "airpods-pro-2nd-generation",
+    "bodyMm": null,
+    "derivation": "Visually reviewed PDF page 2 (the only mechanical sheet): the dimensioned shaded areas are accessory keepout regions, not overall earbud dimensions. No total body envelope is inferred. Additional measurements retain their keepout meaning; ports/sensors may have differently oriented boundaries.",
+    "additionalDimensions": [
+      {
+        "feature": "stem-keepout",
+        "quantity": "height-from-bottom",
+        "value": 23.3,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "stem-keepout",
+        "quantity": "width",
+        "value": 5.7,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "stem-contact-region",
+        "quantity": "height-from-bottom",
+        "value": 3.0,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "speaker-keepout",
+        "quantity": "width",
+        "value": 7.6,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "speaker-keepout",
+        "quantity": "height",
+        "value": 11.9,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "sensor-keepout",
+        "quantity": "margin",
+        "value": 1.0,
+        "unit": "mm",
+        "page": 2
+      }
+    ],
+    "name": "AirPods Pro (2nd generation)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-pro-2nd-generation.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": null,
+    "reviewScope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation.",
+    "sourcePage": 2,
+    "sourcePagesReviewed": [
+      2
+    ]
+  },
+  {
+    "id": "airpods-pro-3",
+    "bodyMm": null,
+    "derivation": "Visually reviewed PDF page 2 (the only mechanical sheet): the dimensioned shaded areas are accessory keepout regions, not overall earbud dimensions. No total body envelope is inferred. Additional measurements retain their keepout meaning; ports/sensors may have differently oriented boundaries.",
+    "additionalDimensions": [
+      {
+        "feature": "stem-side-keepout",
+        "quantity": "height-from-bottom",
+        "value": 28.2,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "stem-front-keepout",
+        "quantity": "height-from-bottom",
+        "value": 17.6,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "speaker-keepout",
+        "quantity": "width",
+        "value": 4.2,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "speaker-keepout",
+        "quantity": "height",
+        "value": 5.7,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "sensor-keepout",
+        "quantity": "margin",
+        "value": 1.0,
+        "unit": "mm",
+        "page": 2
+      }
+    ],
+    "name": "AirPods Pro 3",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-pro-3.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": null,
+    "reviewScope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation.",
+    "sourcePage": 2,
+    "sourcePagesReviewed": [
+      2
+    ]
+  },
+  {
+    "id": "magsafe-charging-case-for-airpods-pro-3",
+    "bodyMm": {
+      "width": 62.22,
+      "height": 47.22,
+      "depth": 21.84
+    },
+    "derivation": "Explicit front-view product width/height and thickness when dimensioned. Missing depth is not inferred from the separate open-lid keepout envelope. Recommended keepouts are accessory clearances, not product dimensions.",
+    "additionalDimensions": [
+      {
+        "feature": "status-led",
+        "quantity": "diameter",
+        "value": 0.8,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "status-led-recommended-keepout",
+        "quantity": "diameter",
+        "value": 2.8,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "lid",
+        "quantity": "nominal-open-angle",
+        "value": 115,
+        "unit": "degree",
+        "page": 2
+      },
+      {
+        "feature": "lid-clearance-scoop",
+        "quantity": "length",
+        "value": 47.1,
+        "unit": "mm",
+        "page": 2
+      }
+    ],
+    "sourcePagesReviewed": [
+      2
+    ],
+    "sourcePage": 2,
+    "name": "MagSafe Charging Case for AirPods Pro 3",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": null,
+    "reviewScope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation."
+  },
+  {
+    "id": "wireless-charging-case-usb-c-for-airpods-4",
+    "bodyMm": {
+      "width": 50.08,
+      "height": 46.2,
+      "depth": null
+    },
+    "derivation": "Explicit front-view product width/height and thickness when dimensioned. Missing depth is not inferred from the separate open-lid keepout envelope. Recommended keepouts are accessory clearances, not product dimensions.",
+    "additionalDimensions": [
+      {
+        "feature": "connector-recommended-keepout",
+        "quantity": "width",
+        "value": 12.46,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "connector-recommended-keepout",
+        "quantity": "height",
+        "value": 6.6,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "status-led",
+        "quantity": "diameter",
+        "value": 0.8,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "status-led-recommended-keepout",
+        "quantity": "diameter",
+        "value": 2.8,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "lid",
+        "quantity": "nominal-open-angle",
+        "value": 115,
+        "unit": "degree",
+        "page": 2
+      },
+      {
+        "feature": "lid-clearance-scoop",
+        "quantity": "length",
+        "value": 35.04,
+        "unit": "mm",
+        "page": 2
+      }
+    ],
+    "sourcePagesReviewed": [
+      2,
+      3,
+      4
+    ],
+    "sourcePage": 2,
+    "name": "Wireless Charging Case (USB-C) for AirPods 4",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/wireless-charging-case-usb-c-for-airpods-4.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": null,
+    "reviewScope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation."
+  },
+  {
+    "id": "magsafe-charging-case-for-airpods-3rd-generation",
+    "bodyMm": {
+      "width": 54.4,
+      "height": 46.4,
+      "depth": 21.4
+    },
+    "derivation": "Explicit front-view product width/height and thickness when dimensioned. Missing depth is not inferred from the separate open-lid keepout envelope. Recommended keepouts are accessory clearances, not product dimensions.",
+    "additionalDimensions": [
+      {
+        "feature": "status-led",
+        "quantity": "diameter",
+        "value": 0.8,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "status-led-recommended-keepout",
+        "quantity": "diameter",
+        "value": 2.8,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "lid",
+        "quantity": "nominal-open-angle",
+        "value": 115,
+        "unit": "degree",
+        "page": 2
+      }
+    ],
+    "sourcePagesReviewed": [
+      2
+    ],
+    "sourcePage": 2,
+    "name": "MagSafe Charging Case for AirPods (3rd generation)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-3rd-generation.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": null,
+    "reviewScope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation."
+  },
+  {
+    "id": "magsafe-charging-case-for-airpods-pro-2nd-generation",
+    "bodyMm": {
+      "width": 60.62,
+      "height": 45.21,
+      "depth": null
+    },
+    "derivation": "Explicit front-view product width/height and thickness when dimensioned. Missing depth is not inferred from the separate open-lid keepout envelope. Recommended keepouts are accessory clearances, not product dimensions.",
+    "additionalDimensions": [
+      {
+        "feature": "connector-recommended-keepout",
+        "quantity": "width",
+        "value": 12.6,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "connector-recommended-keepout",
+        "quantity": "height",
+        "value": 6.51,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "status-led",
+        "quantity": "diameter",
+        "value": 0.8,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "status-led-recommended-keepout",
+        "quantity": "diameter",
+        "value": 2.8,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "lid",
+        "quantity": "nominal-open-angle",
+        "value": 115,
+        "unit": "degree",
+        "page": 2
+      },
+      {
+        "feature": "lid-clearance-scoop",
+        "quantity": "length",
+        "value": 45.01,
+        "unit": "mm",
+        "page": 2
+      }
+    ],
+    "sourcePagesReviewed": [
+      2,
+      3,
+      4
+    ],
+    "sourcePage": 2,
+    "name": "MagSafe Charging Case for AirPods Pro (2nd generation)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-2nd-generation.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": null,
+    "reviewScope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation."
+  },
+  {
+    "id": "magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation",
+    "bodyMm": {
+      "width": 60.62,
+      "height": 45.21,
+      "depth": null
+    },
+    "derivation": "Explicit front-view product width/height and thickness when dimensioned. Missing depth is not inferred from the separate open-lid keepout envelope. Recommended keepouts are accessory clearances, not product dimensions.",
+    "additionalDimensions": [
+      {
+        "feature": "connector-recommended-keepout",
+        "quantity": "width",
+        "value": 12.45,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "connector-recommended-keepout",
+        "quantity": "height",
+        "value": 6.6,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "status-led",
+        "quantity": "diameter",
+        "value": 0.8,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "status-led-recommended-keepout",
+        "quantity": "diameter",
+        "value": 2.8,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "lid",
+        "quantity": "nominal-open-angle",
+        "value": 115,
+        "unit": "degree",
+        "page": 2
+      },
+      {
+        "feature": "lid-clearance-scoop",
+        "quantity": "length",
+        "value": 45.01,
+        "unit": "mm",
+        "page": 2
+      }
+    ],
+    "sourcePagesReviewed": [
+      2,
+      3,
+      4
+    ],
+    "sourcePage": 2,
+    "name": "MagSafe Charging Case (USB-C) for AirPods Pro (2nd generation)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": null,
+    "reviewScope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation."
+  },
+  {
+    "id": "zeiss-optical-inserts",
+    "bodyMm": {
+      "width": 47.37,
+      "height": 39.09,
+      "depth": null
+    },
+    "derivation": "Left optical insert overall front-view envelope; right insert symmetric. Frame depth 8.24 excludes prescription-dependent lens protrusion (up to 1.35 proud or 3.63 subflush); total optical assembly thickness unavailable.",
+    "additionalDimensions": [
+      {
+        "feature": "frame",
+        "quantity": "depth",
+        "value": 8.24,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "finger-scoop",
+        "quantity": "width",
+        "value": 11.92,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "finger-scoop",
+        "quantity": "height",
+        "value": 1.5,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "lens-relative-to-frame",
+        "quantity": "maximum-proud",
+        "value": 1.35,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "lens-relative-to-frame",
+        "quantity": "maximum-subflush",
+        "value": 3.63,
+        "unit": "mm",
+        "page": 2
+      }
+    ],
+    "sourcePagesReviewed": [
+      2
+    ],
+    "sourcePage": 2,
+    "name": "ZEISS Optical Inserts",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": null,
+    "reviewScope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation."
+  },
+  {
+    "id": "apple-vision-pro-audio-strap",
+    "bodyMm": null,
+    "derivation": "Left audio strap connector/faceplate mechanical dimensions only. Right strap mirrors left. Overall strap envelope not dimensioned on this sheet.",
+    "additionalDimensions": [
+      {
+        "feature": "connector",
+        "quantity": "width",
+        "value": 6.03,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "connector",
+        "quantity": "height",
+        "value": 13.82,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "connector",
+        "quantity": "height-from-faceplate",
+        "value": 3.83,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "faceplate",
+        "quantity": "diameter",
+        "value": 16.2,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "connector-lead-in-chamfer",
+        "quantity": "length",
+        "value": 0.1,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "connector-lead-in-chamfer",
+        "quantity": "angle",
+        "value": 45,
+        "unit": "degree",
+        "page": 2
+      }
+    ],
+    "sourcePagesReviewed": [
+      2
+    ],
+    "sourcePage": 2,
+    "name": "Apple Vision Pro Audio Strap",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-audio-strap.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": null,
+    "reviewScope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation."
+  },
+  {
+    "id": "airpods-max",
+    "bodyMm": {
+      "width": 199.84,
+      "height": 193.23,
+      "depth": 51.94
+    },
+    "derivation": "Body envelope uses explicit as-stowed dimensions on PDF page 4 (cups rotated, sliding arms retracted). As-worn dimensions differ; drawing height 167.85 ends at canopy underside, not overall top, so not used as overall height.",
+    "additionalDimensions": [
+      {
+        "feature": "as-worn",
+        "quantity": "width",
+        "value": 168.62,
+        "unit": "mm",
+        "page": 4
+      },
+      {
+        "feature": "as-worn",
+        "quantity": "depth",
+        "value": 83.44,
+        "unit": "mm",
+        "page": 4
+      },
+      {
+        "feature": "sliding-arm",
+        "quantity": "approximate-maximum-extension",
+        "value": 25,
+        "unit": "mm",
+        "page": 2
+      }
+    ],
+    "sourcePagesReviewed": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "sourcePage": 4,
+    "name": "AirPods Max",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": null,
+    "reviewScope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation."
+  },
+  {
+    "id": "apple-vision-pro",
+    "bodyMm": null,
+    "derivation": "Storage-case guide: reviewed overview, light-seal boundary/contact and dual-loop-band sheets. Component boundary dimensions depend on fit/size and are not a single headset body. Other band and contour sheets remain unnormalized.",
+    "additionalDimensions": [
+      {
+        "feature": "light-seal-and-face-cushion-largest",
+        "quantity": "width",
+        "value": 161.35,
+        "unit": "mm",
+        "page": 3,
+        "note": "Published boundary-condition dimensions; not the complete headset envelope."
+      },
+      {
+        "feature": "light-seal-and-face-cushion-largest",
+        "quantity": "depth",
+        "value": 98.4,
+        "unit": "mm",
+        "page": 3,
+        "note": "Published boundary-condition dimensions; not the complete headset envelope."
+      },
+      {
+        "feature": "light-seal-and-face-cushion-largest",
+        "quantity": "height",
+        "value": 104.26,
+        "unit": "mm",
+        "page": 3,
+        "note": "Published boundary-condition dimensions; not the complete headset envelope."
+      },
+      {
+        "feature": "light-seal-and-face-cushion-smallest",
+        "quantity": "width",
+        "value": 147.57,
+        "unit": "mm",
+        "page": 3,
+        "note": "Published boundary-condition dimensions; not the complete headset envelope."
+      },
+      {
+        "feature": "light-seal-and-face-cushion-smallest",
+        "quantity": "depth",
+        "value": 72.38,
+        "unit": "mm",
+        "page": 3,
+        "note": "Published boundary-condition dimensions; not the complete headset envelope."
+      },
+      {
+        "feature": "light-seal-and-face-cushion-smallest",
+        "quantity": "height",
+        "value": 94.07,
+        "unit": "mm",
+        "page": 3,
+        "note": "Published boundary-condition dimensions; not the complete headset envelope."
+      },
+      {
+        "feature": "dual-loop-band-small",
+        "quantity": "upper-length",
+        "value": 335,
+        "unit": "mm",
+        "page": 5,
+        "note": "Upper length tolerance \u00b10.7%; lower length tolerance \u00b11.5%."
+      },
+      {
+        "feature": "dual-loop-band-small",
+        "quantity": "lower-length",
+        "value": 328,
+        "unit": "mm",
+        "page": 5,
+        "note": "Upper length tolerance \u00b10.7%; lower length tolerance \u00b11.5%."
+      },
+      {
+        "feature": "dual-loop-band-medium",
+        "quantity": "upper-length",
+        "value": 343,
+        "unit": "mm",
+        "page": 5,
+        "note": "Upper length tolerance \u00b10.7%; lower length tolerance \u00b11.5%."
+      },
+      {
+        "feature": "dual-loop-band-medium",
+        "quantity": "lower-length",
+        "value": 366,
+        "unit": "mm",
+        "page": 5,
+        "note": "Upper length tolerance \u00b10.7%; lower length tolerance \u00b11.5%."
+      },
+      {
+        "feature": "dual-loop-band-large",
+        "quantity": "upper-length",
+        "value": 352,
+        "unit": "mm",
+        "page": 5,
+        "note": "Upper length tolerance \u00b10.7%; lower length tolerance \u00b11.5%."
+      },
+      {
+        "feature": "dual-loop-band-large",
+        "quantity": "lower-length",
+        "value": 411,
+        "unit": "mm",
+        "page": 5,
+        "note": "Upper length tolerance \u00b10.7%; lower length tolerance \u00b11.5%."
+      }
+    ],
+    "sourcePagesReviewed": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "sourcePage": 3,
+    "name": "Apple Vision Pro",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": null,
+    "reviewScope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation."
+  }
+]

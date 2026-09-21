@@ -1,0 +1,610 @@
+[
+  {
+    "id": "apple-watch-se-3-40mm",
+    "name": "Apple Watch SE 3, 40 mm",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-se-3-40mm.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 25.27,
+      "height": 30.73
+    },
+    "bodyMm": {
+      "width": 34.41,
+      "height": 39.82,
+      "depth": 10.7
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodySourcePage": 2,
+    "bodyDepthSourcePage": 2,
+    "bodyDepthDefinition": "Printed case-profile depth between the front and rear case/glass reference planes; excludes protruding rear sensor dome.",
+    "totalDepthIncludingSensorMm": 12.67,
+    "totalDepthSourcePage": 2,
+    "coverGlassMm": {
+      "width": 31.36,
+      "height": 36.82
+    },
+    "coverGlassSourcePage": 2,
+    "widthIncludingCrownMm": null,
+    "activeDisplayDefinition": "Bounding width and height of the rounded active display as viewed from the front; corners are not fully active.",
+    "derivation": "Explicit DISPLAY ACTIVE AREA envelope 25.27 x 30.73 mm transcribed visually from PDF page 2; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 12.67 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
+  },
+  {
+    "id": "apple-watch-se-3-44mm",
+    "name": "Apple Watch SE 3, 44 mm",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-se-3-44mm.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 28.71,
+      "height": 34.95
+    },
+    "bodyMm": {
+      "width": 37.84,
+      "height": 44.08,
+      "depth": 10.7
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodySourcePage": 2,
+    "bodyDepthSourcePage": 2,
+    "bodyDepthDefinition": "Printed case-profile depth between the front and rear case/glass reference planes; excludes protruding rear sensor dome.",
+    "totalDepthIncludingSensorMm": 13.07,
+    "totalDepthSourcePage": 2,
+    "coverGlassMm": {
+      "width": 34.79,
+      "height": 41.03
+    },
+    "coverGlassSourcePage": 2,
+    "widthIncludingCrownMm": null,
+    "activeDisplayDefinition": "Bounding width and height of the rounded active display as viewed from the front; corners are not fully active.",
+    "derivation": "Explicit DISPLAY ACTIVE AREA envelope 28.71 x 34.95 mm transcribed visually from PDF page 2; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 13.07 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
+  },
+  {
+    "id": "apple-watch-series-11-42mm",
+    "name": "Apple Watch Series 11, 42 mm",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-11-42mm.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 29.17,
+      "height": 34.79
+    },
+    "bodyMm": {
+      "width": 36.44,
+      "height": 42.05,
+      "depth": 9.7
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodySourcePage": 2,
+    "bodyDepthSourcePage": 2,
+    "bodyDepthDefinition": "Flat of back to flat of display glass, excluding rear sensor dome.",
+    "totalDepthIncludingSensorMm": 11.74,
+    "totalDepthSourcePage": 2,
+    "coverGlassMm": {
+      "width": 33.89,
+      "height": 39.5
+    },
+    "coverGlassSourcePage": 2,
+    "widthIncludingCrownMm": 38.3,
+    "activeDisplayDefinition": "Bounding width and height of the rounded active display as viewed from the front; corners are not fully active.",
+    "derivation": "Explicit DISPLAY ACTIVE AREA envelope 29.17 x 34.79 mm transcribed visually from PDF page 2; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 11.74 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork. The drawing explicitly labels the two thickness datums FLAT OF BACK TO FLAT OF DISPLAY GLASS and APEX OF DOME TO FLAT OF DISPLAY GLASS.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
+  },
+  {
+    "id": "apple-watch-series-11-46mm",
+    "name": "Apple Watch Series 11, 46 mm",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-11-46mm.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 32.45,
+      "height": 38.69
+    },
+    "bodyMm": {
+      "width": 39.76,
+      "height": 46.0,
+      "depth": 9.7
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodySourcePage": 2,
+    "bodyDepthSourcePage": 2,
+    "bodyDepthDefinition": "Flat of back to flat of display glass, excluding rear sensor dome.",
+    "totalDepthIncludingSensorMm": 12.14,
+    "totalDepthSourcePage": 2,
+    "coverGlassMm": {
+      "width": 37.21,
+      "height": 43.45
+    },
+    "coverGlassSourcePage": 2,
+    "widthIncludingCrownMm": 41.63,
+    "activeDisplayDefinition": "Bounding width and height of the rounded active display as viewed from the front; corners are not fully active.",
+    "derivation": "Explicit DISPLAY ACTIVE AREA envelope 32.45 x 38.69 mm transcribed visually from PDF page 2; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 12.14 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork. The drawing explicitly labels the two thickness datums FLAT OF BACK TO FLAT OF DISPLAY GLASS and APEX OF DOME TO FLAT OF DISPLAY GLASS.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
+  },
+  {
+    "id": "apple-watch-ultra-3",
+    "name": "Apple Watch Ultra 3",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-ultra-3.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 32.92,
+      "height": 40.09
+    },
+    "bodyMm": {
+      "width": 43.32,
+      "height": 49.14,
+      "depth": 12.0
+    },
+    "sourcePage": 4,
+    "sourceSheet": 3,
+    "bodySourcePage": 2,
+    "bodyDepthSourcePage": 2,
+    "bodyDepthDefinition": "Printed case-profile depth between the front and rear case/glass reference planes; excludes protruding rear sensor dome.",
+    "totalDepthIncludingSensorMm": 14.44,
+    "totalDepthSourcePage": 2,
+    "coverGlassMm": {
+      "width": 35.79,
+      "height": 43.07
+    },
+    "coverGlassSourcePage": 2,
+    "widthIncludingCrownMm": null,
+    "activeDisplayDefinition": "Bounding width and height of the rounded active display as viewed from the front; corners are not fully active.",
+    "derivation": "Explicit DISPLAY ACTIVE AREA envelope 32.92 x 40.09 mm transcribed visually from PDF page 4; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 14.44 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork. Body width is the printed 43.32 mm case envelope including the crown guard; it is not the narrower 38.42 mm front/bezel profile dimension. The independently projecting crown is not included as an inferred overall width. Page 4 compares Ultra 2 and Ultra 3; the right-hand Ultra 3 dimensions are used.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
+  },
+  {
+    "id": "apple-watch-series-10-42mm",
+    "name": "Apple Watch Series 10, 42 mm",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-10-42mm.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 29.17,
+      "height": 34.79
+    },
+    "bodyMm": {
+      "width": 36.44,
+      "height": 42.05,
+      "depth": 9.7
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodySourcePage": 2,
+    "bodyDepthSourcePage": 2,
+    "bodyDepthDefinition": "Flat of back to flat of display glass, excluding rear sensor dome.",
+    "totalDepthIncludingSensorMm": 11.74,
+    "totalDepthSourcePage": 2,
+    "coverGlassMm": {
+      "width": 33.89,
+      "height": 39.5
+    },
+    "coverGlassSourcePage": 2,
+    "widthIncludingCrownMm": 38.3,
+    "activeDisplayDefinition": "Bounding width and height of the rounded active display as viewed from the front; corners are not fully active.",
+    "derivation": "Explicit DISPLAY ACTIVE AREA envelope 29.17 x 34.79 mm transcribed visually from PDF page 2; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 11.74 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork. The drawing explicitly labels the two thickness datums FLAT OF BACK TO FLAT OF DISPLAY GLASS and APEX OF DOME TO FLAT OF DISPLAY GLASS.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
+  },
+  {
+    "id": "apple-watch-series-10-46mm",
+    "name": "Apple Watch Series 10, 46 mm",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-10-46mm.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 32.45,
+      "height": 38.69
+    },
+    "bodyMm": {
+      "width": 39.76,
+      "height": 46.0,
+      "depth": 9.7
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodySourcePage": 2,
+    "bodyDepthSourcePage": 2,
+    "bodyDepthDefinition": "Flat of back to flat of display glass, excluding rear sensor dome.",
+    "totalDepthIncludingSensorMm": 12.14,
+    "totalDepthSourcePage": 2,
+    "coverGlassMm": {
+      "width": 37.21,
+      "height": 43.45
+    },
+    "coverGlassSourcePage": 2,
+    "widthIncludingCrownMm": 41.63,
+    "activeDisplayDefinition": "Bounding width and height of the rounded active display as viewed from the front; corners are not fully active.",
+    "derivation": "Explicit DISPLAY ACTIVE AREA envelope 32.45 x 38.69 mm transcribed visually from PDF page 2; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 12.14 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork. The drawing explicitly labels the two thickness datums FLAT OF BACK TO FLAT OF DISPLAY GLASS and APEX OF DOME TO FLAT OF DISPLAY GLASS.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
+  },
+  {
+    "id": "apple-watch-series-9-41mm",
+    "name": "Apple Watch Series 9, 41 mm",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-9-41mm.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 27.78,
+      "height": 33.86
+    },
+    "bodyMm": {
+      "width": 34.77,
+      "height": 40.85,
+      "depth": 10.7
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodySourcePage": 2,
+    "bodyDepthSourcePage": 2,
+    "bodyDepthDefinition": "Printed case-profile depth between the front and rear case/glass reference planes; excludes protruding rear sensor dome.",
+    "totalDepthIncludingSensorMm": 12.74,
+    "totalDepthSourcePage": 2,
+    "coverGlassMm": {
+      "width": 31.15,
+      "height": 37.23
+    },
+    "coverGlassSourcePage": 2,
+    "widthIncludingCrownMm": null,
+    "activeDisplayDefinition": "Bounding width and height of the rounded active display as viewed from the front; corners are not fully active.",
+    "derivation": "Explicit DISPLAY ACTIVE AREA envelope 27.78 x 33.86 mm transcribed visually from PDF page 2; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 12.74 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork. Active-area dimensions describe the top-view projection, not the unrolled surface of curved glass.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
+  },
+  {
+    "id": "apple-watch-series-9-45mm",
+    "name": "Apple Watch Series 9, 45 mm",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-9-45mm.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 31.2,
+      "height": 38.06
+    },
+    "bodyMm": {
+      "width": 38.22,
+      "height": 45.08,
+      "depth": 10.65
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodySourcePage": 2,
+    "bodyDepthSourcePage": 2,
+    "bodyDepthDefinition": "Printed case-profile depth between the front and rear case/glass reference planes; excludes protruding rear sensor dome.",
+    "totalDepthIncludingSensorMm": 13.14,
+    "totalDepthSourcePage": 2,
+    "coverGlassMm": {
+      "width": 34.59,
+      "height": 41.45
+    },
+    "coverGlassSourcePage": 2,
+    "widthIncludingCrownMm": null,
+    "activeDisplayDefinition": "Bounding width and height of the rounded active display as viewed from the front; corners are not fully active.",
+    "derivation": "Explicit DISPLAY ACTIVE AREA envelope 31.20 x 38.06 mm transcribed visually from PDF page 2; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 13.14 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork. Active-area dimensions describe the top-view projection, not the unrolled surface of curved glass.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
+  },
+  {
+    "id": "apple-watch-ultra-2",
+    "name": "Apple Watch Ultra 2",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-ultra-2.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 31.98,
+      "height": 39.16
+    },
+    "bodyMm": {
+      "width": 43.32,
+      "height": 49.14,
+      "depth": 12.0
+    },
+    "sourcePage": 4,
+    "sourceSheet": 3,
+    "bodySourcePage": 2,
+    "bodyDepthSourcePage": 2,
+    "bodyDepthDefinition": "Printed case-profile depth between the front and rear case/glass reference planes; excludes protruding rear sensor dome.",
+    "totalDepthIncludingSensorMm": 14.44,
+    "totalDepthSourcePage": 2,
+    "coverGlassMm": {
+      "width": 35.79,
+      "height": 43.07
+    },
+    "coverGlassSourcePage": 2,
+    "widthIncludingCrownMm": null,
+    "activeDisplayDefinition": "Bounding width and height of the rounded active display as viewed from the front; corners are not fully active.",
+    "derivation": "Explicit DISPLAY ACTIVE AREA envelope 31.98 x 39.16 mm transcribed visually from PDF page 4; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 14.44 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork. Body width is the printed 43.32 mm case envelope including the crown guard; it is not the narrower 38.42 mm front/bezel profile dimension. The independently projecting crown is not included as an inferred overall width.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
+  },
+  {
+    "id": "apple-watch-series-8-41mm",
+    "name": "Apple Watch Series 8, 41 mm",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-8-41mm.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 27.78,
+      "height": 33.86
+    },
+    "bodyMm": {
+      "width": 34.77,
+      "height": 40.85,
+      "depth": 10.7
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodySourcePage": 2,
+    "bodyDepthSourcePage": 2,
+    "bodyDepthDefinition": "Printed case-profile depth between the front and rear case/glass reference planes; excludes protruding rear sensor dome.",
+    "totalDepthIncludingSensorMm": 12.74,
+    "totalDepthSourcePage": 2,
+    "coverGlassMm": {
+      "width": 31.15,
+      "height": 37.23
+    },
+    "coverGlassSourcePage": 2,
+    "widthIncludingCrownMm": null,
+    "activeDisplayDefinition": "Bounding width and height of the rounded active display as viewed from the front; corners are not fully active.",
+    "derivation": "Explicit DISPLAY ACTIVE AREA envelope 27.78 x 33.86 mm transcribed visually from PDF page 2; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 12.74 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork. Active-area dimensions describe the top-view projection, not the unrolled surface of curved glass. The internal title block says 40MM/44MM while the PDF cover, indexed name and page footer identify Series 8 41 mm/45 mm; the indexed identity is retained.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
+  },
+  {
+    "id": "apple-watch-series-8-45mm",
+    "name": "Apple Watch Series 8, 45 mm",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-8-45mm.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 31.2,
+      "height": 38.06
+    },
+    "bodyMm": {
+      "width": 38.22,
+      "height": 45.08,
+      "depth": 10.65
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodySourcePage": 2,
+    "bodyDepthSourcePage": 2,
+    "bodyDepthDefinition": "Printed case-profile depth between the front and rear case/glass reference planes; excludes protruding rear sensor dome.",
+    "totalDepthIncludingSensorMm": 13.14,
+    "totalDepthSourcePage": 2,
+    "coverGlassMm": {
+      "width": 34.59,
+      "height": 41.45
+    },
+    "coverGlassSourcePage": 2,
+    "widthIncludingCrownMm": null,
+    "activeDisplayDefinition": "Bounding width and height of the rounded active display as viewed from the front; corners are not fully active.",
+    "derivation": "Explicit DISPLAY ACTIVE AREA envelope 31.20 x 38.06 mm transcribed visually from PDF page 2; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 13.14 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork. Active-area dimensions describe the top-view projection, not the unrolled surface of curved glass. The internal title block says 40MM/44MM while the PDF cover, indexed name and page footer identify Series 8 41 mm/45 mm; the indexed identity is retained.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
+  },
+  {
+    "id": "apple-watch-ultra",
+    "name": "Apple Watch Ultra",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-ultra.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 31.98,
+      "height": 39.16
+    },
+    "bodyMm": {
+      "width": 43.32,
+      "height": 49.14,
+      "depth": 12.0
+    },
+    "sourcePage": 4,
+    "sourceSheet": 3,
+    "bodySourcePage": 2,
+    "bodyDepthSourcePage": 2,
+    "bodyDepthDefinition": "Printed case-profile depth between the front and rear case/glass reference planes; excludes protruding rear sensor dome.",
+    "totalDepthIncludingSensorMm": 14.44,
+    "totalDepthSourcePage": 2,
+    "coverGlassMm": {
+      "width": 35.79,
+      "height": 43.07
+    },
+    "coverGlassSourcePage": 2,
+    "widthIncludingCrownMm": null,
+    "activeDisplayDefinition": "Bounding width and height of the rounded active display as viewed from the front; corners are not fully active.",
+    "derivation": "Explicit DISPLAY ACTIVE AREA envelope 31.98 x 39.16 mm transcribed visually from PDF page 4; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 14.44 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork. Body width is the printed 43.32 mm case envelope including the crown guard; it is not the narrower 38.42 mm front/bezel profile dimension. The independently projecting crown is not included as an inferred overall width.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
+  },
+  {
+    "id": "apple-watch-series-7-41mm",
+    "name": "Apple Watch Series 7, 41 mm",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-7-41mm.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 27.78,
+      "height": 33.86
+    },
+    "bodyMm": {
+      "width": 34.77,
+      "height": 40.85,
+      "depth": 10.7
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodySourcePage": 2,
+    "bodyDepthSourcePage": 2,
+    "bodyDepthDefinition": "Printed case-profile depth between the front and rear case/glass reference planes; excludes protruding rear sensor dome.",
+    "totalDepthIncludingSensorMm": 12.74,
+    "totalDepthSourcePage": 2,
+    "coverGlassMm": {
+      "width": 31.15,
+      "height": 37.23
+    },
+    "coverGlassSourcePage": 2,
+    "widthIncludingCrownMm": null,
+    "activeDisplayDefinition": "Bounding width and height of the rounded active display as viewed from the front; corners are not fully active.",
+    "derivation": "Explicit DISPLAY ACTIVE AREA envelope 27.78 x 33.86 mm transcribed visually from PDF page 2; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 12.74 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork. Active-area dimensions describe the top-view projection, not the unrolled surface of curved glass.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
+  },
+  {
+    "id": "apple-watch-series-7-45mm",
+    "name": "Apple Watch Series 7, 45 mm",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-7-45mm.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 31.2,
+      "height": 38.06
+    },
+    "bodyMm": {
+      "width": 38.22,
+      "height": 45.08,
+      "depth": 10.65
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodySourcePage": 2,
+    "bodyDepthSourcePage": 2,
+    "bodyDepthDefinition": "Printed case-profile depth between the front and rear case/glass reference planes; excludes protruding rear sensor dome.",
+    "totalDepthIncludingSensorMm": 13.14,
+    "totalDepthSourcePage": 2,
+    "coverGlassMm": {
+      "width": 34.59,
+      "height": 41.45
+    },
+    "coverGlassSourcePage": 2,
+    "widthIncludingCrownMm": null,
+    "activeDisplayDefinition": "Bounding width and height of the rounded active display as viewed from the front; corners are not fully active.",
+    "derivation": "Explicit DISPLAY ACTIVE AREA envelope 31.20 x 38.06 mm transcribed visually from PDF page 2; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 13.14 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork. Active-area dimensions describe the top-view projection, not the unrolled surface of curved glass.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
+  },
+  {
+    "id": "apple-watch-se-40mm",
+    "name": "Apple Watch SE, 40 mm",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-se-40mm.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 25.27,
+      "height": 30.73
+    },
+    "bodyMm": {
+      "width": 34.41,
+      "height": 39.87,
+      "depth": 10.7
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodySourcePage": 2,
+    "bodyDepthSourcePage": 2,
+    "bodyDepthDefinition": "Printed case-profile depth between the front and rear case/glass reference planes; excludes protruding rear sensor dome.",
+    "totalDepthIncludingSensorMm": 12.67,
+    "totalDepthSourcePage": 2,
+    "coverGlassMm": {
+      "width": 31.36,
+      "height": 36.82
+    },
+    "coverGlassSourcePage": 2,
+    "widthIncludingCrownMm": null,
+    "activeDisplayDefinition": "Bounding width and height of the rounded active display as viewed from the front; corners are not fully active.",
+    "derivation": "Explicit DISPLAY ACTIVE AREA envelope 25.27 x 30.73 mm transcribed visually from PDF page 2; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 12.67 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
+  },
+  {
+    "id": "apple-watch-se-44mm",
+    "name": "Apple Watch SE, 44 mm",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-se-44mm.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 28.71,
+      "height": 34.95
+    },
+    "bodyMm": {
+      "width": 37.84,
+      "height": 44.08,
+      "depth": 10.7
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodySourcePage": 2,
+    "bodyDepthSourcePage": 2,
+    "bodyDepthDefinition": "Printed case-profile depth between the front and rear case/glass reference planes; excludes protruding rear sensor dome.",
+    "totalDepthIncludingSensorMm": 13.06,
+    "totalDepthSourcePage": 2,
+    "coverGlassMm": {
+      "width": 34.79,
+      "height": 41.03
+    },
+    "coverGlassSourcePage": 2,
+    "widthIncludingCrownMm": null,
+    "activeDisplayDefinition": "Bounding width and height of the rounded active display as viewed from the front; corners are not fully active.",
+    "derivation": "Explicit DISPLAY ACTIVE AREA envelope 28.71 x 34.95 mm transcribed visually from PDF page 2; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 13.06 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
+  },
+  {
+    "id": "apple-watch-series-6-40mm",
+    "name": "Apple Watch Series 6, 40 mm",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-6-40mm.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 25.27,
+      "height": 30.73
+    },
+    "bodyMm": {
+      "width": 34.41,
+      "height": 39.87,
+      "depth": 10.7
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodySourcePage": 2,
+    "bodyDepthSourcePage": 2,
+    "bodyDepthDefinition": "Printed case-profile depth between the front and rear case/glass reference planes; excludes protruding rear sensor dome.",
+    "totalDepthIncludingSensorMm": 12.74,
+    "totalDepthSourcePage": 2,
+    "coverGlassMm": {
+      "width": 31.36,
+      "height": 36.82
+    },
+    "coverGlassSourcePage": 2,
+    "widthIncludingCrownMm": null,
+    "activeDisplayDefinition": "Bounding width and height of the rounded active display as viewed from the front; corners are not fully active.",
+    "derivation": "Explicit DISPLAY ACTIVE AREA envelope 25.27 x 30.73 mm transcribed visually from PDF page 2; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 12.74 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
+  },
+  {
+    "id": "apple-watch-series-6-44mm",
+    "name": "Apple Watch Series 6, 44 mm",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-6-44mm.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 28.71,
+      "height": 34.95
+    },
+    "bodyMm": {
+      "width": 37.84,
+      "height": 44.08,
+      "depth": 10.7
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodySourcePage": 2,
+    "bodyDepthSourcePage": 2,
+    "bodyDepthDefinition": "Printed case-profile depth between the front and rear case/glass reference planes; excludes protruding rear sensor dome.",
+    "totalDepthIncludingSensorMm": 13.14,
+    "totalDepthSourcePage": 2,
+    "coverGlassMm": {
+      "width": 34.79,
+      "height": 41.03
+    },
+    "coverGlassSourcePage": 2,
+    "widthIncludingCrownMm": null,
+    "activeDisplayDefinition": "Bounding width and height of the rounded active display as viewed from the front; corners are not fully active.",
+    "derivation": "Explicit DISPLAY ACTIVE AREA envelope 28.71 x 34.95 mm transcribed visually from PDF page 2; body width/height, cover-glass width/height and case depth transcribed from dimension arrows on PDF page 2. Separate total thickness 13.14 mm runs from front surface to rear sensor apex. No dimensions inferred from pixel count, PPI or scaled artwork.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours."
+  }
+]
