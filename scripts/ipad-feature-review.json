@@ -10331,7 +10331,7 @@
       {
         "feature": "rear-camera-lens",
         "quantity": "diameter",
-        "value": 9.65,
+        "value": 9.85,
         "page": 3,
         "unit": "mm",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
@@ -10418,7 +10418,7 @@
       },
       {
         "feature": "volume-buttons",
-        "quantity": "width",
+        "quantity": "gap-between-buttons",
         "value": 2,
         "page": 3,
         "unit": "mm",
@@ -10426,7 +10426,7 @@
       },
       {
         "feature": "volume-buttons",
-        "quantity": "upper-centre-from-top",
+        "quantity": "upper-button-top-edge-from-top",
         "value": 19.49,
         "page": 3,
         "unit": "mm",
@@ -10434,7 +10434,7 @@
       },
       {
         "feature": "volume-buttons",
-        "quantity": "lower-centre-from-top",
+        "quantity": "lower-button-top-edge-from-top",
         "value": 31.55,
         "page": 3,
         "unit": "mm",
@@ -10514,7 +10514,7 @@
       },
       {
         "feature": "volume-button",
-        "quantity": "section-half-width",
+        "quantity": "section-nearest-edge-to-cover-glass",
         "value": 1.81,
         "page": 5,
         "unit": "mm",
@@ -10522,7 +10522,7 @@
       },
       {
         "feature": "inductive-charger-window",
-        "quantity": "section-half-width",
+        "quantity": "section-width",
         "value": 3.11,
         "page": 5,
         "unit": "mm",
@@ -10558,6 +10558,14 @@
         "value": 4.09,
         "page": 5,
         "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "width",
+        "value": 2.56,
+        "unit": "mm",
+        "page": 3,
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
       }
     ],
@@ -12525,7 +12533,7 @@
       {
         "feature": "rear-camera-lens",
         "quantity": "diameter",
-        "value": 9.65,
+        "value": 9.85,
         "page": 3,
         "unit": "mm",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
@@ -12612,7 +12620,7 @@
       },
       {
         "feature": "volume-buttons",
-        "quantity": "width",
+        "quantity": "gap-between-buttons",
         "value": 2,
         "page": 3,
         "unit": "mm",
@@ -12620,7 +12628,7 @@
       },
       {
         "feature": "volume-buttons",
-        "quantity": "upper-centre-from-top",
+        "quantity": "upper-button-top-edge-from-top",
         "value": 19.49,
         "page": 3,
         "unit": "mm",
@@ -12628,7 +12636,7 @@
       },
       {
         "feature": "volume-buttons",
-        "quantity": "lower-centre-from-top",
+        "quantity": "lower-button-top-edge-from-top",
         "value": 31.55,
         "page": 3,
         "unit": "mm",
@@ -12708,7 +12716,7 @@
       },
       {
         "feature": "volume-button",
-        "quantity": "section-half-width",
+        "quantity": "section-nearest-edge-to-cover-glass",
         "value": 1.81,
         "page": 5,
         "unit": "mm",
@@ -12716,7 +12724,7 @@
       },
       {
         "feature": "inductive-charger-window",
-        "quantity": "section-half-width",
+        "quantity": "section-width",
         "value": 3.11,
         "page": 5,
         "unit": "mm",
@@ -12752,6 +12760,14 @@
         "value": 4.09,
         "page": 5,
         "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "width",
+        "value": 2.56,
+        "unit": "mm",
+        "page": 3,
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
       }
     ],
@@ -14719,7 +14735,7 @@
       {
         "feature": "rear-camera-lens",
         "quantity": "diameter",
-        "value": 9.65,
+        "value": 9.85,
         "page": 3,
         "unit": "mm",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
@@ -14806,7 +14822,7 @@
       },
       {
         "feature": "volume-buttons",
-        "quantity": "width",
+        "quantity": "gap-between-buttons",
         "value": 2,
         "page": 3,
         "unit": "mm",
@@ -14814,7 +14830,7 @@
       },
       {
         "feature": "volume-buttons",
-        "quantity": "upper-centre-from-top",
+        "quantity": "upper-button-top-edge-from-top",
         "value": 19.49,
         "page": 3,
         "unit": "mm",
@@ -14822,7 +14838,7 @@
       },
       {
         "feature": "volume-buttons",
-        "quantity": "lower-centre-from-top",
+        "quantity": "lower-button-top-edge-from-top",
         "value": 31.55,
         "page": 3,
         "unit": "mm",
@@ -14902,7 +14918,7 @@
       },
       {
         "feature": "volume-button",
-        "quantity": "section-half-width",
+        "quantity": "section-nearest-edge-to-cover-glass",
         "value": 1.81,
         "page": 5,
         "unit": "mm",
@@ -14910,7 +14926,7 @@
       },
       {
         "feature": "inductive-charger-window",
-        "quantity": "section-half-width",
+        "quantity": "section-width",
         "value": 3.11,
         "page": 5,
         "unit": "mm",
@@ -14946,6 +14962,14 @@
         "value": 4.09,
         "page": 5,
         "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "width",
+        "value": 2.56,
+        "unit": "mm",
+        "page": 3,
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
       }
     ],
@@ -17000,7 +17024,7 @@
       },
       {
         "feature": "volume-buttons",
-        "quantity": "width",
+        "quantity": "gap-between-buttons",
         "value": 2,
         "page": 3,
         "unit": "mm",
@@ -17008,7 +17032,7 @@
       },
       {
         "feature": "volume-buttons",
-        "quantity": "upper-centre-from-top",
+        "quantity": "upper-button-top-edge-from-top",
         "value": 19.49,
         "page": 3,
         "unit": "mm",
@@ -17016,7 +17040,7 @@
       },
       {
         "feature": "volume-buttons",
-        "quantity": "lower-centre-from-top",
+        "quantity": "lower-button-top-edge-from-top",
         "value": 31.55,
         "page": 3,
         "unit": "mm",
@@ -17096,7 +17120,7 @@
       },
       {
         "feature": "volume-button",
-        "quantity": "section-half-width",
+        "quantity": "section-nearest-edge-to-cover-glass",
         "value": 1.81,
         "page": 5,
         "unit": "mm",
@@ -17104,7 +17128,7 @@
       },
       {
         "feature": "inductive-charger-window",
-        "quantity": "section-half-width",
+        "quantity": "section-width",
         "value": 2.99,
         "page": 5,
         "unit": "mm",
@@ -17124,6 +17148,14 @@
         "value": 0.05,
         "page": 3,
         "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "width",
+        "value": 2.56,
+        "unit": "mm",
+        "page": 3,
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
       }
     ],
@@ -20642,7 +20674,7 @@
       },
       {
         "feature": "volume-buttons",
-        "quantity": "width",
+        "quantity": "gap-between-buttons",
         "value": 2,
         "page": 3,
         "unit": "mm",
@@ -20650,7 +20682,7 @@
       },
       {
         "feature": "volume-buttons",
-        "quantity": "upper-centre-from-top",
+        "quantity": "upper-button-top-edge-from-top",
         "value": 19.49,
         "page": 3,
         "unit": "mm",
@@ -20658,7 +20690,7 @@
       },
       {
         "feature": "volume-buttons",
-        "quantity": "lower-centre-from-top",
+        "quantity": "lower-button-top-edge-from-top",
         "value": 31.55,
         "page": 3,
         "unit": "mm",
@@ -20738,7 +20770,7 @@
       },
       {
         "feature": "volume-button",
-        "quantity": "section-half-width",
+        "quantity": "section-nearest-edge-to-cover-glass",
         "value": 1.81,
         "page": 5,
         "unit": "mm",
@@ -20746,7 +20778,7 @@
       },
       {
         "feature": "inductive-charger-window",
-        "quantity": "section-half-width",
+        "quantity": "section-width",
         "value": 2.99,
         "page": 5,
         "unit": "mm",
@@ -20766,6 +20798,14 @@
         "value": 0.05,
         "page": 3,
         "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "width",
+        "value": 2.56,
+        "unit": "mm",
+        "page": 3,
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
       }
     ],
@@ -24284,7 +24324,7 @@
       },
       {
         "feature": "volume-buttons",
-        "quantity": "width",
+        "quantity": "gap-between-buttons",
         "value": 2,
         "page": 3,
         "unit": "mm",
@@ -24292,7 +24332,7 @@
       },
       {
         "feature": "volume-buttons",
-        "quantity": "upper-centre-from-top",
+        "quantity": "upper-button-top-edge-from-top",
         "value": 19.49,
         "page": 3,
         "unit": "mm",
@@ -24300,7 +24340,7 @@
       },
       {
         "feature": "volume-buttons",
-        "quantity": "lower-centre-from-top",
+        "quantity": "lower-button-top-edge-from-top",
         "value": 31.55,
         "page": 3,
         "unit": "mm",
@@ -24380,7 +24420,7 @@
       },
       {
         "feature": "volume-button",
-        "quantity": "section-half-width",
+        "quantity": "section-nearest-edge-to-cover-glass",
         "value": 1.81,
         "page": 5,
         "unit": "mm",
@@ -24388,7 +24428,7 @@
       },
       {
         "feature": "inductive-charger-window",
-        "quantity": "section-half-width",
+        "quantity": "section-width",
         "value": 2.99,
         "page": 5,
         "unit": "mm",
@@ -24408,6 +24448,14 @@
         "value": 0.05,
         "page": 3,
         "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "width",
+        "value": 2.56,
+        "unit": "mm",
+        "page": 3,
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
       }
     ],
@@ -32102,6 +32150,139 @@
         "unit": "mm",
         "page": 5,
         "detail": "G-G"
+      },
+      {
+        "feature": "cellular-top-front-antenna-keepout",
+        "quantity": "depth-from-top",
+        "value": 20.34,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "cellular-top-front-antenna-keepout",
+        "quantity": "inset-from-each-side",
+        "value": 25.13,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "bottom-front-glass-metal-keepout",
+        "quantity": "height-from-bottom",
+        "value": 15.07,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "bottom-front-glass-metal-keepout",
+        "quantity": "inset-from-each-side",
+        "value": 6.39,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "bottom-front-glass-metal-keepout",
+        "quantity": "width-per-side",
+        "value": 38.7,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "sleep-wake-button",
+        "quantity": "right-edge-from-right",
+        "value": 9.37,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "sleep-wake-button",
+        "quantity": "top-view-depth-reference",
+        "value": 4.11,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "sim-tray",
+        "quantity": "length",
+        "value": 15.94,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "sim-tray",
+        "quantity": "bottom-edge-from-bottom",
+        "value": 24.44,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "speaker-array",
+        "quantity": "near-end-from-outer-side",
+        "value": 46.39,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "speaker-array",
+        "quantity": "far-end-from-outer-side",
+        "value": 75.23,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "speaker-holes",
+        "quantity": "front-surface-to-centre-bottom-view",
+        "value": 3.52,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "speaker-slots",
+        "quantity": "height-bottom-view",
+        "value": 1.42,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "speaker-opening",
+        "quantity": "rear-view-distance-from-bottom",
+        "value": 1.17,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "lightning-port",
+        "quantity": "bottom-view-centre-from-front",
+        "value": 4.23,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "lightning-port",
+        "quantity": "centre-from-each-side",
+        "value": 87.04,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "lightning-connector-keepout",
+        "quantity": "side-reference-from-body-edge",
+        "value": 80.21,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "lightning-and-pencil-insertion",
+        "quantity": "section-connector-region-offset",
+        "value": 2.73,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "home-button",
+        "quantity": "centre-from-right",
+        "value": 87.04,
+        "unit": "mm",
+        "page": 2
       }
     ],
     "profiles": [
@@ -32159,7 +32340,7 @@
         "note": "Separate printed ordinate sets; preserve source datum rather than assuming portrait-body axes."
       }
     ],
-    "reviewScope": "Named imaging/acoustic/button/Lightning/Pencil/smart-contact dimensions, ninth-generation ambient-light-sensor positions, section angles and two housing profiles. Shared drawing also discusses seventh/eighth generation but their different front sensors are not conflated. Magnet tables and some antenna/section coordinates remain incomplete. Magnetic page 3: explicit cover/spine segment boundary references and polarities, section angles, Hall sensor and compass locations; no undimensioned segment depth or transverse extent inferred. Section and detail sheet: button, microphone, SIM tray and speaker section offsets, angles, and independent edge/corner contour ordinates.",
+    "reviewScope": "Named imaging/acoustic/button/Lightning/Pencil/smart-contact dimensions, ninth-generation ambient-light-sensor positions, section angles and two housing profiles. Shared drawing also discusses seventh/eighth generation but their different front sensors are not conflated. Magnet tables and some antenna/section coordinates remain incomplete. Magnetic page 3: explicit cover/spine segment boundary references and polarities, section angles, Hall sensor and compass locations; no undimensioned segment depth or transverse extent inferred. Section and detail sheet: button, microphone, SIM tray and speaker section offsets, angles, and independent edge/corner contour ordinates. Front sheet remaining antenna/glass metal-exclusion boundary offsets, acoustic array references, controls and Lightning/Pencil insertion section references reviewed.",
     "features": {
       "magneticMounting": {
         "coordinateConvention": "Landscape front view, camera at left and home button at right; origin at product centre; +x right and +y up. Callouts are parenthesized reference dimensions. Intervals describe depicted segment boundaries, not magnet centres. Undimensioned transverse positions and depths remain null.",
@@ -32832,6 +33013,12 @@
             }
           }
         }
+      },
+      "antennaKeepoutNotes": {
+        "topFront": "Cellular only. Hatched top front glass region: no metal obstruction.",
+        "topRear": "Cellular only. Keepout includes the entire plastic rear window; no metal obstruction.",
+        "bottomFront": "No metal obstruction in the two hatched glass regions.",
+        "coordinateConvention": "Front portrait view; named boundary offsets are measured from the stated exterior body edge. Keepouts follow the depicted housing/glass boundary and are not rectangular polygons reconstructed from raw OCR."
       }
     },
     "ambiguities": [
@@ -35422,7 +35609,7 @@
       {
         "feature": "rear-camera-lens",
         "quantity": "diameter",
-        "value": 9.65,
+        "value": 9.85,
         "page": 3,
         "unit": "mm",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
@@ -35509,7 +35696,7 @@
       },
       {
         "feature": "volume-buttons",
-        "quantity": "width",
+        "quantity": "gap-between-buttons",
         "value": 2,
         "page": 3,
         "unit": "mm",
@@ -35517,7 +35704,7 @@
       },
       {
         "feature": "volume-buttons",
-        "quantity": "upper-centre-from-top",
+        "quantity": "upper-button-top-edge-from-top",
         "value": 19.49,
         "page": 3,
         "unit": "mm",
@@ -35525,7 +35712,7 @@
       },
       {
         "feature": "volume-buttons",
-        "quantity": "lower-centre-from-top",
+        "quantity": "lower-button-top-edge-from-top",
         "value": 31.55,
         "page": 3,
         "unit": "mm",
@@ -35717,6 +35904,69 @@
         "value": 102.43,
         "unit": "mm",
         "page": 6
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "width",
+        "value": 2.56,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "sim-tray",
+        "quantity": "length",
+        "value": 15.48,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "sim-tray",
+        "quantity": "bottom-edge-from-bottom",
+        "value": 21.15,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "centre-from-bottom",
+        "value": 12,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "x-from-body-centre-in-rear-view",
+        "value": -76.57,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "y-from-body-centre-in-rear-view",
+        "value": 111.12,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "x-from-body-centre-in-rear-view",
+        "value": -76.57,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "y-from-body-centre-in-rear-view",
+        "value": 96.2,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "rear-camera-edge-profile",
+        "quantity": "corner-radius",
+        "value": 0.12,
+        "unit": "mm",
+        "page": 3
       }
     ],
     "profiles": [
@@ -35789,9 +36039,37 @@
           13.13
         ],
         "note": "Separate printed ordinate sets; not paired polygon vertices."
+      },
+      {
+        "feature": "rear-camera-edge-profile",
+        "detail": "K",
+        "page": 3,
+        "unit": "mm",
+        "coordinateConvention": "Local detail K datum; x right and y up. Signs as printed.",
+        "coordinateStatus": "reviewed-unpaired-ordinates",
+        "x": [
+          -1.93,
+          -1.74,
+          -1.48,
+          -1.14,
+          -0.79,
+          -0.46,
+          -0.14,
+          0
+        ],
+        "y": [
+          0,
+          0.01,
+          0.07,
+          0.21,
+          0.47,
+          0.83,
+          2.52
+        ],
+        "note": "Independent printed ordinate sets, not paired polygon points."
       }
     ],
-    "reviewScope": "Fifth-generation camera/ALS, acoustic, button, rear-camera and connector dimensions reviewed. Although its title also mentions fourth generation, front camera dimensions are not applied to that older model: its own drawing specifies different geometry. Generation-specific magnetic page: BV/A coordinates and complete tabulated surface/inside polarity, CG contacts, sensor coordinates and partial PM/SP/OR references. Modern Air magnetic flux regions or sensor depths are not copied to this older drawing. Edge/corner ordinate sets, all labelled section dimensions and antenna offsets reviewed.",
+    "reviewScope": "Fifth-generation camera/ALS, acoustic, button, rear-camera and connector dimensions reviewed. Although its title also mentions fourth generation, front camera dimensions are not applied to that older model: its own drawing specifies different geometry. Generation-specific magnetic page: BV/A coordinates and complete tabulated surface/inside polarity, CG contacts, sensor coordinates and partial PM/SP/OR references. Modern Air magnetic flux regions or sensor depths are not copied to this older drawing. Edge/corner ordinate sets, all labelled section dimensions and antenna offsets reviewed. Rear sheet reviewed: camera mounting and contour, volume-button gap and width, SIM tray and connector geometry.",
     "features": {
       "magnetDetail": {
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf",
@@ -37645,6 +37923,7 @@
     "id": "ipad-air-4th-generation",
     "sourcePagesReviewed": [
       2,
+      3,
       4,
       5,
       6
@@ -37905,6 +38184,221 @@
         "value": 102.43,
         "unit": "mm",
         "page": 6
+      },
+      {
+        "feature": "rear-camera-lens",
+        "quantity": "diameter",
+        "value": 9.85,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "rear-camera-side-wall",
+        "quantity": "diameter",
+        "value": 11.89,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "rear-camera-mount",
+        "quantity": "diameter",
+        "value": 16.92,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "rear-camera-keepout",
+        "quantity": "minimum-surface-width",
+        "value": 3.21,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "rear-microphone-keepout",
+        "quantity": "diameter",
+        "value": 2.9,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "centre-from-top",
+        "value": 12.7,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "centre-from-left-rear-view",
+        "value": 12.68,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "centre-from-top",
+        "value": 27.62,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "depth-to-cover-glass",
+        "value": 8.2,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "rear-camera-window",
+        "quantity": "protrusion-from-housing-back",
+        "value": 2.08,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "length",
+        "value": 10.06,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "gap-between-buttons",
+        "value": 2,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "upper-button-top-edge-from-top",
+        "value": 19.49,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "lower-button-top-edge-from-top",
+        "value": 31.55,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "diameter",
+        "value": 3.4,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "adjacent-centre-spacing",
+        "value": 4.97,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "smart-connector-enclosure-opening",
+        "quantity": "diameter",
+        "value": 3.96,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "distance-to-enclosure",
+        "value": 10.05,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "rear-camera-keepout",
+        "quantity": "included-angle",
+        "value": 77,
+        "page": 3,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "width",
+        "value": 2.56,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "sim-tray",
+        "quantity": "length",
+        "value": 15.48,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "sim-tray",
+        "quantity": "bottom-edge-from-bottom",
+        "value": 21.15,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "centre-from-bottom",
+        "value": 12,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "x-from-body-centre-in-rear-view",
+        "value": -76.57,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "y-from-body-centre-in-rear-view",
+        "value": 111.12,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "x-from-body-centre-in-rear-view",
+        "value": -76.57,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "y-from-body-centre-in-rear-view",
+        "value": 96.2,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "rear-camera-edge-profile",
+        "quantity": "corner-radius",
+        "value": 0.12,
+        "unit": "mm",
+        "page": 3
       }
     ],
     "profiles": [
@@ -37977,9 +38471,37 @@
           13.13
         ],
         "note": "Separate printed ordinate sets; not paired polygon vertices."
+      },
+      {
+        "feature": "rear-camera-edge-profile",
+        "detail": "K",
+        "page": 3,
+        "unit": "mm",
+        "coordinateConvention": "Local detail K datum; x right and y up. Signs as printed.",
+        "coordinateStatus": "reviewed-unpaired-ordinates",
+        "x": [
+          -1.93,
+          -1.74,
+          -1.48,
+          -1.14,
+          -0.79,
+          -0.46,
+          -0.14,
+          0
+        ],
+        "y": [
+          0,
+          0.01,
+          0.07,
+          0.21,
+          0.47,
+          0.83,
+          2.52
+        ],
+        "note": "Independent printed ordinate sets, not paired polygon points."
       }
     ],
-    "reviewScope": "Fourth-generation own front camera/ALS, acoustic, button and connector dimensions from its PDF page2. Front camera keepout differs substantially from fifth-generation even though the newer drawing title lists both. Generation-specific magnetic page: BV/A coordinates and complete tabulated surface/inside polarity, CG contacts, sensor coordinates and partial PM/SP/OR references. Modern Air magnetic flux regions or sensor depths are not copied to this older drawing. Edge/corner ordinate sets, all labelled section dimensions and antenna offsets reviewed.",
+    "reviewScope": "Fourth-generation own front camera/ALS, acoustic, button and connector dimensions from its PDF page2. Front camera keepout differs substantially from fifth-generation even though the newer drawing title lists both. Generation-specific magnetic page: BV/A coordinates and complete tabulated surface/inside polarity, CG contacts, sensor coordinates and partial PM/SP/OR references. Modern Air magnetic flux regions or sensor depths are not copied to this older drawing. Edge/corner ordinate sets, all labelled section dimensions and antenna offsets reviewed. Rear sheet reviewed: camera mounting and contour, volume-button gap and width, SIM tray and connector geometry.",
     "features": {
       "magnetDetail": {
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf",
@@ -40149,8 +40671,8 @@
         "unit": "mm"
       },
       {
-        "feature": "smart-connector-housing",
-        "quantity": "height",
+        "feature": "smart-connector-enclosure-opening",
+        "quantity": "diameter",
         "value": 3.96,
         "page": 3,
         "unit": "mm"
@@ -40171,7 +40693,7 @@
       },
       {
         "feature": "volume-button",
-        "quantity": "width",
+        "quantity": "gap-between-buttons",
         "value": 2,
         "page": 3,
         "unit": "mm"
@@ -40224,6 +40746,13 @@
         "value": 3,
         "page": 3,
         "unit": "mm"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "side-view-width",
+        "value": 2.56,
+        "unit": "mm",
+        "page": 3
       }
     ],
     "reviewScope": "Front sensor locations, named front/rear imaging and acoustic keepouts, apertures, smart contacts, camera protrusions and volume-button dimensions. Remaining connector sections, magnetic tables and local contours are not yet semantically normalized."
@@ -40548,8 +41077,8 @@
         "unit": "mm"
       },
       {
-        "feature": "smart-connector-housing",
-        "quantity": "height",
+        "feature": "smart-connector-enclosure-opening",
+        "quantity": "diameter",
         "value": 3.96,
         "page": 3,
         "unit": "mm"
@@ -40570,7 +41099,7 @@
       },
       {
         "feature": "volume-button",
-        "quantity": "width",
+        "quantity": "gap-between-buttons",
         "value": 2,
         "page": 3,
         "unit": "mm"
@@ -40623,6 +41152,13 @@
         "value": 3,
         "page": 3,
         "unit": "mm"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "side-view-width",
+        "value": 2.56,
+        "unit": "mm",
+        "page": 3
       }
     ],
     "reviewScope": "Front sensor locations, named front/rear imaging and acoustic keepouts, apertures, smart contacts, camera protrusions and volume-button dimensions. Remaining connector sections, magnetic tables and local contours are not yet semantically normalized."
@@ -40947,8 +41483,8 @@
         "unit": "mm"
       },
       {
-        "feature": "smart-connector-housing",
-        "quantity": "height",
+        "feature": "smart-connector-enclosure-opening",
+        "quantity": "diameter",
         "value": 3.96,
         "page": 3,
         "unit": "mm"
@@ -40969,7 +41505,7 @@
       },
       {
         "feature": "volume-button",
-        "quantity": "width",
+        "quantity": "gap-between-buttons",
         "value": 2,
         "page": 3,
         "unit": "mm"
@@ -41022,6 +41558,13 @@
         "value": 3.24,
         "page": 3,
         "unit": "mm"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "side-view-width",
+        "value": 2.46,
+        "unit": "mm",
+        "page": 3
       }
     ],
     "reviewScope": "Front sensor locations, named front/rear imaging and acoustic keepouts, apertures, smart contacts, camera protrusions and volume-button dimensions. Remaining connector sections, magnetic tables and local contours are not yet semantically normalized."
@@ -41346,8 +41889,8 @@
         "unit": "mm"
       },
       {
-        "feature": "smart-connector-housing",
-        "quantity": "height",
+        "feature": "smart-connector-enclosure-opening",
+        "quantity": "diameter",
         "value": 3.96,
         "page": 3,
         "unit": "mm"
@@ -41368,7 +41911,7 @@
       },
       {
         "feature": "volume-button",
-        "quantity": "width",
+        "quantity": "gap-between-buttons",
         "value": 2,
         "page": 3,
         "unit": "mm"
@@ -41421,6 +41964,13 @@
         "value": 3.24,
         "page": 3,
         "unit": "mm"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "side-view-width",
+        "value": 2.46,
+        "unit": "mm",
+        "page": 3
       }
     ],
     "reviewScope": "Front sensor locations, named front/rear imaging and acoustic keepouts, apertures, smart contacts, camera protrusions and volume-button dimensions. Remaining connector sections, magnetic tables and local contours are not yet semantically normalized."
@@ -41610,7 +42160,7 @@
       },
       {
         "feature": "home-button",
-        "quantity": "diameter",
+        "quantity": "center-from-bottom",
         "value": 10.06,
         "unit": "mm",
         "page": 2
@@ -41623,8 +42173,8 @@
         "page": 2
       },
       {
-        "feature": "home-button",
-        "quantity": "center-from-bottom",
+        "feature": "display-active-area",
+        "quantity": "side-margin",
         "value": 9.28,
         "unit": "mm",
         "page": 2
@@ -41871,9 +42421,142 @@
         "value": 120,
         "unit": "degree",
         "page": 3
+      },
+      {
+        "feature": "cellular-top-front-antenna-keepout",
+        "quantity": "depth-from-top",
+        "value": 20.34,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "cellular-top-front-antenna-keepout",
+        "quantity": "inset-from-each-side",
+        "value": 25.13,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "bottom-front-glass-metal-keepout",
+        "quantity": "height-from-bottom",
+        "value": 15.07,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "bottom-front-glass-metal-keepout",
+        "quantity": "inset-from-each-side",
+        "value": 6.39,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "bottom-front-glass-metal-keepout",
+        "quantity": "width-per-side",
+        "value": 38.7,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "sleep-wake-button",
+        "quantity": "right-edge-from-right",
+        "value": 9.37,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "sleep-wake-button",
+        "quantity": "top-view-depth-reference",
+        "value": 4.11,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "sim-tray",
+        "quantity": "length",
+        "value": 15.94,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "sim-tray",
+        "quantity": "bottom-edge-from-bottom",
+        "value": 24.44,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "speaker-array",
+        "quantity": "near-end-from-outer-side",
+        "value": 46.39,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "speaker-array",
+        "quantity": "far-end-from-outer-side",
+        "value": 75.23,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "speaker-holes",
+        "quantity": "front-surface-to-centre-bottom-view",
+        "value": 3.52,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "speaker-slots",
+        "quantity": "height-bottom-view",
+        "value": 1.42,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "speaker-opening",
+        "quantity": "rear-view-distance-from-bottom",
+        "value": 1.17,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "lightning-port",
+        "quantity": "bottom-view-centre-from-front",
+        "value": 4.23,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "lightning-port",
+        "quantity": "centre-from-each-side",
+        "value": 87.04,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "lightning-connector-keepout",
+        "quantity": "side-reference-from-body-edge",
+        "value": 80.21,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "lightning-and-pencil-insertion",
+        "quantity": "section-connector-region-offset",
+        "value": 2.73,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "home-button",
+        "quantity": "centre-from-right",
+        "value": 87.04,
+        "unit": "mm",
+        "page": 2
       }
     ],
-    "reviewScope": "Page 2 front/rear cameras, ALS, buttons, microphones, Lightning/Pencil/audio-jack clearances and smart contacts reviewed from the generation-specific drawing. Remaining antenna, magnet and section/contour geometry incomplete. Magnetic page 3: explicit cover/spine segment boundary references and polarities, section angles, Hall sensor and compass locations; no undimensioned segment depth or transverse extent inferred. Section and detail sheet: button, microphone, SIM tray and speaker section offsets, angles, and independent edge/corner contour ordinates.",
+    "reviewScope": "Page 2 front/rear cameras, ALS, buttons, microphones, Lightning/Pencil/audio-jack clearances and smart contacts reviewed from the generation-specific drawing. Remaining antenna, magnet and section/contour geometry incomplete. Magnetic page 3: explicit cover/spine segment boundary references and polarities, section angles, Hall sensor and compass locations; no undimensioned segment depth or transverse extent inferred. Section and detail sheet: button, microphone, SIM tray and speaker section offsets, angles, and independent edge/corner contour ordinates. Front sheet remaining antenna/glass metal-exclusion boundary offsets, acoustic array references, controls and Lightning/Pencil insertion section references reviewed.",
     "features": {
       "magneticMounting": {
         "coordinateConvention": "Landscape front view, camera at left and home button at right; origin at product centre; +x right and +y up. Callouts are parenthesized reference dimensions. Intervals describe depicted segment boundaries, not magnet centres. Undimensioned transverse positions and depths remain null.",
@@ -42546,6 +43229,12 @@
             }
           }
         }
+      },
+      "antennaKeepoutNotes": {
+        "topFront": "Cellular only. Hatched top front glass region: no metal obstruction.",
+        "topRear": "Cellular only. Keepout includes the entire plastic rear window; no metal obstruction.",
+        "bottomFront": "No metal obstruction in the two hatched glass regions.",
+        "coordinateConvention": "Front portrait view; named boundary offsets are measured from the stated exterior body edge. Keepouts follow the depicted housing/glass boundary and are not rectangular polygons reconstructed from raw OCR."
       }
     },
     "ambiguities": [

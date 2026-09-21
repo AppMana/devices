@@ -73,7 +73,7 @@ test('feature geometry retains source meaning and separate contour axes', () => 
  assert.equal(findDevice('iphone-16e').features.connectorKeepout.dimensions.endRadius.value,3.25);
  assert.equal(findDevice('iphone-17e').features.connectorKeepout.dimensions.endRadius.value,3.30);
  const air=findDevice('ipad-air-11-inch-m2').additionalDimensions.find(v=>v.feature==='rear-camera-lens');
- assert.equal(air.value,9.65);assert.ok(air.source.endsWith('ipad-air-11-inch-m4.pdf'));
+ assert.equal(air.value,9.85);assert.ok(air.source.endsWith('ipad-air-11-inch-m4.pdf'));
  assert.equal(findDevice('ipad-a16').features.generalDrawingTolerances.dimensions.twoDecimals.value,.1);
 });
 
@@ -118,4 +118,21 @@ test('Watch tables preserve paired local axes independently of unpaired profiles
  assert.equal(old.kind,'independent-ordinate-sequence');
  assert.equal(old.points,undefined);
  const table=getTable();assert.ok(table.coverage.contourOrdinateValues>2000);
+});
+
+
+test('magnetic segment boundaries remain distinct from centers and revisions', () => {
+ const a=findDevice('ipad-8th-generation').features.magneticMounting;
+ const b=findDevice('ipad-9th-generation').features.magneticMounting;
+ assert.equal(a.coverFlap.segments.length,10);
+ assert.equal(b.spine.leftSegments.length,12);
+ assert.equal(a.coverFlap.segments[0].xMin.value,-47.38);
+ assert.equal(b.coverFlap.segments[0].xMin.value,-47.37);
+ assert.equal(a.coverFlap.yMin,null);
+ assert.equal(a.coverFlap.polarityFacing,'cover glass');
+ assert.equal(a.spine.polarityFacing,'outside of product');
+ assert.equal(a.sensors.hallEffect1.x.value,-113.41);
+ const dims=findDevice('ipad-air-5th-generation').additionalDimensions;
+ assert.equal(dims.find(x=>x.feature==='volume-buttons' && x.quantity==='width').value,2.56);
+ assert.equal(dims.find(x=>x.feature==='volume-buttons' && x.quantity==='gap-between-buttons').value,2);
 });
