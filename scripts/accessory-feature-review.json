@@ -3489,5 +3489,1494 @@
       }
     ],
     "reviewScope": "Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+  },
+  {
+    "id": "airpods-max",
+    "sourcePagesReviewed": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "headband-as-worn",
+        "quantity": "depth",
+        "value": 44.15,
+        "unit": "mm",
+        "page": 4,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "canopy-as-worn",
+        "quantity": "depth",
+        "value": 30.75,
+        "unit": "mm",
+        "page": 4,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "headband-arm",
+        "quantity": "depth",
+        "value": 11.22,
+        "unit": "mm",
+        "page": 4,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "headband-as-worn",
+        "quantity": "front-offset-from-depth-datum",
+        "value": 19.65,
+        "unit": "mm",
+        "page": 4,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "headband-as-worn",
+        "quantity": "center-offset-from-depth-datum",
+        "value": 41.72,
+        "unit": "mm",
+        "page": 4,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "canopy-as-worn",
+        "quantity": "apex-height-from-base",
+        "value": 167.85,
+        "unit": "mm",
+        "page": 4,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "headband-as-worn",
+        "quantity": "outer-apex-height-above-canopy",
+        "value": 19.43,
+        "unit": "mm",
+        "page": 4,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "headband-as-worn",
+        "quantity": "inner-apex-height-above-canopy",
+        "value": 12.83,
+        "unit": "mm",
+        "page": 4,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "earcups-as-worn",
+        "quantity": "minimum-gap",
+        "value": 9.82,
+        "unit": "mm",
+        "page": 4,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "earcup-and-cushion",
+        "quantity": "width",
+        "value": 43.06,
+        "unit": "mm",
+        "page": 4,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "earcup-and-cushion",
+        "quantity": "length",
+        "value": 103.39,
+        "unit": "mm",
+        "page": 4,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "earcups-as-stowed",
+        "quantity": "minimum-gap",
+        "value": 7.1,
+        "unit": "mm",
+        "page": 4,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "earcups-as-stowed",
+        "quantity": "height",
+        "value": 104.54,
+        "unit": "mm",
+        "page": 4,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "cushion-as-stowed",
+        "quantity": "end-section-offset",
+        "value": 7.79,
+        "unit": "mm",
+        "page": 4,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-lightning-top-front-microphone",
+        "quantity": "width",
+        "value": 1.66,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-lightning-top-rear-microphone",
+        "quantity": "width",
+        "value": 1.66,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-lightning-top-front-microphone",
+        "quantity": "depth-from-cushion-plane",
+        "value": 8.92,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-lightning-top-rear-microphone",
+        "quantity": "depth-from-cushion-plane",
+        "value": 8.92,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-lightning-bottom-microphone",
+        "quantity": "width",
+        "value": 3.3,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-lightning-bottom-microphone",
+        "quantity": "height",
+        "value": 1.67,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-lightning-bottom-microphone",
+        "quantity": "horizontal-start-ordinate",
+        "value": 40.07,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-lightning-bottom-microphone",
+        "quantity": "side-depth-ordinate",
+        "value": 8.91,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-lightning-bottom-acoustic-opening",
+        "quantity": "width",
+        "value": 0.9,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-lightning-bottom-acoustic-opening",
+        "quantity": "side-depth-ordinate",
+        "value": 9.27,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-lightning-noise-control-button",
+        "quantity": "width",
+        "value": 5.36,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-lightning-top-acoustic-section",
+        "quantity": "span",
+        "value": 9.79,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-lightning-digital-crown",
+        "quantity": "section-diameter",
+        "value": 12,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-lightning-digital-crown",
+        "quantity": "protrusion",
+        "value": 2.43,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-lightning-noise-control-button",
+        "quantity": "section-length",
+        "value": 10.5,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-lightning-noise-control-button",
+        "quantity": "protrusion",
+        "value": 4.37,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-lightning-top-microphone-front",
+        "quantity": "section-length",
+        "value": 5.94,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-lightning-top-microphone-rear",
+        "quantity": "section-length",
+        "value": 5.94,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-lightning-top-microphone-front",
+        "quantity": "section-centerline-offset",
+        "value": 28.37,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-lightning-top-microphone-rear",
+        "quantity": "section-centerline-offset",
+        "value": 28.37,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-lightning-status-led",
+        "quantity": "diameter",
+        "value": 0.81,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-lightning-charging-port",
+        "quantity": "height",
+        "value": 2.98,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-lightning-charging-port",
+        "quantity": "width",
+        "value": 8.74,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-lightning-charging-port",
+        "quantity": "horizontal-start-ordinate",
+        "value": 37.35,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-lightning-charging-port",
+        "quantity": "side-depth-ordinate",
+        "value": 11.84,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-lightning-status-led",
+        "quantity": "horizontal-ordinate",
+        "value": 48.25,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-lightning-connector-keepout",
+        "quantity": "width",
+        "value": 13.65,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-lightning-connector-keepout",
+        "quantity": "height",
+        "value": 6.85,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-lightning-lower-acoustic-section",
+        "quantity": "long-opening-length",
+        "value": 10.13,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-lightning-lower-acoustic-section",
+        "quantity": "short-opening-length",
+        "value": 3.64,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-lightning-lower-acoustic-section",
+        "quantity": "inner-horizontal-ordinate",
+        "value": 20.35,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-lightning-lower-acoustic-section",
+        "quantity": "outer-horizontal-ordinate",
+        "value": 25.14,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-usb-c-top-front-microphone",
+        "quantity": "width",
+        "value": 1.66,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-usb-c-top-rear-microphone",
+        "quantity": "width",
+        "value": 1.66,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-usb-c-top-front-microphone",
+        "quantity": "depth-from-cushion-plane",
+        "value": 8.92,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-usb-c-top-rear-microphone",
+        "quantity": "depth-from-cushion-plane",
+        "value": 8.92,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-usb-c-bottom-microphone",
+        "quantity": "width",
+        "value": 3.3,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-usb-c-bottom-microphone",
+        "quantity": "height",
+        "value": 1.67,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-usb-c-bottom-microphone",
+        "quantity": "horizontal-start-ordinate",
+        "value": 40.07,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-usb-c-bottom-microphone",
+        "quantity": "side-depth-ordinate",
+        "value": 8.91,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-usb-c-bottom-acoustic-opening",
+        "quantity": "width",
+        "value": 0.9,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-usb-c-bottom-acoustic-opening",
+        "quantity": "side-depth-ordinate",
+        "value": 9.27,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-usb-c-noise-control-button",
+        "quantity": "width",
+        "value": 5.36,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-usb-c-top-acoustic-section",
+        "quantity": "span",
+        "value": 9.79,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-usb-c-digital-crown",
+        "quantity": "section-diameter",
+        "value": 12,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-usb-c-digital-crown",
+        "quantity": "protrusion",
+        "value": 2.43,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-usb-c-noise-control-button",
+        "quantity": "section-length",
+        "value": 10.5,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-usb-c-noise-control-button",
+        "quantity": "protrusion",
+        "value": 4.37,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-usb-c-top-microphone-front",
+        "quantity": "section-length",
+        "value": 5.94,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-usb-c-top-microphone-rear",
+        "quantity": "section-length",
+        "value": 5.94,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-usb-c-top-microphone-front",
+        "quantity": "section-centerline-offset",
+        "value": 28.37,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-usb-c-top-microphone-rear",
+        "quantity": "section-centerline-offset",
+        "value": 28.37,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-usb-c-status-led",
+        "quantity": "diameter",
+        "value": 0.81,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-usb-c-charging-port",
+        "quantity": "height",
+        "value": 3.63,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-usb-c-charging-port",
+        "quantity": "width",
+        "value": 9.49,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-usb-c-charging-port",
+        "quantity": "horizontal-start-ordinate",
+        "value": 36.97,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-usb-c-charging-port",
+        "quantity": "side-depth-ordinate",
+        "value": 11.51,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-usb-c-status-led",
+        "quantity": "horizontal-ordinate",
+        "value": 48.64,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-usb-c-connector-keepout",
+        "quantity": "width",
+        "value": 12.45,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-usb-c-connector-keepout",
+        "quantity": "height",
+        "value": 6.6,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-usb-c-lower-acoustic-section",
+        "quantity": "long-opening-length",
+        "value": 10.13,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-usb-c-lower-acoustic-section",
+        "quantity": "short-opening-length",
+        "value": 3.64,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-usb-c-lower-acoustic-section",
+        "quantity": "inner-horizontal-ordinate",
+        "value": 20.35,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "right-usb-c-lower-acoustic-section",
+        "quantity": "outer-horizontal-ordinate",
+        "value": 25.14,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "left-top-front-microphone",
+        "quantity": "width",
+        "value": 1.66,
+        "unit": "mm",
+        "page": 7,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "left-top-rear-microphone",
+        "quantity": "width",
+        "value": 1.66,
+        "unit": "mm",
+        "page": 7,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "left-top-front-microphone",
+        "quantity": "depth-from-cushion-plane",
+        "value": 8.92,
+        "unit": "mm",
+        "page": 7,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "left-top-rear-microphone",
+        "quantity": "depth-from-cushion-plane",
+        "value": 8.92,
+        "unit": "mm",
+        "page": 7,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "left-bottom-microphone",
+        "quantity": "width",
+        "value": 3.3,
+        "unit": "mm",
+        "page": 7,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "left-bottom-microphone",
+        "quantity": "height",
+        "value": 1.67,
+        "unit": "mm",
+        "page": 7,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "left-bottom-microphone",
+        "quantity": "horizontal-start-ordinate",
+        "value": 40.07,
+        "unit": "mm",
+        "page": 7,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "left-bottom-microphone",
+        "quantity": "side-depth-ordinate",
+        "value": 8.91,
+        "unit": "mm",
+        "page": 7,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "left-bottom-acoustic-opening",
+        "quantity": "width",
+        "value": 0.9,
+        "unit": "mm",
+        "page": 7,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "left-bottom-acoustic-opening",
+        "quantity": "side-depth-ordinate",
+        "value": 9.27,
+        "unit": "mm",
+        "page": 7,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "left-top-microphone-front",
+        "quantity": "section-length",
+        "value": 5.94,
+        "unit": "mm",
+        "page": 7,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "left-top-microphone-rear",
+        "quantity": "section-length",
+        "value": 11.8,
+        "unit": "mm",
+        "page": 7,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "left-top-microphone-front",
+        "quantity": "section-centerline-offset",
+        "value": 28.36,
+        "unit": "mm",
+        "page": 7,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "left-top-microphone-rear",
+        "quantity": "section-centerline-offset",
+        "value": 25.98,
+        "unit": "mm",
+        "page": 7,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "left-antenna-window",
+        "quantity": "width",
+        "value": 1.2,
+        "unit": "mm",
+        "page": 7,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "left-antenna-window",
+        "quantity": "side-depth-ordinate",
+        "value": 12.73,
+        "unit": "mm",
+        "page": 7,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "left-lower-acoustic-section",
+        "quantity": "long-opening-length",
+        "value": 10.13,
+        "unit": "mm",
+        "page": 7,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "left-lower-acoustic-section",
+        "quantity": "short-opening-length",
+        "value": 3.64,
+        "unit": "mm",
+        "page": 7,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "left-lower-acoustic-section",
+        "quantity": "inner-horizontal-ordinate",
+        "value": 20.35,
+        "unit": "mm",
+        "page": 7,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      },
+      {
+        "feature": "left-lower-acoustic-section",
+        "quantity": "outer-horizontal-ordinate",
+        "value": 25.14,
+        "unit": "mm",
+        "page": 7,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+      }
+    ],
+    "features": {
+      "sourceDatums": {
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+        "A": "horizontal centerline datum",
+        "B": "depth datum at crown side of cup",
+        "C": "vertical datum at lowest cup tangent",
+        "note": "As-worn and as-stowed configurations are separate; numeric local earcup ordinates are not transformed into this global frame."
+      },
+      "opticalWindows": {
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+        "status": "illustrated-without-numeric-aperture-dimensions",
+        "note": "Inner left/right cup optical windows are identified but no aperture diameter or optical center is dimensioned."
+      }
+    },
+    "profiles": [
+      {
+        "feature": "right-lightning-top-end-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "horizontal-upper",
+        "values": [
+          0,
+          3.03,
+          7.52
+        ],
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "right-lightning-top-end-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "vertical-left",
+        "values": [
+          0,
+          0.47,
+          6.44,
+          13.33,
+          22.39,
+          25.19,
+          26.22,
+          26.52
+        ],
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "right-lightning-top-end-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "horizontal-lower",
+        "values": [
+          0,
+          6.52,
+          18.02,
+          29.85,
+          41.72
+        ],
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "right-lightning-outer-cup-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "upper-horizontal",
+        "values": [
+          0,
+          0.5,
+          2.74,
+          8.49,
+          18.71,
+          28.93,
+          32.85,
+          36.82,
+          46.62,
+          50.55,
+          54.44,
+          66.05,
+          75.61,
+          80.9,
+          82.97
+        ],
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "right-lightning-outer-cup-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "left-vertical",
+        "values": [
+          103.28,
+          102.86,
+          102.18,
+          98.69,
+          90.22,
+          78.22,
+          65.04,
+          51.67,
+          33.49,
+          16.21,
+          4.16,
+          0.03,
+          0
+        ],
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "right-lightning-outer-cup-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "right-vertical",
+        "values": [
+          103.28,
+          102.87,
+          102.2,
+          102.08,
+          97.98,
+          89.31,
+          77.5,
+          64.67,
+          51.67,
+          34.13,
+          17.34,
+          5.03,
+          0.25,
+          0
+        ],
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "right-lightning-outer-cup-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "lower-horizontal",
+        "values": [
+          0,
+          1.03,
+          6.44,
+          19.71,
+          37.35,
+          41.72,
+          48.66,
+          65.46,
+          77.63,
+          82.49,
+          83.44
+        ],
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "right-lightning-side-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "upper-horizontal",
+        "values": [
+          26.32,
+          25.66,
+          24.07,
+          18.23,
+          8.44,
+          4.91,
+          0.47,
+          0
+        ],
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "right-lightning-side-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "left-vertical",
+        "values": [
+          103.25,
+          102.05,
+          90.74,
+          77.77,
+          64.72,
+          51.64,
+          37.66,
+          23.69,
+          9.87,
+          -0.03,
+          0
+        ],
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "right-lightning-side-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "right-vertical",
+        "values": [
+          102.08,
+          98.33,
+          95.91,
+          7.38,
+          4.74,
+          0.94,
+          0
+        ],
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "right-lightning-side-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "lower-horizontal",
+        "values": [
+          26.52,
+          26.29,
+          25.52,
+          23.45,
+          14.83,
+          13.33,
+          8.91,
+          5.07,
+          0.47,
+          0
+        ],
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "right-usb-c-top-end-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "horizontal-upper",
+        "values": [
+          0,
+          3.03,
+          7.52
+        ],
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "right-usb-c-top-end-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "vertical-left",
+        "values": [
+          0,
+          0.47,
+          6.44,
+          13.33,
+          22.39,
+          25.19,
+          26.22,
+          26.52
+        ],
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "right-usb-c-top-end-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "horizontal-lower",
+        "values": [
+          0,
+          6.52,
+          18.02,
+          29.85,
+          41.72
+        ],
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "right-usb-c-outer-cup-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "upper-horizontal",
+        "values": [
+          0,
+          0.5,
+          2.74,
+          8.49,
+          18.71,
+          28.93,
+          32.85,
+          36.82,
+          46.62,
+          50.55,
+          54.44,
+          66.05,
+          75.61,
+          80.9,
+          82.97
+        ],
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "right-usb-c-outer-cup-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "left-vertical",
+        "values": [
+          103.28,
+          102.86,
+          102.18,
+          98.69,
+          90.22,
+          78.22,
+          65.04,
+          51.67,
+          33.49,
+          16.21,
+          4.16,
+          0.03,
+          0
+        ],
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "right-usb-c-outer-cup-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "right-vertical",
+        "values": [
+          103.28,
+          102.87,
+          102.2,
+          102.08,
+          97.98,
+          89.31,
+          77.5,
+          64.67,
+          51.67,
+          34.13,
+          17.34,
+          5.03,
+          0.25,
+          0
+        ],
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "right-usb-c-outer-cup-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "lower-horizontal",
+        "values": [
+          0,
+          1.03,
+          6.44,
+          19.71,
+          37.35,
+          41.72,
+          48.66,
+          65.46,
+          77.63,
+          82.49,
+          83.44
+        ],
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "right-usb-c-side-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "upper-horizontal",
+        "values": [
+          26.32,
+          25.66,
+          24.07,
+          18.23,
+          8.44,
+          4.91,
+          0.47,
+          0
+        ],
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "right-usb-c-side-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "left-vertical",
+        "values": [
+          103.25,
+          102.05,
+          90.74,
+          77.77,
+          64.72,
+          51.64,
+          37.66,
+          23.69,
+          9.87,
+          -0.03,
+          0
+        ],
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "right-usb-c-side-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "right-vertical",
+        "values": [
+          102.08,
+          98.33,
+          95.91,
+          7.38,
+          4.74,
+          0.94,
+          0
+        ],
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "right-usb-c-side-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "lower-horizontal",
+        "values": [
+          26.52,
+          26.29,
+          25.52,
+          23.45,
+          14.83,
+          13.33,
+          8.91,
+          5.07,
+          0.47,
+          0
+        ],
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "left-top-end-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "horizontal-upper",
+        "values": [
+          0,
+          3.03,
+          7.52
+        ],
+        "unit": "mm",
+        "page": 7,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "left-top-end-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "vertical-left",
+        "values": [
+          0,
+          0.47,
+          6.44,
+          13.33,
+          22.39,
+          25.19,
+          26.22,
+          26.52
+        ],
+        "unit": "mm",
+        "page": 7,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "left-top-end-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "horizontal-lower",
+        "values": [
+          0,
+          6.52,
+          18.02,
+          29.85,
+          41.72
+        ],
+        "unit": "mm",
+        "page": 7,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "left-outer-cup-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "upper-horizontal",
+        "values": [
+          0,
+          1.02,
+          6.3,
+          19.35,
+          36.82,
+          46.62,
+          64.09,
+          77.14,
+          83.44
+        ],
+        "unit": "mm",
+        "page": 7,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "left-outer-cup-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "vertical-both-sides",
+        "values": [
+          103.39,
+          102.19,
+          99.12,
+          87.01,
+          69.83,
+          51.78,
+          32.53,
+          14.48,
+          3.02,
+          0
+        ],
+        "unit": "mm",
+        "page": 7,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "left-outer-cup-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "lower-horizontal",
+        "values": [
+          0,
+          1.18,
+          7.6,
+          22.74,
+          41.72,
+          60.7,
+          75.84,
+          82.26
+        ],
+        "unit": "mm",
+        "page": 7,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "left-side-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "upper-horizontal",
+        "values": [
+          26.32,
+          25.66,
+          24.07,
+          18.23,
+          13.33,
+          8.44,
+          4.91,
+          0.47,
+          0
+        ],
+        "unit": "mm",
+        "page": 7,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "left-side-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "left-vertical",
+        "values": [
+          103.39,
+          102.19,
+          90.88,
+          77.91,
+          64.86,
+          51.78,
+          37.42,
+          23.09,
+          13.56,
+          8.93,
+          0
+        ],
+        "unit": "mm",
+        "page": 7,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "left-side-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "right-vertical",
+        "values": [
+          102.22,
+          98.47,
+          96.05,
+          7.52,
+          4.88,
+          1.08,
+          0
+        ],
+        "unit": "mm",
+        "page": 7,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "left-side-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "lower-horizontal",
+        "values": [
+          26.52,
+          26.28,
+          25.45,
+          23.14,
+          13.33,
+          8.91,
+          5.07,
+          0.47,
+          0
+        ],
+        "unit": "mm",
+        "page": 7,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      }
+    ],
+    "reviewScope": "All six supplied drawing sheets reviewed: product configurations/datums, right Lightning and USB-C variants and left earcup scalar dimensions and independent contour ordinates. Optical-window geometry not invented from artwork."
   }
 ]

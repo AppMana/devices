@@ -1934,7 +1934,22 @@
       "Combined front keepout radius2.55 and height5.12 are independently printed; retained without forcing an exact stadium equation. Individual camera position remains unknown.",
       "The front cone38-degree and ALS30-degree annotations are slopes relative to the glass surface. Rear camera included-angle arcs are keepout limits, not measured imaging field of view."
     ],
-    "reviewScope": "Front camera/sensor keepouts, rear camera/sensor/flash cone geometry and connector clearance. Mechanical keepout angles are not calibrated optical field of view; no camera optical centre or usable image circle inferred."
+    "reviewScope": "Visual semantic review of indexed dimensional sheets: explicit camera/sensor references, material exclusions, controls, connectors/acoustic apertures, named local profiles, and case notes. Independent ordinates remain unpaired where topology is not explicit. Body/display base dimensions and magnetic alignment point tables may be recorded separately; this is not an exhaustive CAD reconstruction.",
+    "reviewAudit": {
+      "pdfPageCount": 5,
+      "coverPageExcluded": 1,
+      "reviewedDrawingPages": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "unreviewedDrawingPages": [],
+      "featureGroupCount": 40,
+      "wrappedMeasurementCount": 198,
+      "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
+      "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+    }
   },
   "iphone-17-pro": {
     "id": "iphone-17-pro",
@@ -3834,7 +3849,22 @@
       "Camera-control typical keepout plan labels2X4.22, while transverse section labels2X4.20; both explicit source values retained separately.",
       "Page2 side-view1.88 dimension has plateau-to-camera-glass extension lines but caption says BACK PLATE TO REAR CAMERA GLASS;17ProMax labels the corresponding1.88 explicitly as CAMERA PLATEAU TO REAR CAMERA GLASS."
     ],
-    "reviewScope": "Front camera/sensor keepouts, rear camera/sensor/flash cone geometry and connector clearance. Mechanical keepout angles are not calibrated optical field of view; no camera optical centre or usable image circle inferred."
+    "reviewScope": "Visual semantic review of indexed dimensional sheets: explicit camera/sensor references, material exclusions, controls, connectors/acoustic apertures, named local profiles, and case notes. Independent ordinates remain unpaired where topology is not explicit. Body/display base dimensions and magnetic alignment point tables may be recorded separately; this is not an exhaustive CAD reconstruction.",
+    "reviewAudit": {
+      "pdfPageCount": 5,
+      "coverPageExcluded": 1,
+      "reviewedDrawingPages": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "unreviewedDrawingPages": [],
+      "featureGroupCount": 43,
+      "wrappedMeasurementCount": 194,
+      "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
+      "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+    }
   },
   "iphone-17-pro-max": {
     "id": "iphone-17-pro-max",
@@ -5753,7 +5783,22 @@
       "The front cone38-degree and ALS30-degree annotations are slopes relative to the glass surface. Rear camera included-angle arcs are keepout limits, not measured imaging field of view.",
       "Combined front keepout horizontal centre39.00 on page4 differs from product half-width38.99 on page2 by0.01 mm; retained as keepout offset rather than rounded to zero."
     ],
-    "reviewScope": "Front camera/sensor keepouts, rear camera/sensor/flash cone geometry and connector clearance. Mechanical keepout angles are not calibrated optical field of view; no camera optical centre or usable image circle inferred."
+    "reviewScope": "Visual semantic review of indexed dimensional sheets: explicit camera/sensor references, material exclusions, controls, connectors/acoustic apertures, named local profiles, and case notes. Independent ordinates remain unpaired where topology is not explicit. Body/display base dimensions and magnetic alignment point tables may be recorded separately; this is not an exhaustive CAD reconstruction.",
+    "reviewAudit": {
+      "pdfPageCount": 5,
+      "coverPageExcluded": 1,
+      "reviewedDrawingPages": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "unreviewedDrawingPages": [],
+      "featureGroupCount": 44,
+      "wrappedMeasurementCount": 196,
+      "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
+      "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+    }
   },
   "iphone-16": {
     "id": "iphone-16",
@@ -7640,7 +7685,22 @@
       "Front camera and ALS keepout angles govern accessory obstruction. They do not establish calibrated optical field of view or an individual front-camera location.",
       "Front display cutout on page2 and combined camera/sensor keepout on page4 are different features; small dimensional differences are retained rather than treated as contradictory camera centres."
     ],
-    "reviewScope": "Front and rear camera/sensor/flash mechanical keepouts, connector clearance and explicitly dimensioned body-corner contour samples. Not calibrated optical geometry or a full specification of every product feature."
+    "reviewScope": "Visual semantic review of indexed dimensional sheets: explicit camera/sensor references, material exclusions, controls, connectors/acoustic apertures, named local profiles, and case notes. Independent ordinates remain unpaired where topology is not explicit. Body/display base dimensions and magnetic alignment point tables may be recorded separately; this is not an exhaustive CAD reconstruction.",
+    "reviewAudit": {
+      "pdfPageCount": 5,
+      "coverPageExcluded": 1,
+      "reviewedDrawingPages": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "unreviewedDrawingPages": [],
+      "featureGroupCount": 40,
+      "wrappedMeasurementCount": 192,
+      "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
+      "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+    }
   },
   "iphone-16-plus": {
     "id": "iphone-16-plus",
@@ -9529,7 +9589,22 @@
       "Front display cutout on page2 and combined camera/sensor keepout on page4 are different features; small dimensional differences are retained rather than treated as contradictory camera centres.",
       "Thin-case plan caption under3.40 says measured0.4mm from surface, although section places3.40 at surface and6.32 at0.4mm; normalized association follows section and corresponding17.50-length caption."
     ],
-    "reviewScope": "Front and rear camera/sensor/flash mechanical keepouts, connector clearance and explicitly dimensioned body-corner contour samples. Not calibrated optical geometry or a full specification of every product feature."
+    "reviewScope": "Visual semantic review of indexed dimensional sheets: explicit camera/sensor references, material exclusions, controls, connectors/acoustic apertures, named local profiles, and case notes. Independent ordinates remain unpaired where topology is not explicit. Body/display base dimensions and magnetic alignment point tables may be recorded separately; this is not an exhaustive CAD reconstruction.",
+    "reviewAudit": {
+      "pdfPageCount": 5,
+      "coverPageExcluded": 1,
+      "reviewedDrawingPages": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "unreviewedDrawingPages": [],
+      "featureGroupCount": 40,
+      "wrappedMeasurementCount": 192,
+      "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
+      "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+    }
   },
   "iphone-16-pro": {
     "id": "iphone-16-pro",
@@ -11470,7 +11545,22 @@
       "Front display cutout on page2 and combined camera/sensor keepout on page4 are different features; small dimensional differences are retained rather than treated as contradictory camera centres.",
       "The vertical and horizontal flash views both carry section label M-M; view orientation is recorded to disambiguate source references."
     ],
-    "reviewScope": "Front and rear camera/sensor/flash mechanical keepouts, connector clearance and explicitly dimensioned body-corner contour samples. Not calibrated optical geometry or a full specification of every product feature."
+    "reviewScope": "Visual semantic review of indexed dimensional sheets: explicit camera/sensor references, material exclusions, controls, connectors/acoustic apertures, named local profiles, and case notes. Independent ordinates remain unpaired where topology is not explicit. Body/display base dimensions and magnetic alignment point tables may be recorded separately; this is not an exhaustive CAD reconstruction.",
+    "reviewAudit": {
+      "pdfPageCount": 5,
+      "coverPageExcluded": 1,
+      "reviewedDrawingPages": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "unreviewedDrawingPages": [],
+      "featureGroupCount": 44,
+      "wrappedMeasurementCount": 196,
+      "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
+      "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+    }
   },
   "iphone-16-pro-max": {
     "id": "iphone-16-pro-max",
@@ -13391,7 +13481,22 @@
       "Front camera and ALS keepout angles govern accessory obstruction. They do not establish calibrated optical field of view or an individual front-camera location.",
       "Front display cutout on page2 and combined camera/sensor keepout on page4 are different features; small dimensional differences are retained rather than treated as contradictory camera centres."
     ],
-    "reviewScope": "Front and rear camera/sensor/flash mechanical keepouts, connector clearance and explicitly dimensioned body-corner contour samples. Not calibrated optical geometry or a full specification of every product feature."
+    "reviewScope": "Visual semantic review of indexed dimensional sheets: explicit camera/sensor references, material exclusions, controls, connectors/acoustic apertures, named local profiles, and case notes. Independent ordinates remain unpaired where topology is not explicit. Body/display base dimensions and magnetic alignment point tables may be recorded separately; this is not an exhaustive CAD reconstruction.",
+    "reviewAudit": {
+      "pdfPageCount": 5,
+      "coverPageExcluded": 1,
+      "reviewedDrawingPages": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "unreviewedDrawingPages": [],
+      "featureGroupCount": 44,
+      "wrappedMeasurementCount": 194,
+      "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
+      "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+    }
   },
   "iphone-air": {
     "id": "iphone-air",
@@ -14977,7 +15082,22 @@
       "Front camera and ALS keepout angles govern accessory obstruction. They do not establish calibrated optical field of view or an individual front-camera location.",
       "Front display cutout on page2 and combined camera/sensor keepout on page4 are different features; small dimensional differences are retained rather than treated as contradictory camera centres."
     ],
-    "reviewScope": "Front and rear camera/sensor/flash mechanical keepouts, connector clearance and explicitly dimensioned body-corner contour samples. Not calibrated optical geometry or a full specification of every product feature."
+    "reviewScope": "Visual semantic review of indexed dimensional sheets: explicit camera/sensor references, material exclusions, controls, connectors/acoustic apertures, named local profiles, and case notes. Independent ordinates remain unpaired where topology is not explicit. Body/display base dimensions and magnetic alignment point tables may be recorded separately; this is not an exhaustive CAD reconstruction.",
+    "reviewAudit": {
+      "pdfPageCount": 5,
+      "coverPageExcluded": 1,
+      "reviewedDrawingPages": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "unreviewedDrawingPages": [],
+      "featureGroupCount": 36,
+      "wrappedMeasurementCount": 159,
+      "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
+      "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+    }
   },
   "iphone-16e": {
     "id": "iphone-16e",
@@ -16363,7 +16483,20 @@
       "Corner detailA has no readable x ordinate for the cross at printed y=-7.20; that x remains null. No symmetry is imposed on the asymmetric printed x/y ordinates.",
       "Front camera and ALS keepout angles govern accessory obstruction. They do not establish calibrated optical field of view or an individual front-camera location."
     ],
-    "reviewScope": "Front and rear camera/sensor/flash mechanical keepouts, connector clearance and explicitly dimensioned body-corner contour samples. Not calibrated optical geometry or a full specification of every product feature."
+    "reviewScope": "Visual semantic review of indexed dimensional sheets: explicit camera/sensor references, material exclusions, controls, connectors/acoustic apertures, named local profiles, and case notes. Independent ordinates remain unpaired where topology is not explicit. Body/display base dimensions and magnetic alignment point tables may be recorded separately; this is not an exhaustive CAD reconstruction.",
+    "reviewAudit": {
+      "pdfPageCount": 3,
+      "coverPageExcluded": 1,
+      "reviewedDrawingPages": [
+        2,
+        3
+      ],
+      "unreviewedDrawingPages": [],
+      "featureGroupCount": 31,
+      "wrappedMeasurementCount": 137,
+      "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
+      "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+    }
   },
   "iphone-17e": {
     "id": "iphone-17e",
@@ -17763,7 +17896,20 @@
       "Corner detailA has no readable x ordinate for the cross at printed y=-7.20; that x remains null. No symmetry is imposed on the asymmetric printed x/y ordinates.",
       "Front camera and ALS keepout angles govern accessory obstruction. They do not establish calibrated optical field of view or an individual front-camera location."
     ],
-    "reviewScope": "Front and rear camera/sensor/flash mechanical keepouts, connector clearance and explicitly dimensioned body-corner contour samples. Not calibrated optical geometry or a full specification of every product feature."
+    "reviewScope": "Visual semantic review of indexed dimensional sheets: explicit camera/sensor references, material exclusions, controls, connectors/acoustic apertures, named local profiles, and case notes. Independent ordinates remain unpaired where topology is not explicit. Body/display base dimensions and magnetic alignment point tables may be recorded separately; this is not an exhaustive CAD reconstruction.",
+    "reviewAudit": {
+      "pdfPageCount": 3,
+      "coverPageExcluded": 1,
+      "reviewedDrawingPages": [
+        2,
+        3
+      ],
+      "unreviewedDrawingPages": [],
+      "featureGroupCount": 32,
+      "wrappedMeasurementCount": 138,
+      "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
+      "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+    }
   },
   "iphone-15": {
     "id": "iphone-15",
@@ -19475,7 +19621,21 @@
       }
     },
     "ambiguities": [],
-    "reviewScope": "Camera/sensor/receiver/connector mechanical dimensions and sampled corner profile; not calibrated optical geometry or a complete manufacturing contour."
+    "reviewScope": "Visual semantic review of indexed dimensional sheets: explicit camera/sensor references, material exclusions, controls, connectors/acoustic apertures, named local profiles, and case notes. Independent ordinates remain unpaired where topology is not explicit. Body/display base dimensions and magnetic alignment point tables may be recorded separately; this is not an exhaustive CAD reconstruction.",
+    "reviewAudit": {
+      "pdfPageCount": 4,
+      "coverPageExcluded": 1,
+      "reviewedDrawingPages": [
+        2,
+        3,
+        4
+      ],
+      "unreviewedDrawingPages": [],
+      "featureGroupCount": 38,
+      "wrappedMeasurementCount": 172,
+      "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
+      "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+    }
   },
   "iphone-15-plus": {
     "id": "iphone-15-plus",
@@ -21187,7 +21347,21 @@
       }
     },
     "ambiguities": [],
-    "reviewScope": "Camera/sensor/receiver/connector mechanical dimensions and sampled corner profile; not calibrated optical geometry or a complete manufacturing contour."
+    "reviewScope": "Visual semantic review of indexed dimensional sheets: explicit camera/sensor references, material exclusions, controls, connectors/acoustic apertures, named local profiles, and case notes. Independent ordinates remain unpaired where topology is not explicit. Body/display base dimensions and magnetic alignment point tables may be recorded separately; this is not an exhaustive CAD reconstruction.",
+    "reviewAudit": {
+      "pdfPageCount": 4,
+      "coverPageExcluded": 1,
+      "reviewedDrawingPages": [
+        2,
+        3,
+        4
+      ],
+      "unreviewedDrawingPages": [],
+      "featureGroupCount": 38,
+      "wrappedMeasurementCount": 172,
+      "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
+      "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+    }
   },
   "iphone-15-pro": {
     "id": "iphone-15-pro",
@@ -22946,7 +23120,21 @@
       }
     },
     "ambiguities": [],
-    "reviewScope": "Camera/sensor/receiver/connector mechanical dimensions and sampled corner profile; not calibrated optical geometry or a complete manufacturing contour."
+    "reviewScope": "Visual semantic review of indexed dimensional sheets: explicit camera/sensor references, material exclusions, controls, connectors/acoustic apertures, named local profiles, and case notes. Independent ordinates remain unpaired where topology is not explicit. Body/display base dimensions and magnetic alignment point tables may be recorded separately; this is not an exhaustive CAD reconstruction.",
+    "reviewAudit": {
+      "pdfPageCount": 4,
+      "coverPageExcluded": 1,
+      "reviewedDrawingPages": [
+        2,
+        3,
+        4
+      ],
+      "unreviewedDrawingPages": [],
+      "featureGroupCount": 41,
+      "wrappedMeasurementCount": 176,
+      "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
+      "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+    }
   },
   "iphone-15-pro-max": {
     "id": "iphone-15-pro-max",
@@ -24688,7 +24876,21 @@
     "ambiguities": [
       "Combined keepout horizontal centre not separately labelled on page3; no midpoint inferred from receiver alignment or page2 display cutout."
     ],
-    "reviewScope": "Camera/sensor/receiver/connector mechanical dimensions and sampled corner profile; not calibrated optical geometry or a complete manufacturing contour."
+    "reviewScope": "Visual semantic review of indexed dimensional sheets: explicit camera/sensor references, material exclusions, controls, connectors/acoustic apertures, named local profiles, and case notes. Independent ordinates remain unpaired where topology is not explicit. Body/display base dimensions and magnetic alignment point tables may be recorded separately; this is not an exhaustive CAD reconstruction.",
+    "reviewAudit": {
+      "pdfPageCount": 4,
+      "coverPageExcluded": 1,
+      "reviewedDrawingPages": [
+        2,
+        3,
+        4
+      ],
+      "unreviewedDrawingPages": [],
+      "featureGroupCount": 41,
+      "wrappedMeasurementCount": 174,
+      "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
+      "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+    }
   },
   "iphone-se-3rd-generation": {
     "id": "iphone-se-3rd-generation",
@@ -25911,7 +26113,19 @@
     "ambiguities": [
       "Title block explicitly covers both SE third and second generation; this record follows the indexed third-generation identity. Individual camera reference is mechanical only."
     ],
-    "reviewScope": "Camera/sensor/receiver/connector mechanical dimensions and sampled corner profile; not calibrated optical geometry or a complete manufacturing contour."
+    "reviewScope": "Visual semantic review of indexed dimensional sheets: explicit camera/sensor references, material exclusions, controls, connectors/acoustic apertures, named local profiles, and case notes. Independent ordinates remain unpaired where topology is not explicit. Body/display base dimensions and magnetic alignment point tables may be recorded separately; this is not an exhaustive CAD reconstruction.",
+    "reviewAudit": {
+      "pdfPageCount": 2,
+      "coverPageExcluded": 1,
+      "reviewedDrawingPages": [
+        2
+      ],
+      "unreviewedDrawingPages": [],
+      "featureGroupCount": 31,
+      "wrappedMeasurementCount": 120,
+      "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
+      "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+    }
   },
   "iphone-14": {
     "id": "iphone-14",
@@ -25920,7 +26134,8 @@
     "drawingSha256": "bfb67d96ef998bd58daf488762f69bf09655c1e46556f438bbd1ce14521bacd5",
     "sourcePagesReviewed": [
       2,
-      3
+      3,
+      4
     ],
     "mechanicalStatus": "feature-drawings-reviewed",
     "frontCameraPortraitMm": null,
@@ -27407,10 +27622,189 @@
         "continuousCurve": null,
         "coordinateConvention": "Rear-view top-left body datum, x right and y down. Negative x retained where printed. Multiple plateau/trim perimeter surfaces remain unpaired.",
         "derivation": "Explicit non-centre plateau and trim ordinate references. No outline fit or guessed correspondence."
+      },
+      "rearConductiveKeepout1": {
+        "featureType": "conductive-material-keepout",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 40.47,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 18.25,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "width": {
+            "value": 12.71,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "height": {
+            "value": 7.71,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "cornerRadius": {
+            "value": 2.1,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "includedAngle": {
+            "value": 80,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Keep out area 1 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "coordinateConvention": "Rear view: x right from portrait body left edge; y down from portrait body top edge.",
+        "meaning": "Printed metal/conductive-material exclusion envelope, not a physical sensor or antenna aperture. Nonconductive material must be uniform in thickness."
+      },
+      "rearConductiveKeepout2": {
+        "featureType": "conductive-material-keepout",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 53.94,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 16.29,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "width": {
+            "value": 7.4,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "height": {
+            "value": 11.52,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "cornerRadius": {
+            "value": 2.05,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "includedAngle": {
+            "value": 120,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Keep out area 2 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "coordinateConvention": "Rear view: x right from portrait body left edge; y down from portrait body top edge.",
+        "meaning": "Printed metal/conductive-material exclusion envelope, not a physical sensor or antenna aperture. Nonconductive material must be uniform in thickness."
+      },
+      "rearConductiveKeepout3": {
+        "featureType": "conductive-material-keepout",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 52.9,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 33.38,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "width": {
+            "value": 25.66,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "height": {
+            "value": 8.85,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "cornerRadius": {
+            "value": 2.6,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "includedAngle": {
+            "value": 80,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Keep out area 3 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "coordinateConvention": "Rear view: x right from portrait body left edge; y down from portrait body top edge.",
+        "meaning": "Printed metal/conductive-material exclusion envelope, not a physical sensor or antenna aperture. Nonconductive material must be uniform in thickness."
       }
     },
     "ambiguities": [],
-    "reviewScope": "Camera/sensor/receiver/connector mechanical dimensions and sampled corner profile; not calibrated optical geometry or a complete manufacturing contour."
+    "reviewScope": "Visual semantic review of indexed dimensional sheets: explicit camera/sensor references, material exclusions, controls, connectors/acoustic apertures, named local profiles, and case notes. Independent ordinates remain unpaired where topology is not explicit. Body/display base dimensions and magnetic alignment point tables may be recorded separately; this is not an exhaustive CAD reconstruction.",
+    "reviewAudit": {
+      "pdfPageCount": 4,
+      "coverPageExcluded": 1,
+      "reviewedDrawingPages": [
+        2,
+        3,
+        4
+      ],
+      "unreviewedDrawingPages": [],
+      "featureGroupCount": 38,
+      "wrappedMeasurementCount": 166,
+      "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
+      "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+    }
   },
   "iphone-14-plus": {
     "id": "iphone-14-plus",
@@ -27419,7 +27813,8 @@
     "drawingSha256": "e615048c5fc9c58ee45daa0c95e905786085cbd7a0367fbee34ea36eb21c1412",
     "sourcePagesReviewed": [
       2,
-      3
+      3,
+      4
     ],
     "mechanicalStatus": "feature-drawings-reviewed",
     "frontCameraPortraitMm": null,
@@ -28921,10 +29316,168 @@
         "continuousCurve": null,
         "coordinateConvention": "Rear-view top-left body datum, x right and y down. Negative x retained where printed. Multiple plateau/trim perimeter surfaces remain unpaired.",
         "derivation": "Explicit non-centre plateau and trim ordinate references. No outline fit or guessed correspondence."
+      },
+      "rearConductiveKeepout1": {
+        "featureType": "conductive-material-keepout",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 43.43,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 18.15,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "width": {
+            "value": 12.52,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "height": {
+            "value": 7.52,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "includedAngle": {
+            "value": 80,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Keep out area 1 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "coordinateConvention": "Rear view: x right from portrait body left edge; y down from portrait body top edge.",
+        "meaning": "Printed metal/conductive-material exclusion envelope, not a physical sensor or antenna aperture. Nonconductive material must be uniform in thickness.",
+        "cornerRadiusStatus": "not-explicitly-dimensioned"
+      },
+      "rearConductiveKeepout2": {
+        "featureType": "conductive-material-keepout",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 57.03,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 16.04,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "width": {
+            "value": 9.4,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "height": {
+            "value": 13.22,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "includedAngle": {
+            "value": 80,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Keep out area 2 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "coordinateConvention": "Rear view: x right from portrait body left edge; y down from portrait body top edge.",
+        "meaning": "Printed metal/conductive-material exclusion envelope, not a physical sensor or antenna aperture. Nonconductive material must be uniform in thickness.",
+        "cornerRadiusStatus": "not-explicitly-dimensioned"
+      },
+      "rearConductiveKeepout3": {
+        "featureType": "conductive-material-keepout",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 59.45,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 34.05,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "width": {
+            "value": 26.87,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "height": {
+            "value": 10.05,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "includedAngle": {
+            "value": 120,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Keep out area 3 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "coordinateConvention": "Rear view: x right from portrait body left edge; y down from portrait body top edge.",
+        "meaning": "Printed metal/conductive-material exclusion envelope, not a physical sensor or antenna aperture. Nonconductive material must be uniform in thickness.",
+        "cornerRadiusStatus": "not-explicitly-dimensioned"
       }
     },
     "ambiguities": [],
-    "reviewScope": "Camera/sensor/receiver/connector mechanical dimensions and sampled corner profile; not calibrated optical geometry or a complete manufacturing contour."
+    "reviewScope": "Visual semantic review of indexed dimensional sheets: explicit camera/sensor references, material exclusions, controls, connectors/acoustic apertures, named local profiles, and case notes. Independent ordinates remain unpaired where topology is not explicit. Body/display base dimensions and magnetic alignment point tables may be recorded separately; this is not an exhaustive CAD reconstruction.",
+    "reviewAudit": {
+      "pdfPageCount": 4,
+      "coverPageExcluded": 1,
+      "reviewedDrawingPages": [
+        2,
+        3,
+        4
+      ],
+      "unreviewedDrawingPages": [],
+      "featureGroupCount": 38,
+      "wrappedMeasurementCount": 165,
+      "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
+      "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+    }
   },
   "iphone-14-pro": {
     "id": "iphone-14-pro",
@@ -28933,7 +29486,8 @@
     "drawingSha256": "6eb71ec212d32c73bd50fd6f0ccec5da3132aebf4896106a6a9804aa9e2814e2",
     "sourcePagesReviewed": [
       2,
-      3
+      3,
+      4
     ],
     "mechanicalStatus": "feature-drawings-reviewed",
     "frontCameraPortraitMm": null,
@@ -30617,12 +31171,196 @@
         "continuousCurve": null,
         "coordinateConvention": "Rear-view top-left body datum, x right and y down. Negative x retained where printed. Multiple plateau/trim perimeter surfaces remain unpaired.",
         "derivation": "Explicit non-centre plateau and trim ordinate references. No outline fit or guessed correspondence."
+      },
+      "rearConductiveKeepout1": {
+        "featureType": "conductive-material-keepout",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 50.2,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 12.36,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "width": {
+            "value": 13.37,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "height": {
+            "value": 11.67,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "cornerRadius": {
+            "value": 2.94,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "includedAngle": {
+            "value": 100,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Keep out area 1 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "coordinateConvention": "Rear view: x right from portrait body left edge; y down from portrait body top edge.",
+        "meaning": "Printed metal/conductive-material exclusion envelope, not a physical sensor or antenna aperture. Nonconductive material must be uniform in thickness.",
+        "printedRadiusMultiplicity": 4
+      },
+      "rearConductiveKeepout2": {
+        "featureType": "conductive-material-keepout",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 51.22,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 21.93,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "width": {
+            "value": 13.72,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "height": {
+            "value": 7.58,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "cornerRadius": {
+            "value": 2.1,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "includedAngle": {
+            "value": 0,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Keep out area 2 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "coordinateConvention": "Rear view: x right from portrait body left edge; y down from portrait body top edge.",
+        "meaning": "Printed metal/conductive-material exclusion envelope, not a physical sensor or antenna aperture. Nonconductive material must be uniform in thickness.",
+        "printedRadiusMultiplicity": 4,
+        "angleNote": "The section explicitly prints 0.00 degrees; zero is a reviewed value."
+      },
+      "rearConductiveKeepout3": {
+        "featureType": "conductive-material-keepout",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 54.15,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 33.19,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "width": {
+            "value": 25.69,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "height": {
+            "value": 8.84,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "cornerRadius": {
+            "value": 3.14,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "includedAngle": {
+            "value": 100,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Keep out area 3 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "coordinateConvention": "Rear view: x right from portrait body left edge; y down from portrait body top edge.",
+        "meaning": "Printed metal/conductive-material exclusion envelope, not a physical sensor or antenna aperture. Nonconductive material must be uniform in thickness.",
+        "printedRadiusMultiplicity": 5,
+        "ambiguity": "The radius leader explicitly prints 5X; retained without interpreting the unusual multiplicity."
       }
     },
     "ambiguities": [
       "Front proximity shape has two unequal-radius arc centres; no single inferred sensor centre is supplied. Rear sensor width/height describe a plateau-surface keepout, not an optical aperture."
     ],
-    "reviewScope": "Camera/sensor/receiver/connector mechanical dimensions and sampled corner profile; not calibrated optical geometry or a complete manufacturing contour."
+    "reviewScope": "Visual semantic review of indexed dimensional sheets: explicit camera/sensor references, material exclusions, controls, connectors/acoustic apertures, named local profiles, and case notes. Independent ordinates remain unpaired where topology is not explicit. Body/display base dimensions and magnetic alignment point tables may be recorded separately; this is not an exhaustive CAD reconstruction.",
+    "reviewAudit": {
+      "pdfPageCount": 4,
+      "coverPageExcluded": 1,
+      "reviewedDrawingPages": [
+        2,
+        3,
+        4
+      ],
+      "unreviewedDrawingPages": [],
+      "featureGroupCount": 42,
+      "wrappedMeasurementCount": 188,
+      "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
+      "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+    }
   },
   "iphone-14-pro-max": {
     "id": "iphone-14-pro-max",
@@ -30631,7 +31369,8 @@
     "drawingSha256": "c5dd7ffa374d2fbb64d4a5fc56884fcb548bde3b5226a41481c1567a36695c1e",
     "sourcePagesReviewed": [
       2,
-      3
+      3,
+      4
     ],
     "mechanicalStatus": "feature-drawings-reviewed",
     "frontCameraPortraitMm": null,
@@ -32306,12 +33045,196 @@
         "continuousCurve": null,
         "coordinateConvention": "Rear-view top-left body datum, x right and y down. Negative x retained where printed. Multiple plateau/trim perimeter surfaces remain unpaired.",
         "derivation": "Explicit non-centre plateau and trim ordinate references. No outline fit or guessed correspondence."
+      },
+      "rearConductiveKeepout1": {
+        "featureType": "conductive-material-keepout",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 56.33,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 12.36,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "width": {
+            "value": 13.37,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "height": {
+            "value": 11.67,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "cornerRadius": {
+            "value": 2.93,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "includedAngle": {
+            "value": 100,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Keep out area 1 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "coordinateConvention": "Rear view: x right from portrait body left edge; y down from portrait body top edge.",
+        "meaning": "Printed metal/conductive-material exclusion envelope, not a physical sensor or antenna aperture. Nonconductive material must be uniform in thickness.",
+        "printedRadiusMultiplicity": 4
+      },
+      "rearConductiveKeepout2": {
+        "featureType": "conductive-material-keepout",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 57.34,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 21.93,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "width": {
+            "value": 13.72,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "height": {
+            "value": 7.58,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "cornerRadius": {
+            "value": 2.1,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "includedAngle": {
+            "value": 0,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Keep out area 2 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "coordinateConvention": "Rear view: x right from portrait body left edge; y down from portrait body top edge.",
+        "meaning": "Printed metal/conductive-material exclusion envelope, not a physical sensor or antenna aperture. Nonconductive material must be uniform in thickness.",
+        "printedRadiusMultiplicity": 4,
+        "angleNote": "The section explicitly prints 0.00 degrees; zero is a reviewed value."
+      },
+      "rearConductiveKeepout3": {
+        "featureType": "conductive-material-keepout",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 60.27,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 33.2,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "width": {
+            "value": 25.69,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "height": {
+            "value": 8.87,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "cornerRadius": {
+            "value": 3.13,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "includedAngle": {
+            "value": 100,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Keep out area 3 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "coordinateConvention": "Rear view: x right from portrait body left edge; y down from portrait body top edge.",
+        "meaning": "Printed metal/conductive-material exclusion envelope, not a physical sensor or antenna aperture. Nonconductive material must be uniform in thickness.",
+        "printedRadiusMultiplicity": 5,
+        "ambiguity": "The radius leader explicitly prints 5X; retained without interpreting the unusual multiplicity."
       }
     },
     "ambiguities": [
       "Front proximity shape has two unequal-radius arc centres; no single inferred sensor centre is supplied. Rear sensor width/height describe a plateau-surface keepout, not an optical aperture."
     ],
-    "reviewScope": "Camera/sensor/receiver/connector mechanical dimensions and sampled corner profile; not calibrated optical geometry or a complete manufacturing contour."
+    "reviewScope": "Visual semantic review of indexed dimensional sheets: explicit camera/sensor references, material exclusions, controls, connectors/acoustic apertures, named local profiles, and case notes. Independent ordinates remain unpaired where topology is not explicit. Body/display base dimensions and magnetic alignment point tables may be recorded separately; this is not an exhaustive CAD reconstruction.",
+    "reviewAudit": {
+      "pdfPageCount": 4,
+      "coverPageExcluded": 1,
+      "reviewedDrawingPages": [
+        2,
+        3,
+        4
+      ],
+      "unreviewedDrawingPages": [],
+      "featureGroupCount": 42,
+      "wrappedMeasurementCount": 187,
+      "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
+      "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+    }
   },
   "iphone-13": {
     "id": "iphone-13",
@@ -33927,7 +34850,20 @@
       }
     },
     "ambiguities": [],
-    "reviewScope": "Camera/sensor/receiver/connector mechanical dimensions and sampled corner profile; not calibrated optical geometry or a complete manufacturing contour."
+    "reviewScope": "Visual semantic review of indexed dimensional sheets: explicit camera/sensor references, material exclusions, controls, connectors/acoustic apertures, named local profiles, and case notes. Independent ordinates remain unpaired where topology is not explicit. Body/display base dimensions and magnetic alignment point tables may be recorded separately; this is not an exhaustive CAD reconstruction.",
+    "reviewAudit": {
+      "pdfPageCount": 3,
+      "coverPageExcluded": 1,
+      "reviewedDrawingPages": [
+        2,
+        3
+      ],
+      "unreviewedDrawingPages": [],
+      "featureGroupCount": 36,
+      "wrappedMeasurementCount": 162,
+      "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
+      "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+    }
   },
   "iphone-13-mini": {
     "id": "iphone-13-mini",
@@ -35570,7 +36506,20 @@
     "ambiguities": [
       "Camera2 angular caption says camera1, while its distance caption says camera2 and section G targets the lower-right rear camera. Association follows the section targets."
     ],
-    "reviewScope": "Camera/sensor/receiver/connector mechanical dimensions and sampled corner profile; not calibrated optical geometry or a complete manufacturing contour."
+    "reviewScope": "Visual semantic review of indexed dimensional sheets: explicit camera/sensor references, material exclusions, controls, connectors/acoustic apertures, named local profiles, and case notes. Independent ordinates remain unpaired where topology is not explicit. Body/display base dimensions and magnetic alignment point tables may be recorded separately; this is not an exhaustive CAD reconstruction.",
+    "reviewAudit": {
+      "pdfPageCount": 3,
+      "coverPageExcluded": 1,
+      "reviewedDrawingPages": [
+        2,
+        3
+      ],
+      "unreviewedDrawingPages": [],
+      "featureGroupCount": 36,
+      "wrappedMeasurementCount": 166,
+      "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
+      "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+    }
   },
   "iphone-13-pro": {
     "id": "iphone-13-pro",
@@ -37241,7 +38190,20 @@
       "Page2 receiver opening width11.12 and page3 receiver keepout width11.16 describe separate printed references; retained keepout value from page3.",
       "Rear camera3 section distance caption names camera1 but angular caption names camera3; association follows the sectioned geometry. Camera2 circular-feature diameter is not separately labelled; 15.53 reference is inferred shared circular outline, so retained null instead."
     ],
-    "reviewScope": "Camera/sensor/receiver/connector mechanical dimensions and sampled corner profile; not calibrated optical geometry or a complete manufacturing contour."
+    "reviewScope": "Visual semantic review of indexed dimensional sheets: explicit camera/sensor references, material exclusions, controls, connectors/acoustic apertures, named local profiles, and case notes. Independent ordinates remain unpaired where topology is not explicit. Body/display base dimensions and magnetic alignment point tables may be recorded separately; this is not an exhaustive CAD reconstruction.",
+    "reviewAudit": {
+      "pdfPageCount": 3,
+      "coverPageExcluded": 1,
+      "reviewedDrawingPages": [
+        2,
+        3
+      ],
+      "unreviewedDrawingPages": [],
+      "featureGroupCount": 39,
+      "wrappedMeasurementCount": 166,
+      "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
+      "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+    }
   },
   "iphone-13-pro-max": {
     "id": "iphone-13-pro-max",
@@ -38937,7 +39899,20 @@
       }
     },
     "ambiguities": [],
-    "reviewScope": "Camera/sensor/receiver/connector mechanical dimensions and sampled corner profile; not calibrated optical geometry or a complete manufacturing contour."
+    "reviewScope": "Visual semantic review of indexed dimensional sheets: explicit camera/sensor references, material exclusions, controls, connectors/acoustic apertures, named local profiles, and case notes. Independent ordinates remain unpaired where topology is not explicit. Body/display base dimensions and magnetic alignment point tables may be recorded separately; this is not an exhaustive CAD reconstruction.",
+    "reviewAudit": {
+      "pdfPageCount": 3,
+      "coverPageExcluded": 1,
+      "reviewedDrawingPages": [
+        2,
+        3
+      ],
+      "unreviewedDrawingPages": [],
+      "featureGroupCount": 39,
+      "wrappedMeasurementCount": 170,
+      "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
+      "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+    }
   },
   "iphone-12": {
     "id": "iphone-12",
@@ -40492,7 +41467,20 @@
       }
     },
     "ambiguities": [],
-    "reviewScope": "Camera/sensor/receiver/connector mechanical dimensions and sampled corner profile; not calibrated optical geometry or a complete manufacturing contour."
+    "reviewScope": "Visual semantic review of indexed dimensional sheets: explicit camera/sensor references, material exclusions, controls, connectors/acoustic apertures, named local profiles, and case notes. Independent ordinates remain unpaired where topology is not explicit. Body/display base dimensions and magnetic alignment point tables may be recorded separately; this is not an exhaustive CAD reconstruction.",
+    "reviewAudit": {
+      "pdfPageCount": 3,
+      "coverPageExcluded": 1,
+      "reviewedDrawingPages": [
+        2,
+        3
+      ],
+      "unreviewedDrawingPages": [],
+      "featureGroupCount": 35,
+      "wrappedMeasurementCount": 155,
+      "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
+      "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+    }
   },
   "iphone-12-mini": {
     "id": "iphone-12-mini",
@@ -42119,7 +43107,20 @@
       }
     },
     "ambiguities": [],
-    "reviewScope": "Camera/sensor/receiver/connector mechanical dimensions and sampled corner profile; not calibrated optical geometry or a complete manufacturing contour."
+    "reviewScope": "Visual semantic review of indexed dimensional sheets: explicit camera/sensor references, material exclusions, controls, connectors/acoustic apertures, named local profiles, and case notes. Independent ordinates remain unpaired where topology is not explicit. Body/display base dimensions and magnetic alignment point tables may be recorded separately; this is not an exhaustive CAD reconstruction.",
+    "reviewAudit": {
+      "pdfPageCount": 3,
+      "coverPageExcluded": 1,
+      "reviewedDrawingPages": [
+        2,
+        3
+      ],
+      "unreviewedDrawingPages": [],
+      "featureGroupCount": 35,
+      "wrappedMeasurementCount": 164,
+      "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
+      "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+    }
   },
   "iphone-12-pro": {
     "id": "iphone-12-pro",
@@ -43787,7 +44788,20 @@
       }
     },
     "ambiguities": [],
-    "reviewScope": "Camera/sensor/receiver/connector mechanical dimensions and sampled corner profile; not calibrated optical geometry or a complete manufacturing contour."
+    "reviewScope": "Visual semantic review of indexed dimensional sheets: explicit camera/sensor references, material exclusions, controls, connectors/acoustic apertures, named local profiles, and case notes. Independent ordinates remain unpaired where topology is not explicit. Body/display base dimensions and magnetic alignment point tables may be recorded separately; this is not an exhaustive CAD reconstruction.",
+    "reviewAudit": {
+      "pdfPageCount": 3,
+      "coverPageExcluded": 1,
+      "reviewedDrawingPages": [
+        2,
+        3
+      ],
+      "unreviewedDrawingPages": [],
+      "featureGroupCount": 38,
+      "wrappedMeasurementCount": 167,
+      "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
+      "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+    }
   },
   "iphone-12-pro-max": {
     "id": "iphone-12-pro-max",
@@ -45503,6 +46517,19 @@
       }
     },
     "ambiguities": [],
-    "reviewScope": "Camera/sensor/receiver/connector mechanical dimensions and sampled corner profile; not calibrated optical geometry or a complete manufacturing contour."
+    "reviewScope": "Visual semantic review of indexed dimensional sheets: explicit camera/sensor references, material exclusions, controls, connectors/acoustic apertures, named local profiles, and case notes. Independent ordinates remain unpaired where topology is not explicit. Body/display base dimensions and magnetic alignment point tables may be recorded separately; this is not an exhaustive CAD reconstruction.",
+    "reviewAudit": {
+      "pdfPageCount": 3,
+      "coverPageExcluded": 1,
+      "reviewedDrawingPages": [
+        2,
+        3
+      ],
+      "unreviewedDrawingPages": [],
+      "featureGroupCount": 38,
+      "wrappedMeasurementCount": 173,
+      "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
+      "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+    }
   }
 }
