@@ -532,7 +532,454 @@
         "note": "These are axis callouts for two edge curves; do not zip x/y or treat them as a complete paired contour."
       }
     ],
-    "reviewScope": "Display/body/camera plus named apertures, connector clearance, keepout cones, button/sensor dimensions and three local contour ordinate sets. Magnetic locations and remaining detail contours are still incomplete."
+    "reviewScope": "Display/body/camera plus named apertures, connector clearance, keepout cones, button/sensor dimensions and three local contour ordinate sets. Magnetic locations and remaining detail contours are still incomplete. Magnet page now includes L1-L12 positions/polarities, compass/Hall-sensor locations and clearance, and five magnetic exclusion regions; remaining BV/O/PM magnet arrays are incomplete.",
+    "features": {
+      "magnetDetail": {
+        "coordinateConvention": "Magnet detail front view: origin at center smart-connector pin, x right, y up. This origin differs from the body-centred display coordinate system.",
+        "leftEdgeMagnets": [
+          {
+            "label": "L1",
+            "center": {
+              "x": {
+                "value": -102.11,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Magnet-detail explicit x ordinate for labelled left-edge magnet group."
+              },
+              "y": {
+                "value": 233.2,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Magnet-detail explicit y ordinate, ordered L1 through L12 from top to bottom."
+              }
+            },
+            "polarityTowardInside": "S",
+            "polarityTowardSurface": "N"
+          },
+          {
+            "label": "L2",
+            "center": {
+              "x": {
+                "value": -102.11,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Magnet-detail explicit x ordinate for labelled left-edge magnet group."
+              },
+              "y": {
+                "value": 224.66,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Magnet-detail explicit y ordinate, ordered L1 through L12 from top to bottom."
+              }
+            },
+            "polarityTowardInside": "N",
+            "polarityTowardSurface": "S"
+          },
+          {
+            "label": "L3",
+            "center": {
+              "x": {
+                "value": -101.83,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Magnet-detail explicit x ordinate for labelled left-edge magnet group."
+              },
+              "y": {
+                "value": 192.56,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Magnet-detail explicit y ordinate, ordered L1 through L12 from top to bottom."
+              }
+            },
+            "polarityTowardInside": "S",
+            "polarityTowardSurface": "N"
+          },
+          {
+            "label": "L4",
+            "center": {
+              "x": {
+                "value": -101.83,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Magnet-detail explicit x ordinate for labelled left-edge magnet group."
+              },
+              "y": {
+                "value": 185.31,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Magnet-detail explicit y ordinate, ordered L1 through L12 from top to bottom."
+              }
+            },
+            "polarityTowardInside": "N",
+            "polarityTowardSurface": "S"
+          },
+          {
+            "label": "L5",
+            "center": {
+              "x": {
+                "value": -101.83,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Magnet-detail explicit x ordinate for labelled left-edge magnet group."
+              },
+              "y": {
+                "value": 178.06,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Magnet-detail explicit y ordinate, ordered L1 through L12 from top to bottom."
+              }
+            },
+            "polarityTowardInside": "S",
+            "polarityTowardSurface": "N"
+          },
+          {
+            "label": "L6",
+            "center": {
+              "x": {
+                "value": -101.83,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Magnet-detail explicit x ordinate for labelled left-edge magnet group."
+              },
+              "y": {
+                "value": 170.81,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Magnet-detail explicit y ordinate, ordered L1 through L12 from top to bottom."
+              }
+            },
+            "polarityTowardInside": "N",
+            "polarityTowardSurface": "S"
+          },
+          {
+            "label": "L7",
+            "center": {
+              "x": {
+                "value": -101.83,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Magnet-detail explicit x ordinate for labelled left-edge magnet group."
+              },
+              "y": {
+                "value": 85.61,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Magnet-detail explicit y ordinate, ordered L1 through L12 from top to bottom."
+              }
+            },
+            "polarityTowardInside": "S",
+            "polarityTowardSurface": "N"
+          },
+          {
+            "label": "L8",
+            "center": {
+              "x": {
+                "value": -101.83,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Magnet-detail explicit x ordinate for labelled left-edge magnet group."
+              },
+              "y": {
+                "value": 78.36,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Magnet-detail explicit y ordinate, ordered L1 through L12 from top to bottom."
+              }
+            },
+            "polarityTowardInside": "N",
+            "polarityTowardSurface": "S"
+          },
+          {
+            "label": "L9",
+            "center": {
+              "x": {
+                "value": -101.83,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Magnet-detail explicit x ordinate for labelled left-edge magnet group."
+              },
+              "y": {
+                "value": 71.11,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Magnet-detail explicit y ordinate, ordered L1 through L12 from top to bottom."
+              }
+            },
+            "polarityTowardInside": "S",
+            "polarityTowardSurface": "N"
+          },
+          {
+            "label": "L10",
+            "center": {
+              "x": {
+                "value": -101.83,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Magnet-detail explicit x ordinate for labelled left-edge magnet group."
+              },
+              "y": {
+                "value": 63.86,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Magnet-detail explicit y ordinate, ordered L1 through L12 from top to bottom."
+              }
+            },
+            "polarityTowardInside": "N",
+            "polarityTowardSurface": "S"
+          },
+          {
+            "label": "L11",
+            "center": {
+              "x": {
+                "value": -102.11,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Magnet-detail explicit x ordinate for labelled left-edge magnet group."
+              },
+              "y": {
+                "value": 32.92,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Magnet-detail explicit y ordinate, ordered L1 through L12 from top to bottom."
+              }
+            },
+            "polarityTowardInside": "N",
+            "polarityTowardSurface": "S"
+          },
+          {
+            "label": "L12",
+            "center": {
+              "x": {
+                "value": -102.11,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Magnet-detail explicit x ordinate for labelled left-edge magnet group."
+              },
+              "y": {
+                "value": 24.37,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Magnet-detail explicit y ordinate, ordered L1 through L12 from top to bottom."
+              }
+            },
+            "polarityTowardInside": "S",
+            "polarityTowardSurface": "N"
+          }
+        ],
+        "sensors": {
+          "compass": {
+            "center": {
+              "x": {
+                "value": -3.8,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit magnet-detail x ordinate."
+              },
+              "y": {
+                "value": 264.9,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit magnet-detail y ordinate."
+              }
+            },
+            "bottomToOutsideHousing": {
+              "value": 1.11,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Section AC-AC: bottom of named sensor to outside housing."
+            }
+          },
+          "HES1": {
+            "center": {
+              "x": {
+                "value": -93.23,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit magnet-detail x ordinate."
+              },
+              "y": {
+                "value": 46.6,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit magnet-detail y ordinate."
+              }
+            },
+            "bottomToOutsideHousing": {
+              "value": 2.04,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Section R-R: bottom of named sensor to outside housing."
+            }
+          },
+          "HES2": {
+            "center": {
+              "x": {
+                "value": 95.15,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit magnet-detail x ordinate."
+              },
+              "y": {
+                "value": 36.56,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit magnet-detail y ordinate."
+              }
+            },
+            "bottomToOutsideHousing": {
+              "value": 0.99,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Section S-S: bottom of named sensor to outside housing."
+            }
+          }
+        },
+        "magneticKeepouts": {
+          "leftHallSensor": {
+            "xMin": {
+              "value": -92.21,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Hatched keepout left edge."
+            },
+            "xMax": {
+              "value": -83.41,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Hatched keepout right edge."
+            },
+            "yMin": {
+              "value": 69.55,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Hatched keepout lower edge."
+            },
+            "yMax": {
+              "value": 76.55,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Hatched keepout upper edge."
+            },
+            "extentThroughThickness": "Entire product thickness",
+            "maximumMilliTesla": 5
+          },
+          "rightMagnetExclusion": {
+            "xMin": {
+              "value": 90.76,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Magnet keepout left boundary."
+            },
+            "xMax": {
+              "value": 111.47,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Magnet keepout right boundary."
+            },
+            "yMin": {
+              "value": 106.04,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Magnet keepout lower boundary; visual crop confirms 106.04."
+            },
+            "yMax": {
+              "value": 146.04,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Magnet keepout upper boundary."
+            },
+            "extentThroughThickness": "Extends above and below product thickness; no finite depth specified."
+          },
+          "rightFluxExclusion": {
+            "xMin": {
+              "value": 105.46,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Cross-hatched flux keepout left edge."
+            },
+            "xMax": {
+              "value": 111.47,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Cross-hatched flux keepout right edge."
+            },
+            "yMin": {
+              "value": 119.04,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Cross-hatched flux keepout lower edge."
+            },
+            "yMax": {
+              "value": 133.04,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Cross-hatched flux keepout upper edge."
+            },
+            "thickness": {
+              "value": 3,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Centered in product thickness."
+            },
+            "maximumMilliTesla": 0.25
+          },
+          "upperRightFieldLine": {
+            "x": {
+              "value": 111.47,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Flux keepout vertical line x ordinate."
+            },
+            "yMin": {
+              "value": 157.54,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Lower line endpoint."
+            },
+            "yMax": {
+              "value": 160.34,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Upper line endpoint."
+            },
+            "outsideHousingOffset": {
+              "value": 2.54,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Side-view flux keepout to outside housing."
+            },
+            "maximumMilliTesla": 1.3
+          },
+          "lowerRightFieldLine": {
+            "x": {
+              "value": 111.47,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Flux keepout vertical line x ordinate."
+            },
+            "yMin": {
+              "value": 91.74,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Lower line endpoint."
+            },
+            "yMax": {
+              "value": 94.54,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Upper line endpoint."
+            },
+            "outsideHousingOffset": {
+              "value": 2.54,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Side-view flux keepout to outside housing."
+            },
+            "maximumMilliTesla": 1.3
+          }
+        }
+      }
+    }
   },
   {
     "id": "ipad-pro-13-inch-m5",
@@ -6539,5 +6986,1932 @@
     ],
     "profiles": [],
     "reviewScope": "Fourth-generation own front camera/ALS, acoustic, button and connector dimensions from its PDF page2. Front camera keepout differs substantially from fifth-generation even though the newer drawing title lists both."
+  },
+  {
+    "id": "ipad-pro-11-inch-4th-generation",
+    "sourcePagesReviewed": [
+      2,
+      3
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "surface-width",
+        "value": 4.82,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "included-angle",
+        "value": 132.15,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "infrared-camera-keepout",
+        "quantity": "surface-width",
+        "value": 3.84,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "infrared-camera-keepout",
+        "quantity": "included-angle",
+        "value": 85,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "flood-illuminator-keepout",
+        "quantity": "surface-width",
+        "value": 3.78,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "flood-illuminator-keepout",
+        "quantity": "included-angle",
+        "value": 80,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "dot-projector-keepout",
+        "quantity": "surface-width",
+        "value": 4.1,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "dot-projector-keepout",
+        "quantity": "included-angle",
+        "value": 90,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "front-camera",
+        "quantity": "center-from-top",
+        "value": 4.13,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "front-microphone",
+        "quantity": "center-from-top",
+        "value": 4.13,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "infrared-camera",
+        "quantity": "center-from-top",
+        "value": 4.22,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "flood-illuminator",
+        "quantity": "center-from-top",
+        "value": 4.22,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "dot-projector",
+        "quantity": "center-from-top",
+        "value": 4.22,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "front-microphone-opening",
+        "quantity": "diameter",
+        "value": 0.8,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "front-microphone-keepout",
+        "quantity": "diameter",
+        "value": 1.6,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "top-microphone-keepout",
+        "quantity": "diameter",
+        "value": 1.6,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "ambient-light-sensor",
+        "quantity": "diameter",
+        "value": 3.39,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "ambient-light-sensor",
+        "quantity": "center-from-top",
+        "value": 3.6,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "ambient-light-sensor",
+        "quantity": "center-from-nearest-side",
+        "value": 43.49,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-wide-camera-keepout",
+        "quantity": "surface-width",
+        "value": 3.77,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-wide-camera-keepout",
+        "quantity": "included-angle",
+        "value": 76.9,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "rear-ultrawide-camera-keepout",
+        "quantity": "surface-width",
+        "value": 6.22,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-ultrawide-camera-keepout",
+        "quantity": "included-angle",
+        "value": 131,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "rear-infrared-1-keepout",
+        "quantity": "surface-width",
+        "value": 2.89,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-infrared-1-keepout",
+        "quantity": "included-angle",
+        "value": 78.33,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "rear-infrared-2-keepout",
+        "quantity": "surface-width",
+        "value": 2.68,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-infrared-2-keepout",
+        "quantity": "included-angle",
+        "value": 77.55,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "ambient-light-sensor-keepout",
+        "quantity": "included-angle",
+        "value": 120,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "flash-keepout",
+        "quantity": "first-angle",
+        "value": 78.5,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "flash-keepout",
+        "quantity": "second-angle",
+        "value": 67.5,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "flash-keepout",
+        "quantity": "diameter",
+        "value": 4.15,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "flash-keepout",
+        "quantity": "surface-width",
+        "value": 6.13,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "flash-keepout",
+        "quantity": "depth",
+        "value": 2.54,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-wide-camera",
+        "quantity": "diameter",
+        "value": 8.83,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-ultrawide-camera",
+        "quantity": "diameter",
+        "value": 8.83,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-infrared-aperture",
+        "quantity": "diameter",
+        "value": 7.44,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-infrared-1",
+        "quantity": "diameter",
+        "value": 2.22,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-infrared-2",
+        "quantity": "diameter",
+        "value": 2.02,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-flash-aperture",
+        "quantity": "diameter",
+        "value": 3.75,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-microphone-keepout",
+        "quantity": "diameter",
+        "value": 2.9,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "side-microphone-keepout",
+        "quantity": "diameter",
+        "value": 1.6,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "smart-connector-pin",
+        "quantity": "diameter",
+        "value": 3.4,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "smart-connector-pins",
+        "quantity": "center-spacing",
+        "value": 4.97,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "smart-connector-housing",
+        "quantity": "height",
+        "value": 3.96,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "smart-connector",
+        "quantity": "distance-from-enclosure",
+        "value": 10.02,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "volume-button",
+        "quantity": "length",
+        "value": 10.06,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "volume-button",
+        "quantity": "width",
+        "value": 2,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "upper-volume-button",
+        "quantity": "center-from-top",
+        "value": 19.49,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "lower-volume-button",
+        "quantity": "center-from-top",
+        "value": 31.55,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "depth-from-cover-glass",
+        "value": 7.86,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-infrared-sapphire",
+        "quantity": "depth-from-cover-glass",
+        "value": 7.49,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-wide-camera",
+        "quantity": "protrusion-from-rear-enclosure",
+        "value": 1.91,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-infrared-sapphire",
+        "quantity": "protrusion-from-rear-enclosure",
+        "value": 1.54,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "side-microphone-3",
+        "quantity": "center-from-cover-glass",
+        "value": 3,
+        "page": 3,
+        "unit": "mm"
+      }
+    ],
+    "reviewScope": "Front sensor locations, named front/rear imaging and acoustic keepouts, apertures, smart contacts, camera protrusions and volume-button dimensions. Remaining connector sections, magnetic tables and local contours are not yet semantically normalized."
+  },
+  {
+    "id": "ipad-pro-11-inch-3rd-generation",
+    "sourcePagesReviewed": [
+      2,
+      3
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "surface-width",
+        "value": 4.82,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "included-angle",
+        "value": 132.15,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "infrared-camera-keepout",
+        "quantity": "surface-width",
+        "value": 3.84,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "infrared-camera-keepout",
+        "quantity": "included-angle",
+        "value": 85,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "flood-illuminator-keepout",
+        "quantity": "surface-width",
+        "value": 3.78,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "flood-illuminator-keepout",
+        "quantity": "included-angle",
+        "value": 80,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "dot-projector-keepout",
+        "quantity": "surface-width",
+        "value": 4.1,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "dot-projector-keepout",
+        "quantity": "included-angle",
+        "value": 90,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "front-camera",
+        "quantity": "center-from-top",
+        "value": 4.13,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "front-microphone",
+        "quantity": "center-from-top",
+        "value": 4.13,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "infrared-camera",
+        "quantity": "center-from-top",
+        "value": 4.22,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "flood-illuminator",
+        "quantity": "center-from-top",
+        "value": 4.22,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "dot-projector",
+        "quantity": "center-from-top",
+        "value": 4.22,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "front-microphone-opening",
+        "quantity": "diameter",
+        "value": 0.8,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "front-microphone-keepout",
+        "quantity": "diameter",
+        "value": 1.6,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "top-microphone-keepout",
+        "quantity": "diameter",
+        "value": 1.6,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "ambient-light-sensor",
+        "quantity": "diameter",
+        "value": 3.39,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "ambient-light-sensor",
+        "quantity": "center-from-top",
+        "value": 3.6,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "ambient-light-sensor",
+        "quantity": "center-from-nearest-side",
+        "value": 43.49,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-wide-camera-keepout",
+        "quantity": "surface-width",
+        "value": 3.77,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-wide-camera-keepout",
+        "quantity": "included-angle",
+        "value": 76.9,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "rear-ultrawide-camera-keepout",
+        "quantity": "surface-width",
+        "value": 6.22,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-ultrawide-camera-keepout",
+        "quantity": "included-angle",
+        "value": 131,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "rear-infrared-1-keepout",
+        "quantity": "surface-width",
+        "value": 2.89,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-infrared-1-keepout",
+        "quantity": "included-angle",
+        "value": 78.33,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "rear-infrared-2-keepout",
+        "quantity": "surface-width",
+        "value": 2.68,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-infrared-2-keepout",
+        "quantity": "included-angle",
+        "value": 77.55,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "ambient-light-sensor-keepout",
+        "quantity": "included-angle",
+        "value": 120,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "flash-keepout",
+        "quantity": "first-angle",
+        "value": 78.5,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "flash-keepout",
+        "quantity": "second-angle",
+        "value": 67.5,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "flash-keepout",
+        "quantity": "diameter",
+        "value": 4.15,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "flash-keepout",
+        "quantity": "surface-width",
+        "value": 6.13,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "flash-keepout",
+        "quantity": "depth",
+        "value": 2.54,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-wide-camera",
+        "quantity": "diameter",
+        "value": 8.83,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-ultrawide-camera",
+        "quantity": "diameter",
+        "value": 8.83,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-infrared-aperture",
+        "quantity": "diameter",
+        "value": 7.44,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-infrared-1",
+        "quantity": "diameter",
+        "value": 2.22,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-infrared-2",
+        "quantity": "diameter",
+        "value": 2.02,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-flash-aperture",
+        "quantity": "diameter",
+        "value": 4,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-microphone-keepout",
+        "quantity": "diameter",
+        "value": 2.9,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "side-microphone-keepout",
+        "quantity": "diameter",
+        "value": 1.6,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "smart-connector-pin",
+        "quantity": "diameter",
+        "value": 3.4,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "smart-connector-pins",
+        "quantity": "center-spacing",
+        "value": 4.97,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "smart-connector-housing",
+        "quantity": "height",
+        "value": 3.96,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "smart-connector",
+        "quantity": "distance-from-enclosure",
+        "value": 10.02,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "volume-button",
+        "quantity": "length",
+        "value": 10.06,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "volume-button",
+        "quantity": "width",
+        "value": 2,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "upper-volume-button",
+        "quantity": "center-from-top",
+        "value": 19.49,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "lower-volume-button",
+        "quantity": "center-from-top",
+        "value": 31.54,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "depth-from-cover-glass",
+        "value": 7.86,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-infrared-sapphire",
+        "quantity": "depth-from-cover-glass",
+        "value": 7.49,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-wide-camera",
+        "quantity": "protrusion-from-rear-enclosure",
+        "value": 1.91,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-infrared-sapphire",
+        "quantity": "protrusion-from-rear-enclosure",
+        "value": 1.54,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "side-microphone-3",
+        "quantity": "center-from-cover-glass",
+        "value": 3,
+        "page": 3,
+        "unit": "mm"
+      }
+    ],
+    "reviewScope": "Front sensor locations, named front/rear imaging and acoustic keepouts, apertures, smart contacts, camera protrusions and volume-button dimensions. Remaining connector sections, magnetic tables and local contours are not yet semantically normalized."
+  },
+  {
+    "id": "ipad-pro-12.9-inch-6th-generation",
+    "sourcePagesReviewed": [
+      2,
+      3
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "surface-width",
+        "value": 5.27,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "included-angle",
+        "value": 132.15,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "infrared-camera-keepout",
+        "quantity": "surface-width",
+        "value": 4.02,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "infrared-camera-keepout",
+        "quantity": "included-angle",
+        "value": 95,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "flood-illuminator-keepout",
+        "quantity": "surface-width",
+        "value": 3.95,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "flood-illuminator-keepout",
+        "quantity": "included-angle",
+        "value": 80,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "dot-projector-keepout",
+        "quantity": "surface-width",
+        "value": 4.1,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "dot-projector-keepout",
+        "quantity": "included-angle",
+        "value": 90,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "front-camera",
+        "quantity": "center-from-top",
+        "value": 4.13,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "front-microphone",
+        "quantity": "center-from-top",
+        "value": 4.13,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "infrared-camera",
+        "quantity": "center-from-top",
+        "value": 4.22,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "flood-illuminator",
+        "quantity": "center-from-top",
+        "value": 4.22,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "dot-projector",
+        "quantity": "center-from-top",
+        "value": 4.22,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "front-microphone-opening",
+        "quantity": "diameter",
+        "value": 0.8,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "front-microphone-keepout",
+        "quantity": "diameter",
+        "value": 1.6,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "top-microphone-keepout",
+        "quantity": "diameter",
+        "value": 1.6,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "ambient-light-sensor",
+        "quantity": "diameter",
+        "value": 3.73,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "ambient-light-sensor",
+        "quantity": "center-from-top",
+        "value": 4.13,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "ambient-light-sensor",
+        "quantity": "center-from-nearest-side",
+        "value": 43.49,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-wide-camera-keepout",
+        "quantity": "surface-width",
+        "value": 3.77,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-wide-camera-keepout",
+        "quantity": "included-angle",
+        "value": 76.9,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "rear-ultrawide-camera-keepout",
+        "quantity": "surface-width",
+        "value": 6.22,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-ultrawide-camera-keepout",
+        "quantity": "included-angle",
+        "value": 131,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "rear-infrared-1-keepout",
+        "quantity": "surface-width",
+        "value": 2.89,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-infrared-1-keepout",
+        "quantity": "included-angle",
+        "value": 78.33,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "rear-infrared-2-keepout",
+        "quantity": "surface-width",
+        "value": 2.68,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-infrared-2-keepout",
+        "quantity": "included-angle",
+        "value": 77.55,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "ambient-light-sensor-keepout",
+        "quantity": "included-angle",
+        "value": 120,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "flash-keepout",
+        "quantity": "first-angle",
+        "value": 78.5,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "flash-keepout",
+        "quantity": "second-angle",
+        "value": 67.5,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "flash-keepout",
+        "quantity": "diameter",
+        "value": 4.15,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "flash-keepout",
+        "quantity": "surface-width",
+        "value": 6.13,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "flash-keepout",
+        "quantity": "depth",
+        "value": 2.54,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-wide-camera",
+        "quantity": "diameter",
+        "value": 8.83,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-ultrawide-camera",
+        "quantity": "diameter",
+        "value": 8.83,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-infrared-aperture",
+        "quantity": "diameter",
+        "value": 7.44,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-infrared-1",
+        "quantity": "diameter",
+        "value": 2.22,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-infrared-2",
+        "quantity": "diameter",
+        "value": 2.02,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-flash-aperture",
+        "quantity": "diameter",
+        "value": 3.75,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-microphone-keepout",
+        "quantity": "diameter",
+        "value": 2.9,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "side-microphone-keepout",
+        "quantity": "diameter",
+        "value": 1.6,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "smart-connector-pin",
+        "quantity": "diameter",
+        "value": 3.4,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "smart-connector-pins",
+        "quantity": "center-spacing",
+        "value": 4.97,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "smart-connector-housing",
+        "quantity": "height",
+        "value": 3.96,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "smart-connector",
+        "quantity": "distance-from-enclosure",
+        "value": 10.02,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "volume-button",
+        "quantity": "length",
+        "value": 10.06,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "volume-button",
+        "quantity": "width",
+        "value": 2,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "upper-volume-button",
+        "quantity": "center-from-top",
+        "value": 19.54,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "lower-volume-button",
+        "quantity": "center-from-top",
+        "value": 31.6,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "depth-from-cover-glass",
+        "value": 8.51,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-infrared-sapphire",
+        "quantity": "depth-from-cover-glass",
+        "value": 8.14,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-wide-camera",
+        "quantity": "protrusion-from-rear-enclosure",
+        "value": 2.07,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-infrared-sapphire",
+        "quantity": "protrusion-from-rear-enclosure",
+        "value": 1.7,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "side-microphone-3",
+        "quantity": "center-from-cover-glass",
+        "value": 3.24,
+        "page": 3,
+        "unit": "mm"
+      }
+    ],
+    "reviewScope": "Front sensor locations, named front/rear imaging and acoustic keepouts, apertures, smart contacts, camera protrusions and volume-button dimensions. Remaining connector sections, magnetic tables and local contours are not yet semantically normalized."
+  },
+  {
+    "id": "ipad-pro-12.9-inch-5th-generation",
+    "sourcePagesReviewed": [
+      2,
+      3
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "surface-width",
+        "value": 5.27,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "included-angle",
+        "value": 132.15,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "infrared-camera-keepout",
+        "quantity": "surface-width",
+        "value": 4.02,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "infrared-camera-keepout",
+        "quantity": "included-angle",
+        "value": 95,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "flood-illuminator-keepout",
+        "quantity": "surface-width",
+        "value": 3.95,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "flood-illuminator-keepout",
+        "quantity": "included-angle",
+        "value": 80,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "dot-projector-keepout",
+        "quantity": "surface-width",
+        "value": 4.1,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "dot-projector-keepout",
+        "quantity": "included-angle",
+        "value": 90,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "front-camera",
+        "quantity": "center-from-top",
+        "value": 4.13,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "front-microphone",
+        "quantity": "center-from-top",
+        "value": 4.13,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "infrared-camera",
+        "quantity": "center-from-top",
+        "value": 4.22,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "flood-illuminator",
+        "quantity": "center-from-top",
+        "value": 4.22,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "dot-projector",
+        "quantity": "center-from-top",
+        "value": 4.22,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "front-microphone-opening",
+        "quantity": "diameter",
+        "value": 0.8,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "front-microphone-keepout",
+        "quantity": "diameter",
+        "value": 1.6,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "top-microphone-keepout",
+        "quantity": "diameter",
+        "value": 1.6,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "ambient-light-sensor",
+        "quantity": "diameter",
+        "value": 3.73,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "ambient-light-sensor",
+        "quantity": "center-from-top",
+        "value": 4.13,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "ambient-light-sensor",
+        "quantity": "center-from-nearest-side",
+        "value": 43.49,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-wide-camera-keepout",
+        "quantity": "surface-width",
+        "value": 3.77,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-wide-camera-keepout",
+        "quantity": "included-angle",
+        "value": 76.9,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "rear-ultrawide-camera-keepout",
+        "quantity": "surface-width",
+        "value": 6.22,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-ultrawide-camera-keepout",
+        "quantity": "included-angle",
+        "value": 131,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "rear-infrared-1-keepout",
+        "quantity": "surface-width",
+        "value": 2.89,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-infrared-1-keepout",
+        "quantity": "included-angle",
+        "value": 78.33,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "rear-infrared-2-keepout",
+        "quantity": "surface-width",
+        "value": 2.68,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-infrared-2-keepout",
+        "quantity": "included-angle",
+        "value": 77.55,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "ambient-light-sensor-keepout",
+        "quantity": "included-angle",
+        "value": 120,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "flash-keepout",
+        "quantity": "first-angle",
+        "value": 78.5,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "flash-keepout",
+        "quantity": "second-angle",
+        "value": 67.5,
+        "page": 2,
+        "unit": "degree",
+        "note": "Mechanical accessory keepout or section angle; not a measured optical capture field of view."
+      },
+      {
+        "feature": "flash-keepout",
+        "quantity": "diameter",
+        "value": 4.15,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "flash-keepout",
+        "quantity": "surface-width",
+        "value": 6.13,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "flash-keepout",
+        "quantity": "depth",
+        "value": 2.54,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-wide-camera",
+        "quantity": "diameter",
+        "value": 8.83,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-ultrawide-camera",
+        "quantity": "diameter",
+        "value": 8.83,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-infrared-aperture",
+        "quantity": "diameter",
+        "value": 7.44,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-infrared-1",
+        "quantity": "diameter",
+        "value": 2.22,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-infrared-2",
+        "quantity": "diameter",
+        "value": 2.02,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-flash-aperture",
+        "quantity": "diameter",
+        "value": 3.75,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-microphone-keepout",
+        "quantity": "diameter",
+        "value": 2.9,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "side-microphone-keepout",
+        "quantity": "diameter",
+        "value": 1.6,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "smart-connector-pin",
+        "quantity": "diameter",
+        "value": 3.4,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "smart-connector-pins",
+        "quantity": "center-spacing",
+        "value": 4.97,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "smart-connector-housing",
+        "quantity": "height",
+        "value": 3.96,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "smart-connector",
+        "quantity": "distance-from-enclosure",
+        "value": 10.02,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "volume-button",
+        "quantity": "length",
+        "value": 10.06,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "volume-button",
+        "quantity": "width",
+        "value": 2,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "upper-volume-button",
+        "quantity": "center-from-top",
+        "value": 19.54,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "lower-volume-button",
+        "quantity": "center-from-top",
+        "value": 31.6,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "depth-from-cover-glass",
+        "value": 8.51,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-infrared-sapphire",
+        "quantity": "depth-from-cover-glass",
+        "value": 8.14,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-wide-camera",
+        "quantity": "protrusion-from-rear-enclosure",
+        "value": 2.07,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-infrared-sapphire",
+        "quantity": "protrusion-from-rear-enclosure",
+        "value": 1.7,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "side-microphone-3",
+        "quantity": "center-from-cover-glass",
+        "value": 3.24,
+        "page": 3,
+        "unit": "mm"
+      }
+    ],
+    "reviewScope": "Front sensor locations, named front/rear imaging and acoustic keepouts, apertures, smart contacts, camera protrusions and volume-button dimensions. Remaining connector sections, magnetic tables and local contours are not yet semantically normalized."
+  },
+  {
+    "id": "ipad-8th-generation",
+    "sourcePagesReviewed": [
+      2
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "front-camera-aperture",
+        "quantity": "diameter",
+        "value": 2.45,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "front-camera",
+        "quantity": "center-from-left",
+        "value": 87.04,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "front-camera",
+        "quantity": "center-from-top",
+        "value": 11.07,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "diameter",
+        "value": 3.93,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "front-camera-image-cone",
+        "quantity": "surface-diameter",
+        "value": 3,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "ambient-light-sensor",
+        "quantity": "diameter",
+        "value": 3,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "ambient-light-sensor",
+        "quantity": "center-from-left",
+        "value": 82.64,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "ambient-light-sensor",
+        "quantity": "center-from-top",
+        "value": 11.03,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "center-from-left-in-rear-view",
+        "value": 14.37,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "center-from-top",
+        "value": 11.66,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "rear-camera-keepout",
+        "quantity": "surface-diameter",
+        "value": 8.24,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "rear-camera-image-cone",
+        "quantity": "surface-diameter",
+        "value": 6.09,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "center-from-left-in-rear-view",
+        "value": 87.04,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "center-from-top",
+        "value": 11.09,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "rear-microphone-keepout",
+        "quantity": "diameter",
+        "value": 1.6,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "top-microphone-keepout",
+        "quantity": "diameter",
+        "value": 1.6,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "audio-jack",
+        "quantity": "center-from-left",
+        "value": 14.62,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "audio-jack",
+        "quantity": "center-from-front",
+        "value": 4.31,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "audio-jack-mating-connector-keepout",
+        "quantity": "diameter",
+        "value": 6.5,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "audio-jack-mating-connector-keepout",
+        "quantity": "outward-depth",
+        "value": 14,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "volume-button",
+        "quantity": "length",
+        "value": 10,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "volume-up-button",
+        "quantity": "center-from-top",
+        "value": 26.25,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "volume-down-button",
+        "quantity": "center-from-top",
+        "value": 39.68,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "sleep-wake-button",
+        "quantity": "length",
+        "value": 10,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "sleep-wake-button",
+        "quantity": "width",
+        "value": 1.87,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "home-button",
+        "quantity": "diameter",
+        "value": 10.06,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "home-button-keepout",
+        "quantity": "surface-diameter",
+        "value": 14.6,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "home-button",
+        "quantity": "center-from-bottom",
+        "value": 9.28,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "lightning-mating-connector-recommended-keepout",
+        "quantity": "width",
+        "value": 13.65,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "lightning-mating-connector-recommended-keepout",
+        "quantity": "height",
+        "value": 6.85,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "lightning-mating-connector-recommended-keepout",
+        "quantity": "outward-depth",
+        "value": 14,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "lightning-connector-keepout",
+        "quantity": "height",
+        "value": 4.1,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "lightning-connector-keepout",
+        "quantity": "radius",
+        "value": 3.42,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "pencil-insertion-keepout",
+        "quantity": "diameter",
+        "value": 8.9,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "smart-contact-surface",
+        "quantity": "diameter",
+        "value": 2.5,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "smart-contact-surface-surround",
+        "quantity": "diameter",
+        "value": 3.1,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "smart-contact",
+        "quantity": "center-spacing",
+        "value": 3.95,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "smart-contact",
+        "quantity": "distance-from-glass",
+        "value": 2.2,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "smart-contact-enclosure-hole",
+        "quantity": "distance-from-glass",
+        "value": 1.92,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "smart-contact-middle",
+        "quantity": "center-from-bottom",
+        "value": 119.82,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "speaker-hole",
+        "quantity": "diameter",
+        "value": 1.6,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "front-camera-image-cone",
+        "quantity": "included-angle",
+        "value": 71,
+        "unit": "degree",
+        "page": 2
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "included-angle",
+        "value": 87.1,
+        "unit": "degree",
+        "page": 2
+      },
+      {
+        "feature": "rear-camera-keepout",
+        "quantity": "included-angle",
+        "value": 86,
+        "unit": "degree",
+        "page": 2
+      },
+      {
+        "feature": "home-button-keepout",
+        "quantity": "included-angle",
+        "value": 100,
+        "unit": "degree",
+        "page": 2
+      },
+      {
+        "feature": "smart-contact-surface",
+        "quantity": "angle-from-vertical-edge",
+        "value": 23.3,
+        "unit": "degree",
+        "page": 2
+      }
+    ],
+    "reviewScope": "Page 2 front/rear cameras, ALS, buttons, microphones, Lightning/Pencil/audio-jack clearances and smart contacts reviewed from the generation-specific drawing. Remaining antenna, magnet and section/contour geometry incomplete."
   }
 ]

@@ -76,3 +76,18 @@ test('feature geometry retains source meaning and separate contour axes', () => 
  assert.equal(air.value,9.65);assert.ok(air.source.endsWith('ipad-air-11-inch-m4.pdf'));
  assert.equal(findDevice('ipad-a16').features.generalDrawingTolerances.dimensions.twoDecimals.value,.1);
 });
+
+test('generation-specific imaging clearances and magnetic datums are preserved', () => {
+ const dim=(id,feature,quantity)=>findDevice(id).additionalDimensions.find(d=>d.feature===feature && d.quantity===quantity).value;
+ assert.equal(dim('ipad-pro-11-inch-4th-generation','infrared-camera-keepout','included-angle'),85);
+ assert.equal(dim('ipad-pro-12.9-inch-6th-generation','infrared-camera-keepout','included-angle'),95);
+ assert.equal(dim('ipad-pro-11-inch-3rd-generation','rear-flash-aperture','diameter'),4);
+ assert.equal(dim('ipad-pro-11-inch-4th-generation','rear-flash-aperture','diameter'),3.75);
+ assert.equal(dim('ipad-8th-generation','front-camera-aperture','diameter'),2.45);
+ const magnetic=findDevice('ipad-pro-13-inch-m4').features.magnetDetail;
+ assert.equal(magnetic.leftEdgeMagnets.length,12);
+ assert.equal(magnetic.leftEdgeMagnets[0].center.x.value,-102.11);
+ assert.equal(magnetic.leftEdgeMagnets[2].center.x.value,-101.83);
+ assert.equal(magnetic.magneticKeepouts.rightMagnetExclusion.yMin.value,106.04);
+ assert.match(magnetic.coordinateConvention,/smart-connector pin/);
+});
