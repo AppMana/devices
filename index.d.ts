@@ -5,9 +5,9 @@ export interface Device {
   display: { activeMm: Size | null; nativePixels: Size | null; nominalPpi: number | null; ppi: {x: number; y: number} | null; source: string | null; resolutionReview?: Record<string, unknown> };
   bodyMm: {width: number | null; height: number | null; depth?: number | null} | null;
   coverGlassMm: Size | null;
-  additionalDimensions: {feature: string; quantity: string; value: number; unit: 'mm' | 'degree'; page: number; detail?: string; note?: string}[];
+  additionalDimensions: {feature: string; quantity: string; value: number; unit: 'mm' | 'degree'; page: number; source?: string; detail?: string; note?: string}[];
   features: Record<string, unknown>;
-  profiles: {feature: string; detail: string; page: number; unit: 'mm'; coordinateConvention: string; coordinateStatus: string; x: number[]; y: number[]; sourceRegionPoints?: [number, number, number, number]; note?: string}[];
+  profiles: {feature: string; detail: string; page: number; source?: string; unit: 'mm'; coordinateConvention: string; coordinateStatus: string; x: number[]; y: number[]; sourceRegionPoints?: [number, number, number, number]; note?: string}[];
   frontCameraPartial: {x: number | null; y: number | null} | null;
   frontCamera: { x: number; y: number; convention: string; source: string; page: number } | null;
   review: { status: string; derivation: string | null; source?: string; page?: number; bodyPage?: number; bodyDepthPage?: number; bodyDepthDefinition?: string | null; scope?: string; pagesReviewed?: number[]; ambiguities?: string[]; frontCameraCenterStatus?: string; frontCameraCenterDerivation?: string };

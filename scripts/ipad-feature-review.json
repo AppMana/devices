@@ -2078,5 +2078,2279 @@
       }
     ],
     "reviewScope": "Display/body/camera plus named apertures, connector clearance, keepout cones, button/sensor dimensions and three local contour ordinate sets. Magnetic locations and remaining detail contours are still incomplete."
+  },
+  {
+    "id": "ipad-air-11-inch-m4",
+    "sourcePagesReviewed": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "speaker-opening",
+        "quantity": "diameter",
+        "value": 1.76,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button",
+        "quantity": "width",
+        "value": 4,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button",
+        "quantity": "centre-from-right",
+        "value": 12.69,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button-keepout",
+        "quantity": "surface-width",
+        "value": 20.12,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "diameter",
+        "value": 4.35,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "surface-width",
+        "value": 3.89,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "ambient-light-sensor-keepout",
+        "quantity": "surface-width",
+        "value": 3.2,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "front-camera",
+        "quantity": "centre-from-right",
+        "value": 4.49,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "width",
+        "value": 12.45,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "height",
+        "value": 6.6,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "outward-depth",
+        "value": 14,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "included-angle",
+        "value": 121.01,
+        "page": 2,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Mechanical accessory clearance angle; not measured camera capture field of view."
+      },
+      {
+        "feature": "ambient-light-sensor-keepout",
+        "quantity": "included-angle",
+        "value": 99.64,
+        "page": 2,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Mechanical accessory clearance angle; not measured camera capture field of view."
+      },
+      {
+        "feature": "top-button-keepout",
+        "quantity": "included-angle",
+        "value": 120,
+        "page": 2,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Mechanical accessory clearance angle; not measured camera capture field of view."
+      },
+      {
+        "feature": "rear-camera-lens",
+        "quantity": "diameter",
+        "value": 9.65,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera-side-wall",
+        "quantity": "diameter",
+        "value": 11.89,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera-mount",
+        "quantity": "diameter",
+        "value": 16.92,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera-keepout",
+        "quantity": "minimum-surface-width",
+        "value": 3.21,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-microphone-keepout",
+        "quantity": "diameter",
+        "value": 2.9,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "centre-from-top",
+        "value": 12.69,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "centre-from-left-rear-view",
+        "value": 12.68,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "centre-from-top",
+        "value": 27.62,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "depth-to-cover-glass",
+        "value": 8.2,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera-window",
+        "quantity": "protrusion-from-housing-back",
+        "value": 2.08,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "length",
+        "value": 10.06,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "width",
+        "value": 2,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "upper-centre-from-top",
+        "value": 19.49,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "lower-centre-from-top",
+        "value": 31.55,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "diameter",
+        "value": 3.4,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "adjacent-centre-spacing",
+        "value": 4.97,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "smart-connector-enclosure-opening",
+        "quantity": "diameter",
+        "value": 3.96,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "distance-to-enclosure",
+        "value": 10.05,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera-keepout",
+        "quantity": "included-angle",
+        "value": 77,
+        "page": 3,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button",
+        "quantity": "section-centre-to-cover-glass",
+        "value": 3.09,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "inductive-charger-window",
+        "quantity": "section-centre-to-cover-glass",
+        "value": 3.09,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-button",
+        "quantity": "section-centre-to-cover-glass",
+        "value": 3.09,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "speaker",
+        "quantity": "section-centre-to-cover-glass",
+        "value": 3.09,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-button",
+        "quantity": "section-half-width",
+        "value": 1.81,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "inductive-charger-window",
+        "quantity": "section-half-width",
+        "value": 3.11,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "speaker",
+        "quantity": "section-edge-to-cover-glass",
+        "value": 2.21,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "right-ambient-light-sensor",
+        "quantity": "diameter",
+        "value": 3.7,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "top-ambient-light-sensor",
+        "quantity": "diameter",
+        "value": 3,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "right-microphone",
+        "quantity": "section-inner-distance-from-edge",
+        "value": 4.09,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      }
+    ],
+    "profiles": [
+      {
+        "feature": "housing-all-four-corners",
+        "detail": "M",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "unit": "mm",
+        "coordinateConvention": "Local orthographic corner detail datum; x right and y up. Separately dimensioned ordinate axes; no assumed pairing.",
+        "coordinateStatus": "reviewed-unpaired-ordinates",
+        "x": [
+          0,
+          0.05,
+          1.52,
+          6.75,
+          12.88,
+          14.68
+        ],
+        "y": [
+          0,
+          0.01,
+          1.52,
+          6.75,
+          13.13
+        ],
+        "note": "Explicit axis callouts only; do not interpolate or zip into polygon vertices."
+      }
+    ],
+    "reviewScope": "M4 drawing explicitly lists Air 11-inch M4, M3 and M2 in its title block. Named camera, acoustic, connector/button dimensions and body-corner ordinates reviewed from that shared-applicability drawing. Magnetic tables, antenna contours and remaining dimensions are incomplete."
+  },
+  {
+    "id": "ipad-air-11-inch-m3",
+    "sourcePagesReviewed": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "speaker-opening",
+        "quantity": "diameter",
+        "value": 1.76,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button",
+        "quantity": "width",
+        "value": 4,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button",
+        "quantity": "centre-from-right",
+        "value": 12.69,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button-keepout",
+        "quantity": "surface-width",
+        "value": 20.12,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "diameter",
+        "value": 4.35,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "surface-width",
+        "value": 3.89,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "ambient-light-sensor-keepout",
+        "quantity": "surface-width",
+        "value": 3.2,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "front-camera",
+        "quantity": "centre-from-right",
+        "value": 4.49,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "width",
+        "value": 12.45,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "height",
+        "value": 6.6,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "outward-depth",
+        "value": 14,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "included-angle",
+        "value": 121.01,
+        "page": 2,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Mechanical accessory clearance angle; not measured camera capture field of view."
+      },
+      {
+        "feature": "ambient-light-sensor-keepout",
+        "quantity": "included-angle",
+        "value": 99.64,
+        "page": 2,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Mechanical accessory clearance angle; not measured camera capture field of view."
+      },
+      {
+        "feature": "top-button-keepout",
+        "quantity": "included-angle",
+        "value": 120,
+        "page": 2,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Mechanical accessory clearance angle; not measured camera capture field of view."
+      },
+      {
+        "feature": "rear-camera-lens",
+        "quantity": "diameter",
+        "value": 9.65,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera-side-wall",
+        "quantity": "diameter",
+        "value": 11.89,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera-mount",
+        "quantity": "diameter",
+        "value": 16.92,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera-keepout",
+        "quantity": "minimum-surface-width",
+        "value": 3.21,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-microphone-keepout",
+        "quantity": "diameter",
+        "value": 2.9,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "centre-from-top",
+        "value": 12.69,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "centre-from-left-rear-view",
+        "value": 12.68,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "centre-from-top",
+        "value": 27.62,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "depth-to-cover-glass",
+        "value": 8.2,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera-window",
+        "quantity": "protrusion-from-housing-back",
+        "value": 2.08,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "length",
+        "value": 10.06,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "width",
+        "value": 2,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "upper-centre-from-top",
+        "value": 19.49,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "lower-centre-from-top",
+        "value": 31.55,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "diameter",
+        "value": 3.4,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "adjacent-centre-spacing",
+        "value": 4.97,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "smart-connector-enclosure-opening",
+        "quantity": "diameter",
+        "value": 3.96,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "distance-to-enclosure",
+        "value": 10.05,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera-keepout",
+        "quantity": "included-angle",
+        "value": 77,
+        "page": 3,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button",
+        "quantity": "section-centre-to-cover-glass",
+        "value": 3.09,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "inductive-charger-window",
+        "quantity": "section-centre-to-cover-glass",
+        "value": 3.09,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-button",
+        "quantity": "section-centre-to-cover-glass",
+        "value": 3.09,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "speaker",
+        "quantity": "section-centre-to-cover-glass",
+        "value": 3.09,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-button",
+        "quantity": "section-half-width",
+        "value": 1.81,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "inductive-charger-window",
+        "quantity": "section-half-width",
+        "value": 3.11,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "speaker",
+        "quantity": "section-edge-to-cover-glass",
+        "value": 2.21,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "right-ambient-light-sensor",
+        "quantity": "diameter",
+        "value": 3.7,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "top-ambient-light-sensor",
+        "quantity": "diameter",
+        "value": 3,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "right-microphone",
+        "quantity": "section-inner-distance-from-edge",
+        "value": 4.09,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      }
+    ],
+    "profiles": [
+      {
+        "feature": "housing-all-four-corners",
+        "detail": "M",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "unit": "mm",
+        "coordinateConvention": "Local orthographic corner detail datum; x right and y up. Separately dimensioned ordinate axes; no assumed pairing.",
+        "coordinateStatus": "reviewed-unpaired-ordinates",
+        "x": [
+          0,
+          0.05,
+          1.52,
+          6.75,
+          12.88,
+          14.68
+        ],
+        "y": [
+          0,
+          0.01,
+          1.52,
+          6.75,
+          13.13
+        ],
+        "note": "Explicit axis callouts only; do not interpolate or zip into polygon vertices."
+      }
+    ],
+    "reviewScope": "M4 drawing explicitly lists Air 11-inch M4, M3 and M2 in its title block. Named camera, acoustic, connector/button dimensions and body-corner ordinates reviewed from that shared-applicability drawing. Magnetic tables, antenna contours and remaining dimensions are incomplete."
+  },
+  {
+    "id": "ipad-air-11-inch-m2",
+    "sourcePagesReviewed": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "speaker-opening",
+        "quantity": "diameter",
+        "value": 1.76,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button",
+        "quantity": "width",
+        "value": 4,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button",
+        "quantity": "centre-from-right",
+        "value": 12.69,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button-keepout",
+        "quantity": "surface-width",
+        "value": 20.12,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "diameter",
+        "value": 4.35,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "surface-width",
+        "value": 3.89,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "ambient-light-sensor-keepout",
+        "quantity": "surface-width",
+        "value": 3.2,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "front-camera",
+        "quantity": "centre-from-right",
+        "value": 4.49,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "width",
+        "value": 12.45,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "height",
+        "value": 6.6,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "outward-depth",
+        "value": 14,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "included-angle",
+        "value": 121.01,
+        "page": 2,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Mechanical accessory clearance angle; not measured camera capture field of view."
+      },
+      {
+        "feature": "ambient-light-sensor-keepout",
+        "quantity": "included-angle",
+        "value": 99.64,
+        "page": 2,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Mechanical accessory clearance angle; not measured camera capture field of view."
+      },
+      {
+        "feature": "top-button-keepout",
+        "quantity": "included-angle",
+        "value": 120,
+        "page": 2,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Mechanical accessory clearance angle; not measured camera capture field of view."
+      },
+      {
+        "feature": "rear-camera-lens",
+        "quantity": "diameter",
+        "value": 9.65,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera-side-wall",
+        "quantity": "diameter",
+        "value": 11.89,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera-mount",
+        "quantity": "diameter",
+        "value": 16.92,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera-keepout",
+        "quantity": "minimum-surface-width",
+        "value": 3.21,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-microphone-keepout",
+        "quantity": "diameter",
+        "value": 2.9,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "centre-from-top",
+        "value": 12.69,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "centre-from-left-rear-view",
+        "value": 12.68,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "centre-from-top",
+        "value": 27.62,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "depth-to-cover-glass",
+        "value": 8.2,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera-window",
+        "quantity": "protrusion-from-housing-back",
+        "value": 2.08,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "length",
+        "value": 10.06,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "width",
+        "value": 2,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "upper-centre-from-top",
+        "value": 19.49,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "lower-centre-from-top",
+        "value": 31.55,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "diameter",
+        "value": 3.4,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "adjacent-centre-spacing",
+        "value": 4.97,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "smart-connector-enclosure-opening",
+        "quantity": "diameter",
+        "value": 3.96,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "distance-to-enclosure",
+        "value": 10.05,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera-keepout",
+        "quantity": "included-angle",
+        "value": 77,
+        "page": 3,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button",
+        "quantity": "section-centre-to-cover-glass",
+        "value": 3.09,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "inductive-charger-window",
+        "quantity": "section-centre-to-cover-glass",
+        "value": 3.09,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-button",
+        "quantity": "section-centre-to-cover-glass",
+        "value": 3.09,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "speaker",
+        "quantity": "section-centre-to-cover-glass",
+        "value": 3.09,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-button",
+        "quantity": "section-half-width",
+        "value": 1.81,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "inductive-charger-window",
+        "quantity": "section-half-width",
+        "value": 3.11,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "speaker",
+        "quantity": "section-edge-to-cover-glass",
+        "value": 2.21,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "right-ambient-light-sensor",
+        "quantity": "diameter",
+        "value": 3.7,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "top-ambient-light-sensor",
+        "quantity": "diameter",
+        "value": 3,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "right-microphone",
+        "quantity": "section-inner-distance-from-edge",
+        "value": 4.09,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      }
+    ],
+    "profiles": [
+      {
+        "feature": "housing-all-four-corners",
+        "detail": "M",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "unit": "mm",
+        "coordinateConvention": "Local orthographic corner detail datum; x right and y up. Separately dimensioned ordinate axes; no assumed pairing.",
+        "coordinateStatus": "reviewed-unpaired-ordinates",
+        "x": [
+          0,
+          0.05,
+          1.52,
+          6.75,
+          12.88,
+          14.68
+        ],
+        "y": [
+          0,
+          0.01,
+          1.52,
+          6.75,
+          13.13
+        ],
+        "note": "Explicit axis callouts only; do not interpolate or zip into polygon vertices."
+      }
+    ],
+    "reviewScope": "M4 drawing explicitly lists Air 11-inch M4, M3 and M2 in its title block. Named camera, acoustic, connector/button dimensions and body-corner ordinates reviewed from that shared-applicability drawing. Magnetic tables, antenna contours and remaining dimensions are incomplete."
+  },
+  {
+    "id": "ipad-air-13-inch-m4",
+    "sourcePagesReviewed": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "speaker-opening",
+        "quantity": "diameter",
+        "value": 1.76,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button",
+        "quantity": "width",
+        "value": 4,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button",
+        "quantity": "centre-from-right",
+        "value": 12.69,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button-keepout",
+        "quantity": "surface-width",
+        "value": 20.12,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "diameter",
+        "value": 3.08,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "surface-width",
+        "value": 3.84,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "ambient-light-sensor-keepout",
+        "quantity": "surface-width",
+        "value": 3.68,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "front-camera",
+        "quantity": "centre-from-right",
+        "value": 4.22,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "width",
+        "value": 12.45,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "height",
+        "value": 6.6,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "outward-depth",
+        "value": 14,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "included-angle",
+        "value": 121.01,
+        "page": 2,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Mechanical accessory clearance angle; not measured camera capture field of view."
+      },
+      {
+        "feature": "ambient-light-sensor-keepout",
+        "quantity": "included-angle",
+        "value": 120,
+        "page": 2,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Mechanical accessory clearance angle; not measured camera capture field of view."
+      },
+      {
+        "feature": "top-button-keepout",
+        "quantity": "included-angle",
+        "value": 120,
+        "page": 2,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Mechanical accessory clearance angle; not measured camera capture field of view."
+      },
+      {
+        "feature": "rear-camera-lens",
+        "quantity": "diameter",
+        "value": 9.89,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera-side-wall",
+        "quantity": "diameter",
+        "value": 11.89,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera-mount",
+        "quantity": "diameter",
+        "value": 16.92,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera-keepout",
+        "quantity": "minimum-surface-width",
+        "value": 3.25,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-microphone-keepout",
+        "quantity": "diameter",
+        "value": 2.3,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "centre-from-top",
+        "value": 12.69,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "centre-from-left-rear-view",
+        "value": 12.69,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "centre-from-top",
+        "value": 27.62,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "depth-to-cover-glass",
+        "value": 8.2,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera-window",
+        "quantity": "protrusion-from-housing-back",
+        "value": 2.08,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "length",
+        "value": 10.06,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "width",
+        "value": 2,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "upper-centre-from-top",
+        "value": 19.49,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "lower-centre-from-top",
+        "value": 31.55,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "diameter",
+        "value": 3.4,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "adjacent-centre-spacing",
+        "value": 4.97,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "smart-connector-enclosure-opening",
+        "quantity": "diameter",
+        "value": 3.96,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "distance-to-enclosure",
+        "value": 10.02,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera-keepout",
+        "quantity": "included-angle",
+        "value": 77,
+        "page": 3,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button",
+        "quantity": "section-centre-to-cover-glass",
+        "value": 3.09,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "inductive-charger-window",
+        "quantity": "section-centre-to-cover-glass",
+        "value": 3.09,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-button",
+        "quantity": "section-centre-to-cover-glass",
+        "value": 3.09,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "speaker",
+        "quantity": "section-centre-to-cover-glass",
+        "value": 3.08,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-button",
+        "quantity": "section-half-width",
+        "value": 1.81,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "inductive-charger-window",
+        "quantity": "section-half-width",
+        "value": 2.99,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "speaker",
+        "quantity": "section-edge-to-cover-glass",
+        "value": 2.21,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "subflush",
+        "value": 0.05,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      }
+    ],
+    "profiles": [
+      {
+        "feature": "housing-all-four-corners",
+        "detail": "AS",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "unit": "mm",
+        "coordinateConvention": "Local orthographic corner detail datum; x right and y up. Separately dimensioned ordinate axes; no assumed pairing.",
+        "coordinateStatus": "reviewed-unpaired-ordinates",
+        "x": [
+          0,
+          0.05,
+          1.53,
+          6.76,
+          12.88,
+          18.71
+        ],
+        "y": [
+          0,
+          0.01,
+          0.07,
+          1.53,
+          6.76,
+          13.13,
+          18.71
+        ],
+        "note": "Explicit axis callouts only; do not interpolate or zip into polygon vertices."
+      }
+    ],
+    "reviewScope": "M4 drawing explicitly lists Air 13-inch M4, M3 and M2 in its title block. Named camera, acoustic, connector/button dimensions and body-corner ordinates reviewed from that shared-applicability drawing. Magnetic tables, antenna contours and remaining dimensions are incomplete."
+  },
+  {
+    "id": "ipad-air-13-inch-m3",
+    "sourcePagesReviewed": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "speaker-opening",
+        "quantity": "diameter",
+        "value": 1.76,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button",
+        "quantity": "width",
+        "value": 4,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button",
+        "quantity": "centre-from-right",
+        "value": 12.69,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button-keepout",
+        "quantity": "surface-width",
+        "value": 20.12,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "diameter",
+        "value": 3.08,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "surface-width",
+        "value": 3.84,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "ambient-light-sensor-keepout",
+        "quantity": "surface-width",
+        "value": 3.68,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "front-camera",
+        "quantity": "centre-from-right",
+        "value": 4.22,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "width",
+        "value": 12.45,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "height",
+        "value": 6.6,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "outward-depth",
+        "value": 14,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "included-angle",
+        "value": 121.01,
+        "page": 2,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Mechanical accessory clearance angle; not measured camera capture field of view."
+      },
+      {
+        "feature": "ambient-light-sensor-keepout",
+        "quantity": "included-angle",
+        "value": 120,
+        "page": 2,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Mechanical accessory clearance angle; not measured camera capture field of view."
+      },
+      {
+        "feature": "top-button-keepout",
+        "quantity": "included-angle",
+        "value": 120,
+        "page": 2,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Mechanical accessory clearance angle; not measured camera capture field of view."
+      },
+      {
+        "feature": "rear-camera-lens",
+        "quantity": "diameter",
+        "value": 9.89,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera-side-wall",
+        "quantity": "diameter",
+        "value": 11.89,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera-mount",
+        "quantity": "diameter",
+        "value": 16.92,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera-keepout",
+        "quantity": "minimum-surface-width",
+        "value": 3.25,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-microphone-keepout",
+        "quantity": "diameter",
+        "value": 2.3,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "centre-from-top",
+        "value": 12.69,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "centre-from-left-rear-view",
+        "value": 12.69,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "centre-from-top",
+        "value": 27.62,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "depth-to-cover-glass",
+        "value": 8.2,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera-window",
+        "quantity": "protrusion-from-housing-back",
+        "value": 2.08,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "length",
+        "value": 10.06,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "width",
+        "value": 2,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "upper-centre-from-top",
+        "value": 19.49,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "lower-centre-from-top",
+        "value": 31.55,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "diameter",
+        "value": 3.4,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "adjacent-centre-spacing",
+        "value": 4.97,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "smart-connector-enclosure-opening",
+        "quantity": "diameter",
+        "value": 3.96,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "distance-to-enclosure",
+        "value": 10.02,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera-keepout",
+        "quantity": "included-angle",
+        "value": 77,
+        "page": 3,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button",
+        "quantity": "section-centre-to-cover-glass",
+        "value": 3.09,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "inductive-charger-window",
+        "quantity": "section-centre-to-cover-glass",
+        "value": 3.09,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-button",
+        "quantity": "section-centre-to-cover-glass",
+        "value": 3.09,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "speaker",
+        "quantity": "section-centre-to-cover-glass",
+        "value": 3.08,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-button",
+        "quantity": "section-half-width",
+        "value": 1.81,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "inductive-charger-window",
+        "quantity": "section-half-width",
+        "value": 2.99,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "speaker",
+        "quantity": "section-edge-to-cover-glass",
+        "value": 2.21,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "subflush",
+        "value": 0.05,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      }
+    ],
+    "profiles": [
+      {
+        "feature": "housing-all-four-corners",
+        "detail": "AS",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "unit": "mm",
+        "coordinateConvention": "Local orthographic corner detail datum; x right and y up. Separately dimensioned ordinate axes; no assumed pairing.",
+        "coordinateStatus": "reviewed-unpaired-ordinates",
+        "x": [
+          0,
+          0.05,
+          1.53,
+          6.76,
+          12.88,
+          18.71
+        ],
+        "y": [
+          0,
+          0.01,
+          0.07,
+          1.53,
+          6.76,
+          13.13,
+          18.71
+        ],
+        "note": "Explicit axis callouts only; do not interpolate or zip into polygon vertices."
+      }
+    ],
+    "reviewScope": "M4 drawing explicitly lists Air 13-inch M4, M3 and M2 in its title block. Named camera, acoustic, connector/button dimensions and body-corner ordinates reviewed from that shared-applicability drawing. Magnetic tables, antenna contours and remaining dimensions are incomplete."
+  },
+  {
+    "id": "ipad-air-13-inch-m2",
+    "sourcePagesReviewed": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "speaker-opening",
+        "quantity": "diameter",
+        "value": 1.76,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button",
+        "quantity": "width",
+        "value": 4,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button",
+        "quantity": "centre-from-right",
+        "value": 12.69,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button-keepout",
+        "quantity": "surface-width",
+        "value": 20.12,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "diameter",
+        "value": 3.08,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "surface-width",
+        "value": 3.84,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "ambient-light-sensor-keepout",
+        "quantity": "surface-width",
+        "value": 3.68,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "front-camera",
+        "quantity": "centre-from-right",
+        "value": 4.22,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "width",
+        "value": 12.45,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "height",
+        "value": 6.6,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "outward-depth",
+        "value": 14,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "included-angle",
+        "value": 121.01,
+        "page": 2,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Mechanical accessory clearance angle; not measured camera capture field of view."
+      },
+      {
+        "feature": "ambient-light-sensor-keepout",
+        "quantity": "included-angle",
+        "value": 120,
+        "page": 2,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Mechanical accessory clearance angle; not measured camera capture field of view."
+      },
+      {
+        "feature": "top-button-keepout",
+        "quantity": "included-angle",
+        "value": 120,
+        "page": 2,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Mechanical accessory clearance angle; not measured camera capture field of view."
+      },
+      {
+        "feature": "rear-camera-lens",
+        "quantity": "diameter",
+        "value": 9.89,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera-side-wall",
+        "quantity": "diameter",
+        "value": 11.89,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera-mount",
+        "quantity": "diameter",
+        "value": 16.92,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera-keepout",
+        "quantity": "minimum-surface-width",
+        "value": 3.25,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-microphone-keepout",
+        "quantity": "diameter",
+        "value": 2.3,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "centre-from-top",
+        "value": 12.69,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "centre-from-left-rear-view",
+        "value": 12.69,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "centre-from-top",
+        "value": 27.62,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "depth-to-cover-glass",
+        "value": 8.2,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera-window",
+        "quantity": "protrusion-from-housing-back",
+        "value": 2.08,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "length",
+        "value": 10.06,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "width",
+        "value": 2,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "upper-centre-from-top",
+        "value": 19.49,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "lower-centre-from-top",
+        "value": 31.55,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "diameter",
+        "value": 3.4,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "adjacent-centre-spacing",
+        "value": 4.97,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "smart-connector-enclosure-opening",
+        "quantity": "diameter",
+        "value": 3.96,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "distance-to-enclosure",
+        "value": 10.02,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera-keepout",
+        "quantity": "included-angle",
+        "value": 77,
+        "page": 3,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button",
+        "quantity": "section-centre-to-cover-glass",
+        "value": 3.09,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "inductive-charger-window",
+        "quantity": "section-centre-to-cover-glass",
+        "value": 3.09,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-button",
+        "quantity": "section-centre-to-cover-glass",
+        "value": 3.09,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "speaker",
+        "quantity": "section-centre-to-cover-glass",
+        "value": 3.08,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "volume-button",
+        "quantity": "section-half-width",
+        "value": 1.81,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "inductive-charger-window",
+        "quantity": "section-half-width",
+        "value": 2.99,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "speaker",
+        "quantity": "section-edge-to-cover-glass",
+        "value": 2.21,
+        "page": 5,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "subflush",
+        "value": 0.05,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      }
+    ],
+    "profiles": [
+      {
+        "feature": "housing-all-four-corners",
+        "detail": "AS",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "unit": "mm",
+        "coordinateConvention": "Local orthographic corner detail datum; x right and y up. Separately dimensioned ordinate axes; no assumed pairing.",
+        "coordinateStatus": "reviewed-unpaired-ordinates",
+        "x": [
+          0,
+          0.05,
+          1.53,
+          6.76,
+          12.88,
+          18.71
+        ],
+        "y": [
+          0,
+          0.01,
+          0.07,
+          1.53,
+          6.76,
+          13.13,
+          18.71
+        ],
+        "note": "Explicit axis callouts only; do not interpolate or zip into polygon vertices."
+      }
+    ],
+    "reviewScope": "M4 drawing explicitly lists Air 13-inch M4, M3 and M2 in its title block. Named camera, acoustic, connector/button dimensions and body-corner ordinates reviewed from that shared-applicability drawing. Magnetic tables, antenna contours and remaining dimensions are incomplete."
   }
 ]
