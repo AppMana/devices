@@ -22,6 +22,8 @@ for d in table['devices']:
             assert source in drawing_pages and measurement['page'] in drawing_pages[source],(d['id'],source,measurement['page'])
     for profile in d['profiles']:
         assert profile['unit']=='mm' and profile['page']>=2,d['id']
+        source=profile.get('source') or d['review'].get('source')
+        assert source in drawing_pages and profile['page'] in drawing_pages[source],(d['id'],source,profile['page'])
         if profile.get('kind')=='labelled-point-table':
             assert profile['coordinateSystem'] and len(profile['axes'])==2,d['id']
             assert len({p['label'] for p in profile['points']})==len(profile['points']),d['id']
@@ -33,15 +35,17 @@ for d in table['devices']:
             assert profile['coordinateConvention'],d['id']
             assert profile['coordinateStatus']=='reviewed-unpaired-ordinates',d['id']
             assert all(math.isfinite(v) for axis in ('x','y') for v in profile[axis]),d['id']
-    def check_features(node):
+    def check_features(node, inherited_source=None):
         if isinstance(node,dict):
+            inherited_source=node.get('source') or inherited_source
             if 'value' in node:
                 assert math.isfinite(node['value']) and node['unit'] in ('mm','degrees','degree'),d['id']
                 assert node['sourcePage']>=2 and node.get('derivation'),d['id']
-            for value in node.values():check_features(value)
+                assert inherited_source in drawing_pages and node['sourcePage'] in drawing_pages[inherited_source],(d['id'],inherited_source,node['sourcePage'])
+            for value in node.values():check_features(value,inherited_source)
         elif isinstance(node,list):
-            for value in node:check_features(value)
-    check_features(d['features'])
+            for value in node:check_features(value,inherited_source)
+    check_features(d['features'],d['review'].get('source'))
     if d['display']['ppi']:
         for axis,key in [('x','width'),('y','height')]:
             expected=d['display']['nativePixels'][key]*25.4/d['display']['activeMm'][key]

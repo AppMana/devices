@@ -168,7 +168,15 @@
           2
         ],
         "ambiguities": [],
-        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-2nd-generation.pdf",
+            "pages": [
+              2
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-2nd-generation.pdf",
@@ -572,7 +580,15 @@
           2
         ],
         "ambiguities": [],
-        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-3rd-generation.pdf",
+            "pages": [
+              2
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-3rd-generation.pdf",
@@ -948,7 +964,15 @@
           2
         ],
         "ambiguities": [],
-        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-4.pdf",
+            "pages": [
+              2
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-4.pdf",
@@ -2818,7 +2842,19 @@
           7
         ],
         "ambiguities": [],
-        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. All six supplied drawing sheets reviewed: product configurations/datums, right Lightning and USB-C variants and left earcup scalar dimensions and independent contour ordinates. Optical-window geometry not invented from artwork."
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. All six supplied drawing sheets reviewed: product configurations/datums, right Lightning and USB-C variants and left earcup scalar dimensions and independent contour ordinates. Optical-window geometry not invented from artwork.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+            "pages": [
+              2,
+              4,
+              5,
+              6,
+              7
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
@@ -6836,7 +6872,15 @@
           2
         ],
         "ambiguities": [],
-        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-pro-2nd-generation.pdf",
+            "pages": [
+              2
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-pro-2nd-generation.pdf",
@@ -7405,7 +7449,15 @@
           2
         ],
         "ambiguities": [],
-        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-pro-3.pdf",
+            "pages": [
+              2
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-pro-3.pdf",
@@ -8049,7 +8101,15 @@
           2
         ],
         "ambiguities": [],
-        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airtag.pdf",
+            "pages": [
+              2
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airtag.pdf",
@@ -8811,7 +8871,15 @@
           2
         ],
         "ambiguities": [],
-        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Entire drawing sheet visually reviewed. All explicit numeric measurements are already in base geometry; holder keep-in contour is illustrated but not numerically dimensioned."
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Entire drawing sheet visually reviewed. All explicit numeric measurements are already in base geometry; holder keep-in contour is illustrated but not numerically dimensioned.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-magsafe-charger.pdf",
+            "pages": [
+              2
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-magsafe-charger.pdf",
@@ -9038,7 +9106,15 @@
           2
         ],
         "ambiguities": [],
-        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Entire drawing sheet visually reviewed. All explicit numeric measurements are already in base geometry; holder keep-in contour is illustrated but not numerically dimensioned."
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Entire drawing sheet visually reviewed. All explicit numeric measurements are already in base geometry; holder keep-in contour is illustrated but not numerically dimensioned.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-magsafe-charger-1-m-and-apple-magsafe-charger-2-m.pdf",
+            "pages": [
+              2
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-magsafe-charger-1-m-and-apple-magsafe-charger-2-m.pdf",
@@ -9721,7 +9797,15 @@
           2
         ],
         "ambiguities": [],
-        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf",
+            "pages": [
+              2
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf",
@@ -12185,7 +12269,20 @@
           9
         ],
         "ambiguities": [],
-        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+            "pages": [
+              3,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
@@ -20594,7 +20691,15 @@
           2
         ],
         "ambiguities": [],
-        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-audio-strap.pdf",
+            "pages": [
+              2
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-audio-strap.pdf",
@@ -21514,7 +21619,15 @@
           2
         ],
         "ambiguities": [],
-        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-battery.pdf",
+            "pages": [
+              2
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-battery.pdf",
@@ -23477,7 +23590,15 @@
           2
         ],
         "ambiguities": [],
-        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed all drawing-sheet views: crown, side button, acoustic openings and keepouts, band-slot centreline, band-release buttons, rear sensor/charging keepouts, and independent corner/detail B and side/detail C contour ordinates. No fully toleranced band connector mating specification is present. Source local datums are preserved; no optical centres inferred."
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed all drawing-sheet views: crown, side button, acoustic openings and keepouts, band-slot centreline, band-release buttons, rear sensor/charging keepouts, and independent corner/detail B and side/detail C contour ordinates. No fully toleranced band connector mating specification is present. Source local datums are preserved; no optical centres inferred.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-se-3-40mm.pdf",
+            "pages": [
+              2
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-se-3-40mm.pdf",
@@ -25654,7 +25775,15 @@
           2
         ],
         "ambiguities": [],
-        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed all drawing-sheet views: crown, side button, acoustic openings and keepouts, band-slot centreline, band-release buttons, rear sensor/charging keepouts, and independent corner/detail B and side/detail C contour ordinates. No fully toleranced band connector mating specification is present. Source local datums are preserved; no optical centres inferred."
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed all drawing-sheet views: crown, side button, acoustic openings and keepouts, band-slot centreline, band-release buttons, rear sensor/charging keepouts, and independent corner/detail B and side/detail C contour ordinates. No fully toleranced band connector mating specification is present. Source local datums are preserved; no optical centres inferred.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-se-3-44mm.pdf",
+            "pages": [
+              2
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-se-3-44mm.pdf",
@@ -28023,7 +28152,15 @@
           2
         ],
         "ambiguities": [],
-        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed all drawing-sheet views: crown, side button, acoustic openings and keepouts, band-slot centreline, band-release buttons, rear sensor/charging keepouts, and independent corner/detail B and side/detail C contour ordinates. No fully toleranced band connector mating specification is present. Source local datums are preserved; no optical centres inferred."
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed all drawing-sheet views: crown, side button, acoustic openings and keepouts, band-slot centreline, band-release buttons, rear sensor/charging keepouts, and independent corner/detail B and side/detail C contour ordinates. No fully toleranced band connector mating specification is present. Source local datums are preserved; no optical centres inferred.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-se-40mm.pdf",
+            "pages": [
+              2
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-se-40mm.pdf",
@@ -30119,7 +30256,15 @@
           2
         ],
         "ambiguities": [],
-        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed all drawing-sheet views: crown, side button, acoustic openings and keepouts, band-slot centreline, band-release buttons, rear sensor/charging keepouts, and independent corner/detail B and side/detail C contour ordinates. No fully toleranced band connector mating specification is present. Source local datums are preserved; no optical centres inferred."
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed all drawing-sheet views: crown, side button, acoustic openings and keepouts, band-slot centreline, band-release buttons, rear sensor/charging keepouts, and independent corner/detail B and side/detail C contour ordinates. No fully toleranced band connector mating specification is present. Source local datums are preserved; no optical centres inferred.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-se-44mm.pdf",
+            "pages": [
+              2
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-se-44mm.pdf",
@@ -32055,7 +32200,15 @@
           2
         ],
         "ambiguities": [],
-        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed crown, button, acoustic and rear-sensor keepouts, band-release and charging alignment callouts; drawing-local coordinates retained. Band lug mating geometry and unspecified tolerances are not supplied by these sheets. Dense untabulated contour ordinates remain incomplete unless explicitly included in profiles. All three labelled contour tables transcribed."
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed crown, button, acoustic and rear-sensor keepouts, band-release and charging alignment callouts; drawing-local coordinates retained. Band lug mating geometry and unspecified tolerances are not supplied by these sheets. Dense untabulated contour ordinates remain incomplete unless explicitly included in profiles. All three labelled contour tables transcribed.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-10-42mm.pdf",
+            "pages": [
+              2
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-10-42mm.pdf",
@@ -33922,7 +34075,15 @@
           2
         ],
         "ambiguities": [],
-        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed crown, button, acoustic and rear-sensor keepouts, band-release and charging alignment callouts; drawing-local coordinates retained. Band lug mating geometry and unspecified tolerances are not supplied by these sheets. Dense untabulated contour ordinates remain incomplete unless explicitly included in profiles. All three labelled contour tables transcribed."
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed crown, button, acoustic and rear-sensor keepouts, band-release and charging alignment callouts; drawing-local coordinates retained. Band lug mating geometry and unspecified tolerances are not supplied by these sheets. Dense untabulated contour ordinates remain incomplete unless explicitly included in profiles. All three labelled contour tables transcribed.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-10-46mm.pdf",
+            "pages": [
+              2
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-10-46mm.pdf",
@@ -35694,7 +35855,15 @@
           2
         ],
         "ambiguities": [],
-        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed crown, button, acoustic and rear-sensor keepouts, band-release and charging alignment callouts; drawing-local coordinates retained. Band lug mating geometry and unspecified tolerances are not supplied by these sheets. Dense untabulated contour ordinates remain incomplete unless explicitly included in profiles. All three labelled contour tables transcribed."
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed crown, button, acoustic and rear-sensor keepouts, band-release and charging alignment callouts; drawing-local coordinates retained. Band lug mating geometry and unspecified tolerances are not supplied by these sheets. Dense untabulated contour ordinates remain incomplete unless explicitly included in profiles. All three labelled contour tables transcribed.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-11-42mm.pdf",
+            "pages": [
+              2
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-11-42mm.pdf",
@@ -37561,7 +37730,15 @@
           2
         ],
         "ambiguities": [],
-        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed crown, button, acoustic and rear-sensor keepouts, band-release and charging alignment callouts; drawing-local coordinates retained. Band lug mating geometry and unspecified tolerances are not supplied by these sheets. Dense untabulated contour ordinates remain incomplete unless explicitly included in profiles. All three labelled contour tables transcribed."
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed crown, button, acoustic and rear-sensor keepouts, band-release and charging alignment callouts; drawing-local coordinates retained. Band lug mating geometry and unspecified tolerances are not supplied by these sheets. Dense untabulated contour ordinates remain incomplete unless explicitly included in profiles. All three labelled contour tables transcribed.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-11-46mm.pdf",
+            "pages": [
+              2
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-11-46mm.pdf",
@@ -39625,7 +39802,15 @@
           2
         ],
         "ambiguities": [],
-        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed all drawing-sheet views: crown, side button, acoustic openings and keepouts, band-slot centreline, band-release buttons, rear sensor/charging keepouts, and independent corner/detail B and side/detail C contour ordinates. No fully toleranced band connector mating specification is present. Source local datums are preserved; no optical centres inferred."
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed all drawing-sheet views: crown, side button, acoustic openings and keepouts, band-slot centreline, band-release buttons, rear sensor/charging keepouts, and independent corner/detail B and side/detail C contour ordinates. No fully toleranced band connector mating specification is present. Source local datums are preserved; no optical centres inferred.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-6-40mm.pdf",
+            "pages": [
+              2
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-6-40mm.pdf",
@@ -41637,7 +41822,15 @@
           2
         ],
         "ambiguities": [],
-        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed all drawing-sheet views: crown, side button, acoustic openings and keepouts, band-slot centreline, band-release buttons, rear sensor/charging keepouts, and independent corner/detail B and side/detail C contour ordinates. No fully toleranced band connector mating specification is present. Source local datums are preserved; no optical centres inferred."
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed all drawing-sheet views: crown, side button, acoustic openings and keepouts, band-slot centreline, band-release buttons, rear sensor/charging keepouts, and independent corner/detail B and side/detail C contour ordinates. No fully toleranced band connector mating specification is present. Source local datums are preserved; no optical centres inferred.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-6-44mm.pdf",
+            "pages": [
+              2
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-6-44mm.pdf",
@@ -43727,7 +43920,15 @@
           2
         ],
         "ambiguities": [],
-        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed all drawing-sheet views: crown, side button, acoustic openings and keepouts, band-slot centreline, band-release buttons, rear sensor/charging keepouts, and independent corner/detail B and side/detail C contour ordinates. No fully toleranced band connector mating specification is present. Source local datums are preserved; no optical centres inferred."
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed all drawing-sheet views: crown, side button, acoustic openings and keepouts, band-slot centreline, band-release buttons, rear sensor/charging keepouts, and independent corner/detail B and side/detail C contour ordinates. No fully toleranced band connector mating specification is present. Source local datums are preserved; no optical centres inferred.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-7-41mm.pdf",
+            "pages": [
+              2
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-7-41mm.pdf",
@@ -45833,7 +46034,15 @@
           2
         ],
         "ambiguities": [],
-        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed all drawing-sheet views: crown, side button, acoustic openings and keepouts, band-slot centreline, band-release buttons, rear sensor/charging keepouts, and independent corner/detail B and side/detail C contour ordinates. No fully toleranced band connector mating specification is present. Source local datums are preserved; no optical centres inferred."
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed all drawing-sheet views: crown, side button, acoustic openings and keepouts, band-slot centreline, band-release buttons, rear sensor/charging keepouts, and independent corner/detail B and side/detail C contour ordinates. No fully toleranced band connector mating specification is present. Source local datums are preserved; no optical centres inferred.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-7-45mm.pdf",
+            "pages": [
+              2
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-7-45mm.pdf",
@@ -47854,7 +48063,15 @@
           2
         ],
         "ambiguities": [],
-        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed all drawing-sheet views: crown, side button, acoustic openings and keepouts, band-slot centreline, band-release buttons, rear sensor/charging keepouts, and independent corner/detail B and side/detail C contour ordinates. No fully toleranced band connector mating specification is present. Source local datums are preserved; no optical centres inferred."
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed all drawing-sheet views: crown, side button, acoustic openings and keepouts, band-slot centreline, band-release buttons, rear sensor/charging keepouts, and independent corner/detail B and side/detail C contour ordinates. No fully toleranced band connector mating specification is present. Source local datums are preserved; no optical centres inferred.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-8-41mm.pdf",
+            "pages": [
+              2
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-8-41mm.pdf",
@@ -49958,7 +50175,15 @@
           2
         ],
         "ambiguities": [],
-        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed all drawing-sheet views: crown, side button, acoustic openings and keepouts, band-slot centreline, band-release buttons, rear sensor/charging keepouts, and independent corner/detail B and side/detail C contour ordinates. No fully toleranced band connector mating specification is present. Source local datums are preserved; no optical centres inferred."
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed all drawing-sheet views: crown, side button, acoustic openings and keepouts, band-slot centreline, band-release buttons, rear sensor/charging keepouts, and independent corner/detail B and side/detail C contour ordinates. No fully toleranced band connector mating specification is present. Source local datums are preserved; no optical centres inferred.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-8-45mm.pdf",
+            "pages": [
+              2
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-8-45mm.pdf",
@@ -52014,7 +52239,15 @@
           2
         ],
         "ambiguities": [],
-        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed all drawing-sheet views: crown, side button, acoustic openings and keepouts, band-slot centreline, band-release buttons, rear sensor/charging keepouts, and independent corner/detail B and side/detail C contour ordinates. No fully toleranced band connector mating specification is present. Source local datums are preserved; no optical centres inferred."
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed all drawing-sheet views: crown, side button, acoustic openings and keepouts, band-slot centreline, band-release buttons, rear sensor/charging keepouts, and independent corner/detail B and side/detail C contour ordinates. No fully toleranced band connector mating specification is present. Source local datums are preserved; no optical centres inferred.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-9-41mm.pdf",
+            "pages": [
+              2
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-9-41mm.pdf",
@@ -54094,7 +54327,15 @@
           2
         ],
         "ambiguities": [],
-        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed all drawing-sheet views: crown, side button, acoustic openings and keepouts, band-slot centreline, band-release buttons, rear sensor/charging keepouts, and independent corner/detail B and side/detail C contour ordinates. No fully toleranced band connector mating specification is present. Source local datums are preserved; no optical centres inferred."
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed all drawing-sheet views: crown, side button, acoustic openings and keepouts, band-slot centreline, band-release buttons, rear sensor/charging keepouts, and independent corner/detail B and side/detail C contour ordinates. No fully toleranced band connector mating specification is present. Source local datums are preserved; no optical centres inferred.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-9-45mm.pdf",
+            "pages": [
+              2
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-series-9-45mm.pdf",
@@ -56776,7 +57017,17 @@
             "note": "The left-button mid-region annotation reads 18.77 on Ultra and 18.60 on Ultra 2/3 despite lying below longitudinal zero; not normalized as a center coordinate."
           }
         ],
-        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed all three drawing sheets: crown, acoustic/button, band-release, back crystal, sensor/charging keepouts and independent contour ordinate sequences. No fully toleranced band connector mating specification is present. Ambiguous left-button annotation explicitly withheld."
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed all three drawing sheets: crown, acoustic/button, band-release, back crystal, sensor/charging keepouts and independent contour ordinate sequences. No fully toleranced band connector mating specification is present. Ambiguous left-button annotation explicitly withheld.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-ultra.pdf",
+            "pages": [
+              2,
+              3,
+              4
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-ultra.pdf",
@@ -63721,7 +63972,17 @@
             "note": "The left-button mid-region annotation reads 18.77 on Ultra and 18.60 on Ultra 2/3 despite lying below longitudinal zero; not normalized as a center coordinate."
           }
         ],
-        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed all three drawing sheets: crown, acoustic/button, band-release, back crystal, sensor/charging keepouts and independent contour ordinate sequences. No fully toleranced band connector mating specification is present. Ambiguous left-button annotation explicitly withheld."
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed all three drawing sheets: crown, acoustic/button, band-release, back crystal, sensor/charging keepouts and independent contour ordinate sequences. No fully toleranced band connector mating specification is present. Ambiguous left-button annotation explicitly withheld.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-ultra-2.pdf",
+            "pages": [
+              2,
+              3,
+              4
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-ultra-2.pdf",
@@ -70735,7 +70996,17 @@
             "note": "The page 3 DISPLAY ACTIVE AREA contour ordinates are retained exactly as printed. Page 4 separately provides different Ultra 2 and Ultra 3 active-display envelopes; these ordinate sequences are not transformed to fit either envelope."
           }
         ],
-        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed all three drawing sheets: crown, acoustic/button, band-release, back crystal, sensor/charging keepouts and independent contour ordinate sequences. No fully toleranced band connector mating specification is present. Ambiguous left-button annotation explicitly withheld."
+        "scope": "Active-display envelope, body and cover-glass dimensions, case depth and total thickness including rear sensors; not a complete transcription of acoustic openings, button positions or keepout contours. Visually reviewed all three drawing sheets: crown, acoustic/button, band-release, back crystal, sensor/charging keepouts and independent contour ordinate sequences. No fully toleranced band connector mating specification is present. Ambiguous left-button annotation explicitly withheld.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-ultra-3.pdf",
+            "pages": [
+              2,
+              3,
+              4
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-watch-ultra-3.pdf",
@@ -76919,14 +77190,27 @@
           3,
           4,
           5,
-          7,
-          8
+          6,
+          7
         ],
         "ambiguities": [
           "Section BA-BA SP-FH9/10/11 negative ordinates appear above zero; SP-CH9/10 printed -201/-204.72 exceed half body height. Do not use these as body-centred placement coordinates.",
           "Rear camera depth references differ: page 2 bottom-view REAR CAMERA 2.08 versus page 3 REAR CAMERA WINDOW TO HSG BACK SIDE 1.93. Preserve both named references; they are not silently treated as the same surface."
         ],
-        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. A16 drawing explicitly covers iPad A16 and 10th generation. Named camera/sensor/button/connector dimensions and title-block tolerances reviewed; other pages, magnets and local contour callouts remain incomplete. Hall-sensor/compass coordinates, depth references and trigger/release field intervals reviewed. Generation-specific magnet centre/polarity table normalized, with separate A16/10th PM x positions and10th-only C3 shunt. SP section ordinates are retained as unresolved where source values conflict with position/body extents. Shared section/edge/corner profiles and antenna metal-clearance boundaries are normalized. Remaining front/rear acoustic array, control, connector and SIM-tray references plus rear-camera edge contour reviewed. Volume reference positions are upper ends, not centres."
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. A16 drawing explicitly covers iPad A16 and 10th generation. Named camera/sensor/button/connector dimensions and title-block tolerances reviewed; other pages, magnets and local contour callouts remain incomplete. Hall-sensor/compass coordinates, depth references and trigger/release field intervals reviewed. Generation-specific magnet centre/polarity table normalized, with separate A16/10th PM x positions and10th-only C3 shunt. SP section ordinates are retained as unresolved where source values conflict with position/body extents. Shared section/edge/corner profiles and antenna metal-clearance boundaries are normalized. Remaining front/rear acoustic array, control, connector and SIM-tray references plus rear-camera edge contour reviewed. Volume reference positions are upper ends, not centres. Original 10th-generation page6 section/detail sheet reviewed; equivalent shared A16 geometry uses page7, with page8 antenna references. Measurement URLs/pages identify the applicable source.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf",
+            "pages": [
+              2,
+              3,
+              4,
+              5,
+              7,
+              8
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-10th-generation.pdf",
@@ -85020,7 +85304,17 @@
         "ambiguities": [
           "Cover flap and spine callouts are rounded reference dimensions; individual intervals need not sum exactly to the overall reference length. The 8th- and 9th-generation drawings differ by 0.01 mm in several printed ordinates; own-document values are retained."
         ],
-        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. Page 2 front/rear cameras, ALS, buttons, microphones, Lightning/Pencil/audio-jack clearances and smart contacts reviewed from the generation-specific drawing. Remaining antenna, magnet and section/contour geometry incomplete. Magnetic page 3: explicit cover/spine segment boundary references and polarities, section angles, Hall sensor and compass locations; no undimensioned segment depth or transverse extent inferred. Section and detail sheet: button, microphone, SIM tray and speaker section offsets, angles, and independent edge/corner contour ordinates. Front sheet remaining antenna/glass metal-exclusion boundary offsets, acoustic array references, controls and Lightning/Pencil insertion section references reviewed."
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. Page 2 front/rear cameras, ALS, buttons, microphones, Lightning/Pencil/audio-jack clearances and smart contacts reviewed from the generation-specific drawing. Remaining antenna, magnet and section/contour geometry incomplete. Magnetic page 3: explicit cover/spine segment boundary references and polarities, section angles, Hall sensor and compass locations; no undimensioned segment depth or transverse extent inferred. Section and detail sheet: button, microphone, SIM tray and speaker section offsets, angles, and independent edge/corner contour ordinates. Front sheet remaining antenna/glass metal-exclusion boundary offsets, acoustic array references, controls and Lightning/Pencil insertion section references reviewed.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+            "pages": [
+              2,
+              3,
+              4
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
@@ -88132,7 +88426,18 @@
         "ambiguities": [
           "Cover flap and spine callouts are rounded reference dimensions; individual intervals need not sum exactly to the overall reference length. The 8th- and 9th-generation drawings differ by 0.01 mm in several printed ordinates; own-document values are retained."
         ],
-        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. Named imaging/acoustic/button/Lightning/Pencil/smart-contact dimensions, ninth-generation ambient-light-sensor positions, section angles and two housing profiles. Shared drawing also discusses seventh/eighth generation but their different front sensors are not conflated. Magnet tables and some antenna/section coordinates remain incomplete. Magnetic page 3: explicit cover/spine segment boundary references and polarities, section angles, Hall sensor and compass locations; no undimensioned segment depth or transverse extent inferred. Section and detail sheet: button, microphone, SIM tray and speaker section offsets, angles, and independent edge/corner contour ordinates. Front sheet remaining antenna/glass metal-exclusion boundary offsets, acoustic array references, controls and Lightning/Pencil insertion section references reviewed."
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. Named imaging/acoustic/button/Lightning/Pencil/smart-contact dimensions, ninth-generation ambient-light-sensor positions, section angles and two housing profiles. Shared drawing also discusses seventh/eighth generation but their different front sensors are not conflated. Magnet tables and some antenna/section coordinates remain incomplete. Magnetic page 3: explicit cover/spine segment boundary references and polarities, section angles, Hall sensor and compass locations; no undimensioned segment depth or transverse extent inferred. Section and detail sheet: button, microphone, SIM tray and speaker section offsets, angles, and independent edge/corner contour ordinates. Front sheet remaining antenna/glass metal-exclusion boundary offsets, acoustic array references, controls and Lightning/Pencil insertion section references reviewed.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+            "pages": [
+              2,
+              3,
+              4,
+              5
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
@@ -92312,6 +92617,7 @@
           2,
           3,
           4,
+          5,
           6,
           7,
           8
@@ -92320,7 +92626,20 @@
           "Section BA-BA SP-FH9/10/11 negative ordinates appear above zero; SP-CH9/10 printed -201/-204.72 exceed half body height. Do not use these as body-centred placement coordinates.",
           "Rear camera depth references differ: page 2 bottom-view REAR CAMERA 2.08 versus page 3 REAR CAMERA WINDOW TO HSG BACK SIDE 1.93. Preserve both named references; they are not silently treated as the same surface."
         ],
-        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. A16 drawing explicitly covers iPad A16 and 10th generation. Named camera/sensor/button/connector dimensions and title-block tolerances reviewed; other pages, magnets and local contour callouts remain incomplete. Hall-sensor/compass coordinates, depth references and trigger/release field intervals reviewed. Generation-specific magnet centre/polarity table normalized, with separate A16/10th PM x positions and10th-only C3 shunt. SP section ordinates are retained as unresolved where source values conflict with position/body extents. Shared section/edge/corner profiles and antenna metal-clearance boundaries are normalized. Remaining front/rear acoustic array, control, connector and SIM-tray references plus rear-camera edge contour reviewed. Volume reference positions are upper ends, not centres."
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. A16 drawing explicitly covers iPad A16 and 10th generation. Named camera/sensor/button/connector dimensions and title-block tolerances reviewed; other pages, magnets and local contour callouts remain incomplete. Hall-sensor/compass coordinates, depth references and trigger/release field intervals reviewed. Generation-specific magnet centre/polarity table normalized, with separate A16/10th PM x positions and10th-only C3 shunt. SP section ordinates are retained as unresolved where source values conflict with position/body extents. Shared section/edge/corner profiles and antenna metal-clearance boundaries are normalized. Remaining front/rear acoustic array, control, connector and SIM-tray references plus rear-camera edge contour reviewed. Volume reference positions are upper ends, not centres. Page5 was inspected but explicitly labels its magnetic layout as 10th-generation-only; those dimensions are intentionally not assigned to A16.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf",
+            "pages": [
+              2,
+              3,
+              4,
+              6,
+              7,
+              8
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf",
@@ -97914,7 +98233,19 @@
           6
         ],
         "ambiguities": [],
-        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. M4 drawing explicitly lists Air 11-inch M4, M3 and M2 in its title block. Named camera, acoustic, connector/button dimensions and body-corner ordinates reviewed from that shared-applicability drawing. Magnetic tables, antenna contours and remaining dimensions are incomplete. Magnet page: complete polarity table and BV/A/PM/CG paired positions, Hall sensors/compass and four exclusion regions. CV/HE x and individual OR positions remain unavailable; SP x requires review of the explicit reference rather than an edge estimate. Final section/detail and antenna sheets visually reviewed. Adds only measurements and side-profile streams absent from main feature review; source-local signs and datums retained. Rear camera side-wall transition detail also transcribed from targeted page3 audit; main lens/button corrections communicated separately."
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. M4 drawing explicitly lists Air 11-inch M4, M3 and M2 in its title block. Named camera, acoustic, connector/button dimensions and body-corner ordinates reviewed from that shared-applicability drawing. Magnetic tables, antenna contours and remaining dimensions are incomplete. Magnet page: complete polarity table and BV/A/PM/CG paired positions, Hall sensors/compass and four exclusion regions. CV/HE x and individual OR positions remain unavailable; SP x requires review of the explicit reference rather than an edge estimate. Final section/detail and antenna sheets visually reviewed. Adds only measurements and side-profile streams absent from main feature review; source-local signs and datums retained. Rear camera side-wall transition detail also transcribed from targeted page3 audit; main lens/button corrections communicated separately.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+            "pages": [
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m2.pdf",
@@ -104049,7 +104380,19 @@
           6
         ],
         "ambiguities": [],
-        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. M4 drawing explicitly lists Air 11-inch M4, M3 and M2 in its title block. Named camera, acoustic, connector/button dimensions and body-corner ordinates reviewed from that shared-applicability drawing. Magnetic tables, antenna contours and remaining dimensions are incomplete. Magnet page: complete polarity table and BV/A/PM/CG paired positions, Hall sensors/compass and four exclusion regions. CV/HE x and individual OR positions remain unavailable; SP x requires review of the explicit reference rather than an edge estimate. Final section/detail and antenna sheets visually reviewed. Adds only measurements and side-profile streams absent from main feature review; source-local signs and datums retained. Rear camera side-wall transition detail also transcribed from targeted page3 audit; main lens/button corrections communicated separately."
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. M4 drawing explicitly lists Air 11-inch M4, M3 and M2 in its title block. Named camera, acoustic, connector/button dimensions and body-corner ordinates reviewed from that shared-applicability drawing. Magnetic tables, antenna contours and remaining dimensions are incomplete. Magnet page: complete polarity table and BV/A/PM/CG paired positions, Hall sensors/compass and four exclusion regions. CV/HE x and individual OR positions remain unavailable; SP x requires review of the explicit reference rather than an edge estimate. Final section/detail and antenna sheets visually reviewed. Adds only measurements and side-profile streams absent from main feature review; source-local signs and datums retained. Rear camera side-wall transition detail also transcribed from targeted page3 audit; main lens/button corrections communicated separately.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+            "pages": [
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m3.pdf",
@@ -111993,7 +112336,19 @@
           6
         ],
         "ambiguities": [],
-        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. M4 drawing explicitly lists Air 11-inch M4, M3 and M2 in its title block. Named camera, acoustic, connector/button dimensions and body-corner ordinates reviewed from that shared-applicability drawing. Magnetic tables, antenna contours and remaining dimensions are incomplete. Magnet page: complete polarity table and BV/A/PM/CG paired positions, Hall sensors/compass and four exclusion regions. CV/HE x and individual OR positions remain unavailable; SP x requires review of the explicit reference rather than an edge estimate. Final section/detail and antenna sheets visually reviewed. Adds only measurements and side-profile streams absent from main feature review; source-local signs and datums retained. Rear camera side-wall transition detail also transcribed from targeted page3 audit; main lens/button corrections communicated separately."
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. M4 drawing explicitly lists Air 11-inch M4, M3 and M2 in its title block. Named camera, acoustic, connector/button dimensions and body-corner ordinates reviewed from that shared-applicability drawing. Magnetic tables, antenna contours and remaining dimensions are incomplete. Magnet page: complete polarity table and BV/A/PM/CG paired positions, Hall sensors/compass and four exclusion regions. CV/HE x and individual OR positions remain unavailable; SP x requires review of the explicit reference rather than an edge estimate. Final section/detail and antenna sheets visually reviewed. Adds only measurements and side-profile streams absent from main feature review; source-local signs and datums retained. Rear camera side-wall transition detail also transcribed from targeted page3 audit; main lens/button corrections communicated separately.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+            "pages": [
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
@@ -119616,7 +119971,19 @@
           "Magnet detail AJ has no bottom-row BV3 y ordinate; do not assume an equal-spacing continuation.",
           "Left Hall sensor is labelled HES1 vertically but HES2 at x=-89.62; retain unresolved reference rather than silently relabel."
         ],
-        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. M4 drawing explicitly lists Air 13-inch M4, M3 and M2 in its title block. Named camera, acoustic, connector/button dimensions and body-corner ordinates reviewed from that shared-applicability drawing. Magnetic tables, antenna contours and remaining dimensions are incomplete. Magnet page: complete polarity table, BV/OR/PM coordinates and partial BV3 bottom row, Hall/compass and four exclusion regions. C3M paired coordinates and SP group y references are also normalized; individual SP half positions and remaining CV centres are not located. Final section/detail and antenna sheets visually reviewed. Adds only measurements and side-profile streams absent from main feature review; source-local signs and datums retained. Rear camera side-wall transition detail also transcribed from targeted page3 audit; main lens/button corrections communicated separately."
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. M4 drawing explicitly lists Air 13-inch M4, M3 and M2 in its title block. Named camera, acoustic, connector/button dimensions and body-corner ordinates reviewed from that shared-applicability drawing. Magnetic tables, antenna contours and remaining dimensions are incomplete. Magnet page: complete polarity table, BV/OR/PM coordinates and partial BV3 bottom row, Hall/compass and four exclusion regions. C3M paired coordinates and SP group y references are also normalized; individual SP half positions and remaining CV centres are not located. Final section/detail and antenna sheets visually reviewed. Adds only measurements and side-profile streams absent from main feature review; source-local signs and datums retained. Rear camera side-wall transition detail also transcribed from targeted page3 audit; main lens/button corrections communicated separately.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+            "pages": [
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m2.pdf",
@@ -128496,7 +128863,19 @@
           "Magnet detail AJ has no bottom-row BV3 y ordinate; do not assume an equal-spacing continuation.",
           "Left Hall sensor is labelled HES1 vertically but HES2 at x=-89.62; retain unresolved reference rather than silently relabel."
         ],
-        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. M4 drawing explicitly lists Air 13-inch M4, M3 and M2 in its title block. Named camera, acoustic, connector/button dimensions and body-corner ordinates reviewed from that shared-applicability drawing. Magnetic tables, antenna contours and remaining dimensions are incomplete. Magnet page: complete polarity table, BV/OR/PM coordinates and partial BV3 bottom row, Hall/compass and four exclusion regions. C3M paired coordinates and SP group y references are also normalized; individual SP half positions and remaining CV centres are not located. Final section/detail and antenna sheets visually reviewed. Adds only measurements and side-profile streams absent from main feature review; source-local signs and datums retained. Rear camera side-wall transition detail also transcribed from targeted page3 audit; main lens/button corrections communicated separately."
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. M4 drawing explicitly lists Air 13-inch M4, M3 and M2 in its title block. Named camera, acoustic, connector/button dimensions and body-corner ordinates reviewed from that shared-applicability drawing. Magnetic tables, antenna contours and remaining dimensions are incomplete. Magnet page: complete polarity table, BV/OR/PM coordinates and partial BV3 bottom row, Hall/compass and four exclusion regions. C3M paired coordinates and SP group y references are also normalized; individual SP half positions and remaining CV centres are not located. Final section/detail and antenna sheets visually reviewed. Adds only measurements and side-profile streams absent from main feature review; source-local signs and datums retained. Rear camera side-wall transition detail also transcribed from targeted page3 audit; main lens/button corrections communicated separately.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+            "pages": [
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m3.pdf",
@@ -138092,7 +138471,19 @@
           "Magnet detail AJ has no bottom-row BV3 y ordinate; do not assume an equal-spacing continuation.",
           "Left Hall sensor is labelled HES1 vertically but HES2 at x=-89.62; retain unresolved reference rather than silently relabel."
         ],
-        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. M4 drawing explicitly lists Air 13-inch M4, M3 and M2 in its title block. Named camera, acoustic, connector/button dimensions and body-corner ordinates reviewed from that shared-applicability drawing. Magnetic tables, antenna contours and remaining dimensions are incomplete. Magnet page: complete polarity table, BV/OR/PM coordinates and partial BV3 bottom row, Hall/compass and four exclusion regions. C3M paired coordinates and SP group y references are also normalized; individual SP half positions and remaining CV centres are not located. Final section/detail and antenna sheets visually reviewed. Adds only measurements and side-profile streams absent from main feature review; source-local signs and datums retained. Rear camera side-wall transition detail also transcribed from targeted page3 audit; main lens/button corrections communicated separately."
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. M4 drawing explicitly lists Air 13-inch M4, M3 and M2 in its title block. Named camera, acoustic, connector/button dimensions and body-corner ordinates reviewed from that shared-applicability drawing. Magnetic tables, antenna contours and remaining dimensions are incomplete. Magnet page: complete polarity table, BV/OR/PM coordinates and partial BV3 bottom row, Hall/compass and four exclusion regions. C3M paired coordinates and SP group y references are also normalized; individual SP half positions and remaining CV centres are not located. Final section/detail and antenna sheets visually reviewed. Adds only measurements and side-profile streams absent from main feature review; source-local signs and datums retained. Rear camera side-wall transition detail also transcribed from targeted page3 audit; main lens/button corrections communicated separately.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+            "pages": [
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
@@ -145799,7 +146190,19 @@
         "ambiguities": [
           "Antenna sheet labels both 7.99 outer and11.88 inward-side margins HSG OUTSIDE; preserve explicit arrows and numerical values without relabelling the caption."
         ],
-        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. Fourth-generation own front camera/ALS, acoustic, button and connector dimensions from its PDF page2. Front camera keepout differs substantially from fifth-generation even though the newer drawing title lists both. Generation-specific magnetic page: BV/A coordinates and complete tabulated surface/inside polarity, CG contacts, sensor coordinates and partial PM/SP/OR references. Modern Air magnetic flux regions or sensor depths are not copied to this older drawing. Edge/corner ordinate sets, all labelled section dimensions and antenna offsets reviewed. Rear sheet reviewed: camera mounting and contour, volume-button gap and width, SIM tray and connector geometry. Remaining front sheet references normalized: individual ALS offsets, full button length and end datum, speaker-array ends, connector and display-edge references."
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. Fourth-generation own front camera/ALS, acoustic, button and connector dimensions from its PDF page2. Front camera keepout differs substantially from fifth-generation even though the newer drawing title lists both. Generation-specific magnetic page: BV/A coordinates and complete tabulated surface/inside polarity, CG contacts, sensor coordinates and partial PM/SP/OR references. Modern Air magnetic flux regions or sensor depths are not copied to this older drawing. Edge/corner ordinate sets, all labelled section dimensions and antenna offsets reviewed. Rear sheet reviewed: camera mounting and contour, volume-button gap and width, SIM tray and connector geometry. Remaining front sheet references normalized: individual ALS offsets, full button length and end datum, speaker-array ends, connector and display-edge references.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf",
+            "pages": [
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf",
@@ -151030,7 +151433,19 @@
         "ambiguities": [
           "Antenna sheet labels both 7.99 outer and11.88 inward-side margins HSG OUTSIDE; preserve explicit arrows and numerical values without relabelling the caption."
         ],
-        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. Fifth-generation camera/ALS, acoustic, button, rear-camera and connector dimensions reviewed. Although its title also mentions fourth generation, front camera dimensions are not applied to that older model: its own drawing specifies different geometry. Generation-specific magnetic page: BV/A coordinates and complete tabulated surface/inside polarity, CG contacts, sensor coordinates and partial PM/SP/OR references. Modern Air magnetic flux regions or sensor depths are not copied to this older drawing. Edge/corner ordinate sets, all labelled section dimensions and antenna offsets reviewed. Rear sheet reviewed: camera mounting and contour, volume-button gap and width, SIM tray and connector geometry. Remaining front sheet references normalized: individual ALS offsets, full button length and end datum, speaker-array ends, connector and display-edge references."
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. Fifth-generation camera/ALS, acoustic, button, rear-camera and connector dimensions reviewed. Although its title also mentions fourth generation, front camera dimensions are not applied to that older model: its own drawing specifies different geometry. Generation-specific magnetic page: BV/A coordinates and complete tabulated surface/inside polarity, CG contacts, sensor coordinates and partial PM/SP/OR references. Modern Air magnetic flux regions or sensor depths are not copied to this older drawing. Edge/corner ordinate sets, all labelled section dimensions and antenna offsets reviewed. Rear sheet reviewed: camera mounting and contour, volume-button gap and width, SIM tray and connector geometry. Remaining front sheet references normalized: individual ALS offsets, full button length and end datum, speaker-array ends, connector and display-edge references.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf",
+            "pages": [
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf",
@@ -155282,7 +155697,20 @@
           "PDF page3 rear-view109.36 horizontal and170.04 rear-camera vertical callouts exceed body half extents while their arrows terminate at centreline datums. Source values retained as unresolved claims, not valid positions.",
           "Front camera vertical location is not dimensioned;4.38mm explicitly refers to the cellular ambient-light sensor."
         ],
-        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. Named camera/acoustic/flash/ALS/connector keepouts and apertures reviewed. Rear camera position source contradiction explicitly represented; front camera Y remains unknown. Other sheets and contours remain incomplete. Sixth-generation magnetic page: named magnet locations/surface polarities, shunts and sensor coordinates. Pencil magnets differ from A17 Pro; other unlabelled centre ordinates are retained without invented names. Sensor depth and flux keepouts are not supplied on this page. Top-module polarity references, edge/corner ordinate sets and antenna margins reviewed with generation-specific page order and magnet geometry."
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. Named camera/acoustic/flash/ALS/connector keepouts and apertures reviewed. Rear camera position source contradiction explicitly represented; front camera Y remains unknown. Other sheets and contours remain incomplete. Sixth-generation magnetic page: named magnet locations/surface polarities, shunts and sensor coordinates. Pencil magnets differ from A17 Pro; other unlabelled centre ordinates are retained without invented names. Sensor depth and flux keepouts are not supplied on this page. Top-module polarity references, edge/corner ordinate sets and antenna margins reviewed with generation-specific page order and magnet geometry.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf",
+            "pages": [
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf",
@@ -159119,7 +159547,20 @@
           "PDF page3 rear-view109.36 horizontal and170.04 rear-camera vertical callouts exceed body half extents while their arrows terminate at centreline datums. Source values retained as unresolved claims, not valid positions.",
           "Front camera vertical location is not dimensioned;4.38mm explicitly refers to the cellular ambient-light sensor."
         ],
-        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. Named camera/acoustic/flash/ALS/connector keepouts and apertures reviewed. Rear camera position source contradiction explicitly represented; front camera Y remains unknown. Other sheets and contours remain incomplete. Magnetic page normalized: all tabulated magnets and surface polarities, shunt references, HES/compass and four magnetic keepout regions. Unlisted inside/axial polarities remain unknown. Top-module polarity references, edge/corner ordinate sets and antenna margins reviewed with generation-specific page order and magnet geometry."
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. Named camera/acoustic/flash/ALS/connector keepouts and apertures reviewed. Rear camera position source contradiction explicitly represented; front camera Y remains unknown. Other sheets and contours remain incomplete. Magnetic page normalized: all tabulated magnets and surface polarities, shunt references, HES/compass and four magnetic keepout regions. Unlisted inside/axial polarities remain unknown. Top-module polarity references, edge/corner ordinate sets and antenna margins reviewed with generation-specific page order and magnet geometry.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf",
+            "pages": [
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf",
@@ -164480,6 +164921,18 @@
             "profileAndPointOrdinateValues": 153,
             "polarityRows": 72,
             "scopeLimit": "All indexed drawing sheets reviewed; this is semantic transcription of explicit references, not complete CAD. Generic dimensionless multiplicities and unlabelled illustrated magnet sizes/locations are not promoted into measured geometry."
+          }
+        ],
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-3rd-generation.pdf",
+            "pages": [
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
           }
         ]
       },
@@ -170631,6 +171084,18 @@
             "profileAndPointOrdinateValues": 156,
             "polarityRows": 72,
             "scopeLimit": "All indexed drawing sheets reviewed; this is semantic transcription of explicit references, not complete CAD. Generic dimensionless multiplicities and unlabelled illustrated magnet sizes/locations are not promoted into measured geometry."
+          }
+        ],
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-4th-generation.pdf",
+            "pages": [
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
           }
         ]
       },
@@ -177077,7 +177542,19 @@
           6
         ],
         "ambiguities": [],
-        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. Display/body/camera plus named apertures, connector clearance, keepout cones, button/sensor dimensions and three local contour ordinate sets. Magnetic locations and remaining detail contours are still incomplete. Magnet-detail complete polarity table, L1-L20/BV3/CG coordinates, Hall-sensor/compass and six exclusion regions reviewed. All BV/O/OR/CG positions and polarity entries are normalized. Individual PM y locations remain partial; group reference coordinates are retained. Final section/detail and antenna sheets visually reviewed. Adds only measurements and side-profile streams absent from main feature review; source-local signs and datums retained."
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. Display/body/camera plus named apertures, connector clearance, keepout cones, button/sensor dimensions and three local contour ordinate sets. Magnetic locations and remaining detail contours are still incomplete. Magnet-detail complete polarity table, L1-L20/BV3/CG coordinates, Hall-sensor/compass and six exclusion regions reviewed. All BV/O/OR/CG positions and polarity entries are normalized. Individual PM y locations remain partial; group reference coordinates are retained. Final section/detail and antenna sheets visually reviewed. Adds only measurements and side-profile streams absent from main feature review; source-local signs and datums retained.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+            "pages": [
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
@@ -186302,7 +186779,19 @@
           6
         ],
         "ambiguities": [],
-        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. Display/body/camera plus named apertures, connector clearance, keepout cones, button/sensor dimensions and three local contour ordinate sets. Magnetic locations and remaining detail contours are still incomplete. Magnet-detail complete polarity table, L1-L20/BV3/CG coordinates, Hall-sensor/compass and six exclusion regions reviewed. All BV/O/OR/CG positions and polarity entries are normalized. Individual PM y locations remain partial; group reference coordinates are retained. Final section/detail and antenna sheets visually reviewed. Adds only measurements and side-profile streams absent from main feature review; source-local signs and datums retained."
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. Display/body/camera plus named apertures, connector clearance, keepout cones, button/sensor dimensions and three local contour ordinate sets. Magnetic locations and remaining detail contours are still incomplete. Magnet-detail complete polarity table, L1-L20/BV3/CG coordinates, Hall-sensor/compass and six exclusion regions reviewed. All BV/O/OR/CG positions and polarity entries are normalized. Individual PM y locations remain partial; group reference coordinates are retained. Final section/detail and antenna sheets visually reviewed. Adds only measurements and side-profile streams absent from main feature review; source-local signs and datums retained.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+            "pages": [
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
@@ -194510,6 +194999,18 @@
             "polarityRows": 141,
             "scopeLimit": "All indexed drawing sheets reviewed; this is semantic transcription of explicit references, not complete CAD. Generic dimensionless multiplicities and unlabelled illustrated magnet sizes/locations are not promoted into measured geometry."
           }
+        ],
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-12.9-inch-5th-generation.pdf",
+            "pages": [
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          }
         ]
       },
       "drawing": {
@@ -200905,6 +201406,18 @@
             "profileAndPointOrdinateValues": 166,
             "polarityRows": 141,
             "scopeLimit": "All indexed drawing sheets reviewed; this is semantic transcription of explicit references, not complete CAD. Generic dimensionless multiplicities and unlabelled illustrated magnet sizes/locations are not promoted into measured geometry."
+          }
+        ],
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-12.9-inch-6th-generation.pdf",
+            "pages": [
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
           }
         ]
       },
@@ -207668,7 +208181,19 @@
           6
         ],
         "ambiguities": [],
-        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. Display/body/camera plus named apertures, connector clearance, keepout cones, button/sensor dimensions and three local contour ordinate sets. Magnetic locations and remaining detail contours are still incomplete. Magnet page now includes L1-L12 positions/polarities, compass/Hall-sensor locations and clearance, and five magnetic exclusion regions; BV/O/CG arrays now have paired positions and the complete polarity table is normalized. PM individual y centers remain unlocated; their printed group reference ordinates are retained. Final section/detail and antenna sheets visually reviewed. Adds only measurements and side-profile streams absent from main feature review; source-local signs and datums retained."
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. Display/body/camera plus named apertures, connector clearance, keepout cones, button/sensor dimensions and three local contour ordinate sets. Magnetic locations and remaining detail contours are still incomplete. Magnet page now includes L1-L12 positions/polarities, compass/Hall-sensor locations and clearance, and five magnetic exclusion regions; BV/O/CG arrays now have paired positions and the complete polarity table is normalized. PM individual y centers remain unlocated; their printed group reference ordinates are retained. Final section/detail and antenna sheets visually reviewed. Adds only measurements and side-profile streams absent from main feature review; source-local signs and datums retained.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+            "pages": [
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
@@ -214928,7 +215453,19 @@
           6
         ],
         "ambiguities": [],
-        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. Display/body/camera plus named apertures, connector clearance, keepout cones, button/sensor dimensions and three local contour ordinate sets. Magnetic locations and remaining detail contours are still incomplete. Magnet detail reviewed; its PDF text is identical to M4 except document footer, including complete polarity table and BV/O/CG coordinates. Individual PM y coordinates remain partial. Final section/detail and antenna sheets visually reviewed. Adds only measurements and side-profile streams absent from main feature review; source-local signs and datums retained."
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours. Display/body/camera plus named apertures, connector clearance, keepout cones, button/sensor dimensions and three local contour ordinate sets. Magnetic locations and remaining detail contours are still incomplete. Magnet detail reviewed; its PDF text is identical to M4 except document footer, including complete polarity table and BV/O/CG coordinates. Individual PM y coordinates remain partial. Final section/detail and antenna sheets visually reviewed. Adds only measurements and side-profile streams absent from main feature review; source-local signs and datums retained.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+            "pages": [
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
@@ -221033,6 +221570,15 @@
             "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
             "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
           }
+        ],
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-12.pdf",
+            "pages": [
+              2,
+              3
+            ]
+          }
         ]
       },
       "drawing": {
@@ -224105,6 +224651,15 @@
             "wrappedMeasurementCount": 164,
             "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
             "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+          }
+        ],
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-12-mini.pdf",
+            "pages": [
+              2,
+              3
+            ]
           }
         ]
       },
@@ -227769,6 +228324,15 @@
             "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
             "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
           }
+        ],
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-12-pro.pdf",
+            "pages": [
+              2,
+              3
+            ]
+          }
         ]
       },
       "drawing": {
@@ -231167,6 +231731,15 @@
             "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
             "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
           }
+        ],
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-12-pro-max.pdf",
+            "pages": [
+              2,
+              3
+            ]
+          }
         ]
       },
       "drawing": {
@@ -234214,6 +234787,15 @@
             "wrappedMeasurementCount": 162,
             "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
             "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+          }
+        ],
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-13.pdf",
+            "pages": [
+              2,
+              3
+            ]
           }
         ]
       },
@@ -238360,6 +238942,15 @@
             "wrappedMeasurementCount": 166,
             "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
             "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+          }
+        ],
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-13-mini.pdf",
+            "pages": [
+              2,
+              3
+            ]
           }
         ]
       },
@@ -242599,6 +243190,15 @@
             "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
             "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
           }
+        ],
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-13-pro.pdf",
+            "pages": [
+              2,
+              3
+            ]
+          }
         ]
       },
       "drawing": {
@@ -246806,6 +247406,15 @@
             "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
             "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
           }
+        ],
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-13-pro-max.pdf",
+            "pages": [
+              2,
+              3
+            ]
+          }
         ]
       },
       "drawing": {
@@ -250923,6 +251532,16 @@
             "wrappedMeasurementCount": 166,
             "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
             "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+          }
+        ],
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-14.pdf",
+            "pages": [
+              2,
+              3,
+              4
+            ]
           }
         ]
       },
@@ -255079,6 +255698,16 @@
             "wrappedMeasurementCount": 165,
             "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
             "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+          }
+        ],
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-14-plus.pdf",
+            "pages": [
+              2,
+              3,
+              4
+            ]
           }
         ]
       },
@@ -259357,6 +259986,16 @@
             "wrappedMeasurementCount": 188,
             "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
             "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+          }
+        ],
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-14-pro.pdf",
+            "pages": [
+              2,
+              3,
+              4
+            ]
           }
         ]
       },
@@ -263867,6 +264506,16 @@
             "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
             "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
           }
+        ],
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-14-pro-max.pdf",
+            "pages": [
+              2,
+              3,
+              4
+            ]
+          }
         ]
       },
       "drawing": {
@@ -267989,6 +268638,16 @@
             "wrappedMeasurementCount": 172,
             "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
             "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+          }
+        ],
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-15.pdf",
+            "pages": [
+              2,
+              3,
+              4
+            ]
           }
         ]
       },
@@ -272154,6 +272813,16 @@
             "wrappedMeasurementCount": 172,
             "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
             "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+          }
+        ],
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-15-plus.pdf",
+            "pages": [
+              2,
+              3,
+              4
+            ]
           }
         ]
       },
@@ -276496,6 +277165,16 @@
             "wrappedMeasurementCount": 176,
             "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
             "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+          }
+        ],
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-15-pro.pdf",
+            "pages": [
+              2,
+              3,
+              4
+            ]
           }
         ]
       },
@@ -281077,6 +281756,16 @@
             "wrappedMeasurementCount": 174,
             "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
             "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+          }
+        ],
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-15-pro-max.pdf",
+            "pages": [
+              2,
+              3,
+              4
+            ]
           }
         ]
       },
@@ -285840,6 +286529,17 @@
             "wrappedMeasurementCount": 192,
             "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
             "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+          }
+        ],
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-16.pdf",
+            "pages": [
+              2,
+              3,
+              4,
+              5
+            ]
           }
         ]
       },
@@ -291827,6 +292527,17 @@
             "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
             "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
           }
+        ],
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-16-plus.pdf",
+            "pages": [
+              2,
+              3,
+              4,
+              5
+            ]
+          }
         ]
       },
       "drawing": {
@@ -296268,6 +296979,17 @@
             "wrappedMeasurementCount": 196,
             "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
             "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+          }
+        ],
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-16-pro.pdf",
+            "pages": [
+              2,
+              3,
+              4,
+              5
+            ]
           }
         ]
       },
@@ -302731,6 +303453,17 @@
             "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
             "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
           }
+        ],
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-16-pro-max.pdf",
+            "pages": [
+              2,
+              3,
+              4,
+              5
+            ]
+          }
         ]
       },
       "drawing": {
@@ -308700,6 +309433,15 @@
             "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
             "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
           }
+        ],
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-16e.pdf",
+            "pages": [
+              2,
+              3
+            ]
+          }
         ]
       },
       "drawing": {
@@ -312874,6 +313616,17 @@
             "wrappedMeasurementCount": 198,
             "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
             "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+          }
+        ],
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-17.pdf",
+            "pages": [
+              2,
+              3,
+              4,
+              5
+            ]
           }
         ]
       },
@@ -318194,6 +318947,17 @@
             "wrappedMeasurementCount": 194,
             "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
             "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+          }
+        ],
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-17-pro.pdf",
+            "pages": [
+              2,
+              3,
+              4,
+              5
+            ]
           }
         ]
       },
@@ -323569,6 +324333,17 @@
             "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
             "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
           }
+        ],
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-17-pro-max.pdf",
+            "pages": [
+              2,
+              3,
+              4,
+              5
+            ]
+          }
         ]
       },
       "drawing": {
@@ -328385,6 +329160,15 @@
             "wrappedMeasurementCount": 138,
             "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
             "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+          }
+        ],
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-17e.pdf",
+            "pages": [
+              2,
+              3
+            ]
           }
         ]
       },
@@ -333208,6 +333992,17 @@
             "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
             "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
           }
+        ],
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-air.pdf",
+            "pages": [
+              2,
+              3,
+              4,
+              5
+            ]
+          }
         ]
       },
       "drawing": {
@@ -336689,6 +337484,14 @@
             "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
             "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
           }
+        ],
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-se-3rd-generation.pdf",
+            "pages": [
+              2
+            ]
+          }
         ]
       },
       "drawing": null
@@ -337977,6 +338780,14 @@
             "wrappedMeasurementCount": 120,
             "measurementCountMeaning": "Counts provenance-wrapped scalar values, including independent profile ordinates, repeated view references and explicit derived values; not distinct physical components or unique printed annotations.",
             "completeness": "Indexed drawing pages visually reviewed; exact geometry and ambiguous or unlabelled references remain unresolved as documented. A page review does not assert every printed annotation has a normalized field."
+          }
+        ],
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-se-3rd-generation.pdf",
+            "pages": [
+              2
+            ]
           }
         ]
       },
@@ -341017,7 +341828,15 @@
           2
         ],
         "ambiguities": [],
-        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/macbook-neo.pdf",
+            "pages": [
+              2
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/macbook-neo.pdf",
@@ -343081,7 +343900,15 @@
           2
         ],
         "ambiguities": [],
-        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-3rd-generation.pdf",
+            "pages": [
+              2
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-3rd-generation.pdf",
@@ -343896,7 +344723,17 @@
           4
         ],
         "ambiguities": [],
-        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-2nd-generation.pdf",
+            "pages": [
+              2,
+              3,
+              4
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-2nd-generation.pdf",
@@ -344991,7 +345828,17 @@
           4
         ],
         "ambiguities": [],
-        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf",
+            "pages": [
+              2,
+              3,
+              4
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf",
@@ -346153,7 +347000,17 @@
           4
         ],
         "ambiguities": [],
-        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf",
+            "pages": [
+              2,
+              3,
+              4
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf",
@@ -347761,7 +348618,15 @@
           2
         ],
         "ambiguities": [],
-        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf",
+            "pages": [
+              2
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf",
@@ -349705,7 +350570,15 @@
           2
         ],
         "ambiguities": [],
-        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf",
+            "pages": [
+              2
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf",
@@ -351970,7 +352843,17 @@
           4
         ],
         "ambiguities": [],
-        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/wireless-charging-case-usb-c-for-airpods-4.pdf",
+            "pages": [
+              2,
+              3,
+              4
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/wireless-charging-case-usb-c-for-airpods-4.pdf",
@@ -353743,7 +354626,18 @@
           5
         ],
         "ambiguities": [],
-        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation. Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork.",
+        "measurementSources": [
+          {
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf",
+            "pages": [
+              2,
+              3,
+              4,
+              5
+            ]
+          }
+        ]
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf",

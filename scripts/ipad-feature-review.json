@@ -27766,6 +27766,7 @@
       2,
       3,
       4,
+      5,
       6,
       7,
       8
@@ -29827,7 +29828,7 @@
         }
       }
     },
-    "reviewScope": "A16 drawing explicitly covers iPad A16 and 10th generation. Named camera/sensor/button/connector dimensions and title-block tolerances reviewed; other pages, magnets and local contour callouts remain incomplete. Hall-sensor/compass coordinates, depth references and trigger/release field intervals reviewed. Generation-specific magnet centre/polarity table normalized, with separate A16/10th PM x positions and10th-only C3 shunt. SP section ordinates are retained as unresolved where source values conflict with position/body extents. Shared section/edge/corner profiles and antenna metal-clearance boundaries are normalized. Remaining front/rear acoustic array, control, connector and SIM-tray references plus rear-camera edge contour reviewed. Volume reference positions are upper ends, not centres.",
+    "reviewScope": "A16 drawing explicitly covers iPad A16 and 10th generation. Named camera/sensor/button/connector dimensions and title-block tolerances reviewed; other pages, magnets and local contour callouts remain incomplete. Hall-sensor/compass coordinates, depth references and trigger/release field intervals reviewed. Generation-specific magnet centre/polarity table normalized, with separate A16/10th PM x positions and10th-only C3 shunt. SP section ordinates are retained as unresolved where source values conflict with position/body extents. Shared section/edge/corner profiles and antenna metal-clearance boundaries are normalized. Remaining front/rear acoustic array, control, connector and SIM-tray references plus rear-camera edge contour reviewed. Volume reference positions are upper ends, not centres. Page5 was inspected but explicitly labels its magnetic layout as 10th-generation-only; those dimensions are intentionally not assigned to A16.",
     "ambiguities": [
       "Section BA-BA SP-FH9/10/11 negative ordinates appear above zero; SP-CH9/10 printed -201/-204.72 exceed half body height. Do not use these as body-centred placement coordinates.",
       "Rear camera depth references differ: page 2 bottom-view REAR CAMERA 2.08 versus page 3 REAR CAMERA WINDOW TO HSG BACK SIDE 1.93. Preserve both named references; they are not silently treated as the same surface."
@@ -29962,6 +29963,7 @@
       3,
       4,
       5,
+      6,
       7,
       8
     ],
@@ -32067,7 +32069,7 @@
         }
       }
     },
-    "reviewScope": "A16 drawing explicitly covers iPad A16 and 10th generation. Named camera/sensor/button/connector dimensions and title-block tolerances reviewed; other pages, magnets and local contour callouts remain incomplete. Hall-sensor/compass coordinates, depth references and trigger/release field intervals reviewed. Generation-specific magnet centre/polarity table normalized, with separate A16/10th PM x positions and10th-only C3 shunt. SP section ordinates are retained as unresolved where source values conflict with position/body extents. Shared section/edge/corner profiles and antenna metal-clearance boundaries are normalized. Remaining front/rear acoustic array, control, connector and SIM-tray references plus rear-camera edge contour reviewed. Volume reference positions are upper ends, not centres.",
+    "reviewScope": "A16 drawing explicitly covers iPad A16 and 10th generation. Named camera/sensor/button/connector dimensions and title-block tolerances reviewed; other pages, magnets and local contour callouts remain incomplete. Hall-sensor/compass coordinates, depth references and trigger/release field intervals reviewed. Generation-specific magnet centre/polarity table normalized, with separate A16/10th PM x positions and10th-only C3 shunt. SP section ordinates are retained as unresolved where source values conflict with position/body extents. Shared section/edge/corner profiles and antenna metal-clearance boundaries are normalized. Remaining front/rear acoustic array, control, connector and SIM-tray references plus rear-camera edge contour reviewed. Volume reference positions are upper ends, not centres. Original 10th-generation page6 section/detail sheet reviewed; equivalent shared A16 geometry uses page7, with page8 antenna references. Measurement URLs/pages identify the applicable source.",
     "ambiguities": [
       "Section BA-BA SP-FH9/10/11 negative ordinates appear above zero; SP-CH9/10 printed -201/-204.72 exceed half body height. Do not use these as body-centred placement coordinates.",
       "Rear camera depth references differ: page 2 bottom-view REAR CAMERA 2.08 versus page 3 REAR CAMERA WINDOW TO HSG BACK SIDE 1.93. Preserve both named references; they are not silently treated as the same surface."

@@ -81,6 +81,24 @@ def main():
         se2['display']['ppi']={axis:se2['display']['nativePixels'][key]*25.4/se2['display']['activeMm'][key] for axis,key in [('x','width'),('y','height')]}
     for r in records.values():
         for d in r['additionalDimensions']+r['profiles']:d.setdefault('source',r['review'].get('source'))
+        # Source/page provenance is authoritative for shared-applicability drawings.
+        source_pages={}
+        def record_source(source,page):
+            if source and page:source_pages.setdefault(source,set()).add(page)
+        for d in r['additionalDimensions']+r['profiles']:record_source(d.get('source'),d['page'])
+        def record_features(node,source):
+            if isinstance(node,dict):
+                source=node.get('source') or source
+                if 'value' in node:record_source(source,node.get('sourcePage'))
+                for child in node.values():record_features(child,source)
+            elif isinstance(node,list):
+                for child in node:record_features(child,source)
+        record_features(r['features'],r['review'].get('source'))
+        if source_pages:r['review']['measurementSources']=[dict(source=source,pages=sorted(pages)) for source,pages in sorted(source_pages.items())]
+        if r['drawing'] and r['review'].get('pagesReviewed'):
+            own_pages={p['page'] for p in r['drawing']['pages']}
+            r['review']['pagesReviewed']=[p for p in r['review']['pagesReviewed'] if p in own_pages]
+
     rows=sorted(records.values(),key=lambda r:r['id'])
     def scalar_count(node):
         if isinstance(node,dict):return int('value' in node)+sum(scalar_count(v) for v in node.values())

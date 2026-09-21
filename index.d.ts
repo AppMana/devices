@@ -17,7 +17,7 @@ export interface Device {
   profiles: Profile[];
   frontCameraPartial: {x: number | null; y: number | null} | null;
   frontCamera: { x: number; y: number; convention: string; source: string; page: number } | null;
-  review: { status: string; derivation: string | null; source?: string; page?: number; bodyPage?: number; bodyDepthPage?: number; bodyDepthDefinition?: string | null; scope?: string; pagesReviewed?: number[]; ambiguities?: string[]; frontCameraCenterStatus?: string; frontCameraCenterDerivation?: string; audits?: Array<Record<string, unknown>> };
+  review: { status: string; derivation: string | null; source?: string; page?: number; bodyPage?: number; bodyDepthPage?: number; bodyDepthDefinition?: string | null; scope?: string; pagesReviewed?: number[]; ambiguities?: string[]; frontCameraCenterStatus?: string; frontCameraCenterDerivation?: string; measurementSources?: {source: string; pages: number[]}[]; audits?: Array<Record<string, unknown>> };
   drawing: { url: string; sha256: string; pages: {page: number; sizePoints: [number, number]; method: string; annotations: Annotation[]}[] } | null;
 }
 export interface Table { schemaVersion: number; sources: Record<string, unknown>; devices: Device[]; coverage: Record<string, unknown> }
