@@ -10180,7 +10180,9 @@
     "drawingSha256": "d69f710c1366571375153eee2bd4c2c628e257c932a2f6ca4e8b60302bd5b80a",
     "sourcePagesReviewed": [
       2,
-      4
+      3,
+      4,
+      5
     ],
     "mechanicalStatus": "feature-drawings-reviewed",
     "frontCameraPortraitMm": null,
@@ -10690,6 +10692,718 @@
         "interpolation": null,
         "derivation": "Printed ordinate labels and their leaders/crosses were visually reviewed. Coordinates below retain only identified point associations. Unknown coordinates remain null. This is a discrete contour sample, not a fitted radius or complete machining curve.",
         "unpairedEndpointCrosses": "Additional endpoint crosses are drawn, but their nonzero ordinates are not printed; no coordinates added for those endpoints."
+      },
+      "actionButton": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 34.08,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 3.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 2.35,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "projectionBeyondHousing": {
+            "value": 0.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 6.9,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X3.45 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "volumeUpButton": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 48.23,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 5.6,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 2.35,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "projectionBeyondHousing": {
+            "value": 0.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 11.2,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X5.6 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "volumeDownButton": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 62.43,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 5.6,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 2.35,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "projectionBeyondHousing": {
+            "value": 0.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 11.2,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X5.6 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "sideButton": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 55.33,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 8.9,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 2.35,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "projectionBeyondHousing": {
+            "value": 0.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 17.8,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X8.9 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "cameraControlButton": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 104.77,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 8.55,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 2.53,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "projectionBeyondHousing": {
+            "value": 0,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 17.1,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X8.55 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "cameraControlTypicalKeepout": {
+        "featureType": "camera-control-access-clearance",
+        "dimensions": {
+          "lengthAtSurface": {
+            "value": 25,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Detail E and Sections H-H / L-L",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "halfWidthAtSurface": {
+            "value": 2.91,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Detail E and Sections H-H / L-L",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "referenceCornerRadius": {
+            "value": 2.2,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Detail E and Sections H-H / L-L",
+            "derivation": "Explicit parenthesized reference radius."
+          },
+          "slopeAngleFromSurface": {
+            "value": 55,
+            "unit": "degrees",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Detail E and Sections H-H / L-L",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "cameraControlThinCaseKeepout": {
+        "featureType": "camera-control-access-clearance",
+        "dimensions": {
+          "widthAtSurface": {
+            "value": 2.9,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Detail E thin-case and Sections J-J / K-K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "lengthAtSurface": {
+            "value": 17.42,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Detail E thin-case and Sections J-J / K-K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "offsetFromSurface": {
+            "value": 0.4,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Detail E thin-case and Sections J-J / K-K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "widthAtOffset": {
+            "value": 5.82,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Detail E thin-case and Sections J-J / K-K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "lengthAtOffset": {
+            "value": 29.74,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Detail E thin-case and Sections J-J / K-K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "slopeAngleFromSurface": {
+            "value": 25,
+            "unit": "degrees",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Detail E thin-case and Sections J-J / K-K",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "cameraControlChamfer": {
+        "featureType": "camera-control-edge-chamfer",
+        "dimensions": {
+          "lateralExtent": {
+            "value": 0.12,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Section G-G",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "depthExtent": {
+            "value": 0.12,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Section G-G",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "slopeAngle": {
+            "value": 45,
+            "unit": "degrees",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Section G-G",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "magneticMaterialExclusionCircle": {
+        "featureType": "material-exclusion-region",
+        "dimensions": {
+          "diameter": {
+            "value": 61.5,
+            "unit": "mm",
+            "sourcePage": 5,
+            "sourceSheet": 4,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromLeftInRearView": {
+            "value": 37.35,
+            "unit": "mm",
+            "sourcePage": 5,
+            "sourceSheet": 4,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 78.34,
+            "unit": "mm",
+            "sourcePage": 5,
+            "sourceSheet": 4,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Material exclusion region; not physical magnet-ring diameter or inferred coil geometry."
+      },
+      "compassMechanicalReference": {
+        "featureType": "compass-drawing-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 18.11,
+            "unit": "mm",
+            "sourcePage": 5,
+            "sourceSheet": 4,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 151.29,
+            "unit": "mm",
+            "sourcePage": 5,
+            "sourceSheet": 4,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "magneticMaterialExclusionLowerBoundary": {
+        "featureType": "material-exclusion-boundary-reference",
+        "dimensions": {
+          "lowerArcRadius": {
+            "value": 49.39,
+            "unit": "mm",
+            "sourcePage": 5,
+            "sourceSheet": 4,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "sideBoundaryFromTop": {
+            "value": 113.75,
+            "unit": "mm",
+            "sourcePage": 5,
+            "sourceSheet": 4,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Partial material-exclusion boundary; no inferred arc centre."
+      },
+      "rearCameraPlateauHeight": {
+        "featureType": "camera-plateau-height-reference",
+        "dimensions": {
+          "backGlassToPlateau": {
+            "value": 3.03,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Right side view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "backGlassToCameraGlass": {
+            "value": 5.68,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Right side view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "bottomAcousticPorts": {
+        "featureType": "bottom-acoustic-aperture-reference",
+        "dimensions": {
+          "diameter": {
+            "value": 1.1,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "printedMultiplicity": 4
+      },
+      "bottomScrews": {
+        "featureType": "bottom-screw-reference",
+        "dimensions": {
+          "diameter": {
+            "value": 1.5,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "printedMultiplicity": 2
+      },
+      "rearMicrophoneOpening": {
+        "featureType": "rear-microphone-aperture",
+        "dimensions": {
+          "diameter": {
+            "value": 2.3,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Rear camera detail",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "sideThicknessProfile": {
+        "featureType": "sampled-side-profile",
+        "sourcePage": 2,
+        "detail": "Detail B",
+        "ordinateSets": {
+          "lateral": [
+            {
+              "value": 0,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 0.02,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 0.47,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 1.49,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 2.58,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "positiveThickness": [
+            {
+              "value": 2.82,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 2.79,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 2.44,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 1.47,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 0.38,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "negativeThickness": [
+            {
+              "value": -0.38,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": -1.47,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": -2.44,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": -2.79,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": -2.82,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ]
+        },
+        "pairedCoordinates": null,
+        "continuousCurve": null,
+        "derivation": "Explicit local side-profile ordinate sets; preserve multiple surfaces without guessing pairings or interpolation."
+      },
+      "rearConductiveKeepout1": {
+        "featureType": "material-exclusion-cone-reference",
+        "dimensions": {
+          "leftEdgeFromLeft": {
+            "value": 2.96,
+            "unit": "mm",
+            "sourcePage": 5,
+            "sourceSheet": 4,
+            "detail": "Rear material keepout plan and Keepout Area1 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "rightEdgeFromLeft": {
+            "value": 8.79,
+            "unit": "mm",
+            "sourcePage": 5,
+            "sourceSheet": 4,
+            "detail": "Rear material keepout plan and Keepout Area1 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "upperEdgeFromTop": {
+            "value": 29.72,
+            "unit": "mm",
+            "sourcePage": 5,
+            "sourceSheet": 4,
+            "detail": "Rear material keepout plan and Keepout Area1 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "lowerEdgeFromTop": {
+            "value": 43.8,
+            "unit": "mm",
+            "sourcePage": 5,
+            "sourceSheet": 4,
+            "detail": "Rear material keepout plan and Keepout Area1 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "includedAngle": {
+            "value": 100,
+            "unit": "degrees",
+            "sourcePage": 5,
+            "sourceSheet": 4,
+            "detail": "Rear material keepout plan and Keepout Area1 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "ambiguity": "Plan hexagon numbers and Keepout1/2 text are swapped; record numbering follows bottom section spatial association, left-edge area1 and horizontal area2."
+      },
+      "rearConductiveKeepout2": {
+        "featureType": "material-exclusion-cone-reference",
+        "dimensions": {
+          "leftEdgeFromLeft": {
+            "value": 25.41,
+            "unit": "mm",
+            "sourcePage": 5,
+            "sourceSheet": 4,
+            "detail": "Rear material keepout plan and Keepout Area2 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "rightEdgeFromLeft": {
+            "value": 48.76,
+            "unit": "mm",
+            "sourcePage": 5,
+            "sourceSheet": 4,
+            "detail": "Rear material keepout plan and Keepout Area2 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "upperEdgeFromTop": {
+            "value": 22.03,
+            "unit": "mm",
+            "sourcePage": 5,
+            "sourceSheet": 4,
+            "detail": "Rear material keepout plan and Keepout Area2 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "lowerEdgeFromTop": {
+            "value": 28.32,
+            "unit": "mm",
+            "sourcePage": 5,
+            "sourceSheet": 4,
+            "detail": "Rear material keepout plan and Keepout Area2 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "includedAngle": {
+            "value": 100,
+            "unit": "degrees",
+            "sourcePage": 5,
+            "sourceSheet": 4,
+            "detail": "Rear material keepout plan and Keepout Area2 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "ambiguity": "Plan hexagon numbers and Keepout1/2 text are swapped; record numbering follows bottom section spatial association, left-edge area1 and horizontal area2."
       }
     },
     "ambiguities": [
@@ -11258,6 +11972,477 @@
         "continuousCurve": null,
         "interpolation": null,
         "derivation": "Printed ordinate labels and their leaders/crosses were visually reviewed. Coordinates below retain only identified point associations. Unknown coordinates remain null. This is a discrete contour sample, not a fitted radius or complete machining curve."
+      },
+      "actionButton": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 31.28,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 3.77,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 3.31,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "projectionBeyondHousing": {
+            "value": 0.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 7.54,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X3.77 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "volumeUpButton": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 45.43,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 5.92,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 3.31,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "projectionBeyondHousing": {
+            "value": 0.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 11.84,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X5.92 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "volumeDownButton": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 59.63,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 5.92,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 3.31,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "projectionBeyondHousing": {
+            "value": 0.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 11.84,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X5.92 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "sideButton": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 52.53,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 9.17,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 3.31,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "projectionBeyondHousing": {
+            "value": 0.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 18.34,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X9.17 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "simTray": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 110.04,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 7.97,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 2.56,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 15.94,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X7.97 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "magneticMaterialExclusionCircle": {
+        "featureType": "material-exclusion-region",
+        "dimensions": {
+          "diameter": {
+            "value": 57.5,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromLeftInRearView": {
+            "value": 35.76,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 73.35,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Material exclusion region; not physical magnet-ring diameter or inferred coil geometry."
+      },
+      "compassMechanicalReference": {
+        "featureType": "compass-drawing-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 60.51,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 9.86,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "keepoutDiameter": {
+            "value": 8,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "rearCameraGlassHeight": {
+        "featureType": "camera-glass-height-reference",
+        "dimensions": {
+          "backGlassToCameraGlass": {
+            "value": 1.68,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Right side view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "bottomAcousticPorts": {
+        "featureType": "bottom-acoustic-aperture-reference",
+        "dimensions": {
+          "diameter": {
+            "value": 1.53,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "printedMultiplicity": 8
+      },
+      "bottomScrews": {
+        "featureType": "bottom-screw-reference",
+        "dimensions": {
+          "diameter": {
+            "value": 1.5,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "printedMultiplicity": 2
+      },
+      "rearMicrophoneOpening": {
+        "featureType": "rear-microphone-aperture",
+        "dimensions": {
+          "diameter": {
+            "value": 1.3,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Rear camera detail",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "sideThicknessProfile": {
+        "featureType": "sampled-side-profile",
+        "sourcePage": 2,
+        "detail": "Detail B",
+        "ordinateSets": {
+          "lateral": [
+            {
+              "value": 0,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 0.01,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 0.14,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 0.46,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 0.91,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "positiveThickness": [
+            {
+              "value": 3.82,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 3.79,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 3.54,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 3.14,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 2.71,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "negativeThickness": [
+            {
+              "value": -2.71,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": -3.14,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": -3.54,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": -3.79,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": -3.82,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ]
+        },
+        "pairedCoordinates": null,
+        "continuousCurve": null,
+        "derivation": "Explicit local side-profile ordinate sets; preserve multiple surfaces without guessing pairings or interpolation."
       }
     },
     "ambiguities": [
@@ -11826,6 +13011,491 @@
         "continuousCurve": null,
         "interpolation": null,
         "derivation": "Printed ordinate labels and their leaders/crosses were visually reviewed. Coordinates below retain only identified point associations. Unknown coordinates remain null. This is a discrete contour sample, not a fitted radius or complete machining curve."
+      },
+      "actionButton": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 31.28,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 3.77,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 3.31,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "projectionBeyondHousing": {
+            "value": 0.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 7.54,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X3.77 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "volumeUpButton": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 45.43,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 5.92,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 3.31,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "projectionBeyondHousing": {
+            "value": 0.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 11.84,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X5.92 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "volumeDownButton": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 59.63,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 5.92,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 3.31,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "projectionBeyondHousing": {
+            "value": 0.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 11.84,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X5.92 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "sideButton": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 52.53,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 9.17,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 3.31,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "projectionBeyondHousing": {
+            "value": 0.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 18.34,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X9.17 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "simTray": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 110.04,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 7.97,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 2.56,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 15.94,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X7.97 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "magneticMaterialExclusionCircle": {
+        "featureType": "material-exclusion-region",
+        "dimensions": {
+          "diameter": {
+            "value": 57.5,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromLeftInRearView": {
+            "value": 35.76,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 73.35,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Material exclusion region; not physical magnet-ring diameter or inferred coil geometry."
+      },
+      "compassMechanicalReference": {
+        "featureType": "compass-drawing-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 60.51,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 9.86,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "keepoutDiameter": {
+            "value": 8,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "magneticMaterialExclusionLowerBoundary": {
+        "featureType": "material-exclusion-boundary-reference",
+        "dimensions": {
+          "lowerArcRadius": {
+            "value": 49.39,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Partial material-exclusion boundary; no inferred arc centre."
+      },
+      "rearCameraGlassHeight": {
+        "featureType": "camera-glass-height-reference",
+        "dimensions": {
+          "backGlassToCameraGlass": {
+            "value": 1.68,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Right side view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "bottomAcousticPorts": {
+        "featureType": "bottom-acoustic-aperture-reference",
+        "dimensions": {
+          "diameter": {
+            "value": 1.53,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "printedMultiplicity": 8
+      },
+      "bottomScrews": {
+        "featureType": "bottom-screw-reference",
+        "dimensions": {
+          "diameter": {
+            "value": 1.5,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "printedMultiplicity": 2
+      },
+      "rearMicrophoneOpening": {
+        "featureType": "rear-microphone-aperture",
+        "dimensions": {
+          "diameter": {
+            "value": 1.3,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Rear camera detail",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "sideThicknessProfile": {
+        "featureType": "sampled-side-profile",
+        "sourcePage": 2,
+        "detail": "Detail B",
+        "ordinateSets": {
+          "lateral": [
+            {
+              "value": 0,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 0.01,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 0.14,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 0.46,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 0.91,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "positiveThickness": [
+            {
+              "value": 3.82,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 3.79,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 3.54,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 3.14,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 2.71,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "negativeThickness": [
+            {
+              "value": -2.71,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": -3.14,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": -3.54,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": -3.79,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": -3.82,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ]
+        },
+        "pairedCoordinates": null,
+        "continuousCurve": null,
+        "derivation": "Explicit local side-profile ordinate sets; preserve multiple surfaces without guessing pairings or interpolation."
       }
     },
     "ambiguities": [
@@ -11841,7 +13511,8 @@
     "drawingSha256": "3df274ae048d414639534e1cf2ea881d510b3d445a8504f81461a1d8cca318fd",
     "sourcePagesReviewed": [
       2,
-      3
+      3,
+      4
     ],
     "mechanicalStatus": "feature-drawings-reviewed",
     "frontCameraPortraitMm": null,
@@ -12440,6 +14111,650 @@
           }
         },
         "convention": "Mechanical circular centre in rear view; +x right and +y down from top-left, not a calibrated optical centre."
+      },
+      "ringSilentSwitch": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 32.83,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 2.96,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 2.35,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "projectionBeyondHousing": {
+            "value": 0.6,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 5.92,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X2.96 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view. Switch location is labelled pocket centre."
+      },
+      "volumeUpButton": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 46.27,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 5.6,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 2.66,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "projectionBeyondHousing": {
+            "value": 0.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 11.2,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X5.6 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "volumeDownButton": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 60.47,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 5.6,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 2.66,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "projectionBeyondHousing": {
+            "value": 0.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 11.2,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X5.6 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "sideButton": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 53.37,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 8.85,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 2.66,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "projectionBeyondHousing": {
+            "value": 0.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 17.7,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X8.85 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "simTray": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 110.72,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 7.97,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 2.56,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 15.94,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X7.97 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "magneticMaterialExclusionCircle": {
+        "featureType": "material-exclusion-region",
+        "dimensions": {
+          "diameter": {
+            "value": 57.5,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromLeftInRearView": {
+            "value": 35.81,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 73.82,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Material exclusion region; not physical magnet-ring diameter or inferred coil geometry."
+      },
+      "compassMechanicalReference": {
+        "featureType": "compass-drawing-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 64.96,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 8.82,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "magneticMaterialExclusionLowerBoundary": {
+        "featureType": "material-exclusion-boundary-reference",
+        "dimensions": {
+          "lowerArcRadius": {
+            "value": 49.39,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "sideBoundaryFromTop": {
+            "value": 110.93,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Partial material-exclusion boundary; no inferred arc centre."
+      },
+      "bottomAcousticPorts": {
+        "featureType": "bottom-acoustic-aperture-reference",
+        "dimensions": {
+          "diameter": {
+            "value": 1.35,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "printedMultiplicity": 8
+      },
+      "bottomScrews": {
+        "featureType": "bottom-screw-reference",
+        "dimensions": {
+          "diameter": {
+            "value": 1.6,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "printedMultiplicity": 2
+      },
+      "rearMicrophoneOpening": {
+        "featureType": "rear-microphone-aperture",
+        "dimensions": {
+          "diameter": {
+            "value": 2.1,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Rear camera detail",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "rearCameraPlateauHeight": {
+        "featureType": "camera-plateau-height-reference",
+        "dimensions": {
+          "backGlassToPlateau": {
+            "value": 1.85,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "backGlassToCameraGlass": {
+            "value": 3.48,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "sideThicknessProfile": {
+        "featureType": "sampled-side-profile",
+        "sourcePage": 2,
+        "detail": "Detail B",
+        "ordinateSets": {
+          "lateral": [
+            {
+              "value": 0,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 0.02,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 0.13,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 0.4,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 0.81,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "positiveThickness": [
+            {
+              "value": 3.77,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 3.5,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 3.09,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 2.61,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 2.12,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 1.62,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "negativeThickness": [
+            {
+              "value": -1.62,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": -2.12,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": -2.61,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": -3.09,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": -3.5,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": -3.77,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ]
+        },
+        "pairedCoordinates": null,
+        "continuousCurve": null,
+        "derivation": "Explicit local side-profile ordinate sets; preserve multiple surfaces without guessing pairings or interpolation."
+      },
+      "rearConductiveKeepout1": {
+        "featureType": "material-exclusion-cone-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 52.36,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area1 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 13.18,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area1 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "widthAtSurface": {
+            "value": 13.35,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area1 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "heightAtSurface": {
+            "value": 8.15,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area1 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "includedAngle": {
+            "value": 80,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area1 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "rearConductiveKeepout2": {
+        "featureType": "material-exclusion-cone-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 52.32,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area2 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 19.74,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area2 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "widthAtSurface": {
+            "value": 12.33,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area2 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "heightAtSurface": {
+            "value": 7.33,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area2 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "includedAngle": {
+            "value": 100,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area2 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "rearConductiveKeepout3": {
+        "featureType": "material-exclusion-cone-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 53.04,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area3 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 34.52,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area3 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "widthAtSurface": {
+            "value": 25.86,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area3 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "heightAtSurface": {
+            "value": 9.04,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area3 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "includedAngle": {
+            "value": 120,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area3 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
       }
     },
     "ambiguities": [],
@@ -12452,7 +14767,8 @@
     "drawingSha256": "5acd29b2c1b7f372b0477e99d29fe84f591a500f40e9c0be06f2a16ad94bd9fc",
     "sourcePagesReviewed": [
       2,
-      3
+      3,
+      4
     ],
     "mechanicalStatus": "feature-drawings-reviewed",
     "frontCameraPortraitMm": null,
@@ -13051,6 +15367,650 @@
           }
         },
         "convention": "Mechanical circular centre in rear view; +x right and +y down from top-left, not a calibrated optical centre."
+      },
+      "ringSilentSwitch": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 31.94,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 2.96,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 2.35,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "projectionBeyondHousing": {
+            "value": 0.6,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 5.92,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X2.96 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view. Switch location is labelled pocket centre."
+      },
+      "volumeUpButton": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 45.39,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 5.6,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 2.66,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "projectionBeyondHousing": {
+            "value": 0.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 11.2,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X5.6 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "volumeDownButton": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 59.59,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 5.6,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 2.66,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "projectionBeyondHousing": {
+            "value": 0.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 11.2,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X5.6 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "sideButton": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 52.49,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 8.85,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 2.66,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "projectionBeyondHousing": {
+            "value": 0.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 17.7,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X8.85 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "simTray": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 110.72,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 7.97,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 2.56,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 15.94,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X7.97 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "magneticMaterialExclusionCircle": {
+        "featureType": "material-exclusion-region",
+        "dimensions": {
+          "diameter": {
+            "value": 57.5,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromLeftInRearView": {
+            "value": 38.88,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 80.44,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Material exclusion region; not physical magnet-ring diameter or inferred coil geometry."
+      },
+      "compassMechanicalReference": {
+        "featureType": "compass-drawing-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 70.77,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 8.84,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "magneticMaterialExclusionLowerBoundary": {
+        "featureType": "material-exclusion-boundary-reference",
+        "dimensions": {
+          "lowerArcRadius": {
+            "value": 52.49,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "sideBoundaryFromTop": {
+            "value": 115.72,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Partial material-exclusion boundary; no inferred arc centre."
+      },
+      "bottomAcousticPorts": {
+        "featureType": "bottom-acoustic-aperture-reference",
+        "dimensions": {
+          "diameter": {
+            "value": 1.35,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "printedMultiplicity": 10
+      },
+      "bottomScrews": {
+        "featureType": "bottom-screw-reference",
+        "dimensions": {
+          "diameter": {
+            "value": 1.5,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "printedMultiplicity": 2
+      },
+      "rearMicrophoneOpening": {
+        "featureType": "rear-microphone-aperture",
+        "dimensions": {
+          "diameter": {
+            "value": 2.1,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Rear camera detail",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "rearCameraPlateauHeight": {
+        "featureType": "camera-plateau-height-reference",
+        "dimensions": {
+          "backGlassToPlateau": {
+            "value": 1.85,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "backGlassToCameraGlass": {
+            "value": 3.48,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "sideThicknessProfile": {
+        "featureType": "sampled-side-profile",
+        "sourcePage": 2,
+        "detail": "Detail B",
+        "ordinateSets": {
+          "lateral": [
+            {
+              "value": 0,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 0.02,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 0.13,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 0.4,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 0.81,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "positiveThickness": [
+            {
+              "value": 3.77,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 3.46,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 3.09,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 2.61,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 2.12,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 1.62,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "negativeThickness": [
+            {
+              "value": -1.62,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": -2.12,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": -2.61,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": -3.09,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": -3.46,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": -3.77,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ]
+        },
+        "pairedCoordinates": null,
+        "continuousCurve": null,
+        "derivation": "Explicit local side-profile ordinate sets; preserve multiple surfaces without guessing pairings or interpolation."
+      },
+      "rearConductiveKeepout1": {
+        "featureType": "material-exclusion-cone-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 55.43,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area1 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 12.75,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area1 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "widthAtSurface": {
+            "value": 13.35,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area1 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "heightAtSurface": {
+            "value": 8.15,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area1 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "includedAngle": {
+            "value": 80,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area1 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "rearConductiveKeepout2": {
+        "featureType": "material-exclusion-cone-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 55.38,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area2 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 19.31,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area2 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "widthAtSurface": {
+            "value": 12.33,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area2 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "heightAtSurface": {
+            "value": 7.33,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area2 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "includedAngle": {
+            "value": 100,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area2 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "rearConductiveKeepout3": {
+        "featureType": "material-exclusion-cone-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 59.21,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area3 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 34.51,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area3 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "widthAtSurface": {
+            "value": 25.86,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area3 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "heightAtSurface": {
+            "value": 9.04,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area3 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "includedAngle": {
+            "value": 120,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area3 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
       }
     },
     "ambiguities": [],
@@ -13063,7 +16023,8 @@
     "drawingSha256": "c6d075926642fea8d6fe77b5217ddb92fc3899d357e10c30026fdf474bd2b4e3",
     "sourcePagesReviewed": [
       2,
-      3
+      3,
+      4
     ],
     "mechanicalStatus": "feature-drawings-reviewed",
     "frontCameraPortraitMm": null,
@@ -13724,6 +16685,626 @@
           }
         },
         "convention": "Mechanical circular centre in rear view; +x right and +y down from top-left, not a calibrated optical centre."
+      },
+      "actionButton": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 31.67,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 3.02,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 2.66,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "projectionBeyondHousing": {
+            "value": 0.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 6.04,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X3.02 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "volumeUpButton": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 45.22,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 5.6,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 2.66,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "projectionBeyondHousing": {
+            "value": 0.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 11.2,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X5.6 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "volumeDownButton": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 59.42,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 5.6,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 2.66,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "projectionBeyondHousing": {
+            "value": 0.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 11.2,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X5.6 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "sideButton": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 56.17,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 8.85,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 2.66,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "projectionBeyondHousing": {
+            "value": 0.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 17.7,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X8.85 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "simTray": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 87.05,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 8.07,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 2.76,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 16.14,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X8.07 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "magneticMaterialExclusionCircle": {
+        "featureType": "material-exclusion-region",
+        "dimensions": {
+          "diameter": {
+            "value": 57.5,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromLeftInRearView": {
+            "value": 35.3,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 74.98,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Material exclusion region; not physical magnet-ring diameter or inferred coil geometry."
+      },
+      "compassMechanicalReference": {
+        "featureType": "compass-drawing-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 63.16,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 7.95,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "magneticMaterialExclusionLowerBoundary": {
+        "featureType": "material-exclusion-boundary-reference",
+        "dimensions": {
+          "lowerArcRadius": {
+            "value": 49.39,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "sideBoundaryFromTop": {
+            "value": 112.62,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Partial material-exclusion boundary; no inferred arc centre."
+      },
+      "bottomAcousticPorts": {
+        "featureType": "bottom-acoustic-aperture-reference",
+        "dimensions": {
+          "diameter": {
+            "value": 1.35,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "printedMultiplicity": 8
+      },
+      "bottomScrews": {
+        "featureType": "bottom-screw-reference",
+        "dimensions": {
+          "diameter": {
+            "value": 1.5,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "printedMultiplicity": 2
+      },
+      "rearMicrophoneOpening": {
+        "featureType": "rear-microphone-aperture",
+        "dimensions": {
+          "diameter": {
+            "value": 0.75,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Rear camera detail",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "rearCameraPlateauHeight": {
+        "featureType": "camera-plateau-height-reference",
+        "dimensions": {
+          "backGlassToPlateau": {
+            "value": 2.05,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "backGlassToCameraGlass": {
+            "value": 3.78,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "sideThicknessProfile": {
+        "featureType": "sampled-side-profile",
+        "sourcePage": 2,
+        "detail": "Detail B",
+        "ordinateSets": {
+          "lateral": [
+            {
+              "value": 0,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 0.06,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 0.32,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 0.81,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "positiveThickness": [
+            {
+              "value": 3.99,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 3.62,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 3.07,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 2.46,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 1.84,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "negativeThickness": [
+            {
+              "value": -1.84,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": -2.46,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": -3.07,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": -3.62,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": -3.99,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ]
+        },
+        "pairedCoordinates": null,
+        "continuousCurve": null,
+        "derivation": "Explicit local side-profile ordinate sets; preserve multiple surfaces without guessing pairings or interpolation."
+      },
+      "rearConductiveKeepout1": {
+        "featureType": "material-exclusion-cone-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 50.35,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area1 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 12.43,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area1 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "widthAtSurface": {
+            "value": 11.91,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area1 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "heightAtSurface": {
+            "value": 13.61,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area1 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "includedAngle": {
+            "value": 100,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area1 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "rearConductiveKeepout2": {
+        "featureType": "material-exclusion-cone-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 51.1,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area2 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 23.34,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area2 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "widthAtSurface": {
+            "value": 8.65,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area2 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "heightAtSurface": {
+            "value": 12.47,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area2 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "includedAngle": {
+            "value": 80,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area2 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "rearConductiveKeepout3": {
+        "featureType": "material-exclusion-cone-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 53.94,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area3 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 35.55,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area3 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "widthAtSurface": {
+            "value": 25.93,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area3 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "heightAtSurface": {
+            "value": 9.11,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area3 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "includedAngle": {
+            "value": 100,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area3 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
       }
     },
     "ambiguities": [],
@@ -13736,7 +17317,8 @@
     "drawingSha256": "d5c11d8565b2e4b2ddfc05e0b9ee74547e151b9e614f95aa9970fab758eaacc1",
     "sourcePagesReviewed": [
       2,
-      3
+      3,
+      4
     ],
     "mechanicalStatus": "feature-drawings-reviewed",
     "frontCameraPortraitMm": null,
@@ -14379,6 +17961,626 @@
           }
         },
         "convention": "Mechanical circular centre in rear view; +x right and +y down from top-left, not a calibrated optical centre."
+      },
+      "actionButton": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 31.67,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 3.02,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 2.66,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "projectionBeyondHousing": {
+            "value": 0.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 6.04,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X3.02 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "volumeUpButton": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 45.22,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 5.6,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 2.66,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "projectionBeyondHousing": {
+            "value": 0.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 11.2,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X5.6 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "volumeDownButton": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 59.42,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 5.6,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 2.66,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "projectionBeyondHousing": {
+            "value": 0.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 11.2,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X5.6 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "sideButton": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 56.17,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 8.85,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 2.66,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "projectionBeyondHousing": {
+            "value": 0.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 17.7,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X8.85 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "simTray": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 91.07,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 8.07,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 2.76,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 16.14,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X8.07 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "magneticMaterialExclusionCircle": {
+        "featureType": "material-exclusion-region",
+        "dimensions": {
+          "diameter": {
+            "value": 57.5,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromLeftInRearView": {
+            "value": 38.37,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 79.93,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Material exclusion region; not physical magnet-ring diameter or inferred coil geometry."
+      },
+      "compassMechanicalReference": {
+        "featureType": "compass-drawing-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 58.06,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 153.94,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "magneticMaterialExclusionLowerBoundary": {
+        "featureType": "material-exclusion-boundary-reference",
+        "dimensions": {
+          "lowerArcRadius": {
+            "value": 51.89,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "sideBoundaryFromTop": {
+            "value": 114.87,
+            "unit": "mm",
+            "sourcePage": 3,
+            "sourceSheet": 2,
+            "detail": "Rear material exclusion view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Partial material-exclusion boundary; no inferred arc centre."
+      },
+      "bottomAcousticPorts": {
+        "featureType": "bottom-acoustic-aperture-reference",
+        "dimensions": {
+          "diameter": {
+            "value": 1.35,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "printedMultiplicity": 10
+      },
+      "bottomScrews": {
+        "featureType": "bottom-screw-reference",
+        "dimensions": {
+          "diameter": {
+            "value": 1.5,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "printedMultiplicity": 2
+      },
+      "rearMicrophoneOpening": {
+        "featureType": "rear-microphone-aperture",
+        "dimensions": {
+          "diameter": {
+            "value": 0.75,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Rear camera detail",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "rearCameraPlateauHeight": {
+        "featureType": "camera-plateau-height-reference",
+        "dimensions": {
+          "backGlassToPlateau": {
+            "value": 2.05,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "backGlassToCameraGlass": {
+            "value": 4.07,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "sideThicknessProfile": {
+        "featureType": "sampled-side-profile",
+        "sourcePage": 2,
+        "detail": "Detail B",
+        "ordinateSets": {
+          "lateral": [
+            {
+              "value": 0,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 0.06,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 0.32,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 0.81,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "positiveThickness": [
+            {
+              "value": 3.99,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 3.62,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 3.07,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 2.46,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 1.84,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "negativeThickness": [
+            {
+              "value": -1.84,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": -2.46,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": -3.07,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": -3.62,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": -3.99,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ]
+        },
+        "pairedCoordinates": null,
+        "continuousCurve": null,
+        "derivation": "Explicit local side-profile ordinate sets; preserve multiple surfaces without guessing pairings or interpolation."
+      },
+      "rearConductiveKeepout1": {
+        "featureType": "material-exclusion-cone-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 56.35,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area1 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 18.35,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area1 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "widthAtSurface": {
+            "value": 8.4,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area1 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "heightAtSurface": {
+            "value": 10.1,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area1 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "includedAngle": {
+            "value": 100,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area1 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "rearConductiveKeepout2": {
+        "featureType": "material-exclusion-cone-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 57.1,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area2 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 29.26,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area2 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "widthAtSurface": {
+            "value": 6.9,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area2 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "heightAtSurface": {
+            "value": 10.72,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area2 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "includedAngle": {
+            "value": 80,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area2 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "rearConductiveKeepout3": {
+        "featureType": "material-exclusion-cone-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 60.07,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area3 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 39.57,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area3 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "widthAtSurface": {
+            "value": 21.4,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area3 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "heightAtSurface": {
+            "value": 4.58,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area3 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "includedAngle": {
+            "value": 100,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail K and Keepout Area3 section",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
       }
     },
     "ambiguities": [
@@ -14945,6 +19147,435 @@
         "continuousCurve": null,
         "interpolation": null,
         "derivation": "Printed ordinate labels and their leaders/crosses were visually reviewed. Coordinates below retain only identified point associations. Unknown coordinates remain null. This is a discrete contour sample, not a fitted radius or complete machining curve."
+      },
+      "volumeUpButton": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 34.56,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 5.31,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 2.48,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "projectionBeyondHousing": {
+            "value": 0.4,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 10.62,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X5.31 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "volumeDownButton": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 47.17,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 5.31,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 2.48,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "projectionBeyondHousing": {
+            "value": 0.4,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 10.62,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X5.31 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "sideButton": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 34.64,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalHalfLength": {
+            "value": 5.31,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 2.48,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "projectionBeyondHousing": {
+            "value": 0.4,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 10.62,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Side view",
+            "derivation": "Twice printed2X5.31 half-length."
+          }
+        },
+        "coordinateConvention": "Longitudinal distance down from portrait body top; transverse width spans device thickness in side view."
+      },
+      "ringSilentSwitch": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 17.56,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Left side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 5.61,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Left side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 2.24,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Left side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "projectionBeyondHousing": {
+            "value": 0.42,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Left side/front views",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "wirelessChargingMaterialExclusionCircle": {
+        "featureType": "material-exclusion-region",
+        "dimensions": {
+          "diameter": {
+            "value": 57.42,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Rear material exclusions",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromLeftInRearView": {
+            "value": 33.63,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Rear material exclusions",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromBottomInRearView": {
+            "value": 69.22,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Rear material exclusions",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Dimensioned circle where metal/conductive material is prohibited; no MagSafe ring inferred."
+      },
+      "compassMechanicalReference": {
+        "featureType": "compass-drawing-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 51.43,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Rear material exclusions",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromBottomInRearView": {
+            "value": 119.92,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Rear material exclusions",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "rearMicrophoneOpening": {
+        "featureType": "rear-microphone-aperture",
+        "dimensions": {
+          "diameter": {
+            "value": 1.5,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Rear view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromLeftInRearView": {
+            "value": 18.13,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Rear view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 10.24,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Rear view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "bottomSpeakerPorts": {
+        "featureType": "bottom-acoustic-aperture-reference",
+        "dimensions": {
+          "diameter": {
+            "value": 1.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "printedMultiplicity": 10
+      },
+      "bottomMicrophone1": {
+        "featureType": "bottom-microphone-aperture",
+        "dimensions": {
+          "diameter": {
+            "value": 1.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "bottomMicrophone2": {
+        "featureType": "bottom-microphone-aperture",
+        "dimensions": {
+          "diameter": {
+            "value": 1.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "bottomScrews": {
+        "featureType": "bottom-screw-reference",
+        "dimensions": {
+          "diameter": {
+            "value": 1.6,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "printedMultiplicity": 2
+      },
+      "sideThicknessProfile": {
+        "featureType": "sampled-side-profile",
+        "sourcePage": 2,
+        "detail": "Detail E",
+        "ordinateSets": {
+          "lateral": [
+            {
+              "value": 0,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail E",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 0.41,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail E",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 1.02,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail E",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 2.46,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail E",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 4.5,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail E",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "positiveThickness": [
+            {
+              "value": 3.655,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail E",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 3.45,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail E",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 2.6,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail E",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 1.76,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail E",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "negativeThickness": [
+            {
+              "value": -1.76,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail E",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": -2.6,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail E",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": -3.45,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail E",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": -3.655,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail E",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ]
+        },
+        "pairedCoordinates": null,
+        "continuousCurve": null,
+        "derivation": "Explicit local side-profile ordinate sets; preserve multiple surfaces without guessing pairings or interpolation."
       }
     },
     "ambiguities": [

@@ -91,3 +91,19 @@ test('generation-specific imaging clearances and magnetic datums are preserved',
  assert.equal(magnetic.magneticKeepouts.rightMagnetExclusion.yMin.value,106.04);
  assert.match(magnetic.coordinateConvention,/smart-connector pin/);
 });
+
+test('magnet tables retain irregular positions and polarity column conventions', () => {
+ const detail=findDevice('ipad-pro-11-inch-m4').features.magnetDetail;
+ const magnet=label=>detail.otherMagnetsAndShunt.find(m=>m.label===label);
+ assert.equal(magnet('BV4-11').center.x.value,-29.98);
+ assert.equal(magnet('BV4-12').center.x.value,-29.23);
+ assert.equal(magnet('BV2-13').center.x.value,33.37);
+ assert.equal(magnet('PM-FH-1').center.y,null);
+ const air=findDevice('ipad-air-11-inch-m2').features.magnetDetail;
+ const a=label=>air.magnets.find(m=>m.label===label);
+ assert.equal(a('BV1-11').polarityTowardSurface,'N');
+ assert.equal(a('BV1-11').polarityTowardInside,'S');
+ assert.equal(a('SP-CH-1').center.x,null);
+ assert.equal(a('PM-FH-1').center.y.value,136.51);
+ assert.ok(a('PM-FH-1').center.y.source.endsWith('ipad-air-11-inch-m4.pdf'));
+});
