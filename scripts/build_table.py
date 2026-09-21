@@ -58,7 +58,7 @@ def main():
         if id=='iphone-15-pro-max' and not r['bodyMm']:r['bodyMm']=dict(width=76.73,height=159.86)
         if r['display']['nativePixels'] and r['display']['activeMm']:
             r['display']['ppi']={axis:r['display']['nativePixels'][key]*25.4/r['display']['activeMm'][key] for axis,key in [('x','width'),('y','height')]}
-    for filename in ('ipad-feature-review.json','iphone-camera-feature-review.json'):
+    for filename in ('ipad-feature-review.json','iphone-camera-feature-review.json','watch-feature-review.json','accessory-feature-review.json'):
         path=ROOT/'scripts'/filename
         if not path.exists():continue
         additions=json.loads(path.read_text())
@@ -81,6 +81,14 @@ def main():
     for r in records.values():
         for d in r['additionalDimensions']+r['profiles']:d.setdefault('source',r['review'].get('source'))
     rows=sorted(records.values(),key=lambda r:r['id'])
-    table=dict(schemaVersion=1,sources=dict(appleDrawings=dict(url='https://developer.apple.com/accessories/dimensional-drawings/',retrieved='2026-09-21'),deviceKit=resolution['source'],appleIdentifiers=dict(url='https://github.com/clo4/apple_device_identifiers',commit=subprocess.check_output(['git','-C',str(C/'apple_device_identifiers'),'rev-parse','HEAD']).decode().strip(),license='Unlicense')),coverage=dict(devices=len(rows),drawings=len(drawings),reviewedDrawings=sum(bool(r['drawing']) and r['review']['status']!='unreviewed' for r in rows),drawingPages=sum(len(d['pages']) for d in drawings),nativeResolutions=sum(bool(r['display']['nativePixels']) for r in rows),reviewedDisplays=sum(bool(r['display']['activeMm']) for r in rows),reviewedCameras=sum(bool(r['frontCamera']) for r in rows),note='All current index PDFs are represented; positioned annotations are an extraction aid, not a complete semantic translation. OCR and numerical-token extraction can omit or misread dimensions. Only reviewed fields are used for physical conversions.'),devices=rows)
+    def scalar_count(node):
+        if isinstance(node,dict):return int('value' in node)+sum(scalar_count(v) for v in node.values())
+        if isinstance(node,list):return sum(scalar_count(v) for v in node)
+        return 0
+    def profile_count(p):
+        if p.get('kind')=='labelled-point-table':return len(p['points'])*len(p['axes'])
+        if p.get('kind')=='independent-ordinate-sequence':return len(p['values'])
+        return len(p['x'])+len(p['y'])
+    table=dict(schemaVersion=1,sources=dict(appleDrawings=dict(url='https://developer.apple.com/accessories/dimensional-drawings/',retrieved='2026-09-21'),deviceKit=resolution['source'],appleIdentifiers=dict(url='https://github.com/clo4/apple_device_identifiers',commit=subprocess.check_output(['git','-C',str(C/'apple_device_identifiers'),'rev-parse','HEAD']).decode().strip(),license='Unlicense')),coverage=dict(devices=len(rows),drawings=len(drawings),reviewedDrawings=sum(bool(r['drawing']) and r['review']['status']!='unreviewed' for r in rows),drawingPages=sum(len(d['pages']) for d in drawings),nativeResolutions=sum(bool(r['display']['nativePixels']) for r in rows),reviewedDisplays=sum(bool(r['display']['activeMm']) for r in rows),reviewedCameras=sum(bool(r['frontCamera']) for r in rows),structuredFeatureRecords=sum(bool(r['features']) for r in rows),namedDimensionMeasurements=sum(len(r['additionalDimensions']) for r in rows),structuredFeatureMeasurements=sum(scalar_count(r['features']) for r in rows),contourOrdinateValues=sum(profile_count(p) for r in rows for p in r['profiles']),note='All current index PDFs are represented; positioned annotations are an extraction aid, not a complete semantic translation. OCR and numerical-token extraction can omit or misread dimensions. Only reviewed fields are used for physical conversions.'),devices=rows)
     (ROOT/'src/device_dimensions/devices.json').write_text(json.dumps(table,indent=2,ensure_ascii=False)+'\n'); print(json.dumps(table['coverage'],indent=2))
 if __name__=='__main__':main()

@@ -1,3 +1,10 @@
+export type Profile = {
+  feature: string; page: number; source?: string; unit: 'mm'; note?: string;
+} & (
+  {kind?: undefined; detail: string; coordinateConvention: string; coordinateStatus: 'reviewed-unpaired-ordinates'; x: number[]; y: number[]; sourceRegionPoints?: [number, number, number, number]}
+  | {kind: 'labelled-point-table'; axes: ('x' | 'y' | 'z')[]; coordinateSystem: string; points: {label: string; x?: number; y?: number; z?: number}[]}
+  | {kind: 'independent-ordinate-sequence'; sequence: string; values: number[]; coordinateSystem: string}
+);
 export interface Size { width: number; height: number }
 export interface Annotation { text: string; bbox: [number, number, number, number]; nearbyTokens: string[]; confidence?: number }
 export interface Device {
@@ -7,7 +14,7 @@ export interface Device {
   coverGlassMm: Size | null;
   additionalDimensions: {feature: string; quantity: string; value: number; unit: 'mm' | 'degree'; page: number; source?: string; detail?: string; note?: string}[];
   features: Record<string, unknown>;
-  profiles: {feature: string; detail: string; page: number; source?: string; unit: 'mm'; coordinateConvention: string; coordinateStatus: string; x: number[]; y: number[]; sourceRegionPoints?: [number, number, number, number]; note?: string}[];
+  profiles: Profile[];
   frontCameraPartial: {x: number | null; y: number | null} | null;
   frontCamera: { x: number; y: number; convention: string; source: string; page: number } | null;
   review: { status: string; derivation: string | null; source?: string; page?: number; bodyPage?: number; bodyDepthPage?: number; bodyDepthDefinition?: string | null; scope?: string; pagesReviewed?: number[]; ambiguities?: string[]; frontCameraCenterStatus?: string; frontCameraCenterDerivation?: string };

@@ -17,9 +17,18 @@ for d in table['devices']:
         assert measurement['page']>=2 and measurement['feature'] and measurement['quantity'], d['id']
         if d['drawing']:assert measurement['page'] in [p['page'] for p in d['drawing']['pages']],d['id']
     for profile in d['profiles']:
-        assert profile['unit']=='mm' and profile['coordinateConvention'],d['id']
-        assert profile['coordinateStatus']=='reviewed-unpaired-ordinates',d['id']
-        assert all(math.isfinite(v) for axis in ('x','y') for v in profile[axis]),d['id']
+        assert profile['unit']=='mm' and profile['page']>=2,d['id']
+        if profile.get('kind')=='labelled-point-table':
+            assert profile['coordinateSystem'] and len(profile['axes'])==2,d['id']
+            assert len({p['label'] for p in profile['points']})==len(profile['points']),d['id']
+            assert all(math.isfinite(p[axis]) for p in profile['points'] for axis in profile['axes']),d['id']
+        elif profile.get('kind')=='independent-ordinate-sequence':
+            assert profile['coordinateSystem'] and profile['sequence'],d['id']
+            assert all(math.isfinite(v) for v in profile['values']),d['id']
+        else:
+            assert profile['coordinateConvention'],d['id']
+            assert profile['coordinateStatus']=='reviewed-unpaired-ordinates',d['id']
+            assert all(math.isfinite(v) for axis in ('x','y') for v in profile[axis]),d['id']
     def check_features(node):
         if isinstance(node,dict):
             if 'value' in node:

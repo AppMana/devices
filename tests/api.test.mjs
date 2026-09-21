@@ -107,3 +107,15 @@ test('magnet tables retain irregular positions and polarity column conventions',
  assert.equal(a('PM-FH-1').center.y.value,136.51);
  assert.ok(a('PM-FH-1').center.y.source.endsWith('ipad-air-11-inch-m4.pdf'));
 });
+
+test('Watch tables preserve paired local axes independently of unpaired profiles', () => {
+ const p=findDevice('apple-watch-series-10-42mm').profiles;
+ const side=p.find(p=>p.feature==='case-side-contour');
+ assert.equal(side.kind,'labelled-point-table');
+ assert.deepEqual(side.axes,['y','z']);
+ assert.deepEqual(side.points[0],{label:'S-A',y:6.83,z:9.7});
+ const old=findDevice('apple-watch-se-3-40mm').profiles[0];
+ assert.equal(old.kind,'independent-ordinate-sequence');
+ assert.equal(old.points,undefined);
+ const table=getTable();assert.ok(table.coverage.contourOrdinateValues>2000);
+});
