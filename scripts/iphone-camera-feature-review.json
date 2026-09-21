@@ -1,0 +1,1013 @@
+{
+  "iphone-17": {
+    "id": "iphone-17",
+    "name": "iPhone 17",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-17.pdf",
+    "drawingSha256": "f9f26055025828fd153515cf2dffd2bf6454b6f7f16f401919c7bddcd906bfa6",
+    "sourcePagesReviewed": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "mechanicalStatus": "feature-drawings-reviewed",
+    "frontCameraPortraitMm": null,
+    "frontCameraMechanicalCenter": null,
+    "frontCameraOpticalCenter": null,
+    "frontCameraCenterStatus": "not-individually-dimensioned",
+    "frontCameraCenterDerivation": "PDF page4 shows a single hatched capsule explicitly assigned to front camera AND forward-facing sensors. No individually identified front-camera axis or centre is dimensioned on any of the four drawing sheets. Leader dots and the centre of the combined capsule are not camera centres.",
+    "features": {
+      "combinedFrontCameraAndSensorsKeepout": {
+        "featureType": "combined-mechanical-keepout",
+        "dimensions": {
+          "width": {
+            "value": 20.75,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail O; section S-S",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "height": {
+            "value": 5.12,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail O; section S-S",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "endRadius": {
+            "value": 2.55,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail O; section S-S",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromLeft": {
+            "value": 35.72,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail O; section S-S",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTop": {
+            "value": 7.79,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail O; section S-S",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "baseToCoverGlass": {
+            "value": 0.6,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail O; section S-S",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "slopeAngleFromGlassSurface": {
+            "value": 38,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail O; section S-S",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "centerPortraitMm": {
+          "x": {
+            "value": -0.005,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail O; body width/height from page2",
+            "derivation": "35.72 - 71.45/2; centre of combined keepout only."
+          },
+          "y": {
+            "value": 67.015,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail O; body width/height from page2",
+            "derivation": "149.61/2 - 7.79; centre of combined keepout only."
+          }
+        }
+      },
+      "alsSensorKeepout": {
+        "featureType": "ambient-light-sensor-mechanical-keepout",
+        "dimensions": {
+          "width": {
+            "value": 5.55,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail O; section T-T",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "height": {
+            "value": 1.4,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail O; section T-T",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "baseToCoverGlass": {
+            "value": 0.94,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail O; section T-T",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "slopeAngleFromGlassSurface": {
+            "value": 30,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail O; section T-T",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "receiverKeepout": {
+        "featureType": "receiver-mechanical-keepout",
+        "dimensions": {
+          "width": {
+            "value": 14.02,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail O",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "connectorKeepout": {
+        "featureType": "recommended-mating-connector-clearance",
+        "dimensions": {
+          "width": {
+            "value": 12.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "height": {
+            "value": 6.6,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "endRadius": {
+            "value": 3.25,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "outwardClearanceFromProductSurface": {
+            "value": 14.0,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "derivation": "The 12.45 x 6.60 outline is labelled recommended connector keepout; separate note requires its area flush to the product surface and outward14.0 mm. This is clearance for a mating connector, not the physical USB-C aperture size."
+      },
+      "rearCamera1Keepout": {
+        "featureType": "rear-camera-mechanical-keepout",
+        "dimensions": {
+          "includedAngle": {
+            "value": 123,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section G-G",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "baseToCoverGlass": {
+            "value": 8.44,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section G-G",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "rearCamera2Keepout": {
+        "featureType": "rear-camera-mechanical-keepout",
+        "dimensions": {
+          "includedAngle": {
+            "value": 84,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section G-G",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "baseToCoverGlass": {
+            "value": 7.01,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section G-G",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "rearFlashKeepout": {
+        "featureType": "rear-flash-mechanical-keepout",
+        "dimensions": {
+          "innerVerticalBaseDiameter": {
+            "value": 5.5,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section J-J",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "innerVerticalIncludedAngle": {
+            "value": 112,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section J-J",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "outerVerticalIncludedAngle": {
+            "value": 157,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section J-J",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "verticalBaseToCoverGlass": {
+            "value": 7.85,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section J-J",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "verticalTransitionToCoverGlass": {
+            "value": 9.89,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section J-J",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "innerHorizontalBaseDiameter": {
+            "value": 5.13,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section N-N",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "innerHorizontalIncludedAngle": {
+            "value": 97,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section N-N",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "outerHorizontalIncludedAngle": {
+            "value": 157,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section N-N",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "horizontalBaseToCoverGlass": {
+            "value": 7.85,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section N-N",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "horizontalTransitionToCoverGlass": {
+            "value": 9.72,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section N-N",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      }
+    },
+    "ambiguities": [
+      "Combined front keepout radius2.55 and height5.12 are independently printed; retained without forcing an exact stadium equation. Individual camera position remains unknown.",
+      "The front cone38-degree and ALS30-degree annotations are slopes relative to the glass surface. Rear camera included-angle arcs are keepout limits, not measured imaging field of view."
+    ],
+    "reviewScope": "Front camera/sensor keepouts, rear camera/sensor/flash cone geometry and connector clearance. Mechanical keepout angles are not calibrated optical field of view; no camera optical centre or usable image circle inferred."
+  },
+  "iphone-17-pro": {
+    "id": "iphone-17-pro",
+    "name": "iPhone 17 Pro",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-17-pro.pdf",
+    "drawingSha256": "4bfe2cc77b06a34d4802455b9a2fd0d752d96b33c1dcb80f9326dfe00b7acf9e",
+    "sourcePagesReviewed": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "mechanicalStatus": "feature-drawings-reviewed",
+    "frontCameraPortraitMm": null,
+    "frontCameraMechanicalCenter": null,
+    "frontCameraOpticalCenter": null,
+    "frontCameraCenterStatus": "not-individually-dimensioned",
+    "frontCameraCenterDerivation": "PDF page4 shows a single hatched capsule explicitly assigned to front camera AND forward-facing sensors. No individually identified front-camera axis or centre is dimensioned on any of the four drawing sheets. Leader dots and the centre of the combined capsule are not camera centres.",
+    "features": {
+      "combinedFrontCameraAndSensorsKeepout": {
+        "featureType": "combined-mechanical-keepout",
+        "dimensions": {
+          "width": {
+            "value": 19.74,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail M; section P-P",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "height": {
+            "value": 5.12,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail M; section P-P",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "endRadius": {
+            "value": 2.55,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail M; section P-P",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromLeft": {
+            "value": 35.92,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail M; section P-P",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTop": {
+            "value": 7.99,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail M; section P-P",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "baseToCoverGlass": {
+            "value": 0.6,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail M; section P-P",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "slopeAngleFromGlassSurface": {
+            "value": 38,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail M; section P-P",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "centerPortraitMm": {
+          "x": {
+            "value": -0.005,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail M; body width/height from page2",
+            "derivation": "35.92 - 71.85/2; centre of combined keepout only."
+          },
+          "y": {
+            "value": 67.015,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail M; body width/height from page2",
+            "derivation": "150.01/2 - 7.99; centre of combined keepout only."
+          }
+        }
+      },
+      "alsSensorKeepout": {
+        "featureType": "ambient-light-sensor-mechanical-keepout",
+        "dimensions": {
+          "width": {
+            "value": 5.55,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail M; section R-R",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "height": {
+            "value": 1.4,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail M; section R-R",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "baseToCoverGlass": {
+            "value": 0.99,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail M; section R-R",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "slopeAngleFromGlassSurface": {
+            "value": 30,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail M; section R-R",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "endRadius": {
+            "value": 0.7,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail M",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "receiverKeepout": {
+        "featureType": "receiver-mechanical-keepout",
+        "dimensions": {
+          "width": {
+            "value": 28.85,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail M",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "connectorKeepout": {
+        "featureType": "recommended-mating-connector-clearance",
+        "dimensions": {
+          "width": {
+            "value": 12.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "height": {
+            "value": 6.6,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "endRadius": {
+            "value": 3.25,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "outwardClearanceFromProductSurface": {
+            "value": 14.0,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "derivation": "The 12.45 x 6.60 outline is labelled recommended connector keepout; separate note requires its area flush to the product surface and outward14.0 mm. This is clearance for a mating connector, not the physical USB-C aperture size."
+      },
+      "rearCamera1Keepout": {
+        "featureType": "rear-camera-mechanical-keepout",
+        "dimensions": {
+          "includedAngle": {
+            "value": 125,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section S-S",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "baseToCoverGlass": {
+            "value": 10.21,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section S-S",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "rearCamera2Keepout": {
+        "featureType": "rear-camera-mechanical-keepout",
+        "dimensions": {
+          "includedAngle": {
+            "value": 90,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section S-S",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "baseToCoverGlass": {
+            "value": 8.86,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section S-S",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "rearCamera3Keepout": {
+        "featureType": "rear-camera-mechanical-keepout",
+        "dimensions": {
+          "includedAngle": {
+            "value": 34,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section V-V",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "baseToCoverGlass": {
+            "value": 8.02,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section V-V",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "baseDiameter": {
+            "value": 5.0,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section V-V",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "rearSensorKeepout": {
+        "featureType": "rear-sensor-mechanical-keepout",
+        "dimensions": {
+          "baseDiameter": {
+            "value": 5.0,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail AA",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "includedAngle": {
+            "value": 84,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail AA",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "baseToCoverGlass": {
+            "value": 10.28,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail AA",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "rearFlashKeepout": {
+        "featureType": "rear-flash-mechanical-keepout",
+        "dimensions": {
+          "innerBaseDiameter": {
+            "value": 6.65,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section T-T",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "innerVerticalIncludedAngle": {
+            "value": 123,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section T-T",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "outerVerticalIncludedAngle": {
+            "value": 157,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section T-T",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "baseToCoverGlass": {
+            "value": 11.3,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section T-T",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transitionToCoverGlass": {
+            "value": 13.77,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section T-T",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      }
+    },
+    "ambiguities": [
+      "Combined front keepout radius2.55 and height5.12 are independently printed; retained without forcing an exact stadium equation. Individual camera position remains unknown.",
+      "The front cone38-degree and ALS30-degree annotations are slopes relative to the glass surface. Rear camera included-angle arcs are keepout limits, not measured imaging field of view.",
+      "Page3 Camera Control typical keepout detail E prints2x4.22, while section L-L prints2x4.20. That unrelated control width is not normalized here."
+    ],
+    "reviewScope": "Front camera/sensor keepouts, rear camera/sensor/flash cone geometry and connector clearance. Mechanical keepout angles are not calibrated optical field of view; no camera optical centre or usable image circle inferred."
+  },
+  "iphone-17-pro-max": {
+    "id": "iphone-17-pro-max",
+    "name": "iPhone 17 Pro Max",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-17-pro-max.pdf",
+    "drawingSha256": "47bcbc8d562cda09aa96cc96db04df9246634175a19974077d16729db38996f4",
+    "sourcePagesReviewed": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "mechanicalStatus": "feature-drawings-reviewed",
+    "frontCameraPortraitMm": null,
+    "frontCameraMechanicalCenter": null,
+    "frontCameraOpticalCenter": null,
+    "frontCameraCenterStatus": "not-individually-dimensioned",
+    "frontCameraCenterDerivation": "PDF page4 shows a single hatched capsule explicitly assigned to front camera AND forward-facing sensors. No individually identified front-camera axis or centre is dimensioned on any of the four drawing sheets. Leader dots and the centre of the combined capsule are not camera centres.",
+    "features": {
+      "combinedFrontCameraAndSensorsKeepout": {
+        "featureType": "combined-mechanical-keepout",
+        "dimensions": {
+          "width": {
+            "value": 19.74,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail M; section P-P",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "height": {
+            "value": 5.12,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail M; section P-P",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "endRadius": {
+            "value": 2.55,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail M; section P-P",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromLeft": {
+            "value": 39.0,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail M; section P-P",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTop": {
+            "value": 7.91,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail M; section P-P",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "baseToCoverGlass": {
+            "value": 0.6,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail M; section P-P",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "slopeAngleFromGlassSurface": {
+            "value": 38,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail M; section P-P",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "centerPortraitMm": {
+          "x": {
+            "value": 0.01,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail M; body width/height from page2",
+            "derivation": "39.0 - 77.98/2; centre of combined keepout only."
+          },
+          "y": {
+            "value": 73.805,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail M; body width/height from page2",
+            "derivation": "163.43/2 - 7.91; centre of combined keepout only."
+          }
+        }
+      },
+      "alsSensorKeepout": {
+        "featureType": "ambient-light-sensor-mechanical-keepout",
+        "dimensions": {
+          "width": {
+            "value": 5.55,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail M; section R-R",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "height": {
+            "value": 1.4,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail M; section R-R",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "baseToCoverGlass": {
+            "value": 0.97,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail M; section R-R",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "slopeAngleFromGlassSurface": {
+            "value": 30,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail M; section R-R",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "endRadius": {
+            "value": 0.7,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail M",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "receiverKeepout": {
+        "featureType": "receiver-mechanical-keepout",
+        "dimensions": {
+          "width": {
+            "value": 28.85,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail M",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "connectorKeepout": {
+        "featureType": "recommended-mating-connector-clearance",
+        "dimensions": {
+          "width": {
+            "value": 12.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "height": {
+            "value": 6.6,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "endRadius": {
+            "value": 3.25,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "outwardClearanceFromProductSurface": {
+            "value": 14.0,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "derivation": "The 12.45 x 6.60 outline is labelled recommended connector keepout; separate note requires its area flush to the product surface and outward14.0 mm. This is clearance for a mating connector, not the physical USB-C aperture size."
+      },
+      "rearCamera1Keepout": {
+        "featureType": "rear-camera-mechanical-keepout",
+        "dimensions": {
+          "includedAngle": {
+            "value": 125,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section S-S",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "baseToCoverGlass": {
+            "value": 10.21,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section S-S",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "rearCamera2Keepout": {
+        "featureType": "rear-camera-mechanical-keepout",
+        "dimensions": {
+          "includedAngle": {
+            "value": 90,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section S-S",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "baseToCoverGlass": {
+            "value": 8.85,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section S-S",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "rearCamera3Keepout": {
+        "featureType": "rear-camera-mechanical-keepout",
+        "dimensions": {
+          "includedAngle": {
+            "value": 34,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section V-V",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "baseToCoverGlass": {
+            "value": 8.02,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section V-V",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "baseDiameter": {
+            "value": 5.0,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section V-V",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "rearSensorKeepout": {
+        "featureType": "rear-sensor-mechanical-keepout",
+        "dimensions": {
+          "baseDiameter": {
+            "value": 5.0,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail AA",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "includedAngle": {
+            "value": 84,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail AA",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "baseToCoverGlass": {
+            "value": 10.28,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Detail AA",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "rearFlashKeepout": {
+        "featureType": "rear-flash-mechanical-keepout",
+        "dimensions": {
+          "innerBaseDiameter": {
+            "value": 6.65,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section T-T",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "innerVerticalIncludedAngle": {
+            "value": 123,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section T-T",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "outerVerticalIncludedAngle": {
+            "value": 157,
+            "unit": "degrees",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section T-T",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "baseToCoverGlass": {
+            "value": 11.3,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section T-T",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transitionToCoverGlass": {
+            "value": 13.77,
+            "unit": "mm",
+            "sourcePage": 4,
+            "sourceSheet": 3,
+            "detail": "Section T-T",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      }
+    },
+    "ambiguities": [
+      "Combined front keepout radius2.55 and height5.12 are independently printed; retained without forcing an exact stadium equation. Individual camera position remains unknown.",
+      "The front cone38-degree and ALS30-degree annotations are slopes relative to the glass surface. Rear camera included-angle arcs are keepout limits, not measured imaging field of view.",
+      "Combined front keepout horizontal centre39.00 on page4 differs from product half-width38.99 on page2 by0.01 mm; retained as keepout offset rather than rounded to zero."
+    ],
+    "reviewScope": "Front camera/sensor keepouts, rear camera/sensor/flash cone geometry and connector clearance. Mechanical keepout angles are not calibrated optical field of view; no camera optical centre or usable image circle inferred."
+  }
+}

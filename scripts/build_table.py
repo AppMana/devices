@@ -10,7 +10,7 @@ def main():
         if path.exists():
             for d in json.loads(path.read_text()):reviewed[d['id']]=d
     records={}
-    def blank(id,name):return dict(id=id,name=name,identifiers=[],display=dict(activeMm=None,nativePixels=None,nominalPpi=None,ppi=None,source=None),bodyMm=None,coverGlassMm=None,additionalDimensions=[],frontCameraPartial=None,frontCamera=None,review=dict(status='unreviewed',derivation=None),drawing=None)
+    def blank(id,name):return dict(id=id,name=name,identifiers=[],display=dict(activeMm=None,nativePixels=None,nominalPpi=None,ppi=None,source=None),bodyMm=None,coverGlassMm=None,additionalDimensions=[],features={},profiles=[],frontCameraPartial=None,frontCamera=None,review=dict(status='unreviewed',derivation=None),drawing=None)
     for d in drawings:
         r=blank(d['id'],d['name']);r['drawing']={k:d[k] for k in ('url','sha256','pages')};records[r['id']]=r
     for d in resolution['records']:
@@ -58,6 +58,20 @@ def main():
         if id=='iphone-15-pro-max' and not r['bodyMm']:r['bodyMm']=dict(width=76.73,height=159.86)
         if r['display']['nativePixels'] and r['display']['activeMm']:
             r['display']['ppi']={axis:r['display']['nativePixels'][key]*25.4/r['display']['activeMm'][key] for axis,key in [('x','width'),('y','height')]}
+    for filename in ('ipad-feature-review.json','iphone-camera-feature-review.json'):
+        path=ROOT/'scripts'/filename
+        if not path.exists():continue
+        additions=json.loads(path.read_text())
+        for d in (additions.values() if isinstance(additions,dict) else additions):
+            r=records[d['id']]
+            r['features'].update(d.get('features',{}))
+            r['review']['ambiguities'].extend(d.get('ambiguities',[]))
+            if d.get('frontCameraCenterStatus'):r['review']['frontCameraCenterStatus']=d['frontCameraCenterStatus']
+            if d.get('frontCameraCenterDerivation'):r['review']['frontCameraCenterDerivation']=d['frontCameraCenterDerivation']
+            r['additionalDimensions'].extend(d.get('additionalDimensions',[]))
+            r['profiles'].extend(d.get('profiles',[]))
+            r['review']['pagesReviewed']=sorted(set(r['review']['pagesReviewed']+d.get('sourcePagesReviewed',[])))
+            if d.get('reviewScope'):r['review']['scope']=d['reviewScope']
     se2=records.get('iphone-se-2nd-generation');se3=records.get('iphone-se-3rd-generation')
     if se2 and se3:
         import copy

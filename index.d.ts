@@ -6,9 +6,11 @@ export interface Device {
   bodyMm: {width: number | null; height: number | null; depth?: number | null} | null;
   coverGlassMm: Size | null;
   additionalDimensions: {feature: string; quantity: string; value: number; unit: 'mm' | 'degree'; page: number; detail?: string; note?: string}[];
+  features: Record<string, unknown>;
+  profiles: {feature: string; detail: string; page: number; unit: 'mm'; coordinateConvention: string; coordinateStatus: string; x: number[]; y: number[]; sourceRegionPoints?: [number, number, number, number]; note?: string}[];
   frontCameraPartial: {x: number | null; y: number | null} | null;
   frontCamera: { x: number; y: number; convention: string; source: string; page: number } | null;
-  review: { status: string; derivation: string | null; source?: string; page?: number; bodyPage?: number; bodyDepthPage?: number; bodyDepthDefinition?: string | null; scope?: string; pagesReviewed?: number[]; ambiguities?: string[] };
+  review: { status: string; derivation: string | null; source?: string; page?: number; bodyPage?: number; bodyDepthPage?: number; bodyDepthDefinition?: string | null; scope?: string; pagesReviewed?: number[]; ambiguities?: string[]; frontCameraCenterStatus?: string; frontCameraCenterDerivation?: string };
   drawing: { url: string; sha256: string; pages: {page: number; sizePoints: [number, number]; method: string; annotations: Annotation[]}[] } | null;
 }
 export interface Table { schemaVersion: number; sources: Record<string, unknown>; devices: Device[]; coverage: Record<string, unknown> }

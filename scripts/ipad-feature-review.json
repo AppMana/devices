@@ -1,0 +1,511 @@
+[
+  {
+    "id": "ipad-pro-13-inch-m4",
+    "sourcePagesReviewed": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "front-camera-aperture",
+        "quantity": "diameter",
+        "value": 2.68,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "front-ambient-light-sensor",
+        "quantity": "diameter",
+        "value": 2.5,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "infrared-camera-aperture",
+        "quantity": "diameter",
+        "value": 3.5,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "front-microphone-opening",
+        "quantity": "diameter",
+        "value": 0.8,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "front-microphone-keepout",
+        "quantity": "diameter",
+        "value": 1.6,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "top-microphone-keepout",
+        "quantity": "diameter",
+        "value": 1.6,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "speaker-opening",
+        "quantity": "diameter",
+        "value": 1.6,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "included-angle",
+        "value": 121.01,
+        "unit": "degree",
+        "page": 2,
+        "note": "Mechanical accessory keepout cone; not measured optical capture field of view."
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "surface-width",
+        "value": 3.89,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "infrared-camera-keepout",
+        "quantity": "included-angle",
+        "value": 89.23,
+        "unit": "degree",
+        "page": 2,
+        "note": "Mechanical accessory keepout cone; not measured optical capture field of view."
+      },
+      {
+        "feature": "infrared-camera-keepout",
+        "quantity": "surface-width",
+        "value": 2.93,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "flood-illuminator-keepout",
+        "quantity": "included-angle",
+        "value": 69.96,
+        "unit": "degree",
+        "page": 2,
+        "note": "Mechanical accessory keepout cone; not measured optical capture field of view."
+      },
+      {
+        "feature": "flood-illuminator-keepout",
+        "quantity": "surface-width",
+        "value": 3.5,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "dot-projector-keepout",
+        "quantity": "included-angle",
+        "value": 100,
+        "unit": "degree",
+        "page": 2,
+        "note": "Mechanical accessory keepout cone; not measured optical capture field of view."
+      },
+      {
+        "feature": "dot-projector-keepout",
+        "quantity": "surface-width",
+        "value": 3.45,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "front-ambient-light-sensor-keepout",
+        "quantity": "included-angle",
+        "value": 120,
+        "unit": "degree",
+        "page": 2,
+        "note": "Mechanical accessory keepout cone; not measured optical capture field of view."
+      },
+      {
+        "feature": "front-ambient-light-sensor-keepout",
+        "quantity": "surface-width",
+        "value": 4.23,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "rear-camera-keepout",
+        "quantity": "included-angle",
+        "value": 76.9,
+        "unit": "degree",
+        "page": 2,
+        "note": "Mechanical accessory keepout cone; not measured optical capture field of view."
+      },
+      {
+        "feature": "rear-camera-keepout",
+        "quantity": "surface-width",
+        "value": 3.56,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "rear-ambient-light-sensor-keepout",
+        "quantity": "included-angle",
+        "value": 120,
+        "unit": "degree",
+        "page": 2,
+        "note": "Mechanical accessory keepout cone; not measured optical capture field of view."
+      },
+      {
+        "feature": "rear-ambient-light-sensor-keepout",
+        "quantity": "surface-width",
+        "value": 3.12,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "lidar-keepout",
+        "quantity": "first-angle",
+        "value": 65.99,
+        "unit": "degree",
+        "page": 2
+      },
+      {
+        "feature": "lidar-keepout",
+        "quantity": "second-angle",
+        "value": 50.47,
+        "unit": "degree",
+        "page": 2
+      },
+      {
+        "feature": "lidar-keepout",
+        "quantity": "surface-width",
+        "value": 4.99,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "lidar-keepout",
+        "quantity": "offset",
+        "value": 0.81,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "lidar-keepout",
+        "quantity": "depth",
+        "value": 1.9,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "flash-keepout",
+        "quantity": "first-angle",
+        "value": 78.5,
+        "unit": "degree",
+        "page": 2
+      },
+      {
+        "feature": "flash-keepout",
+        "quantity": "second-angle",
+        "value": 33.5,
+        "unit": "degree",
+        "page": 2
+      },
+      {
+        "feature": "flash-keepout",
+        "quantity": "surface-width",
+        "value": 5.63,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "flash-keepout",
+        "quantity": "offset",
+        "value": 1.61,
+        "unit": "mm",
+        "page": 2
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "width",
+        "value": 12.45,
+        "unit": "mm",
+        "page": 2,
+        "detail": "AD"
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "height",
+        "value": 6.6,
+        "unit": "mm",
+        "page": 2,
+        "detail": "AD"
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "outward-depth",
+        "value": 14,
+        "unit": "mm",
+        "page": 2,
+        "detail": "AD"
+      },
+      {
+        "feature": "rear-ambient-light-sensor",
+        "quantity": "diameter",
+        "value": 3.6,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "diameter",
+        "value": 10.83,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "flash",
+        "quantity": "diameter",
+        "value": 6.7,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "rear-microphone-opening",
+        "quantity": "diameter",
+        "value": 1.72,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "rear-microphone-keepout",
+        "quantity": "diameter",
+        "value": 3.44,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "lidar",
+        "quantity": "diameter",
+        "value": 8.41,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "side-microphone-opening",
+        "quantity": "diameter",
+        "value": 0.8,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "side-microphone-keepout",
+        "quantity": "diameter",
+        "value": 1.6,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "smart-connector-pin",
+        "quantity": "diameter",
+        "value": 3.4,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "smart-connector-housing-opening",
+        "quantity": "diameter",
+        "value": 4.26,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "smart-connector-pin",
+        "quantity": "adjacent-centre-spacing",
+        "value": 5.27,
+        "unit": "mm",
+        "page": 3,
+        "detail": "N"
+      },
+      {
+        "feature": "smart-connector-pin",
+        "quantity": "centre-from-bottom",
+        "value": 12,
+        "unit": "mm",
+        "page": 3,
+        "detail": "N"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "length",
+        "value": 10.06,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "width",
+        "value": 2.26,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "upper-centre-from-top",
+        "value": 19.33,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "lower-centre-from-top",
+        "value": 31.39,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "camera-turret",
+        "quantity": "depth-to-cover-glass",
+        "value": 7.31,
+        "unit": "mm",
+        "page": 3
+      },
+      {
+        "feature": "top-microphone",
+        "quantity": "centre-to-cover-glass",
+        "value": 2.59,
+        "unit": "mm",
+        "page": 5,
+        "note": "Section dimensions; not the 2.54/2.55 exterior-view datum."
+      },
+      {
+        "feature": "side-microphone",
+        "quantity": "centre-to-cover-glass",
+        "value": 2.59,
+        "unit": "mm",
+        "page": 5,
+        "note": "Section dimensions; not the 2.54/2.55 exterior-view datum."
+      },
+      {
+        "feature": "sleep-wake-button",
+        "quantity": "centre-to-cover-glass",
+        "value": 2.59,
+        "unit": "mm",
+        "page": 5,
+        "note": "Section dimensions; not the 2.54/2.55 exterior-view datum."
+      },
+      {
+        "feature": "volume-button",
+        "quantity": "centre-to-cover-glass",
+        "value": 2.59,
+        "unit": "mm",
+        "page": 5,
+        "note": "Section dimensions; not the 2.54/2.55 exterior-view datum."
+      },
+      {
+        "feature": "inductive-charger-window",
+        "quantity": "centre-to-cover-glass",
+        "value": 2.59,
+        "unit": "mm",
+        "page": 5,
+        "note": "Section dimensions; not the 2.54/2.55 exterior-view datum."
+      },
+      {
+        "feature": "speaker-keepout",
+        "quantity": "surrounding-clearance",
+        "value": 1,
+        "unit": "mm",
+        "page": 5
+      },
+      {
+        "feature": "speaker-keepout",
+        "quantity": "outward-angle",
+        "value": 45,
+        "unit": "degree",
+        "page": 5
+      },
+      {
+        "feature": "antenna-keepout",
+        "quantity": "outside-housing-width",
+        "value": 7.72,
+        "unit": "mm",
+        "page": 6
+      },
+      {
+        "feature": "antenna-keepout",
+        "quantity": "inside-housing-width",
+        "value": 12.15,
+        "unit": "mm",
+        "page": 6
+      }
+    ],
+    "profiles": [
+      {
+        "feature": "housing-all-four-corners",
+        "detail": "Z",
+        "page": 5,
+        "unit": "mm",
+        "coordinateConvention": "Local orthographic detail datum at nominal corner; x right and y up. Axes retained separately because the drawing supplies ordinate callouts, not an explicit paired point table.",
+        "coordinateStatus": "reviewed-unpaired-ordinates",
+        "x": [
+          0,
+          0.06,
+          1.72,
+          7.6,
+          12.88,
+          14.68,
+          20.54
+        ],
+        "y": [
+          0,
+          0.06,
+          0.2,
+          1.72,
+          7.6,
+          14.62,
+          20.54
+        ],
+        "sourceRegionPoints": [
+          165,
+          459,
+          360,
+          654
+        ],
+        "note": "Do not zip x/y into points: the axes have differing samples and repeated datum associations."
+      },
+      {
+        "feature": "rear-camera-turret-outline",
+        "detail": "M",
+        "page": 3,
+        "unit": "mm",
+        "coordinateConvention": "Local top-left datum shown in detail M; x right and y up; negative y ordinates descend from the datum.",
+        "coordinateStatus": "reviewed-unpaired-ordinates",
+        "x": [
+          0,
+          4.32,
+          6.63,
+          7.55,
+          10.78,
+          15.32,
+          20.04,
+          33.44,
+          35.76
+        ],
+        "y": [
+          0,
+          -4.32,
+          -6.63,
+          -7.55,
+          -10.78,
+          -15.32,
+          -20.04,
+          -33.44,
+          -35.76
+        ],
+        "note": "Unpaired ordinate callouts, not a closed polygon."
+      }
+    ],
+    "reviewScope": "Display/body/camera plus named apertures, connector clearance, keepout cones, button/sensor dimensions and two local contour ordinate sets. Magnetic locations and remaining detail contours are still incomplete."
+  }
+]

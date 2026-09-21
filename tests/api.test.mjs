@@ -59,3 +59,15 @@ test('reviewed accessory dimensions preserve mechanical meaning and unknowns', (
  assert.equal(findDevice('apple-magsafe-charger-1-m-and-apple-magsafe-charger-2-m').bodyMm.depth,4.37);
  assert.throws(()=>pixelsPerInch('macbook-neo'));
 });
+
+test('feature geometry retains source meaning and separate contour axes', () => {
+ const p=findDevice('ipad-pro-13-inch-m4');
+ const corner=p.profiles.find(v=>v.detail==='Z');
+ assert.equal(corner.coordinateStatus,'reviewed-unpaired-ordinates');
+ assert.ok(corner.x.includes(14.68));assert.ok(corner.y.includes(14.62));
+ assert.equal(p.additionalDimensions.find(v=>v.feature==='front-camera-keepout' && v.quantity==='included-angle').value,121.01);
+ const phone=findDevice('iphone-17');assert.equal(phone.frontCamera,null);
+ assert.equal(phone.features.combinedFrontCameraAndSensorsKeepout.dimensions.width.value,20.75);
+ assert.equal(findDevice('iphone-17-pro').features.combinedFrontCameraAndSensorsKeepout.dimensions.width.value,19.74);
+ assert.equal(phone.review.frontCameraCenterStatus,'not-individually-dimensioned');
+});
