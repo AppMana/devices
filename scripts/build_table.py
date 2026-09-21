@@ -10,7 +10,7 @@ def main():
         if path.exists():
             for d in json.loads(path.read_text()):reviewed[d['id']]=d
     records={}
-    def blank(id,name):return dict(id=id,name=name,identifiers=[],display=dict(activeMm=None,nativePixels=None,nominalPpi=None,ppi=None,source=None),bodyMm=None,coverGlassMm=None,additionalDimensions=[],frontCamera=None,review=dict(status='unreviewed',derivation=None),drawing=None)
+    def blank(id,name):return dict(id=id,name=name,identifiers=[],display=dict(activeMm=None,nativePixels=None,nominalPpi=None,ppi=None,source=None),bodyMm=None,coverGlassMm=None,additionalDimensions=[],frontCameraPartial=None,frontCamera=None,review=dict(status='unreviewed',derivation=None),drawing=None)
     for d in drawings:
         r=blank(d['id'],d['name']);r['drawing']={k:d[k] for k in ('url','sha256','pages')};records[r['id']]=r
     for d in resolution['records']:
@@ -33,6 +33,9 @@ def main():
         r['bodyMm']=d.get('bodyMm');r['coverGlassMm']=d.get('coverGlassMm');r['additionalDimensions']=d.get('additionalDimensions',[])
         r['review']['source']=d['drawingUrl'];r['review']['page']=d['sourcePage']
         r['review']['bodyDepthPage']=d.get('bodyDepthSourcePage',d['sourcePage'])
+        r['review']['pagesReviewed']=d.get('sourcePagesReviewed',[d['sourcePage']])
+        r['review']['ambiguities']=d.get('ambiguities',[])
+        r['frontCameraPartial']=d.get('frontCameraPartialPortraitMm')
         r['review']['scope']=d.get('reviewScope','Display/body/glass and explicitly located camera only; other features remain in raw annotations.')
         if d.get('frontCameraPortraitMm'):
             r['frontCamera']=dict(**d['frontCameraPortraitMm'],convention='portrait body centre; +x right, +y up; millimetres',source=d['drawingUrl'],page=d['sourcePage'])
