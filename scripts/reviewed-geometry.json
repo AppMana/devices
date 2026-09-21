@@ -1,0 +1,158 @@
+[
+  {
+    "id": "ipad-pro-11-inch-m4",
+    "name": "iPad Pro 11-inch (M4)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 160.13,
+      "height": 232.32
+    },
+    "frontCameraPortraitMm": {
+      "x": 84.045,
+      "y": 8.65
+    },
+    "opticalStatus": "requires-camera-mode-measurement",
+    "machineIds": [
+      "iPad16,3",
+      "iPad16,4"
+    ],
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Body 177.51 x 249.70 mm; FCAM center is 4.71 mm from right edge and 116.20 mm from top. x=177.51/2-4.71; y=249.70/2-116.20. 103.65 and 110.90 locate the illuminator/projector capsule, not FCAM.",
+    "uncertaintyMm": null
+  },
+  {
+    "id": "ipad-pro-13-inch-m4",
+    "name": "iPad Pro 13-inch (M4)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 199.14,
+      "height": 265.19
+    },
+    "frontCameraPortraitMm": {
+      "x": 103.055,
+      "y": 8.65
+    },
+    "opticalStatus": "requires-camera-mode-measurement",
+    "machineIds": [
+      "iPad16,5",
+      "iPad16,6"
+    ],
+    "portraitCssPixels": {
+      "width": 1032,
+      "height": 1376
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Body 215.53 x 281.58 mm; FCAM center is 4.71 mm from right edge and 132.14 mm from top. x=215.53/2-4.71; y=281.58/2-132.14. 119.79 and 126.64 locate the illuminator/projector capsule, not FCAM.",
+    "uncertaintyMm": null
+  },
+  {
+    "id": "iphone-15-pro-max",
+    "name": "iPhone 15 Pro Max",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-15-pro-max.pdf",
+    "mechanicalStatus": "display-reviewed",
+    "activeDisplayMm": {
+      "width": 71.21,
+      "height": 154.34
+    },
+    "frontCameraPortraitMm": null,
+    "opticalStatus": "requires-camera-mode-measurement",
+    "machineIds": [
+      "iPhone16,2"
+    ],
+    "portraitCssPixels": {
+      "width": 430,
+      "height": 932
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Sheet 1 gives active display 71.21 x 154.34 mm and body 76.73 x 159.86 mm. Sheet 2 specifies a shared front sensor keepout region, not an individual optical center; frontCameraPortraitMm remains unverified."
+  },
+  {
+    "id": "iphone-17e",
+    "name": "iPhone 17e",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-17e.pdf",
+    "mechanicalStatus": "display-label-reviewed",
+    "activeDisplayMm": {
+      "width": 64.58,
+      "height": 139.77
+    },
+    "frontCameraPortraitMm": null,
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Sheet 1 numerical PDF text gives DISPLAY ACTIVE AREA dimensions 64.58 \u00d7 139.77 mm; no body or camera centre inferred."
+  },
+  {
+    "id": "ipad-air-11-inch-m3",
+    "name": "iPad Air 11-inch (M3)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m3.pdf",
+    "mechanicalStatus": "display-label-reviewed",
+    "activeDisplayMm": {
+      "width": 158.44,
+      "height": 227.56
+    },
+    "frontCameraPortraitMm": null,
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Sheet 1 numerical PDF text gives DISPLAY ACTIVE AREA dimensions 158.44 \u00d7 227.56 mm; no body or camera centre inferred."
+  },
+  {
+    "id": "ipad-air-13-inch-m3",
+    "name": "iPad Air 13-inch (M3)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m3.pdf",
+    "mechanicalStatus": "display-label-reviewed",
+    "activeDisplayMm": {
+      "width": 197.61,
+      "height": 263.27
+    },
+    "frontCameraPortraitMm": null,
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Sheet 1 numerical PDF text gives DISPLAY ACTIVE AREA dimensions 197.61 \u00d7 263.27 mm; no body or camera centre inferred."
+  },
+  {
+    "id": "iphone-16",
+    "name": "iPhone 16",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-16.pdf",
+    "mechanicalStatus": "display-label-reviewed",
+    "activeDisplayMm": {
+      "width": 65.08,
+      "height": 141.09
+    },
+    "frontCameraPortraitMm": null,
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Sheet 1 numerical PDF text gives DISPLAY ACTIVE AREA dimensions 65.08 \u00d7 141.09 mm; no body or camera centre inferred."
+  },
+  {
+    "id": "iphone-16-pro",
+    "name": "iPhone 16 Pro",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-16-pro.pdf",
+    "mechanicalStatus": "display-label-reviewed",
+    "activeDisplayMm": {
+      "width": 66.57,
+      "height": 144.79
+    },
+    "frontCameraPortraitMm": null,
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Sheet 1 numerical PDF text gives DISPLAY ACTIVE AREA dimensions 66.57 \u00d7 144.79 mm; no body or camera centre inferred."
+  },
+  {
+    "id": "iphone-16-pro-max",
+    "name": "iPhone 16 Pro Max",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-16-pro-max.pdf",
+    "mechanicalStatus": "display-label-reviewed",
+    "activeDisplayMm": {
+      "width": 72.86,
+      "height": 158.31
+    },
+    "frontCameraPortraitMm": null,
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Sheet 1 numerical PDF text gives DISPLAY ACTIVE AREA dimensions 72.86 \u00d7 158.31 mm; no body or camera centre inferred."
+  }
+]

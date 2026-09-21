@@ -1,0 +1,38 @@
+{
+  "name": "@appmana-public/device-dimensions",
+  "version": "0.1.0",
+  "description": "Apple device drawing measurements, native resolutions and hardware identifiers",
+  "type": "module",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "default": "./index.js"
+    },
+    "./data": "./src/device_dimensions/devices.json"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "src/device_dimensions/devices.json",
+    "README.md",
+    "LICENSE",
+    "NOTICE"
+  ],
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "check": "python3 scripts/validate.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/appmana/devices.git"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": "^20.18.0 || >=22.12.0"
+  }
+}
