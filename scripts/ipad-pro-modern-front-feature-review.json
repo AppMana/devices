@@ -1,0 +1,2108 @@
+[
+  {
+    "id": "ipad-pro-11-inch-m4",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+    "sourcePagesReviewed": [
+      2,
+      3
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "top-speaker-array",
+        "quantity": "outermost-hole-center-from-nearest-side",
+        "value": 35.07,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Two symmetric arrays; printed 2X longitudinal references."
+      },
+      {
+        "feature": "top-speaker-array",
+        "quantity": "innermost-hole-center-from-nearest-side",
+        "value": 65.49,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Two symmetric arrays; printed 2X longitudinal references."
+      },
+      {
+        "feature": "top-speaker-array",
+        "quantity": "hole-center-from-cover-glass",
+        "value": 2.61,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Two symmetric arrays; printed 2X longitudinal references."
+      },
+      {
+        "feature": "bottom-speaker-array",
+        "quantity": "outermost-hole-center-from-nearest-side",
+        "value": 35.07,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Bottom edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Two symmetric arrays; printed 2X longitudinal references."
+      },
+      {
+        "feature": "bottom-speaker-array",
+        "quantity": "innermost-hole-center-from-nearest-side",
+        "value": 65.49,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Bottom edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Two symmetric arrays; printed 2X longitudinal references."
+      },
+      {
+        "feature": "bottom-speaker-array",
+        "quantity": "hole-center-from-cover-glass",
+        "value": 2.61,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Bottom edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Two symmetric arrays; printed 2X longitudinal references."
+      },
+      {
+        "feature": "top-microphone",
+        "quantity": "center-from-left-edge",
+        "value": 88.76,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "top-microphone",
+        "quantity": "center-from-cover-glass",
+        "value": 2.61,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "top-button",
+        "quantity": "length",
+        "value": 12.06,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "top-button",
+        "quantity": "width",
+        "value": 2.26,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "top-button",
+        "quantity": "near-end-from-right-body-edge",
+        "value": 13.98,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "top-button",
+        "quantity": "near-edge-cover-glass-reference",
+        "value": 1.48,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Transverse reference locates button edge, not button centre."
+      },
+      {
+        "feature": "usb-c-opening",
+        "quantity": "opening-left-boundary-from-right-body-edge",
+        "value": 93.03,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Bottom edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Distances are from the same right-hand body edge in the printed bottom view."
+      },
+      {
+        "feature": "usb-c-opening",
+        "quantity": "opening-right-boundary-from-right-body-edge",
+        "value": 84.49,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Bottom edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Distances are from the same right-hand body edge in the printed bottom view."
+      },
+      {
+        "feature": "rear-camera-projection",
+        "quantity": "printed-projection-from-rear-housing",
+        "value": 1.95,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Bottom edge RCAM dimension",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Preserved as printed; this is not the total depth from cover glass."
+      },
+      {
+        "feature": "upper-front-ambient-light-sensor",
+        "quantity": "center-from-left-edge",
+        "value": 88.76,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Front portrait view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "upper-front-ambient-light-sensor",
+        "quantity": "center-from-top-edge",
+        "value": 4.71,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Front portrait view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "front-sensor-row",
+        "quantity": "centerline-inset-from-right-edge",
+        "value": 4.71,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Front portrait view / Detail F",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Shared transverse axis of the six longitudinal references. The oblong shared window has two boundary references, not two individually identified optical centres."
+      },
+      {
+        "feature": "flood-illuminator-dot-projector-shared-window",
+        "quantity": "upper-boundary-from-top-edge",
+        "value": 103.65,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Front portrait view / Detail F",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Mechanical aperture/window reference; not a derived optical centre."
+      },
+      {
+        "feature": "flood-illuminator-dot-projector-shared-window",
+        "quantity": "lower-boundary-from-top-edge",
+        "value": 110.9,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Front portrait view / Detail F",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Mechanical aperture/window reference; not a derived optical centre."
+      },
+      {
+        "feature": "front-camera",
+        "quantity": "center-from-top-edge",
+        "value": 116.2,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Front portrait view / Detail F",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Mechanical aperture/window reference; not a derived optical centre."
+      },
+      {
+        "feature": "front-row-ambient-light-sensor",
+        "quantity": "center-from-top-edge",
+        "value": 124.85,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Front portrait view / Detail F",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Mechanical aperture/window reference; not a derived optical centre."
+      },
+      {
+        "feature": "front-microphone",
+        "quantity": "center-from-top-edge",
+        "value": 133.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Front portrait view / Detail F",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Mechanical aperture/window reference; not a derived optical centre."
+      },
+      {
+        "feature": "infrared-camera",
+        "quantity": "center-from-top-edge",
+        "value": 140.3,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Front portrait view / Detail F",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Mechanical aperture/window reference; not a derived optical centre."
+      },
+      {
+        "feature": "flood-illuminator-dot-projector-shared-window",
+        "quantity": "transverse-span",
+        "value": 3.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Detail F",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "The shared oblong window is labelled for both devices; separate device centre coordinates are not dimensioned."
+      },
+      {
+        "feature": "smart-connector",
+        "quantity": "leftmost-pin-center-from-left-body-edge",
+        "value": 81.36,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Rear portrait view / Detail N",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "magnetic-connector-no-metal-window",
+        "quantity": "lower-boundary-from-body-bottom",
+        "value": 112.08,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Side view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Exclusion window boundaries, not connector contact or magnet centre positions."
+      },
+      {
+        "feature": "magnetic-connector-no-metal-window",
+        "quantity": "upper-boundary-from-body-bottom",
+        "value": 137.59,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Side view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Exclusion window boundaries, not connector contact or magnet centre positions."
+      },
+      {
+        "feature": "side-microphone",
+        "quantity": "center-from-body-bottom",
+        "value": 24.36,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Side view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "side-microphone",
+        "quantity": "center-from-cover-glass",
+        "value": 2.62,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Side view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      }
+    ],
+    "profiles": [
+      {
+        "feature": "rear-aperture-body-top-left-coordinates",
+        "kind": "labelled-point-table",
+        "axes": [
+          "x",
+          "y"
+        ],
+        "points": [
+          {
+            "label": "rear-ambient-light-sensor",
+            "x": 26.82,
+            "y": -11.93
+          },
+          {
+            "label": "rear-camera",
+            "x": 14.03,
+            "y": -14.03
+          },
+          {
+            "label": "flash",
+            "x": 26.82,
+            "y": -20.04
+          },
+          {
+            "label": "lidar-window",
+            "x": 14.03,
+            "y": -26.05
+          },
+          {
+            "label": "rear-microphone",
+            "x": 26.82,
+            "y": -27.98
+          }
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Detail L",
+        "coordinateSystem": "Rear portrait view; x positive right and y positive up. Origin is body-top-left. Values preserve printed signs; these are mechanical aperture references.",
+        "note": "LiDAR coordinate locates the outer window, not either illustrated individual LiDAR element."
+      },
+      {
+        "feature": "rear-aperture-body-center-coordinates",
+        "kind": "labelled-point-table",
+        "axes": [
+          "x",
+          "y"
+        ],
+        "points": [
+          {
+            "label": "rear-ambient-light-sensor",
+            "x": -61.94,
+            "y": 112.92
+          },
+          {
+            "label": "rear-camera",
+            "x": -74.73,
+            "y": 110.82
+          },
+          {
+            "label": "flash",
+            "x": -61.94,
+            "y": 104.81
+          },
+          {
+            "label": "lidar-window",
+            "x": -74.73,
+            "y": 98.8
+          },
+          {
+            "label": "rear-microphone",
+            "x": -61.94,
+            "y": 96.87
+          }
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Rear portrait view",
+        "coordinateSystem": "Rear portrait view; x positive right and y positive up. Origin is body-center. Values preserve printed signs; these are mechanical aperture references.",
+        "note": "LiDAR coordinate locates the outer window, not either illustrated individual LiDAR element."
+      },
+      {
+        "feature": "rear-camera-turret-plan-contours",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "horizontal",
+        "values": [
+          0,
+          4.35,
+          6.63,
+          7.55,
+          10.78,
+          15.32,
+          20.04,
+          33.44,
+          35.72
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Detail M",
+        "coordinateSystem": "Rear body top-left origin. Horizontal right; vertical positive up with negative values down. Ordinates span multiple nested outlines; no points or curves are reconstructed.",
+        "note": "Independent printed ordinate sequence. No pairing, interpolation or continuous curve is inferred."
+      },
+      {
+        "feature": "rear-camera-turret-plan-contours",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "vertical",
+        "values": [
+          0,
+          -4.35,
+          -6.63,
+          -7.55,
+          -10.78,
+          -15.32,
+          -20.04,
+          -33.44,
+          -35.72
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Detail M",
+        "coordinateSystem": "Rear body top-left origin. Horizontal right; vertical positive up with negative values down. Ordinates span multiple nested outlines; no points or curves are reconstructed.",
+        "note": "Independent printed ordinate sequence. No pairing, interpolation or continuous curve is inferred."
+      },
+      {
+        "feature": "rear-camera-turret-side-contour",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "horizontal",
+        "values": [
+          -1.45,
+          -1.32,
+          -0.45,
+          -0.13,
+          0
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Detail P",
+        "coordinateSystem": "Local printed zero axes retained; horizontal negatives extend left and vertical positives up. Not converted into a body-centred or cover-glass depth datum.",
+        "note": "Independent printed ordinate sequence. No pairing, interpolation or continuous curve is inferred."
+      },
+      {
+        "feature": "rear-camera-turret-side-contour",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "vertical",
+        "values": [
+          0,
+          0.09,
+          0.95,
+          2.28
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Detail P",
+        "coordinateSystem": "Local printed zero axes retained; horizontal negatives extend left and vertical positives up. Not converted into a body-centred or cover-glass depth datum.",
+        "note": "Independent printed ordinate sequence. No pairing, interpolation or continuous curve is inferred."
+      }
+    ],
+    "features": {
+      "frontSensorWindowIdentity": {
+        "sourcePage": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "derivation": "Visually followed Detail F and front-view extension lines.",
+        "individualFloodIlluminatorCenter": null,
+        "individualDotProjectorCenter": null,
+        "description": "Two longitudinal dimensions bracket the common oblong window. They cannot be promoted into individual sensor centres."
+      },
+      "speakerMultiplicity": {
+        "sourcePage": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "printedTopHoleCount": 28,
+        "printedBottomHoleCount": 28,
+        "derivation": "Explicit 28X opening multiplicities printed separately in top and bottom edge views."
+      },
+      "modernDrawingHandlingNotes": {
+        "sourcePages": [
+          2,
+          3
+        ],
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "description": "Drawing requires acoustic paths and listed camera, illumination, ranging and ambient-light windows to remain clear. Accessories must avoid display/coating damage in use, transport, storage and closed configurations; hard or abrasive components must not contact the active screen."
+      }
+    },
+    "ambiguities": [
+      "Individual LiDAR1/LiDAR2 centres and the individual flood-illuminator/dot-projector centres are not explicitly dimensioned; illustrated components are not assigned inferred coordinates.",
+      "Page 2 prints 1.95 RCAM projection; page 3 prints 6.71 RCAM from cover glass. These printed references are retained separately. Their physical surfaces are not asserted identical or reconciled by subtracting body thickness."
+    ],
+    "reviewScope": "All front/rear pages 2 and 3 visually reviewed; supplemental explicit references only. Existing aperture sizes, keepout sections, display/body geometry and volume dimensions remain in the main review. Later section/antenna/magnet sheets are out of scope.",
+    "reviewAudit": {
+      "existingMainCorrection": "Page 3 volume 19.33 and 31.39 locate upper button ends, not centres. Reported separately; main file not modified.",
+      "verifiedExistingValue": "Rear-camera keepout width is 3.56 mm in Detail B (not 3.55); verified at high resolution."
+    }
+  },
+  {
+    "id": "ipad-pro-11-inch-m5",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+    "sourcePagesReviewed": [
+      2,
+      3
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "top-speaker-array",
+        "quantity": "outermost-hole-center-from-nearest-side",
+        "value": 35.07,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Two symmetric arrays; printed 2X longitudinal references."
+      },
+      {
+        "feature": "top-speaker-array",
+        "quantity": "innermost-hole-center-from-nearest-side",
+        "value": 65.49,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Two symmetric arrays; printed 2X longitudinal references."
+      },
+      {
+        "feature": "top-speaker-array",
+        "quantity": "hole-center-from-cover-glass",
+        "value": 2.61,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Two symmetric arrays; printed 2X longitudinal references."
+      },
+      {
+        "feature": "bottom-speaker-array",
+        "quantity": "outermost-hole-center-from-nearest-side",
+        "value": 35.07,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Bottom edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Two symmetric arrays; printed 2X longitudinal references."
+      },
+      {
+        "feature": "bottom-speaker-array",
+        "quantity": "innermost-hole-center-from-nearest-side",
+        "value": 65.49,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Bottom edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Two symmetric arrays; printed 2X longitudinal references."
+      },
+      {
+        "feature": "bottom-speaker-array",
+        "quantity": "hole-center-from-cover-glass",
+        "value": 2.61,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Bottom edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Two symmetric arrays; printed 2X longitudinal references."
+      },
+      {
+        "feature": "top-microphone",
+        "quantity": "center-from-left-edge",
+        "value": 88.76,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "top-microphone",
+        "quantity": "center-from-cover-glass",
+        "value": 2.61,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "top-button",
+        "quantity": "length",
+        "value": 12.06,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "top-button",
+        "quantity": "width",
+        "value": 2.26,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "top-button",
+        "quantity": "near-end-from-right-body-edge",
+        "value": 13.98,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "top-button",
+        "quantity": "near-edge-cover-glass-reference",
+        "value": 1.48,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Transverse reference locates button edge, not button centre."
+      },
+      {
+        "feature": "usb-c-opening",
+        "quantity": "opening-left-boundary-from-right-body-edge",
+        "value": 93.03,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Bottom edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Distances are from the same right-hand body edge in the printed bottom view."
+      },
+      {
+        "feature": "usb-c-opening",
+        "quantity": "opening-right-boundary-from-right-body-edge",
+        "value": 84.49,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Bottom edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Distances are from the same right-hand body edge in the printed bottom view."
+      },
+      {
+        "feature": "rear-camera-projection",
+        "quantity": "printed-projection-from-rear-housing",
+        "value": 1.95,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Bottom edge RCAM dimension",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Preserved as printed; this is not the total depth from cover glass."
+      },
+      {
+        "feature": "upper-front-ambient-light-sensor",
+        "quantity": "center-from-left-edge",
+        "value": 88.76,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Front portrait view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "upper-front-ambient-light-sensor",
+        "quantity": "center-from-top-edge",
+        "value": 4.71,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Front portrait view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "front-sensor-row",
+        "quantity": "centerline-inset-from-right-edge",
+        "value": 4.71,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Front portrait view / Detail F",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Shared transverse axis of the six longitudinal references. The oblong shared window has two boundary references, not two individually identified optical centres."
+      },
+      {
+        "feature": "flood-illuminator-dot-projector-shared-window",
+        "quantity": "upper-boundary-from-top-edge",
+        "value": 103.65,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Front portrait view / Detail F",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Mechanical aperture/window reference; not a derived optical centre."
+      },
+      {
+        "feature": "flood-illuminator-dot-projector-shared-window",
+        "quantity": "lower-boundary-from-top-edge",
+        "value": 110.9,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Front portrait view / Detail F",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Mechanical aperture/window reference; not a derived optical centre."
+      },
+      {
+        "feature": "front-camera",
+        "quantity": "center-from-top-edge",
+        "value": 116.2,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Front portrait view / Detail F",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Mechanical aperture/window reference; not a derived optical centre."
+      },
+      {
+        "feature": "front-row-ambient-light-sensor",
+        "quantity": "center-from-top-edge",
+        "value": 124.85,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Front portrait view / Detail F",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Mechanical aperture/window reference; not a derived optical centre."
+      },
+      {
+        "feature": "front-microphone",
+        "quantity": "center-from-top-edge",
+        "value": 133.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Front portrait view / Detail F",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Mechanical aperture/window reference; not a derived optical centre."
+      },
+      {
+        "feature": "infrared-camera",
+        "quantity": "center-from-top-edge",
+        "value": 140.3,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Front portrait view / Detail F",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Mechanical aperture/window reference; not a derived optical centre."
+      },
+      {
+        "feature": "flood-illuminator-dot-projector-shared-window",
+        "quantity": "transverse-span",
+        "value": 3.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Detail F",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "The shared oblong window is labelled for both devices; separate device centre coordinates are not dimensioned."
+      },
+      {
+        "feature": "smart-connector",
+        "quantity": "leftmost-pin-center-from-left-body-edge",
+        "value": 81.36,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Rear portrait view / Detail N",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "magnetic-connector-no-metal-window",
+        "quantity": "lower-boundary-from-body-bottom",
+        "value": 112.08,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Side view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Exclusion window boundaries, not connector contact or magnet centre positions."
+      },
+      {
+        "feature": "magnetic-connector-no-metal-window",
+        "quantity": "upper-boundary-from-body-bottom",
+        "value": 137.59,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Side view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Exclusion window boundaries, not connector contact or magnet centre positions."
+      },
+      {
+        "feature": "side-microphone",
+        "quantity": "center-from-body-bottom",
+        "value": 24.36,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Side view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "side-microphone",
+        "quantity": "center-from-cover-glass",
+        "value": 2.62,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Side view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      }
+    ],
+    "profiles": [
+      {
+        "feature": "rear-aperture-body-top-left-coordinates",
+        "kind": "labelled-point-table",
+        "axes": [
+          "x",
+          "y"
+        ],
+        "points": [
+          {
+            "label": "rear-ambient-light-sensor",
+            "x": 26.82,
+            "y": -11.93
+          },
+          {
+            "label": "rear-camera",
+            "x": 14.03,
+            "y": -14.03
+          },
+          {
+            "label": "flash",
+            "x": 26.82,
+            "y": -20.04
+          },
+          {
+            "label": "lidar-window",
+            "x": 14.03,
+            "y": -26.05
+          },
+          {
+            "label": "rear-microphone",
+            "x": 26.82,
+            "y": -27.98
+          }
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Detail L",
+        "coordinateSystem": "Rear portrait view; x positive right and y positive up. Origin is body-top-left. Values preserve printed signs; these are mechanical aperture references.",
+        "note": "LiDAR coordinate locates the outer window, not either illustrated individual LiDAR element."
+      },
+      {
+        "feature": "rear-aperture-body-center-coordinates",
+        "kind": "labelled-point-table",
+        "axes": [
+          "x",
+          "y"
+        ],
+        "points": [
+          {
+            "label": "rear-ambient-light-sensor",
+            "x": -61.94,
+            "y": 112.92
+          },
+          {
+            "label": "rear-camera",
+            "x": -74.73,
+            "y": 110.82
+          },
+          {
+            "label": "flash",
+            "x": -61.94,
+            "y": 104.81
+          },
+          {
+            "label": "lidar-window",
+            "x": -74.73,
+            "y": 98.8
+          },
+          {
+            "label": "rear-microphone",
+            "x": -61.94,
+            "y": 96.87
+          }
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Rear portrait view",
+        "coordinateSystem": "Rear portrait view; x positive right and y positive up. Origin is body-center. Values preserve printed signs; these are mechanical aperture references.",
+        "note": "LiDAR coordinate locates the outer window, not either illustrated individual LiDAR element."
+      },
+      {
+        "feature": "rear-camera-turret-plan-contours",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "horizontal",
+        "values": [
+          0,
+          4.35,
+          6.63,
+          7.55,
+          10.78,
+          15.32,
+          20.04,
+          33.44,
+          35.72
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Detail M",
+        "coordinateSystem": "Rear body top-left origin. Horizontal right; vertical positive up with negative values down. Ordinates span multiple nested outlines; no points or curves are reconstructed.",
+        "note": "Independent printed ordinate sequence. No pairing, interpolation or continuous curve is inferred."
+      },
+      {
+        "feature": "rear-camera-turret-plan-contours",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "vertical",
+        "values": [
+          0,
+          -4.35,
+          -6.63,
+          -7.55,
+          -10.78,
+          -15.32,
+          -20.04,
+          -33.44,
+          -35.72
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Detail M",
+        "coordinateSystem": "Rear body top-left origin. Horizontal right; vertical positive up with negative values down. Ordinates span multiple nested outlines; no points or curves are reconstructed.",
+        "note": "Independent printed ordinate sequence. No pairing, interpolation or continuous curve is inferred."
+      },
+      {
+        "feature": "rear-camera-turret-side-contour",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "horizontal",
+        "values": [
+          -1.45,
+          -1.32,
+          -0.45,
+          -0.13,
+          0
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Detail P",
+        "coordinateSystem": "Local printed zero axes retained; horizontal negatives extend left and vertical positives up. Not converted into a body-centred or cover-glass depth datum.",
+        "note": "Independent printed ordinate sequence. No pairing, interpolation or continuous curve is inferred."
+      },
+      {
+        "feature": "rear-camera-turret-side-contour",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "vertical",
+        "values": [
+          0,
+          0.09,
+          0.95,
+          2.28
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Detail P",
+        "coordinateSystem": "Local printed zero axes retained; horizontal negatives extend left and vertical positives up. Not converted into a body-centred or cover-glass depth datum.",
+        "note": "Independent printed ordinate sequence. No pairing, interpolation or continuous curve is inferred."
+      }
+    ],
+    "features": {
+      "frontSensorWindowIdentity": {
+        "sourcePage": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "derivation": "Visually followed Detail F and front-view extension lines.",
+        "individualFloodIlluminatorCenter": null,
+        "individualDotProjectorCenter": null,
+        "description": "Two longitudinal dimensions bracket the common oblong window. They cannot be promoted into individual sensor centres."
+      },
+      "speakerMultiplicity": {
+        "sourcePage": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "printedTopHoleCount": 28,
+        "printedBottomHoleCount": 28,
+        "derivation": "Explicit 28X opening multiplicities printed separately in top and bottom edge views."
+      },
+      "modernDrawingHandlingNotes": {
+        "sourcePages": [
+          2,
+          3
+        ],
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "description": "Drawing requires acoustic paths and listed camera, illumination, ranging and ambient-light windows to remain clear. Accessories must avoid display/coating damage in use, transport, storage and closed configurations; hard or abrasive components must not contact the active screen."
+      }
+    },
+    "ambiguities": [
+      "Individual LiDAR1/LiDAR2 centres and the individual flood-illuminator/dot-projector centres are not explicitly dimensioned; illustrated components are not assigned inferred coordinates.",
+      "Page 2 prints 1.95 RCAM projection; page 3 prints 6.71 RCAM from cover glass. These printed references are retained separately. Their physical surfaces are not asserted identical or reconciled by subtracting body thickness."
+    ],
+    "reviewScope": "All front/rear pages 2 and 3 visually reviewed; supplemental explicit references only. Existing aperture sizes, keepout sections, display/body geometry and volume dimensions remain in the main review. Later section/antenna/magnet sheets are out of scope.",
+    "reviewAudit": {
+      "existingMainCorrection": "Page 3 volume 19.33 and 31.39 locate upper button ends, not centres. Reported separately; main file not modified.",
+      "verifiedExistingValue": "Rear-camera keepout width is 3.56 mm in Detail B (not 3.55); verified at high resolution."
+    }
+  },
+  {
+    "id": "ipad-pro-13-inch-m4",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+    "sourcePagesReviewed": [
+      2,
+      3
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "top-speaker-array",
+        "quantity": "outermost-hole-center-from-nearest-side",
+        "value": 35.07,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Two symmetric arrays; printed 2X longitudinal references."
+      },
+      {
+        "feature": "top-speaker-array",
+        "quantity": "innermost-hole-center-from-nearest-side",
+        "value": 65.49,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Two symmetric arrays; printed 2X longitudinal references."
+      },
+      {
+        "feature": "top-speaker-array",
+        "quantity": "hole-center-from-cover-glass",
+        "value": 2.54,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Two symmetric arrays; printed 2X longitudinal references."
+      },
+      {
+        "feature": "bottom-speaker-array",
+        "quantity": "outermost-hole-center-from-nearest-side",
+        "value": 35.07,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Bottom edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Two symmetric arrays; printed 2X longitudinal references."
+      },
+      {
+        "feature": "bottom-speaker-array",
+        "quantity": "innermost-hole-center-from-nearest-side",
+        "value": 65.49,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Bottom edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Two symmetric arrays; printed 2X longitudinal references."
+      },
+      {
+        "feature": "bottom-speaker-array",
+        "quantity": "hole-center-from-cover-glass",
+        "value": 2.54,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Bottom edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Two symmetric arrays; printed 2X longitudinal references."
+      },
+      {
+        "feature": "top-microphone",
+        "quantity": "center-from-left-edge",
+        "value": 107.76,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "top-microphone",
+        "quantity": "center-from-cover-glass",
+        "value": 2.54,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "top-button",
+        "quantity": "length",
+        "value": 12.06,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "top-button",
+        "quantity": "width",
+        "value": 2.26,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "top-button",
+        "quantity": "near-end-from-right-body-edge",
+        "value": 13.98,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "top-button",
+        "quantity": "near-edge-cover-glass-reference",
+        "value": 1.41,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Transverse reference locates button edge, not button centre."
+      },
+      {
+        "feature": "usb-c-opening",
+        "quantity": "opening-left-boundary-from-right-body-edge",
+        "value": 112.03,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Bottom edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Distances are from the same right-hand body edge in the printed bottom view."
+      },
+      {
+        "feature": "usb-c-opening",
+        "quantity": "opening-right-boundary-from-right-body-edge",
+        "value": 103.49,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Bottom edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Distances are from the same right-hand body edge in the printed bottom view."
+      },
+      {
+        "feature": "rear-camera-projection",
+        "quantity": "printed-projection-from-rear-housing",
+        "value": 2.19,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Bottom edge RCAM dimension",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Preserved as printed; this is not the total depth from cover glass."
+      },
+      {
+        "feature": "upper-front-ambient-light-sensor",
+        "quantity": "center-from-left-edge",
+        "value": 107.76,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Front portrait view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "upper-front-ambient-light-sensor",
+        "quantity": "center-from-top-edge",
+        "value": 4.71,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Front portrait view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "front-sensor-row",
+        "quantity": "centerline-inset-from-right-edge",
+        "value": 4.71,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Front portrait view / Detail F",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Shared transverse axis of the six longitudinal references. The oblong shared window has two boundary references, not two individually identified optical centres."
+      },
+      {
+        "feature": "flood-illuminator-dot-projector-shared-window",
+        "quantity": "upper-boundary-from-top-edge",
+        "value": 119.79,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Front portrait view / Detail F",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Mechanical aperture/window reference; not a derived optical centre."
+      },
+      {
+        "feature": "flood-illuminator-dot-projector-shared-window",
+        "quantity": "lower-boundary-from-top-edge",
+        "value": 126.64,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Front portrait view / Detail F",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Mechanical aperture/window reference; not a derived optical centre."
+      },
+      {
+        "feature": "front-camera",
+        "quantity": "center-from-top-edge",
+        "value": 132.14,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Front portrait view / Detail F",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Mechanical aperture/window reference; not a derived optical centre."
+      },
+      {
+        "feature": "front-row-ambient-light-sensor",
+        "quantity": "center-from-top-edge",
+        "value": 140.79,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Front portrait view / Detail F",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Mechanical aperture/window reference; not a derived optical centre."
+      },
+      {
+        "feature": "front-microphone",
+        "quantity": "center-from-top-edge",
+        "value": 149.44,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Front portrait view / Detail F",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Mechanical aperture/window reference; not a derived optical centre."
+      },
+      {
+        "feature": "infrared-camera",
+        "quantity": "center-from-top-edge",
+        "value": 156.24,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Front portrait view / Detail F",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Mechanical aperture/window reference; not a derived optical centre."
+      },
+      {
+        "feature": "flood-illuminator-dot-projector-shared-window",
+        "quantity": "transverse-span",
+        "value": 3.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Detail F",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "The shared oblong window is labelled for both devices; separate device centre coordinates are not dimensioned."
+      },
+      {
+        "feature": "smart-connector",
+        "quantity": "leftmost-pin-center-from-left-body-edge",
+        "value": 100.36,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Rear portrait view / Detail N",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "magnetic-connector-no-metal-window",
+        "quantity": "lower-boundary-from-body-bottom",
+        "value": 128.02,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Side view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Exclusion window boundaries, not connector contact or magnet centre positions."
+      },
+      {
+        "feature": "magnetic-connector-no-metal-window",
+        "quantity": "upper-boundary-from-body-bottom",
+        "value": 153.55,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Side view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Exclusion window boundaries, not connector contact or magnet centre positions."
+      },
+      {
+        "feature": "side-microphone",
+        "quantity": "center-from-body-bottom",
+        "value": 24.36,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Side view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "side-microphone",
+        "quantity": "center-from-cover-glass",
+        "value": 2.55,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Side view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      }
+    ],
+    "profiles": [
+      {
+        "feature": "rear-aperture-body-top-left-coordinates",
+        "kind": "labelled-point-table",
+        "axes": [
+          "x",
+          "y"
+        ],
+        "points": [
+          {
+            "label": "rear-ambient-light-sensor",
+            "x": 26.82,
+            "y": -11.93
+          },
+          {
+            "label": "rear-camera",
+            "x": 14.03,
+            "y": -14.03
+          },
+          {
+            "label": "flash",
+            "x": 26.82,
+            "y": -20.04
+          },
+          {
+            "label": "lidar-window",
+            "x": 14.03,
+            "y": -26.05
+          },
+          {
+            "label": "rear-microphone",
+            "x": 26.82,
+            "y": -27.98
+          }
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Detail L",
+        "coordinateSystem": "Rear portrait view; x positive right and y positive up. Origin is body-top-left. Values preserve printed signs; these are mechanical aperture references.",
+        "note": "LiDAR coordinate locates the outer window, not either illustrated individual LiDAR element."
+      },
+      {
+        "feature": "rear-aperture-body-center-coordinates",
+        "kind": "labelled-point-table",
+        "axes": [
+          "x",
+          "y"
+        ],
+        "points": [
+          {
+            "label": "rear-ambient-light-sensor",
+            "x": -80.95,
+            "y": 128.86
+          },
+          {
+            "label": "rear-camera",
+            "x": -93.74,
+            "y": 126.76
+          },
+          {
+            "label": "flash",
+            "x": -80.95,
+            "y": 120.75
+          },
+          {
+            "label": "lidar-window",
+            "x": -93.74,
+            "y": 114.74
+          },
+          {
+            "label": "rear-microphone",
+            "x": -80.95,
+            "y": 112.81
+          }
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Rear portrait view",
+        "coordinateSystem": "Rear portrait view; x positive right and y positive up. Origin is body-center. Values preserve printed signs; these are mechanical aperture references.",
+        "note": "LiDAR coordinate locates the outer window, not either illustrated individual LiDAR element."
+      },
+      {
+        "feature": "rear-camera-turret-plan-contours",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "horizontal",
+        "values": [
+          0,
+          4.32,
+          6.63,
+          7.55,
+          10.78,
+          15.32,
+          20.04,
+          33.44,
+          35.76
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Detail M",
+        "coordinateSystem": "Rear body top-left origin. Horizontal right; vertical positive up with negative values down. Ordinates span multiple nested outlines; no points or curves are reconstructed.",
+        "note": "Independent printed ordinate sequence. No pairing, interpolation or continuous curve is inferred."
+      },
+      {
+        "feature": "rear-camera-turret-plan-contours",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "vertical",
+        "values": [
+          0,
+          -4.32,
+          -6.63,
+          -7.55,
+          -10.78,
+          -15.32,
+          -20.04,
+          -33.44,
+          -35.76
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Detail M",
+        "coordinateSystem": "Rear body top-left origin. Horizontal right; vertical positive up with negative values down. Ordinates span multiple nested outlines; no points or curves are reconstructed.",
+        "note": "Independent printed ordinate sequence. No pairing, interpolation or continuous curve is inferred."
+      },
+      {
+        "feature": "rear-camera-turret-side-contour",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "horizontal",
+        "values": [
+          -1.69,
+          -1.56,
+          -0.69,
+          -0.15,
+          0
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Detail P",
+        "coordinateSystem": "Local printed zero axes retained; horizontal negatives extend left and vertical positives up. Not converted into a body-centred or cover-glass depth datum.",
+        "note": "Independent printed ordinate sequence. No pairing, interpolation or continuous curve is inferred."
+      },
+      {
+        "feature": "rear-camera-turret-side-contour",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "vertical",
+        "values": [
+          0,
+          0.12,
+          0.99,
+          2.32
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Detail P",
+        "coordinateSystem": "Local printed zero axes retained; horizontal negatives extend left and vertical positives up. Not converted into a body-centred or cover-glass depth datum.",
+        "note": "Independent printed ordinate sequence. No pairing, interpolation or continuous curve is inferred."
+      }
+    ],
+    "features": {
+      "frontSensorWindowIdentity": {
+        "sourcePage": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "derivation": "Visually followed Detail F and front-view extension lines.",
+        "individualFloodIlluminatorCenter": null,
+        "individualDotProjectorCenter": null,
+        "description": "Two longitudinal dimensions bracket the common oblong window. They cannot be promoted into individual sensor centres."
+      },
+      "speakerMultiplicity": {
+        "sourcePage": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "printedTopHoleCount": 28,
+        "printedBottomHoleCount": 28,
+        "derivation": "Explicit 28X opening multiplicities printed separately in top and bottom edge views."
+      },
+      "modernDrawingHandlingNotes": {
+        "sourcePages": [
+          2,
+          3
+        ],
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "description": "Drawing requires acoustic paths and listed camera, illumination, ranging and ambient-light windows to remain clear. Accessories must avoid display/coating damage in use, transport, storage and closed configurations; hard or abrasive components must not contact the active screen."
+      }
+    },
+    "ambiguities": [
+      "Individual LiDAR1/LiDAR2 centres and the individual flood-illuminator/dot-projector centres are not explicitly dimensioned; illustrated components are not assigned inferred coordinates."
+    ],
+    "reviewScope": "All front/rear pages 2 and 3 visually reviewed; supplemental explicit references only. Existing aperture sizes, keepout sections, display/body geometry and volume dimensions remain in the main review. Later section/antenna/magnet sheets are out of scope.",
+    "reviewAudit": {
+      "existingMainCorrection": "Page 3 volume 19.33 and 31.39 locate upper button ends, not centres. Reported separately; main file not modified.",
+      "verifiedExistingValue": "Rear-camera keepout width is 3.56 mm in Detail B (not 3.55); verified at high resolution."
+    }
+  },
+  {
+    "id": "ipad-pro-13-inch-m5",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+    "sourcePagesReviewed": [
+      2,
+      3
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "top-speaker-array",
+        "quantity": "outermost-hole-center-from-nearest-side",
+        "value": 35.07,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Two symmetric arrays; printed 2X longitudinal references."
+      },
+      {
+        "feature": "top-speaker-array",
+        "quantity": "innermost-hole-center-from-nearest-side",
+        "value": 65.49,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Two symmetric arrays; printed 2X longitudinal references."
+      },
+      {
+        "feature": "top-speaker-array",
+        "quantity": "hole-center-from-cover-glass",
+        "value": 2.54,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Two symmetric arrays; printed 2X longitudinal references."
+      },
+      {
+        "feature": "bottom-speaker-array",
+        "quantity": "outermost-hole-center-from-nearest-side",
+        "value": 35.07,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Bottom edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Two symmetric arrays; printed 2X longitudinal references."
+      },
+      {
+        "feature": "bottom-speaker-array",
+        "quantity": "innermost-hole-center-from-nearest-side",
+        "value": 65.49,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Bottom edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Two symmetric arrays; printed 2X longitudinal references."
+      },
+      {
+        "feature": "bottom-speaker-array",
+        "quantity": "hole-center-from-cover-glass",
+        "value": 2.54,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Bottom edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Two symmetric arrays; printed 2X longitudinal references."
+      },
+      {
+        "feature": "top-microphone",
+        "quantity": "center-from-left-edge",
+        "value": 107.76,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "top-microphone",
+        "quantity": "center-from-cover-glass",
+        "value": 2.54,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "top-button",
+        "quantity": "length",
+        "value": 12.06,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "top-button",
+        "quantity": "width",
+        "value": 2.26,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "top-button",
+        "quantity": "near-end-from-right-body-edge",
+        "value": 13.98,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "top-button",
+        "quantity": "near-edge-cover-glass-reference",
+        "value": 1.41,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Top edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Transverse reference locates button edge, not button centre."
+      },
+      {
+        "feature": "usb-c-opening",
+        "quantity": "opening-left-boundary-from-right-body-edge",
+        "value": 112.03,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Bottom edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Distances are from the same right-hand body edge in the printed bottom view."
+      },
+      {
+        "feature": "usb-c-opening",
+        "quantity": "opening-right-boundary-from-right-body-edge",
+        "value": 103.49,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Bottom edge view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Distances are from the same right-hand body edge in the printed bottom view."
+      },
+      {
+        "feature": "rear-camera-projection",
+        "quantity": "printed-projection-from-rear-housing",
+        "value": 2.19,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Bottom edge RCAM dimension",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Preserved as printed; this is not the total depth from cover glass."
+      },
+      {
+        "feature": "upper-front-ambient-light-sensor",
+        "quantity": "center-from-left-edge",
+        "value": 107.76,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Front portrait view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "upper-front-ambient-light-sensor",
+        "quantity": "center-from-top-edge",
+        "value": 4.71,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Front portrait view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "front-sensor-row",
+        "quantity": "centerline-inset-from-right-edge",
+        "value": 4.71,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Front portrait view / Detail F",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Shared transverse axis of the six longitudinal references. The oblong shared window has two boundary references, not two individually identified optical centres."
+      },
+      {
+        "feature": "flood-illuminator-dot-projector-shared-window",
+        "quantity": "upper-boundary-from-top-edge",
+        "value": 119.79,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Front portrait view / Detail F",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Mechanical aperture/window reference; not a derived optical centre."
+      },
+      {
+        "feature": "flood-illuminator-dot-projector-shared-window",
+        "quantity": "lower-boundary-from-top-edge",
+        "value": 126.64,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Front portrait view / Detail F",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Mechanical aperture/window reference; not a derived optical centre."
+      },
+      {
+        "feature": "front-camera",
+        "quantity": "center-from-top-edge",
+        "value": 132.14,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Front portrait view / Detail F",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Mechanical aperture/window reference; not a derived optical centre."
+      },
+      {
+        "feature": "front-row-ambient-light-sensor",
+        "quantity": "center-from-top-edge",
+        "value": 140.79,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Front portrait view / Detail F",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Mechanical aperture/window reference; not a derived optical centre."
+      },
+      {
+        "feature": "front-microphone",
+        "quantity": "center-from-top-edge",
+        "value": 149.44,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Front portrait view / Detail F",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Mechanical aperture/window reference; not a derived optical centre."
+      },
+      {
+        "feature": "infrared-camera",
+        "quantity": "center-from-top-edge",
+        "value": 156.24,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Front portrait view / Detail F",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Mechanical aperture/window reference; not a derived optical centre."
+      },
+      {
+        "feature": "flood-illuminator-dot-projector-shared-window",
+        "quantity": "transverse-span",
+        "value": 3.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Detail F",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "The shared oblong window is labelled for both devices; separate device centre coordinates are not dimensioned."
+      },
+      {
+        "feature": "smart-connector",
+        "quantity": "leftmost-pin-center-from-left-body-edge",
+        "value": 100.36,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Rear portrait view / Detail N",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "magnetic-connector-no-metal-window",
+        "quantity": "lower-boundary-from-body-bottom",
+        "value": 128.02,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Side view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Exclusion window boundaries, not connector contact or magnet centre positions."
+      },
+      {
+        "feature": "magnetic-connector-no-metal-window",
+        "quantity": "upper-boundary-from-body-bottom",
+        "value": 153.55,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Side view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing.",
+        "note": "Exclusion window boundaries, not connector contact or magnet centre positions."
+      },
+      {
+        "feature": "side-microphone",
+        "quantity": "center-from-body-bottom",
+        "value": 24.36,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Side view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      },
+      {
+        "feature": "side-microphone",
+        "quantity": "center-from-cover-glass",
+        "value": 2.55,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Side view",
+        "derivation": "Explicit printed dimension, visually reviewed against rendered Apple drawing."
+      }
+    ],
+    "profiles": [
+      {
+        "feature": "rear-aperture-body-top-left-coordinates",
+        "kind": "labelled-point-table",
+        "axes": [
+          "x",
+          "y"
+        ],
+        "points": [
+          {
+            "label": "rear-ambient-light-sensor",
+            "x": 26.82,
+            "y": -11.93
+          },
+          {
+            "label": "rear-camera",
+            "x": 14.03,
+            "y": -14.03
+          },
+          {
+            "label": "flash",
+            "x": 26.82,
+            "y": -20.04
+          },
+          {
+            "label": "lidar-window",
+            "x": 14.03,
+            "y": -26.05
+          },
+          {
+            "label": "rear-microphone",
+            "x": 26.82,
+            "y": -27.98
+          }
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Detail L",
+        "coordinateSystem": "Rear portrait view; x positive right and y positive up. Origin is body-top-left. Values preserve printed signs; these are mechanical aperture references.",
+        "note": "LiDAR coordinate locates the outer window, not either illustrated individual LiDAR element."
+      },
+      {
+        "feature": "rear-aperture-body-center-coordinates",
+        "kind": "labelled-point-table",
+        "axes": [
+          "x",
+          "y"
+        ],
+        "points": [
+          {
+            "label": "rear-ambient-light-sensor",
+            "x": -80.95,
+            "y": 128.86
+          },
+          {
+            "label": "rear-camera",
+            "x": -93.74,
+            "y": 126.76
+          },
+          {
+            "label": "flash",
+            "x": -80.95,
+            "y": 120.75
+          },
+          {
+            "label": "lidar-window",
+            "x": -93.74,
+            "y": 114.74
+          },
+          {
+            "label": "rear-microphone",
+            "x": -80.95,
+            "y": 112.81
+          }
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Rear portrait view",
+        "coordinateSystem": "Rear portrait view; x positive right and y positive up. Origin is body-center. Values preserve printed signs; these are mechanical aperture references.",
+        "note": "LiDAR coordinate locates the outer window, not either illustrated individual LiDAR element."
+      },
+      {
+        "feature": "rear-camera-turret-plan-contours",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "horizontal",
+        "values": [
+          0,
+          4.32,
+          6.63,
+          7.55,
+          10.78,
+          15.32,
+          20.04,
+          33.44,
+          35.76
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Detail M",
+        "coordinateSystem": "Rear body top-left origin. Horizontal right; vertical positive up with negative values down. Ordinates span multiple nested outlines; no points or curves are reconstructed.",
+        "note": "Independent printed ordinate sequence. No pairing, interpolation or continuous curve is inferred."
+      },
+      {
+        "feature": "rear-camera-turret-plan-contours",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "vertical",
+        "values": [
+          0,
+          -4.32,
+          -6.63,
+          -7.55,
+          -10.78,
+          -15.32,
+          -20.04,
+          -33.44,
+          -35.76
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Detail M",
+        "coordinateSystem": "Rear body top-left origin. Horizontal right; vertical positive up with negative values down. Ordinates span multiple nested outlines; no points or curves are reconstructed.",
+        "note": "Independent printed ordinate sequence. No pairing, interpolation or continuous curve is inferred."
+      },
+      {
+        "feature": "rear-camera-turret-side-contour",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "horizontal",
+        "values": [
+          -1.69,
+          -1.56,
+          -0.69,
+          -0.15,
+          0
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Detail P",
+        "coordinateSystem": "Local printed zero axes retained; horizontal negatives extend left and vertical positives up. Not converted into a body-centred or cover-glass depth datum.",
+        "note": "Independent printed ordinate sequence. No pairing, interpolation or continuous curve is inferred."
+      },
+      {
+        "feature": "rear-camera-turret-side-contour",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "vertical",
+        "values": [
+          0,
+          0.12,
+          0.99,
+          2.32
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Detail P",
+        "coordinateSystem": "Local printed zero axes retained; horizontal negatives extend left and vertical positives up. Not converted into a body-centred or cover-glass depth datum.",
+        "note": "Independent printed ordinate sequence. No pairing, interpolation or continuous curve is inferred."
+      }
+    ],
+    "features": {
+      "frontSensorWindowIdentity": {
+        "sourcePage": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "derivation": "Visually followed Detail F and front-view extension lines.",
+        "individualFloodIlluminatorCenter": null,
+        "individualDotProjectorCenter": null,
+        "description": "Two longitudinal dimensions bracket the common oblong window. They cannot be promoted into individual sensor centres."
+      },
+      "speakerMultiplicity": {
+        "sourcePage": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "printedTopHoleCount": 28,
+        "printedBottomHoleCount": 28,
+        "derivation": "Explicit 28X opening multiplicities printed separately in top and bottom edge views."
+      },
+      "modernDrawingHandlingNotes": {
+        "sourcePages": [
+          2,
+          3
+        ],
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "description": "Drawing requires acoustic paths and listed camera, illumination, ranging and ambient-light windows to remain clear. Accessories must avoid display/coating damage in use, transport, storage and closed configurations; hard or abrasive components must not contact the active screen."
+      }
+    },
+    "ambiguities": [
+      "Individual LiDAR1/LiDAR2 centres and the individual flood-illuminator/dot-projector centres are not explicitly dimensioned; illustrated components are not assigned inferred coordinates."
+    ],
+    "reviewScope": "All front/rear pages 2 and 3 visually reviewed; supplemental explicit references only. Existing aperture sizes, keepout sections, display/body geometry and volume dimensions remain in the main review. Later section/antenna/magnet sheets are out of scope.",
+    "reviewAudit": {
+      "existingMainCorrection": "Page 3 volume 19.33 and 31.39 locate upper button ends, not centres. Reported separately; main file not modified.",
+      "verifiedExistingValue": "Rear-camera keepout width is 3.56 mm in Detail B (not 3.55); verified at high resolution."
+    }
+  }
+]

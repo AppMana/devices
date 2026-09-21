@@ -1,0 +1,2139 @@
+[
+  {
+    "id": "ipad-air-11-inch-m2",
+    "sourcePagesReviewed": [
+      2,
+      3
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "top-button",
+        "quantity": "length",
+        "value": 17.12,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "speaker-openings",
+        "quantity": "center-depth-ordinate",
+        "value": 3.04,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button-keepout",
+        "quantity": "offset-to-housing",
+        "value": 0,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button-keepout",
+        "quantity": "offset-to-cover-glass",
+        "value": 0,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "top-left-speaker-row",
+        "quantity": "nearest-hole-center-from-adjacent-side",
+        "value": 28.22,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "top-left-speaker-row",
+        "quantity": "farthest-hole-center-from-adjacent-side",
+        "value": 56.44,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "bottom-left-speaker-row",
+        "quantity": "nearest-hole-center-from-adjacent-side",
+        "value": 28.22,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "bottom-left-speaker-row",
+        "quantity": "farthest-hole-center-from-adjacent-side",
+        "value": 56.44,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "top-right-speaker-row",
+        "quantity": "nearest-hole-center-from-adjacent-side",
+        "value": 35.92,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "top-right-speaker-row",
+        "quantity": "farthest-hole-center-from-adjacent-side",
+        "value": 56.44,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "bottom-right-speaker-row",
+        "quantity": "nearest-hole-center-from-adjacent-side",
+        "value": 28.22,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "bottom-right-speaker-row",
+        "quantity": "farthest-hole-center-from-adjacent-side",
+        "value": 56.44,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "active-display",
+        "quantity": "left-right-inset",
+        "value": 10.04,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "active-display",
+        "quantity": "top-bottom-inset",
+        "value": 10.04,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "top-ambient-light-sensor-left",
+        "quantity": "center-from-left",
+        "value": 22.13,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "top-ambient-light-sensor-right",
+        "quantity": "center-from-left",
+        "value": 51.4,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "top-ambient-light-sensors",
+        "quantity": "center-from-top",
+        "value": 4.62,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "right-microphone",
+        "quantity": "center-from-top",
+        "value": 133.32,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "right-microphone",
+        "quantity": "center-from-right",
+        "value": 4.49,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "right-ambient-light-sensor",
+        "quantity": "center-from-top",
+        "value": 138.92,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "right-ambient-light-sensor",
+        "quantity": "center-from-right",
+        "value": 4.49,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "front-camera",
+        "quantity": "center-from-top",
+        "value": 114.32,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "horizontal-separation-from-rear-view-centerline",
+        "value": 76.56,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Explicit source-view distances retained without reconciling small rounding differences against edge-based camera dimensions."
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "horizontal-separation-from-rear-view-centerline",
+        "value": 76.56,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Explicit source-view distances retained without reconciling small rounding differences against edge-based camera dimensions."
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "vertical-separation-above-body-centerline",
+        "value": 111.12,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Explicit source-view distances retained without reconciling small rounding differences against edge-based camera dimensions."
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "vertical-separation-above-body-centerline",
+        "value": 96.2,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Explicit source-view distances retained without reconciling small rounding differences against edge-based camera dimensions."
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "center-from-left-rear-view",
+        "value": 12.68,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Explicit source-view distances retained without reconciling small rounding differences against edge-based camera dimensions."
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "center-from-bottom",
+        "value": 12,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Explicit source-view distances retained without reconciling small rounding differences against edge-based camera dimensions."
+      }
+    ],
+    "features": {
+      "speakerOpeningCounts": {
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "topTotal": 21,
+        "bottomTotal": 24,
+        "note": "Printed 21X/24X diameter callouts count all holes addressed by the two row leaders, not holes per row."
+      },
+      "sharedDrawingApplicability": {
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Drawing title expressly lists Air 11-inch M2/M3/M4; source is shared M4-hosted PDF."
+      }
+    },
+    "profiles": [],
+    "reviewScope": "Front/rear feature views visually reviewed with enlarged controls, sensor and contour details. Complements existing base/main/section data; no unprinted optical centers or contour interpolation."
+  },
+  {
+    "id": "ipad-air-11-inch-m3",
+    "sourcePagesReviewed": [
+      2,
+      3
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "top-button",
+        "quantity": "length",
+        "value": 17.12,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "speaker-openings",
+        "quantity": "center-depth-ordinate",
+        "value": 3.04,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button-keepout",
+        "quantity": "offset-to-housing",
+        "value": 0,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button-keepout",
+        "quantity": "offset-to-cover-glass",
+        "value": 0,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "top-left-speaker-row",
+        "quantity": "nearest-hole-center-from-adjacent-side",
+        "value": 28.22,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "top-left-speaker-row",
+        "quantity": "farthest-hole-center-from-adjacent-side",
+        "value": 56.44,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "bottom-left-speaker-row",
+        "quantity": "nearest-hole-center-from-adjacent-side",
+        "value": 28.22,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "bottom-left-speaker-row",
+        "quantity": "farthest-hole-center-from-adjacent-side",
+        "value": 56.44,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "top-right-speaker-row",
+        "quantity": "nearest-hole-center-from-adjacent-side",
+        "value": 35.92,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "top-right-speaker-row",
+        "quantity": "farthest-hole-center-from-adjacent-side",
+        "value": 56.44,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "bottom-right-speaker-row",
+        "quantity": "nearest-hole-center-from-adjacent-side",
+        "value": 28.22,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "bottom-right-speaker-row",
+        "quantity": "farthest-hole-center-from-adjacent-side",
+        "value": 56.44,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "active-display",
+        "quantity": "left-right-inset",
+        "value": 10.04,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "active-display",
+        "quantity": "top-bottom-inset",
+        "value": 10.04,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "top-ambient-light-sensor-left",
+        "quantity": "center-from-left",
+        "value": 22.13,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "top-ambient-light-sensor-right",
+        "quantity": "center-from-left",
+        "value": 51.4,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "top-ambient-light-sensors",
+        "quantity": "center-from-top",
+        "value": 4.62,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "right-microphone",
+        "quantity": "center-from-top",
+        "value": 133.32,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "right-microphone",
+        "quantity": "center-from-right",
+        "value": 4.49,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "right-ambient-light-sensor",
+        "quantity": "center-from-top",
+        "value": 138.92,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "right-ambient-light-sensor",
+        "quantity": "center-from-right",
+        "value": 4.49,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "front-camera",
+        "quantity": "center-from-top",
+        "value": 114.32,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "horizontal-separation-from-rear-view-centerline",
+        "value": 76.56,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Explicit source-view distances retained without reconciling small rounding differences against edge-based camera dimensions."
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "horizontal-separation-from-rear-view-centerline",
+        "value": 76.56,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Explicit source-view distances retained without reconciling small rounding differences against edge-based camera dimensions."
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "vertical-separation-above-body-centerline",
+        "value": 111.12,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Explicit source-view distances retained without reconciling small rounding differences against edge-based camera dimensions."
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "vertical-separation-above-body-centerline",
+        "value": 96.2,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Explicit source-view distances retained without reconciling small rounding differences against edge-based camera dimensions."
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "center-from-left-rear-view",
+        "value": 12.68,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Explicit source-view distances retained without reconciling small rounding differences against edge-based camera dimensions."
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "center-from-bottom",
+        "value": 12,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Explicit source-view distances retained without reconciling small rounding differences against edge-based camera dimensions."
+      }
+    ],
+    "features": {
+      "speakerOpeningCounts": {
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "topTotal": 21,
+        "bottomTotal": 24,
+        "note": "Printed 21X/24X diameter callouts count all holes addressed by the two row leaders, not holes per row."
+      },
+      "sharedDrawingApplicability": {
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Drawing title expressly lists Air 11-inch M2/M3/M4; source is shared M4-hosted PDF."
+      }
+    },
+    "profiles": [],
+    "reviewScope": "Front/rear feature views visually reviewed with enlarged controls, sensor and contour details. Complements existing base/main/section data; no unprinted optical centers or contour interpolation."
+  },
+  {
+    "id": "ipad-air-11-inch-m4",
+    "sourcePagesReviewed": [
+      2,
+      3
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "top-button",
+        "quantity": "length",
+        "value": 17.12,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "speaker-openings",
+        "quantity": "center-depth-ordinate",
+        "value": 3.04,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button-keepout",
+        "quantity": "offset-to-housing",
+        "value": 0,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button-keepout",
+        "quantity": "offset-to-cover-glass",
+        "value": 0,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "top-left-speaker-row",
+        "quantity": "nearest-hole-center-from-adjacent-side",
+        "value": 28.22,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "top-left-speaker-row",
+        "quantity": "farthest-hole-center-from-adjacent-side",
+        "value": 56.44,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "bottom-left-speaker-row",
+        "quantity": "nearest-hole-center-from-adjacent-side",
+        "value": 28.22,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "bottom-left-speaker-row",
+        "quantity": "farthest-hole-center-from-adjacent-side",
+        "value": 56.44,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "top-right-speaker-row",
+        "quantity": "nearest-hole-center-from-adjacent-side",
+        "value": 35.92,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "top-right-speaker-row",
+        "quantity": "farthest-hole-center-from-adjacent-side",
+        "value": 56.44,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "bottom-right-speaker-row",
+        "quantity": "nearest-hole-center-from-adjacent-side",
+        "value": 28.22,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "bottom-right-speaker-row",
+        "quantity": "farthest-hole-center-from-adjacent-side",
+        "value": 56.44,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "active-display",
+        "quantity": "left-right-inset",
+        "value": 10.04,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "active-display",
+        "quantity": "top-bottom-inset",
+        "value": 10.04,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "top-ambient-light-sensor-left",
+        "quantity": "center-from-left",
+        "value": 22.13,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "top-ambient-light-sensor-right",
+        "quantity": "center-from-left",
+        "value": 51.4,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "top-ambient-light-sensors",
+        "quantity": "center-from-top",
+        "value": 4.62,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "right-microphone",
+        "quantity": "center-from-top",
+        "value": 133.32,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "right-microphone",
+        "quantity": "center-from-right",
+        "value": 4.49,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "right-ambient-light-sensor",
+        "quantity": "center-from-top",
+        "value": 138.92,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "right-ambient-light-sensor",
+        "quantity": "center-from-right",
+        "value": 4.49,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "front-camera",
+        "quantity": "center-from-top",
+        "value": 114.32,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "horizontal-separation-from-rear-view-centerline",
+        "value": 76.56,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Explicit source-view distances retained without reconciling small rounding differences against edge-based camera dimensions."
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "horizontal-separation-from-rear-view-centerline",
+        "value": 76.56,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Explicit source-view distances retained without reconciling small rounding differences against edge-based camera dimensions."
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "vertical-separation-above-body-centerline",
+        "value": 111.12,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Explicit source-view distances retained without reconciling small rounding differences against edge-based camera dimensions."
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "vertical-separation-above-body-centerline",
+        "value": 96.2,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Explicit source-view distances retained without reconciling small rounding differences against edge-based camera dimensions."
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "center-from-left-rear-view",
+        "value": 12.68,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Explicit source-view distances retained without reconciling small rounding differences against edge-based camera dimensions."
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "center-from-bottom",
+        "value": 12,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Explicit source-view distances retained without reconciling small rounding differences against edge-based camera dimensions."
+      }
+    ],
+    "features": {
+      "speakerOpeningCounts": {
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "topTotal": 21,
+        "bottomTotal": 24,
+        "note": "Printed 21X/24X diameter callouts count all holes addressed by the two row leaders, not holes per row."
+      },
+      "sharedDrawingApplicability": {
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Drawing title expressly lists Air 11-inch M2/M3/M4; source is shared M4-hosted PDF."
+      }
+    },
+    "profiles": [],
+    "reviewScope": "Front/rear feature views visually reviewed with enlarged controls, sensor and contour details. Complements existing base/main/section data; no unprinted optical centers or contour interpolation."
+  },
+  {
+    "id": "ipad-air-13-inch-m2",
+    "sourcePagesReviewed": [
+      2,
+      3
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "top-button",
+        "quantity": "length",
+        "value": 17.12,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "speaker-openings",
+        "quantity": "center-depth-ordinate",
+        "value": 3.04,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button-keepout",
+        "quantity": "offset-to-housing",
+        "value": 0.02,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button-keepout",
+        "quantity": "offset-to-cover-glass",
+        "value": 0.03,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "top-left-speaker-row",
+        "quantity": "nearest-hole-center-from-adjacent-side",
+        "value": 35.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "top-left-speaker-row",
+        "quantity": "farthest-hole-center-from-adjacent-side",
+        "value": 63.71,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "bottom-left-speaker-row",
+        "quantity": "nearest-hole-center-from-adjacent-side",
+        "value": 35.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "bottom-left-speaker-row",
+        "quantity": "farthest-hole-center-from-adjacent-side",
+        "value": 63.71,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "top-right-speaker-row",
+        "quantity": "nearest-hole-center-from-adjacent-side",
+        "value": 35.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "top-right-speaker-row",
+        "quantity": "farthest-hole-center-from-adjacent-side",
+        "value": 63.71,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "bottom-right-speaker-row",
+        "quantity": "nearest-hole-center-from-adjacent-side",
+        "value": 35.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "bottom-right-speaker-row",
+        "quantity": "farthest-hole-center-from-adjacent-side",
+        "value": 63.71,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "active-display",
+        "quantity": "left-right-inset",
+        "value": 8.69,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "active-display",
+        "quantity": "top-bottom-inset",
+        "value": 8.7,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button",
+        "quantity": "nearest-edge-from-cover-glass",
+        "value": 1.09,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Top-view witness from cover-glass plane to nearer button edge; not center offset."
+      },
+      {
+        "feature": "ambient-light-sensors",
+        "quantity": "diameter",
+        "value": 2.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "ambient-light-sensors",
+        "quantity": "center-from-right",
+        "value": 4.22,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "upper-ambient-light-sensor",
+        "quantity": "center-distance-above-horizontal-body-centerline",
+        "value": 94.66,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "lower-ambient-light-sensor",
+        "quantity": "center-distance-below-horizontal-body-centerline",
+        "value": 15.56,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "front-microphone-keepout",
+        "quantity": "diameter",
+        "value": 0.9,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "front-microphone",
+        "quantity": "center-distance-below-horizontal-body-centerline",
+        "value": 9.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "front-camera",
+        "quantity": "center-distance-above-horizontal-body-centerline",
+        "value": 9.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "horizontal-separation-from-rear-view-centerline",
+        "value": 94.8,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Explicit source-view distances retained without reconciling small rounding differences against edge-based camera dimensions."
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "horizontal-separation-from-rear-view-centerline",
+        "value": 94.8,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Explicit source-view distances retained without reconciling small rounding differences against edge-based camera dimensions."
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "vertical-separation-above-body-centerline",
+        "value": 127.64,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Explicit source-view distances retained without reconciling small rounding differences against edge-based camera dimensions."
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "vertical-separation-above-body-centerline",
+        "value": 112.72,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Explicit source-view distances retained without reconciling small rounding differences against edge-based camera dimensions."
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "center-from-left-rear-view",
+        "value": 12.69,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Explicit source-view distances retained without reconciling small rounding differences against edge-based camera dimensions."
+      }
+    ],
+    "features": {
+      "speakerOpeningCounts": {
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "topTotal": 24,
+        "bottomTotal": 24,
+        "note": "Printed 21X/24X diameter callouts count all holes addressed by the two row leaders, not holes per row."
+      },
+      "sharedDrawingApplicability": {
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Drawing title expressly lists Air 13-inch M2/M3/M4; source is shared M4-hosted PDF."
+      }
+    },
+    "profiles": [],
+    "reviewScope": "Front/rear feature views visually reviewed with enlarged controls, sensor and contour details. Complements existing base/main/section data; no unprinted optical centers or contour interpolation."
+  },
+  {
+    "id": "ipad-air-13-inch-m3",
+    "sourcePagesReviewed": [
+      2,
+      3
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "top-button",
+        "quantity": "length",
+        "value": 17.12,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "speaker-openings",
+        "quantity": "center-depth-ordinate",
+        "value": 3.04,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button-keepout",
+        "quantity": "offset-to-housing",
+        "value": 0.02,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button-keepout",
+        "quantity": "offset-to-cover-glass",
+        "value": 0.03,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "top-left-speaker-row",
+        "quantity": "nearest-hole-center-from-adjacent-side",
+        "value": 35.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "top-left-speaker-row",
+        "quantity": "farthest-hole-center-from-adjacent-side",
+        "value": 63.71,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "bottom-left-speaker-row",
+        "quantity": "nearest-hole-center-from-adjacent-side",
+        "value": 35.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "bottom-left-speaker-row",
+        "quantity": "farthest-hole-center-from-adjacent-side",
+        "value": 63.71,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "top-right-speaker-row",
+        "quantity": "nearest-hole-center-from-adjacent-side",
+        "value": 35.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "top-right-speaker-row",
+        "quantity": "farthest-hole-center-from-adjacent-side",
+        "value": 63.71,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "bottom-right-speaker-row",
+        "quantity": "nearest-hole-center-from-adjacent-side",
+        "value": 35.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "bottom-right-speaker-row",
+        "quantity": "farthest-hole-center-from-adjacent-side",
+        "value": 63.71,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "active-display",
+        "quantity": "left-right-inset",
+        "value": 8.69,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "active-display",
+        "quantity": "top-bottom-inset",
+        "value": 8.7,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button",
+        "quantity": "nearest-edge-from-cover-glass",
+        "value": 1.09,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Top-view witness from cover-glass plane to nearer button edge; not center offset."
+      },
+      {
+        "feature": "ambient-light-sensors",
+        "quantity": "diameter",
+        "value": 2.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "ambient-light-sensors",
+        "quantity": "center-from-right",
+        "value": 4.22,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "upper-ambient-light-sensor",
+        "quantity": "center-distance-above-horizontal-body-centerline",
+        "value": 94.66,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "lower-ambient-light-sensor",
+        "quantity": "center-distance-below-horizontal-body-centerline",
+        "value": 15.56,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "front-microphone-keepout",
+        "quantity": "diameter",
+        "value": 0.9,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "front-microphone",
+        "quantity": "center-distance-below-horizontal-body-centerline",
+        "value": 9.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "front-camera",
+        "quantity": "center-distance-above-horizontal-body-centerline",
+        "value": 9.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "horizontal-separation-from-rear-view-centerline",
+        "value": 94.8,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Explicit source-view distances retained without reconciling small rounding differences against edge-based camera dimensions."
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "horizontal-separation-from-rear-view-centerline",
+        "value": 94.8,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Explicit source-view distances retained without reconciling small rounding differences against edge-based camera dimensions."
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "vertical-separation-above-body-centerline",
+        "value": 127.64,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Explicit source-view distances retained without reconciling small rounding differences against edge-based camera dimensions."
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "vertical-separation-above-body-centerline",
+        "value": 112.72,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Explicit source-view distances retained without reconciling small rounding differences against edge-based camera dimensions."
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "center-from-left-rear-view",
+        "value": 12.69,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Explicit source-view distances retained without reconciling small rounding differences against edge-based camera dimensions."
+      }
+    ],
+    "features": {
+      "speakerOpeningCounts": {
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "topTotal": 24,
+        "bottomTotal": 24,
+        "note": "Printed 21X/24X diameter callouts count all holes addressed by the two row leaders, not holes per row."
+      },
+      "sharedDrawingApplicability": {
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Drawing title expressly lists Air 13-inch M2/M3/M4; source is shared M4-hosted PDF."
+      }
+    },
+    "profiles": [],
+    "reviewScope": "Front/rear feature views visually reviewed with enlarged controls, sensor and contour details. Complements existing base/main/section data; no unprinted optical centers or contour interpolation."
+  },
+  {
+    "id": "ipad-air-13-inch-m4",
+    "sourcePagesReviewed": [
+      2,
+      3
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "top-button",
+        "quantity": "length",
+        "value": 17.12,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "speaker-openings",
+        "quantity": "center-depth-ordinate",
+        "value": 3.04,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button-keepout",
+        "quantity": "offset-to-housing",
+        "value": 0.02,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button-keepout",
+        "quantity": "offset-to-cover-glass",
+        "value": 0.03,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "top-left-speaker-row",
+        "quantity": "nearest-hole-center-from-adjacent-side",
+        "value": 35.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "top-left-speaker-row",
+        "quantity": "farthest-hole-center-from-adjacent-side",
+        "value": 63.71,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "bottom-left-speaker-row",
+        "quantity": "nearest-hole-center-from-adjacent-side",
+        "value": 35.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "bottom-left-speaker-row",
+        "quantity": "farthest-hole-center-from-adjacent-side",
+        "value": 63.71,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "top-right-speaker-row",
+        "quantity": "nearest-hole-center-from-adjacent-side",
+        "value": 35.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "top-right-speaker-row",
+        "quantity": "farthest-hole-center-from-adjacent-side",
+        "value": 63.71,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "bottom-right-speaker-row",
+        "quantity": "nearest-hole-center-from-adjacent-side",
+        "value": 35.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "bottom-right-speaker-row",
+        "quantity": "farthest-hole-center-from-adjacent-side",
+        "value": 63.71,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "End-hole-center distances from the adjacent housing end in the top/bottom orthographic view; no individual hole pitch inferred."
+      },
+      {
+        "feature": "active-display",
+        "quantity": "left-right-inset",
+        "value": 8.69,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "active-display",
+        "quantity": "top-bottom-inset",
+        "value": 8.7,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "top-button",
+        "quantity": "nearest-edge-from-cover-glass",
+        "value": 1.09,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Top-view witness from cover-glass plane to nearer button edge; not center offset."
+      },
+      {
+        "feature": "ambient-light-sensors",
+        "quantity": "diameter",
+        "value": 2.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "ambient-light-sensors",
+        "quantity": "center-from-right",
+        "value": 4.22,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "upper-ambient-light-sensor",
+        "quantity": "center-distance-above-horizontal-body-centerline",
+        "value": 94.66,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "lower-ambient-light-sensor",
+        "quantity": "center-distance-below-horizontal-body-centerline",
+        "value": 15.56,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "front-microphone-keepout",
+        "quantity": "diameter",
+        "value": 0.9,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "front-microphone",
+        "quantity": "center-distance-below-horizontal-body-centerline",
+        "value": 9.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "front-camera",
+        "quantity": "center-distance-above-horizontal-body-centerline",
+        "value": 9.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "horizontal-separation-from-rear-view-centerline",
+        "value": 94.8,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Explicit source-view distances retained without reconciling small rounding differences against edge-based camera dimensions."
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "horizontal-separation-from-rear-view-centerline",
+        "value": 94.8,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Explicit source-view distances retained without reconciling small rounding differences against edge-based camera dimensions."
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "vertical-separation-above-body-centerline",
+        "value": 127.64,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Explicit source-view distances retained without reconciling small rounding differences against edge-based camera dimensions."
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "vertical-separation-above-body-centerline",
+        "value": 112.72,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Explicit source-view distances retained without reconciling small rounding differences against edge-based camera dimensions."
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "center-from-left-rear-view",
+        "value": 12.69,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Explicit source-view distances retained without reconciling small rounding differences against edge-based camera dimensions."
+      }
+    ],
+    "features": {
+      "speakerOpeningCounts": {
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "topTotal": 24,
+        "bottomTotal": 24,
+        "note": "Printed 21X/24X diameter callouts count all holes addressed by the two row leaders, not holes per row."
+      },
+      "sharedDrawingApplicability": {
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Drawing title expressly lists Air 13-inch M2/M3/M4; source is shared M4-hosted PDF."
+      }
+    },
+    "profiles": [],
+    "reviewScope": "Front/rear feature views visually reviewed with enlarged controls, sensor and contour details. Complements existing base/main/section data; no unprinted optical centers or contour interpolation."
+  },
+  {
+    "id": "ipad-mini-a17-pro",
+    "sourcePagesReviewed": [
+      2,
+      3
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "active-display",
+        "quantity": "left-right-inset",
+        "value": 8.84,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+      },
+      {
+        "feature": "active-display",
+        "quantity": "top-bottom-inset",
+        "value": 8.84,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+      },
+      {
+        "feature": "sleep-wake-button",
+        "quantity": "length",
+        "value": 17.12,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+      },
+      {
+        "feature": "sleep-wake-button",
+        "quantity": "width",
+        "value": 3.45,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+      },
+      {
+        "feature": "sleep-wake-button",
+        "quantity": "left-end-from-left-housing-edge",
+        "value": 12.69,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+      },
+      {
+        "feature": "volume-up-button",
+        "quantity": "right-end-from-right-housing-edge",
+        "value": 24.88,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+      },
+      {
+        "feature": "volume-down-button",
+        "quantity": "right-end-from-right-housing-edge",
+        "value": 12.82,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+      },
+      {
+        "feature": "top-buttons",
+        "quantity": "center-depth-ordinate",
+        "value": 3.14,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+      },
+      {
+        "feature": "speaker-openings",
+        "quantity": "center-depth-ordinate",
+        "value": 3.14,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+      },
+      {
+        "feature": "top-left-speaker-row",
+        "quantity": "nearest-hole-center-from-left",
+        "value": 32.74,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+      },
+      {
+        "feature": "top-left-speaker-row",
+        "quantity": "first-to-last-hole-center-span",
+        "value": 17.96,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+      },
+      {
+        "feature": "top-right-speaker-row",
+        "quantity": "nearest-hole-center-from-right",
+        "value": 37.87,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+      },
+      {
+        "feature": "top-right-speaker-row",
+        "quantity": "first-to-last-hole-center-span",
+        "value": 12.82,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+      },
+      {
+        "feature": "bottom-speaker-rows",
+        "quantity": "nearest-hole-center-from-adjacent-side",
+        "value": 27.61,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+      },
+      {
+        "feature": "bottom-speaker-rows",
+        "quantity": "first-to-last-hole-center-span",
+        "value": 23.08,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+      },
+      {
+        "feature": "usb-c-port",
+        "quantity": "left-edge-from-bottom-view-left",
+        "value": 63.11,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+      },
+      {
+        "feature": "usb-c-port",
+        "quantity": "right-edge-from-bottom-view-left",
+        "value": 71.64,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+      },
+      {
+        "feature": "usb-c-port",
+        "quantity": "center-depth-ordinate",
+        "value": 3.14,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+      },
+      {
+        "feature": "sleep-wake-button-keepout",
+        "quantity": "offset-to-cover-glass",
+        "value": 0,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+      },
+      {
+        "feature": "sleep-wake-button-keepout",
+        "quantity": "offset-to-housing-backside",
+        "value": 0,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+      },
+      {
+        "feature": "inductive-charging-window",
+        "quantity": "center-depth-from-housing-back",
+        "value": 3.14,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf",
+        "note": "Source side-view witness endpoints: centerline of window to housing-back plane; not source front-camera optical coordinate."
+      },
+      {
+        "feature": "inductive-charging-window",
+        "quantity": "width",
+        "value": 2.93,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "vertical-separation-above-body-centerline",
+        "value": 75.33,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+      },
+      {
+        "feature": "rear-flash",
+        "quantity": "vertical-separation-above-body-centerline",
+        "value": 70.1,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "printed-vertical-centerline-distance",
+        "value": 170.04,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf",
+        "note": "Printed 170.04 attached to camera-to-horizontal-centerline witnesses exceeds body half-height. Retained as source callout only; not accepted as global center coordinate and not silently halved."
+      },
+      {
+        "feature": "rear-camera-microphone-flash-group",
+        "quantity": "printed-horizontal-centerline-distance",
+        "value": 109.36,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf",
+        "note": "Printed 3X 109.36 from feature column to vertical centerline exceeds body half-width. Source geometry/dimension discrepancy retained; do not treat as physical global center coordinate or silently halve."
+      }
+    ],
+    "features": {
+      "generalTolerances": {
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf",
+        "linearByDecimalPlacesMm": {
+          "1": 0.2,
+          "2": 0.1,
+          "3": 0.05
+        },
+        "anglesPlusMinusDegrees": 0.5,
+        "note": "Printed title-block defaults; explicit local notes take precedence."
+      },
+      "rearCoordinateAmbiguity": {
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf",
+        "note": "Camera 170.04 and group 109.36 callouts conflict with apparent centerline geometry and overall front-view envelope. Preserve raw printed distances as unresolved rather than deriving physical optical centers. Other rear microphone/flash centerline distances retained as printed."
+      }
+    },
+    "profiles": [
+      {
+        "feature": "rear-camera-side-wall-transition",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "horizontal",
+        "values": [
+          -1.54,
+          -1.08,
+          -0.67,
+          -0.15,
+          0
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf",
+        "detail": "F",
+        "coordinateSystem": "Local parenthesized 0.00 at camera-base/housing transition; horizontal negative toward raised camera, vertical signs as printed.",
+        "note": "Unpaired ordinate stream; no optical interpretation."
+      },
+      {
+        "feature": "rear-camera-side-wall-transition",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "vertical",
+        "values": [
+          1.77,
+          0.9,
+          0.23,
+          0.05,
+          0
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf",
+        "detail": "F",
+        "coordinateSystem": "Local parenthesized 0.00 at camera-base/housing transition; horizontal negative toward raised camera, vertical signs as printed.",
+        "note": "Unpaired ordinate stream; no optical interpretation."
+      }
+    ],
+    "reviewScope": "Front/rear feature views visually reviewed with enlarged controls, sensor and contour details. Complements existing base/main/section data; no unprinted optical centers or contour interpolation."
+  },
+  {
+    "id": "ipad-mini-6th-generation",
+    "sourcePagesReviewed": [
+      2,
+      3
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "active-display",
+        "quantity": "left-right-inset",
+        "value": 8.84,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+      },
+      {
+        "feature": "active-display",
+        "quantity": "top-bottom-inset",
+        "value": 8.84,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+      },
+      {
+        "feature": "sleep-wake-button",
+        "quantity": "length",
+        "value": 17.12,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+      },
+      {
+        "feature": "sleep-wake-button",
+        "quantity": "width",
+        "value": 3.45,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+      },
+      {
+        "feature": "sleep-wake-button",
+        "quantity": "left-end-from-left-housing-edge",
+        "value": 12.69,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+      },
+      {
+        "feature": "volume-up-button",
+        "quantity": "right-end-from-right-housing-edge",
+        "value": 24.88,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+      },
+      {
+        "feature": "volume-down-button",
+        "quantity": "right-end-from-right-housing-edge",
+        "value": 12.82,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+      },
+      {
+        "feature": "top-buttons",
+        "quantity": "center-depth-ordinate",
+        "value": 3.14,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+      },
+      {
+        "feature": "speaker-openings",
+        "quantity": "center-depth-ordinate",
+        "value": 3.14,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+      },
+      {
+        "feature": "top-left-speaker-row",
+        "quantity": "nearest-hole-center-from-left",
+        "value": 32.74,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+      },
+      {
+        "feature": "top-left-speaker-row",
+        "quantity": "first-to-last-hole-center-span",
+        "value": 17.96,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+      },
+      {
+        "feature": "top-right-speaker-row",
+        "quantity": "nearest-hole-center-from-right",
+        "value": 37.87,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+      },
+      {
+        "feature": "top-right-speaker-row",
+        "quantity": "first-to-last-hole-center-span",
+        "value": 12.82,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+      },
+      {
+        "feature": "bottom-speaker-rows",
+        "quantity": "nearest-hole-center-from-adjacent-side",
+        "value": 27.61,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+      },
+      {
+        "feature": "bottom-speaker-rows",
+        "quantity": "first-to-last-hole-center-span",
+        "value": 23.08,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+      },
+      {
+        "feature": "usb-c-port",
+        "quantity": "left-edge-from-bottom-view-left",
+        "value": 63.1,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+      },
+      {
+        "feature": "usb-c-port",
+        "quantity": "right-edge-from-bottom-view-left",
+        "value": 71.65,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+      },
+      {
+        "feature": "usb-c-port",
+        "quantity": "center-depth-ordinate",
+        "value": 3.14,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+      },
+      {
+        "feature": "sleep-wake-button-keepout",
+        "quantity": "offset-to-cover-glass",
+        "value": 0,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+      },
+      {
+        "feature": "sleep-wake-button-keepout",
+        "quantity": "offset-to-housing-backside",
+        "value": 0,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+      },
+      {
+        "feature": "inductive-charging-window",
+        "quantity": "center-depth-from-housing-back",
+        "value": 3.14,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf",
+        "note": "Source side-view witness endpoints: centerline of window to housing-back plane; not source front-camera optical coordinate."
+      },
+      {
+        "feature": "sim-tray",
+        "quantity": "length",
+        "value": 15.83,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf",
+        "note": "Cellular model SIM-tray geometry."
+      },
+      {
+        "feature": "sim-tray",
+        "quantity": "width",
+        "value": 2.25,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf",
+        "note": "Cellular model SIM-tray geometry."
+      },
+      {
+        "feature": "sim-tray",
+        "quantity": "lower-end-from-bottom",
+        "value": 20.98,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf",
+        "note": "Cellular model SIM-tray geometry."
+      },
+      {
+        "feature": "sim-tray",
+        "quantity": "center-depth-from-housing-back",
+        "value": 3.14,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf",
+        "note": "Cellular model SIM-tray geometry."
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "vertical-separation-above-body-centerline",
+        "value": 75.33,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+      },
+      {
+        "feature": "rear-flash",
+        "quantity": "vertical-separation-above-body-centerline",
+        "value": 70.1,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "printed-vertical-centerline-distance",
+        "value": 170.04,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf",
+        "note": "Printed 170.04 attached to camera-to-horizontal-centerline witnesses exceeds body half-height. Retained as source callout only; not accepted as global center coordinate and not silently halved."
+      },
+      {
+        "feature": "rear-camera-microphone-flash-group",
+        "quantity": "printed-horizontal-centerline-distance",
+        "value": 109.36,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf",
+        "note": "Printed 3X 109.36 from feature column to vertical centerline exceeds body half-width. Source geometry/dimension discrepancy retained; do not treat as physical global center coordinate or silently halve."
+      }
+    ],
+    "features": {
+      "generalTolerances": {
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf",
+        "linearByDecimalPlacesMm": {
+          "1": 0.2,
+          "2": 0.1,
+          "3": 0.05
+        },
+        "anglesPlusMinusDegrees": 0.5,
+        "note": "Printed title-block defaults; explicit local notes take precedence."
+      },
+      "rearCoordinateAmbiguity": {
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf",
+        "note": "Camera 170.04 and group 109.36 callouts conflict with apparent centerline geometry and overall front-view envelope. Preserve raw printed distances as unresolved rather than deriving physical optical centers. Other rear microphone/flash centerline distances retained as printed."
+      }
+    },
+    "profiles": [
+      {
+        "feature": "rear-camera-side-wall-transition",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "horizontal",
+        "values": [
+          -1.53,
+          -1.06,
+          -0.69,
+          -0.15,
+          0
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf",
+        "detail": "F",
+        "coordinateSystem": "Local parenthesized 0.00 at camera-base/housing transition; horizontal negative toward raised camera, vertical signs as printed.",
+        "note": "Unpaired ordinate stream; no optical interpretation."
+      },
+      {
+        "feature": "rear-camera-side-wall-transition",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "vertical",
+        "values": [
+          1.76,
+          0.86,
+          0.2,
+          0.04,
+          -0.01,
+          0
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf",
+        "detail": "F",
+        "coordinateSystem": "Local parenthesized 0.00 at camera-base/housing transition; horizontal negative toward raised camera, vertical signs as printed.",
+        "note": "Unpaired ordinate stream; no optical interpretation."
+      }
+    ],
+    "reviewScope": "Front/rear feature views visually reviewed with enlarged controls, sensor and contour details. Complements existing base/main/section data; no unprinted optical centers or contour interpolation."
+  }
+]

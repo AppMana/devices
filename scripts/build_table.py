@@ -58,7 +58,7 @@ def main():
         if id=='iphone-15-pro-max' and not r['bodyMm']:r['bodyMm']=dict(width=76.73,height=159.86)
         if r['display']['nativePixels'] and r['display']['activeMm']:
             r['display']['ppi']={axis:r['display']['nativePixels'][key]*25.4/r['display']['activeMm'][key] for axis,key in [('x','width'),('y','height')]}
-    for filename in ('ipad-feature-review.json','iphone-camera-feature-review.json','watch-feature-review.json','accessory-feature-review.json','ipad-pro-legacy-feature-review.json','ipad-modern-section-feature-review.json'):
+    for filename in ('ipad-feature-review.json','iphone-camera-feature-review.json','watch-feature-review.json','accessory-feature-review.json','ipad-pro-legacy-feature-review.json','ipad-modern-section-feature-review.json','ipad-pro-modern-front-feature-review.json','ipad-air-mini-front-feature-review.json'):
         path=ROOT/'scripts'/filename
         if not path.exists():continue
         additions=json.loads(path.read_text())
