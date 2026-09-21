@@ -37,7 +37,7 @@ test('all indexed phones and tablets have reviewed physical scale', () => {
  assert.equal(findDevice('ipad-10th-generation').display.activeMm.width,158.94);
  assert.equal(findDevice('ipad-mini-6th-generation').frontCamera,null);
  assert.deepEqual(findDevice('iphone-se-2nd-generation').frontCamera,findDevice('iphone-se-3rd-generation').frontCamera);
- assert.equal(findDevice('iphone-se-3rd-generation').frontCamera.x,-10.655);
+ assert.equal(findDevice('iphone-se-3rd-generation').frontCamera.x,-10.645);
 });
 
 test('reviewed accessory dimensions preserve mechanical meaning and unknowns', () => {

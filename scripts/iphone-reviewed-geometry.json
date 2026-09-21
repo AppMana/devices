@@ -616,12 +616,12 @@
       "height": 134.97
     },
     "frontCameraPortraitMm": {
-      "x": -10.655,
+      "x": -10.645,
       "y": 60.12
     },
     "sourcePage": 2,
     "sourceSheet": 1,
-    "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout. Detail A places front camera centre 22.98 mm from left edge, 9.10 mm from top: x=22.98-67.27/2; y=138.44/2-9.10. Sheet explicitly applies to SE 2nd and 3rd generations.",
+    "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout. Detail A places front camera centre 22.99 mm from left edge, 9.10 mm from top: x=22.99-67.27/2; y=138.44/2-9.10. Sheet explicitly applies to SE 2nd and 3rd generations.",
     "additionalDimensions": [
       {
         "feature": "front-camera-keepout",

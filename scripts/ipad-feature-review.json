@@ -5122,5 +5122,1422 @@
       }
     },
     "reviewScope": "A16 drawing explicitly covers iPad A16 and 10th generation. Named camera/sensor/button/connector dimensions and title-block tolerances reviewed; other pages, magnets and local contour callouts remain incomplete."
+  },
+  {
+    "id": "ipad-9th-generation",
+    "sourcePagesReviewed": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "front-camera",
+        "quantity": "diameter",
+        "value": 3.5,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "front-camera",
+        "quantity": "centre-from-top",
+        "value": 11.07,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "front-camera",
+        "quantity": "centre-from-left",
+        "value": 87.04,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "centre-from-left-rear-view",
+        "value": 11.66,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "centre-from-top",
+        "value": 14.37,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-camera-keepout",
+        "quantity": "surface-diameter",
+        "value": 8.24,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-camera-image-cone",
+        "quantity": "surface-diameter",
+        "value": 6.09,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "top-microphone-keepout",
+        "quantity": "diameter",
+        "value": 1.6,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-microphone-keepout",
+        "quantity": "diameter",
+        "value": 1.6,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "audio-jack-mating-connector-keepout",
+        "quantity": "diameter",
+        "value": 6.5,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "audio-jack-mating-connector-keepout",
+        "quantity": "outward-depth",
+        "value": 14,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "audio-jack",
+        "quantity": "centre-from-left",
+        "value": 14.62,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "upper-centre-from-top",
+        "value": 26.25,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "lower-centre-from-top",
+        "value": 39.68,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "length",
+        "value": 10,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "home-button",
+        "quantity": "centre-from-bottom",
+        "value": 10.06,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "home-button-keepout",
+        "quantity": "surface-diameter",
+        "value": 14.6,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "lightning-mating-connector-recommended-keepout",
+        "quantity": "width",
+        "value": 13.65,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "lightning-mating-connector-recommended-keepout",
+        "quantity": "height",
+        "value": 6.85,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "lightning-mating-connector-recommended-keepout",
+        "quantity": "outward-depth",
+        "value": 14,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "lightning-connector-keepout",
+        "quantity": "height",
+        "value": 4.1,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "lightning-connector-keepout",
+        "quantity": "radius",
+        "value": 3.42,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "apple-pencil-charging-keepout",
+        "quantity": "diameter",
+        "value": 8.9,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "speaker-opening",
+        "quantity": "diameter",
+        "value": 1.6,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "adjacent-centre-spacing",
+        "value": 3.95,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "inner-diameter-in-reference-view",
+        "value": 2.5,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "outer-diameter-in-reference-view",
+        "value": 3.1,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "included-angle",
+        "value": 132.2,
+        "page": 2,
+        "unit": "degree",
+        "note": "Accessory keepout cone, not a measured optical capture field of view."
+      },
+      {
+        "feature": "rear-camera-keepout",
+        "quantity": "included-angle",
+        "value": 86,
+        "page": 2,
+        "unit": "degree",
+        "note": "Accessory keepout cone, not a measured optical capture field of view."
+      },
+      {
+        "feature": "home-button-keepout",
+        "quantity": "included-angle",
+        "value": 100,
+        "page": 2,
+        "unit": "degree",
+        "note": "Accessory keepout cone, not a measured optical capture field of view."
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "reference-view-angle-from-vertical-edge",
+        "value": 23.3,
+        "page": 2,
+        "unit": "degree"
+      },
+      {
+        "feature": "ambient-light-sensors",
+        "quantity": "diameter",
+        "value": 3,
+        "page": 4,
+        "unit": "mm"
+      },
+      {
+        "feature": "ambient-light-sensor-1",
+        "quantity": "landscape-y-from-centre",
+        "value": 65.5,
+        "page": 4,
+        "unit": "mm"
+      },
+      {
+        "feature": "ambient-light-sensor-2",
+        "quantity": "landscape-y-from-centre",
+        "value": -65.23,
+        "page": 4,
+        "unit": "mm"
+      },
+      {
+        "feature": "ambient-light-sensors",
+        "quantity": "landscape-x-from-centre",
+        "value": -114.27,
+        "page": 4,
+        "unit": "mm"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "horizontal-centre-to-cover-glass",
+        "value": 5.18,
+        "page": 5,
+        "unit": "mm"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "section-width",
+        "value": 2.2,
+        "page": 5,
+        "unit": "mm"
+      },
+      {
+        "feature": "microphone-exit",
+        "quantity": "depth-to-cover-glass",
+        "value": 3.95,
+        "page": 5,
+        "unit": "mm"
+      },
+      {
+        "feature": "microphone-opening",
+        "quantity": "diameter",
+        "value": 0.8,
+        "page": 5,
+        "unit": "mm"
+      },
+      {
+        "feature": "speaker-exit",
+        "quantity": "depth-to-cover-glass",
+        "value": 4.37,
+        "page": 5,
+        "unit": "mm"
+      },
+      {
+        "feature": "sim-tray",
+        "quantity": "outer-edge-to-cover-glass",
+        "value": 4.97,
+        "page": 5,
+        "unit": "mm"
+      },
+      {
+        "feature": "ambient-light-sensor-keepout",
+        "quantity": "included-angle",
+        "value": 120,
+        "page": 4,
+        "unit": "degree"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "section-angle",
+        "value": 32,
+        "page": 5,
+        "unit": "degree"
+      },
+      {
+        "feature": "microphone-exit",
+        "quantity": "section-angle",
+        "value": 25,
+        "page": 5,
+        "unit": "degree"
+      },
+      {
+        "feature": "speaker-keepout",
+        "quantity": "included-angle",
+        "value": 84,
+        "page": 5,
+        "unit": "degree"
+      },
+      {
+        "feature": "speaker-exit",
+        "quantity": "section-angle",
+        "value": 26,
+        "page": 5,
+        "unit": "degree"
+      }
+    ],
+    "profiles": [
+      {
+        "feature": "housing-all-four-corners",
+        "detail": "J",
+        "page": 5,
+        "unit": "mm",
+        "coordinateConvention": "Local detail J datum; x right and y up. Negative x ordinates extend left from the right-hand edge datum.",
+        "coordinateStatus": "reviewed-unpaired-ordinates",
+        "x": [
+          -15.61,
+          -11.43,
+          -6.91,
+          -2.87,
+          -0.02,
+          0,
+          0.56
+        ],
+        "y": [
+          0,
+          4.17,
+          8.69,
+          12.74,
+          15.06,
+          15.59,
+          15.61
+        ],
+        "note": "Separate printed ordinate sets; not paired polygon vertices."
+      },
+      {
+        "feature": "housing-side-contact-end-profile",
+        "detail": "M",
+        "page": 5,
+        "unit": "mm",
+        "coordinateConvention": "Local detail M datum: printed positive x values extend left and printed positive y values extend down from the front-face corner.",
+        "coordinateStatus": "reviewed-unpaired-ordinates",
+        "x": [
+          0,
+          0.22,
+          0.85,
+          2.04,
+          4.1,
+          5.65,
+          7.04
+        ],
+        "y": [
+          0,
+          1.82,
+          3.56,
+          5.05,
+          6.18,
+          6.46
+        ],
+        "note": "Separate printed ordinate sets; preserve source datum rather than assuming portrait-body axes."
+      }
+    ],
+    "reviewScope": "Named imaging/acoustic/button/Lightning/Pencil/smart-contact dimensions, ninth-generation ambient-light-sensor positions, section angles and two housing profiles. Shared drawing also discusses seventh/eighth generation but their different front sensors are not conflated. Magnet tables and some antenna/section coordinates remain incomplete."
+  },
+  {
+    "id": "ipad-mini-a17-pro",
+    "sourcePagesReviewed": [
+      2,
+      3
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "surface-diameter",
+        "value": 5.18,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-camera-keepout",
+        "quantity": "surface-diameter",
+        "value": 3.73,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "flash-keepout",
+        "quantity": "surface-diameter",
+        "value": 4.15,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "flash-keepout",
+        "quantity": "depth",
+        "value": 2.6,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "ambient-light-sensor",
+        "quantity": "diameter",
+        "value": 2.5,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "ambient-light-sensor-keepout",
+        "quantity": "surface-width",
+        "value": 3.27,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "sleep-wake-button-keepout",
+        "quantity": "surface-width",
+        "value": 20.12,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "length",
+        "value": 10.06,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "width",
+        "value": 2.46,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "speaker-opening",
+        "quantity": "diameter",
+        "value": 1.76,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "speaker-keepout",
+        "quantity": "surrounding-clearance",
+        "value": 1,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "width",
+        "value": 12.45,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "height",
+        "value": 6.6,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "outward-depth",
+        "value": 14,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "cellular-upper-ambient-light-sensor",
+        "quantity": "centre-from-top",
+        "value": 4.38,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "cellular-upper-ambient-light-sensor",
+        "quantity": "centre-from-right",
+        "value": 23.99,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "wifi-upper-ambient-light-sensor",
+        "quantity": "centre-from-top",
+        "value": 16.61,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "wifi-upper-ambient-light-sensor",
+        "quantity": "centre-from-right",
+        "value": 3.43,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "lower-ambient-light-sensor",
+        "quantity": "centre-from-bottom",
+        "value": 40.24,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "lower-ambient-light-sensor",
+        "quantity": "centre-from-right",
+        "value": 3.43,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "included-angle",
+        "value": 132.15,
+        "page": 2,
+        "unit": "degree"
+      },
+      {
+        "feature": "rear-camera-keepout",
+        "quantity": "included-angle",
+        "value": 76.9,
+        "page": 2,
+        "unit": "degree"
+      },
+      {
+        "feature": "flash-keepout",
+        "quantity": "first-included-angle",
+        "value": 135,
+        "page": 2,
+        "unit": "degree"
+      },
+      {
+        "feature": "flash-keepout",
+        "quantity": "second-included-angle",
+        "value": 157,
+        "page": 2,
+        "unit": "degree"
+      },
+      {
+        "feature": "ambient-light-sensor-keepout",
+        "quantity": "included-angle",
+        "value": 120,
+        "page": 2,
+        "unit": "degree"
+      },
+      {
+        "feature": "sleep-wake-button-keepout",
+        "quantity": "included-angle",
+        "value": 120,
+        "page": 2,
+        "unit": "degree"
+      },
+      {
+        "feature": "speaker-keepout",
+        "quantity": "outward-angle",
+        "value": 45,
+        "page": 2,
+        "unit": "degree"
+      },
+      {
+        "feature": "rear-camera-trim-sidewall",
+        "quantity": "diameter",
+        "value": 10.54,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-camera-turret-sidewall",
+        "quantity": "diameter",
+        "value": 11.89,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-camera-mount",
+        "quantity": "diameter",
+        "value": 15.44,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-camera-lens",
+        "quantity": "diameter",
+        "value": 9.89,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-microphone-opening",
+        "quantity": "diameter",
+        "value": 0.8,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-microphone-keepout",
+        "quantity": "diameter",
+        "value": 1.6,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "flash-window",
+        "quantity": "diameter",
+        "value": 3.75,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-camera-window",
+        "quantity": "depth-to-cover-glass",
+        "value": 8.07,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-camera-window",
+        "quantity": "protrusion-from-housing-back",
+        "value": 1.74,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "inductive-charging-window",
+        "quantity": "upper-end-from-bottom",
+        "value": 110.48,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "inductive-charging-window",
+        "quantity": "lower-end-from-bottom",
+        "value": 84.95,
+        "page": 3,
+        "unit": "mm"
+      }
+    ],
+    "features": {
+      "unresolvedRearPositionCallouts": {
+        "featureType": "unresolved-source-claim",
+        "status": "contradicts-body-half-extents",
+        "dimensions": {
+          "horizontalCameraMicrophoneFlash": {
+            "value": 109.36,
+            "unit": "mm",
+            "sourcePage": 3,
+            "detail": "Rear orthographic view",
+            "derivation": "Visually verified printed callout. Arrow ends at body centreline but value exceeds the relevant body half extent. Retained as unresolved source claim; do not use for physical placement."
+          },
+          "verticalCamera": {
+            "value": 170.04,
+            "unit": "mm",
+            "sourcePage": 3,
+            "detail": "Rear orthographic view",
+            "derivation": "Visually verified printed callout. Arrow ends at body centreline but value exceeds the relevant body half extent. Retained as unresolved source claim; do not use for physical placement."
+          }
+        },
+        "note": "Body width134.75 and height195.43 mm are explicit on page2. Printed rear positions cannot be reconciled with these centred datums. No replacement inferred from drawing scale."
+      }
+    },
+    "ambiguities": [
+      "PDF page3 rear-view109.36 horizontal and170.04 rear-camera vertical callouts exceed body half extents while their arrows terminate at centreline datums. Source values retained as unresolved claims, not valid positions.",
+      "Front camera vertical location is not dimensioned;4.38mm explicitly refers to the cellular ambient-light sensor."
+    ],
+    "reviewScope": "Named camera/acoustic/flash/ALS/connector keepouts and apertures reviewed. Rear camera position source contradiction explicitly represented; front camera Y remains unknown. Other sheets and contours remain incomplete."
+  },
+  {
+    "id": "ipad-mini-6th-generation",
+    "sourcePagesReviewed": [
+      2,
+      3
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "surface-diameter",
+        "value": 5.18,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-camera-keepout",
+        "quantity": "surface-diameter",
+        "value": 3.73,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "flash-keepout",
+        "quantity": "surface-diameter",
+        "value": 4.15,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "flash-keepout",
+        "quantity": "depth",
+        "value": 2.6,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "ambient-light-sensor",
+        "quantity": "diameter",
+        "value": 2.5,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "ambient-light-sensor-keepout",
+        "quantity": "surface-width",
+        "value": 3.27,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "sleep-wake-button-keepout",
+        "quantity": "surface-width",
+        "value": 20.12,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "length",
+        "value": 10.06,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "width",
+        "value": 2.46,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "speaker-opening",
+        "quantity": "diameter",
+        "value": 1.76,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "speaker-keepout",
+        "quantity": "surrounding-clearance",
+        "value": 1,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "cellular-upper-ambient-light-sensor",
+        "quantity": "centre-from-top",
+        "value": 4.38,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "cellular-upper-ambient-light-sensor",
+        "quantity": "centre-from-right",
+        "value": 23.99,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "wifi-upper-ambient-light-sensor",
+        "quantity": "centre-from-top",
+        "value": 16.61,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "wifi-upper-ambient-light-sensor",
+        "quantity": "centre-from-right",
+        "value": 3.43,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "lower-ambient-light-sensor",
+        "quantity": "centre-from-bottom",
+        "value": 40.24,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "lower-ambient-light-sensor",
+        "quantity": "centre-from-right",
+        "value": 3.43,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "included-angle",
+        "value": 132.15,
+        "page": 2,
+        "unit": "degree"
+      },
+      {
+        "feature": "rear-camera-keepout",
+        "quantity": "included-angle",
+        "value": 76.9,
+        "page": 2,
+        "unit": "degree"
+      },
+      {
+        "feature": "flash-keepout",
+        "quantity": "first-included-angle",
+        "value": 135,
+        "page": 2,
+        "unit": "degree"
+      },
+      {
+        "feature": "flash-keepout",
+        "quantity": "second-included-angle",
+        "value": 157,
+        "page": 2,
+        "unit": "degree"
+      },
+      {
+        "feature": "ambient-light-sensor-keepout",
+        "quantity": "included-angle",
+        "value": 120,
+        "page": 2,
+        "unit": "degree"
+      },
+      {
+        "feature": "sleep-wake-button-keepout",
+        "quantity": "included-angle",
+        "value": 120,
+        "page": 2,
+        "unit": "degree"
+      },
+      {
+        "feature": "speaker-keepout",
+        "quantity": "outward-angle",
+        "value": 45,
+        "page": 2,
+        "unit": "degree"
+      },
+      {
+        "feature": "rear-camera-trim-sidewall",
+        "quantity": "diameter",
+        "value": 10.54,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-camera-turret-sidewall",
+        "quantity": "diameter",
+        "value": 11.89,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-camera-mount",
+        "quantity": "diameter",
+        "value": 15.44,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-camera-lens",
+        "quantity": "diameter",
+        "value": 9.89,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-microphone-opening",
+        "quantity": "diameter",
+        "value": 0.8,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-microphone-keepout",
+        "quantity": "diameter",
+        "value": 1.6,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "flash-window",
+        "quantity": "diameter",
+        "value": 3.75,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-camera-window",
+        "quantity": "depth-to-cover-glass",
+        "value": 8.07,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "rear-camera-window",
+        "quantity": "protrusion-from-housing-back",
+        "value": 1.74,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "inductive-charging-window",
+        "quantity": "lower-end-from-bottom",
+        "value": 84.97,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "inductive-charging-window",
+        "quantity": "length",
+        "value": 25.5,
+        "page": 3,
+        "unit": "mm"
+      },
+      {
+        "feature": "inductive-charging-window",
+        "quantity": "width",
+        "value": 3.94,
+        "page": 3,
+        "unit": "mm"
+      }
+    ],
+    "features": {
+      "unresolvedRearPositionCallouts": {
+        "featureType": "unresolved-source-claim",
+        "status": "contradicts-body-half-extents",
+        "dimensions": {
+          "horizontalCameraMicrophoneFlash": {
+            "value": 109.36,
+            "unit": "mm",
+            "sourcePage": 3,
+            "detail": "Rear orthographic view",
+            "derivation": "Visually verified printed callout. Arrow ends at body centreline but value exceeds the relevant body half extent. Retained as unresolved source claim; do not use for physical placement."
+          },
+          "verticalCamera": {
+            "value": 170.04,
+            "unit": "mm",
+            "sourcePage": 3,
+            "detail": "Rear orthographic view",
+            "derivation": "Visually verified printed callout. Arrow ends at body centreline but value exceeds the relevant body half extent. Retained as unresolved source claim; do not use for physical placement."
+          }
+        },
+        "note": "Body width134.75 and height195.43 mm are explicit on page2. Printed rear positions cannot be reconciled with these centred datums. No replacement inferred from drawing scale."
+      }
+    },
+    "ambiguities": [
+      "PDF page3 rear-view109.36 horizontal and170.04 rear-camera vertical callouts exceed body half extents while their arrows terminate at centreline datums. Source values retained as unresolved claims, not valid positions.",
+      "Front camera vertical location is not dimensioned;4.38mm explicitly refers to the cellular ambient-light sensor."
+    ],
+    "reviewScope": "Named camera/acoustic/flash/ALS/connector keepouts and apertures reviewed. Rear camera position source contradiction explicitly represented; front camera Y remains unknown. Other sheets and contours remain incomplete."
+  },
+  {
+    "id": "ipad-air-5th-generation",
+    "sourcePagesReviewed": [
+      2,
+      3
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "speaker-opening",
+        "quantity": "diameter",
+        "value": 1.76,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "top-button",
+        "quantity": "width",
+        "value": 4,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "top-button",
+        "quantity": "centre-from-right",
+        "value": 12.71,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "top-button-keepout",
+        "quantity": "surface-width",
+        "value": 20.12,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "diameter",
+        "value": 5.17,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "surface-width",
+        "value": 5.18,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "ambient-light-sensor-keepout",
+        "quantity": "surface-width",
+        "value": 3.2,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "width",
+        "value": 10.25,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "height",
+        "value": 5.54,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "outward-depth",
+        "value": 14,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "included-angle",
+        "value": 132.15,
+        "page": 2,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf",
+        "note": "Mechanical accessory clearance angle; not measured camera capture field of view."
+      },
+      {
+        "feature": "ambient-light-sensor-keepout",
+        "quantity": "included-angle",
+        "value": 99.64,
+        "page": 2,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf",
+        "note": "Mechanical accessory clearance angle; not measured camera capture field of view."
+      },
+      {
+        "feature": "top-button-keepout",
+        "quantity": "included-angle",
+        "value": 120,
+        "page": 2,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf",
+        "note": "Mechanical accessory clearance angle; not measured camera capture field of view."
+      },
+      {
+        "feature": "rear-camera-lens",
+        "quantity": "diameter",
+        "value": 9.65,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "rear-camera-side-wall",
+        "quantity": "diameter",
+        "value": 11.89,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "rear-camera-mount",
+        "quantity": "diameter",
+        "value": 16.92,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "rear-camera-keepout",
+        "quantity": "minimum-surface-width",
+        "value": 3.21,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "rear-microphone-keepout",
+        "quantity": "diameter",
+        "value": 2.9,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "centre-from-top",
+        "value": 12.7,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "centre-from-left-rear-view",
+        "value": 12.68,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "centre-from-top",
+        "value": 27.62,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "depth-to-cover-glass",
+        "value": 8.2,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "rear-camera-window",
+        "quantity": "protrusion-from-housing-back",
+        "value": 2.08,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "length",
+        "value": 10.06,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "width",
+        "value": 2,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "upper-centre-from-top",
+        "value": 19.49,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "lower-centre-from-top",
+        "value": 31.55,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "diameter",
+        "value": 3.4,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "adjacent-centre-spacing",
+        "value": 4.97,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "smart-connector-enclosure-opening",
+        "quantity": "diameter",
+        "value": 3.96,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "smart-connector-contact",
+        "quantity": "distance-to-enclosure",
+        "value": 10.05,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "rear-camera-keepout",
+        "quantity": "included-angle",
+        "value": 77,
+        "page": 3,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "top-ambient-light-sensor",
+        "quantity": "diameter",
+        "value": 3,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "front-camera",
+        "quantity": "centre-from-top",
+        "value": 5,
+        "page": 2,
+        "unit": "mm"
+      },
+      {
+        "feature": "side-microphone-keepout",
+        "quantity": "diameter",
+        "value": 1.6,
+        "page": 2,
+        "unit": "mm"
+      }
+    ],
+    "profiles": [],
+    "reviewScope": "Fifth-generation camera/ALS, acoustic, button, rear-camera and connector dimensions reviewed. Although its title also mentions fourth generation, front camera dimensions are not applied to that older model: its own drawing specifies different geometry."
+  },
+  {
+    "id": "ipad-air-4th-generation",
+    "sourcePagesReviewed": [
+      2
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "speaker-opening",
+        "quantity": "diameter",
+        "value": 1.76,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "top-button",
+        "quantity": "width",
+        "value": 4,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "top-button",
+        "quantity": "centre-from-right",
+        "value": 12.71,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "top-button-keepout",
+        "quantity": "surface-width",
+        "value": 20.12,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "diameter",
+        "value": 4.5,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "surface-width",
+        "value": 2.59,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "ambient-light-sensor-keepout",
+        "quantity": "surface-width",
+        "value": 3.2,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "width",
+        "value": 10.25,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "height",
+        "value": 5.54,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "outward-depth",
+        "value": 14,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "included-angle",
+        "value": 70,
+        "page": 2,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf",
+        "note": "Mechanical accessory clearance angle; not measured camera capture field of view."
+      },
+      {
+        "feature": "ambient-light-sensor-keepout",
+        "quantity": "included-angle",
+        "value": 99.64,
+        "page": 2,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf",
+        "note": "Mechanical accessory clearance angle; not measured camera capture field of view."
+      },
+      {
+        "feature": "top-button-keepout",
+        "quantity": "included-angle",
+        "value": 120,
+        "page": 2,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf",
+        "note": "Mechanical accessory clearance angle; not measured camera capture field of view."
+      },
+      {
+        "feature": "top-ambient-light-sensor",
+        "quantity": "diameter",
+        "value": 3,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "front-camera",
+        "quantity": "centre-from-top",
+        "value": 5,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "side-microphone-keepout",
+        "quantity": "diameter",
+        "value": 1.6,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      }
+    ],
+    "profiles": [],
+    "reviewScope": "Fourth-generation own front camera/ALS, acoustic, button and connector dimensions from its PDF page2. Front camera keepout differs substantially from fifth-generation even though the newer drawing title lists both."
   }
 ]

@@ -68478,9 +68478,437 @@
         "depth": 7.5
       },
       "coverGlassMm": null,
-      "additionalDimensions": [],
+      "additionalDimensions": [
+        {
+          "feature": "front-camera",
+          "quantity": "diameter",
+          "value": 3.5,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "front-camera",
+          "quantity": "centre-from-top",
+          "value": 11.07,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "front-camera",
+          "quantity": "centre-from-left",
+          "value": 87.04,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "rear-camera",
+          "quantity": "centre-from-left-rear-view",
+          "value": 11.66,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "rear-camera",
+          "quantity": "centre-from-top",
+          "value": 14.37,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "rear-camera-keepout",
+          "quantity": "surface-diameter",
+          "value": 8.24,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "rear-camera-image-cone",
+          "quantity": "surface-diameter",
+          "value": 6.09,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "top-microphone-keepout",
+          "quantity": "diameter",
+          "value": 1.6,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "rear-microphone-keepout",
+          "quantity": "diameter",
+          "value": 1.6,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "audio-jack-mating-connector-keepout",
+          "quantity": "diameter",
+          "value": 6.5,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "audio-jack-mating-connector-keepout",
+          "quantity": "outward-depth",
+          "value": 14,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "audio-jack",
+          "quantity": "centre-from-left",
+          "value": 14.62,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "volume-buttons",
+          "quantity": "upper-centre-from-top",
+          "value": 26.25,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "volume-buttons",
+          "quantity": "lower-centre-from-top",
+          "value": 39.68,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "volume-buttons",
+          "quantity": "length",
+          "value": 10,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "home-button",
+          "quantity": "centre-from-bottom",
+          "value": 10.06,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "home-button-keepout",
+          "quantity": "surface-diameter",
+          "value": 14.6,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "lightning-mating-connector-recommended-keepout",
+          "quantity": "width",
+          "value": 13.65,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "lightning-mating-connector-recommended-keepout",
+          "quantity": "height",
+          "value": 6.85,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "lightning-mating-connector-recommended-keepout",
+          "quantity": "outward-depth",
+          "value": 14,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "lightning-connector-keepout",
+          "quantity": "height",
+          "value": 4.1,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "lightning-connector-keepout",
+          "quantity": "radius",
+          "value": 3.42,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "apple-pencil-charging-keepout",
+          "quantity": "diameter",
+          "value": 8.9,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "speaker-opening",
+          "quantity": "diameter",
+          "value": 1.6,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "smart-connector-contact",
+          "quantity": "adjacent-centre-spacing",
+          "value": 3.95,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "smart-connector-contact",
+          "quantity": "inner-diameter-in-reference-view",
+          "value": 2.5,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "smart-connector-contact",
+          "quantity": "outer-diameter-in-reference-view",
+          "value": 3.1,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "front-camera-keepout",
+          "quantity": "included-angle",
+          "value": 132.2,
+          "page": 2,
+          "unit": "degree",
+          "note": "Accessory keepout cone, not a measured optical capture field of view.",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "rear-camera-keepout",
+          "quantity": "included-angle",
+          "value": 86,
+          "page": 2,
+          "unit": "degree",
+          "note": "Accessory keepout cone, not a measured optical capture field of view.",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "home-button-keepout",
+          "quantity": "included-angle",
+          "value": 100,
+          "page": 2,
+          "unit": "degree",
+          "note": "Accessory keepout cone, not a measured optical capture field of view.",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "smart-connector-contact",
+          "quantity": "reference-view-angle-from-vertical-edge",
+          "value": 23.3,
+          "page": 2,
+          "unit": "degree",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "ambient-light-sensors",
+          "quantity": "diameter",
+          "value": 3,
+          "page": 4,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "ambient-light-sensor-1",
+          "quantity": "landscape-y-from-centre",
+          "value": 65.5,
+          "page": 4,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "ambient-light-sensor-2",
+          "quantity": "landscape-y-from-centre",
+          "value": -65.23,
+          "page": 4,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "ambient-light-sensors",
+          "quantity": "landscape-x-from-centre",
+          "value": -114.27,
+          "page": 4,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "volume-buttons",
+          "quantity": "horizontal-centre-to-cover-glass",
+          "value": 5.18,
+          "page": 5,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "volume-buttons",
+          "quantity": "section-width",
+          "value": 2.2,
+          "page": 5,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "microphone-exit",
+          "quantity": "depth-to-cover-glass",
+          "value": 3.95,
+          "page": 5,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "microphone-opening",
+          "quantity": "diameter",
+          "value": 0.8,
+          "page": 5,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "speaker-exit",
+          "quantity": "depth-to-cover-glass",
+          "value": 4.37,
+          "page": 5,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "sim-tray",
+          "quantity": "outer-edge-to-cover-glass",
+          "value": 4.97,
+          "page": 5,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "ambient-light-sensor-keepout",
+          "quantity": "included-angle",
+          "value": 120,
+          "page": 4,
+          "unit": "degree",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "volume-buttons",
+          "quantity": "section-angle",
+          "value": 32,
+          "page": 5,
+          "unit": "degree",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "microphone-exit",
+          "quantity": "section-angle",
+          "value": 25,
+          "page": 5,
+          "unit": "degree",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "speaker-keepout",
+          "quantity": "included-angle",
+          "value": 84,
+          "page": 5,
+          "unit": "degree",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "speaker-exit",
+          "quantity": "section-angle",
+          "value": 26,
+          "page": 5,
+          "unit": "degree",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        }
+      ],
       "features": {},
-      "profiles": [],
+      "profiles": [
+        {
+          "feature": "housing-all-four-corners",
+          "detail": "J",
+          "page": 5,
+          "unit": "mm",
+          "coordinateConvention": "Local detail J datum; x right and y up. Negative x ordinates extend left from the right-hand edge datum.",
+          "coordinateStatus": "reviewed-unpaired-ordinates",
+          "x": [
+            -15.61,
+            -11.43,
+            -6.91,
+            -2.87,
+            -0.02,
+            0,
+            0.56
+          ],
+          "y": [
+            0,
+            4.17,
+            8.69,
+            12.74,
+            15.06,
+            15.59,
+            15.61
+          ],
+          "note": "Separate printed ordinate sets; not paired polygon vertices.",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "housing-side-contact-end-profile",
+          "detail": "M",
+          "page": 5,
+          "unit": "mm",
+          "coordinateConvention": "Local detail M datum: printed positive x values extend left and printed positive y values extend down from the front-face corner.",
+          "coordinateStatus": "reviewed-unpaired-ordinates",
+          "x": [
+            0,
+            0.22,
+            0.85,
+            2.04,
+            4.1,
+            5.65,
+            7.04
+          ],
+          "y": [
+            0,
+            1.82,
+            3.56,
+            5.05,
+            6.18,
+            6.46
+          ],
+          "note": "Separate printed ordinate sets; preserve source datum rather than assuming portrait-body axes.",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": {
         "x": 0,
@@ -68498,10 +68926,13 @@
         "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
-          2
+          2,
+          3,
+          4,
+          5
         ],
         "ambiguities": [],
-        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours."
+        "scope": "Named imaging/acoustic/button/Lightning/Pencil/smart-contact dimensions, ninth-generation ambient-light-sensor positions, section angles and two housing profiles. Shared drawing also discusses seventh/eighth generation but their different front sensors are not conflated. Magnet tables and some antenna/section coordinates remain incomplete."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
@@ -105135,7 +105566,139 @@
         "depth": 6.123
       },
       "coverGlassMm": null,
-      "additionalDimensions": [],
+      "additionalDimensions": [
+        {
+          "feature": "speaker-opening",
+          "quantity": "diameter",
+          "value": 1.76,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+        },
+        {
+          "feature": "top-button",
+          "quantity": "width",
+          "value": 4,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+        },
+        {
+          "feature": "top-button",
+          "quantity": "centre-from-right",
+          "value": 12.71,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+        },
+        {
+          "feature": "top-button-keepout",
+          "quantity": "surface-width",
+          "value": 20.12,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+        },
+        {
+          "feature": "front-camera-keepout",
+          "quantity": "diameter",
+          "value": 4.5,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+        },
+        {
+          "feature": "front-camera-keepout",
+          "quantity": "surface-width",
+          "value": 2.59,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+        },
+        {
+          "feature": "ambient-light-sensor-keepout",
+          "quantity": "surface-width",
+          "value": 3.2,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+        },
+        {
+          "feature": "usb-c-mating-connector-recommended-keepout",
+          "quantity": "width",
+          "value": 10.25,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+        },
+        {
+          "feature": "usb-c-mating-connector-recommended-keepout",
+          "quantity": "height",
+          "value": 5.54,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+        },
+        {
+          "feature": "usb-c-mating-connector-recommended-keepout",
+          "quantity": "outward-depth",
+          "value": 14,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+        },
+        {
+          "feature": "front-camera-keepout",
+          "quantity": "included-angle",
+          "value": 70,
+          "page": 2,
+          "unit": "degree",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf",
+          "note": "Mechanical accessory clearance angle; not measured camera capture field of view."
+        },
+        {
+          "feature": "ambient-light-sensor-keepout",
+          "quantity": "included-angle",
+          "value": 99.64,
+          "page": 2,
+          "unit": "degree",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf",
+          "note": "Mechanical accessory clearance angle; not measured camera capture field of view."
+        },
+        {
+          "feature": "top-button-keepout",
+          "quantity": "included-angle",
+          "value": 120,
+          "page": 2,
+          "unit": "degree",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf",
+          "note": "Mechanical accessory clearance angle; not measured camera capture field of view."
+        },
+        {
+          "feature": "top-ambient-light-sensor",
+          "quantity": "diameter",
+          "value": 3,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+        },
+        {
+          "feature": "front-camera",
+          "quantity": "centre-from-top",
+          "value": 5,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+        },
+        {
+          "feature": "side-microphone-keepout",
+          "quantity": "diameter",
+          "value": 1.6,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+        }
+      ],
       "features": {},
       "profiles": [],
       "frontCameraPartial": null,
@@ -105158,7 +105721,7 @@
           2
         ],
         "ambiguities": [],
-        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours."
+        "scope": "Fourth-generation own front camera/ALS, acoustic, button and connector dimensions from its PDF page2. Front camera keepout differs substantially from fifth-generation even though the newer drawing title lists both."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf",
@@ -107724,7 +108287,291 @@
         "depth": 6.123
       },
       "coverGlassMm": null,
-      "additionalDimensions": [],
+      "additionalDimensions": [
+        {
+          "feature": "speaker-opening",
+          "quantity": "diameter",
+          "value": 1.76,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+        },
+        {
+          "feature": "top-button",
+          "quantity": "width",
+          "value": 4,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+        },
+        {
+          "feature": "top-button",
+          "quantity": "centre-from-right",
+          "value": 12.71,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+        },
+        {
+          "feature": "top-button-keepout",
+          "quantity": "surface-width",
+          "value": 20.12,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+        },
+        {
+          "feature": "front-camera-keepout",
+          "quantity": "diameter",
+          "value": 5.17,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+        },
+        {
+          "feature": "front-camera-keepout",
+          "quantity": "surface-width",
+          "value": 5.18,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+        },
+        {
+          "feature": "ambient-light-sensor-keepout",
+          "quantity": "surface-width",
+          "value": 3.2,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+        },
+        {
+          "feature": "usb-c-mating-connector-recommended-keepout",
+          "quantity": "width",
+          "value": 10.25,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+        },
+        {
+          "feature": "usb-c-mating-connector-recommended-keepout",
+          "quantity": "height",
+          "value": 5.54,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+        },
+        {
+          "feature": "usb-c-mating-connector-recommended-keepout",
+          "quantity": "outward-depth",
+          "value": 14,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+        },
+        {
+          "feature": "front-camera-keepout",
+          "quantity": "included-angle",
+          "value": 132.15,
+          "page": 2,
+          "unit": "degree",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf",
+          "note": "Mechanical accessory clearance angle; not measured camera capture field of view."
+        },
+        {
+          "feature": "ambient-light-sensor-keepout",
+          "quantity": "included-angle",
+          "value": 99.64,
+          "page": 2,
+          "unit": "degree",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf",
+          "note": "Mechanical accessory clearance angle; not measured camera capture field of view."
+        },
+        {
+          "feature": "top-button-keepout",
+          "quantity": "included-angle",
+          "value": 120,
+          "page": 2,
+          "unit": "degree",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf",
+          "note": "Mechanical accessory clearance angle; not measured camera capture field of view."
+        },
+        {
+          "feature": "rear-camera-lens",
+          "quantity": "diameter",
+          "value": 9.65,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+        },
+        {
+          "feature": "rear-camera-side-wall",
+          "quantity": "diameter",
+          "value": 11.89,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+        },
+        {
+          "feature": "rear-camera-mount",
+          "quantity": "diameter",
+          "value": 16.92,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+        },
+        {
+          "feature": "rear-camera-keepout",
+          "quantity": "minimum-surface-width",
+          "value": 3.21,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+        },
+        {
+          "feature": "rear-microphone-keepout",
+          "quantity": "diameter",
+          "value": 2.9,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+        },
+        {
+          "feature": "rear-camera",
+          "quantity": "centre-from-top",
+          "value": 12.7,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+        },
+        {
+          "feature": "rear-camera",
+          "quantity": "centre-from-left-rear-view",
+          "value": 12.68,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+        },
+        {
+          "feature": "rear-microphone",
+          "quantity": "centre-from-top",
+          "value": 27.62,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+        },
+        {
+          "feature": "rear-camera",
+          "quantity": "depth-to-cover-glass",
+          "value": 8.2,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+        },
+        {
+          "feature": "rear-camera-window",
+          "quantity": "protrusion-from-housing-back",
+          "value": 2.08,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+        },
+        {
+          "feature": "volume-buttons",
+          "quantity": "length",
+          "value": 10.06,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+        },
+        {
+          "feature": "volume-buttons",
+          "quantity": "width",
+          "value": 2,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+        },
+        {
+          "feature": "volume-buttons",
+          "quantity": "upper-centre-from-top",
+          "value": 19.49,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+        },
+        {
+          "feature": "volume-buttons",
+          "quantity": "lower-centre-from-top",
+          "value": 31.55,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+        },
+        {
+          "feature": "smart-connector-contact",
+          "quantity": "diameter",
+          "value": 3.4,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+        },
+        {
+          "feature": "smart-connector-contact",
+          "quantity": "adjacent-centre-spacing",
+          "value": 4.97,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+        },
+        {
+          "feature": "smart-connector-enclosure-opening",
+          "quantity": "diameter",
+          "value": 3.96,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+        },
+        {
+          "feature": "smart-connector-contact",
+          "quantity": "distance-to-enclosure",
+          "value": 10.05,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+        },
+        {
+          "feature": "rear-camera-keepout",
+          "quantity": "included-angle",
+          "value": 77,
+          "page": 3,
+          "unit": "degree",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+        },
+        {
+          "feature": "top-ambient-light-sensor",
+          "quantity": "diameter",
+          "value": 3,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+        },
+        {
+          "feature": "front-camera",
+          "quantity": "centre-from-top",
+          "value": 5,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+        },
+        {
+          "feature": "side-microphone-keepout",
+          "quantity": "diameter",
+          "value": 1.6,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+        }
+      ],
       "features": {},
       "profiles": [],
       "frontCameraPartial": null,
@@ -107744,10 +108591,11 @@
         "bodyDepthDefinition": null,
         "bodyDepthPage": 3,
         "pagesReviewed": [
-          2
+          2,
+          3
         ],
         "ambiguities": [],
-        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours."
+        "scope": "Fifth-generation camera/ALS, acoustic, button, rear-camera and connector dimensions reviewed. Although its title also mentions fourth generation, front camera dimensions are not applied to that older model: its own drawing specifies different geometry."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf",
@@ -110839,8 +111687,319 @@
         "depth": 6.32
       },
       "coverGlassMm": null,
-      "additionalDimensions": [],
-      "features": {},
+      "additionalDimensions": [
+        {
+          "feature": "front-camera-keepout",
+          "quantity": "surface-diameter",
+          "value": 5.18,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        },
+        {
+          "feature": "rear-camera-keepout",
+          "quantity": "surface-diameter",
+          "value": 3.73,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        },
+        {
+          "feature": "flash-keepout",
+          "quantity": "surface-diameter",
+          "value": 4.15,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        },
+        {
+          "feature": "flash-keepout",
+          "quantity": "depth",
+          "value": 2.6,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        },
+        {
+          "feature": "ambient-light-sensor",
+          "quantity": "diameter",
+          "value": 2.5,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        },
+        {
+          "feature": "ambient-light-sensor-keepout",
+          "quantity": "surface-width",
+          "value": 3.27,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        },
+        {
+          "feature": "sleep-wake-button-keepout",
+          "quantity": "surface-width",
+          "value": 20.12,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        },
+        {
+          "feature": "volume-buttons",
+          "quantity": "length",
+          "value": 10.06,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        },
+        {
+          "feature": "volume-buttons",
+          "quantity": "width",
+          "value": 2.46,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        },
+        {
+          "feature": "speaker-opening",
+          "quantity": "diameter",
+          "value": 1.76,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        },
+        {
+          "feature": "speaker-keepout",
+          "quantity": "surrounding-clearance",
+          "value": 1,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        },
+        {
+          "feature": "cellular-upper-ambient-light-sensor",
+          "quantity": "centre-from-top",
+          "value": 4.38,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        },
+        {
+          "feature": "cellular-upper-ambient-light-sensor",
+          "quantity": "centre-from-right",
+          "value": 23.99,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        },
+        {
+          "feature": "wifi-upper-ambient-light-sensor",
+          "quantity": "centre-from-top",
+          "value": 16.61,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        },
+        {
+          "feature": "wifi-upper-ambient-light-sensor",
+          "quantity": "centre-from-right",
+          "value": 3.43,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        },
+        {
+          "feature": "lower-ambient-light-sensor",
+          "quantity": "centre-from-bottom",
+          "value": 40.24,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        },
+        {
+          "feature": "lower-ambient-light-sensor",
+          "quantity": "centre-from-right",
+          "value": 3.43,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        },
+        {
+          "feature": "front-camera-keepout",
+          "quantity": "included-angle",
+          "value": 132.15,
+          "page": 2,
+          "unit": "degree",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        },
+        {
+          "feature": "rear-camera-keepout",
+          "quantity": "included-angle",
+          "value": 76.9,
+          "page": 2,
+          "unit": "degree",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        },
+        {
+          "feature": "flash-keepout",
+          "quantity": "first-included-angle",
+          "value": 135,
+          "page": 2,
+          "unit": "degree",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        },
+        {
+          "feature": "flash-keepout",
+          "quantity": "second-included-angle",
+          "value": 157,
+          "page": 2,
+          "unit": "degree",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        },
+        {
+          "feature": "ambient-light-sensor-keepout",
+          "quantity": "included-angle",
+          "value": 120,
+          "page": 2,
+          "unit": "degree",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        },
+        {
+          "feature": "sleep-wake-button-keepout",
+          "quantity": "included-angle",
+          "value": 120,
+          "page": 2,
+          "unit": "degree",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        },
+        {
+          "feature": "speaker-keepout",
+          "quantity": "outward-angle",
+          "value": 45,
+          "page": 2,
+          "unit": "degree",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        },
+        {
+          "feature": "rear-camera-trim-sidewall",
+          "quantity": "diameter",
+          "value": 10.54,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        },
+        {
+          "feature": "rear-camera-turret-sidewall",
+          "quantity": "diameter",
+          "value": 11.89,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        },
+        {
+          "feature": "rear-camera-mount",
+          "quantity": "diameter",
+          "value": 15.44,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        },
+        {
+          "feature": "rear-camera-lens",
+          "quantity": "diameter",
+          "value": 9.89,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        },
+        {
+          "feature": "rear-microphone-opening",
+          "quantity": "diameter",
+          "value": 0.8,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        },
+        {
+          "feature": "rear-microphone-keepout",
+          "quantity": "diameter",
+          "value": 1.6,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        },
+        {
+          "feature": "flash-window",
+          "quantity": "diameter",
+          "value": 3.75,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        },
+        {
+          "feature": "rear-camera-window",
+          "quantity": "depth-to-cover-glass",
+          "value": 8.07,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        },
+        {
+          "feature": "rear-camera-window",
+          "quantity": "protrusion-from-housing-back",
+          "value": 1.74,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        },
+        {
+          "feature": "inductive-charging-window",
+          "quantity": "lower-end-from-bottom",
+          "value": 84.97,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        },
+        {
+          "feature": "inductive-charging-window",
+          "quantity": "length",
+          "value": 25.5,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        },
+        {
+          "feature": "inductive-charging-window",
+          "quantity": "width",
+          "value": 3.94,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf"
+        }
+      ],
+      "features": {
+        "unresolvedRearPositionCallouts": {
+          "featureType": "unresolved-source-claim",
+          "status": "contradicts-body-half-extents",
+          "dimensions": {
+            "horizontalCameraMicrophoneFlash": {
+              "value": 109.36,
+              "unit": "mm",
+              "sourcePage": 3,
+              "detail": "Rear orthographic view",
+              "derivation": "Visually verified printed callout. Arrow ends at body centreline but value exceeds the relevant body half extent. Retained as unresolved source claim; do not use for physical placement."
+            },
+            "verticalCamera": {
+              "value": 170.04,
+              "unit": "mm",
+              "sourcePage": 3,
+              "detail": "Rear orthographic view",
+              "derivation": "Visually verified printed callout. Arrow ends at body centreline but value exceeds the relevant body half extent. Retained as unresolved source claim; do not use for physical placement."
+            }
+          },
+          "note": "Body width134.75 and height195.43 mm are explicit on page2. Printed rear positions cannot be reconciled with these centred datums. No replacement inferred from drawing scale."
+        }
+      },
       "profiles": [],
       "frontCameraPartial": {
         "x": -0.005,
@@ -110864,9 +112023,11 @@
           7
         ],
         "ambiguities": [
-          "The 4.38 mm ALS callout is not labelled as a front-camera dimension."
+          "The 4.38 mm ALS callout is not labelled as a front-camera dimension.",
+          "PDF page3 rear-view109.36 horizontal and170.04 rear-camera vertical callouts exceed body half extents while their arrows terminate at centreline datums. Source values retained as unresolved claims, not valid positions.",
+          "Front camera vertical location is not dimensioned;4.38mm explicitly refers to the cellular ambient-light sensor."
         ],
-        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours."
+        "scope": "Named camera/acoustic/flash/ALS/connector keepouts and apertures reviewed. Rear camera position source contradiction explicitly represented; front camera Y remains unknown. Other sheets and contours remain incomplete."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf",
@@ -113287,8 +114448,335 @@
         "depth": 6.32
       },
       "coverGlassMm": null,
-      "additionalDimensions": [],
-      "features": {},
+      "additionalDimensions": [
+        {
+          "feature": "front-camera-keepout",
+          "quantity": "surface-diameter",
+          "value": 5.18,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "rear-camera-keepout",
+          "quantity": "surface-diameter",
+          "value": 3.73,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "flash-keepout",
+          "quantity": "surface-diameter",
+          "value": 4.15,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "flash-keepout",
+          "quantity": "depth",
+          "value": 2.6,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "ambient-light-sensor",
+          "quantity": "diameter",
+          "value": 2.5,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "ambient-light-sensor-keepout",
+          "quantity": "surface-width",
+          "value": 3.27,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "sleep-wake-button-keepout",
+          "quantity": "surface-width",
+          "value": 20.12,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "volume-buttons",
+          "quantity": "length",
+          "value": 10.06,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "volume-buttons",
+          "quantity": "width",
+          "value": 2.46,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "speaker-opening",
+          "quantity": "diameter",
+          "value": 1.76,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "speaker-keepout",
+          "quantity": "surrounding-clearance",
+          "value": 1,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "usb-c-mating-connector-recommended-keepout",
+          "quantity": "width",
+          "value": 12.45,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "usb-c-mating-connector-recommended-keepout",
+          "quantity": "height",
+          "value": 6.6,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "usb-c-mating-connector-recommended-keepout",
+          "quantity": "outward-depth",
+          "value": 14,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "cellular-upper-ambient-light-sensor",
+          "quantity": "centre-from-top",
+          "value": 4.38,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "cellular-upper-ambient-light-sensor",
+          "quantity": "centre-from-right",
+          "value": 23.99,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "wifi-upper-ambient-light-sensor",
+          "quantity": "centre-from-top",
+          "value": 16.61,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "wifi-upper-ambient-light-sensor",
+          "quantity": "centre-from-right",
+          "value": 3.43,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "lower-ambient-light-sensor",
+          "quantity": "centre-from-bottom",
+          "value": 40.24,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "lower-ambient-light-sensor",
+          "quantity": "centre-from-right",
+          "value": 3.43,
+          "page": 2,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "front-camera-keepout",
+          "quantity": "included-angle",
+          "value": 132.15,
+          "page": 2,
+          "unit": "degree",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "rear-camera-keepout",
+          "quantity": "included-angle",
+          "value": 76.9,
+          "page": 2,
+          "unit": "degree",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "flash-keepout",
+          "quantity": "first-included-angle",
+          "value": 135,
+          "page": 2,
+          "unit": "degree",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "flash-keepout",
+          "quantity": "second-included-angle",
+          "value": 157,
+          "page": 2,
+          "unit": "degree",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "ambient-light-sensor-keepout",
+          "quantity": "included-angle",
+          "value": 120,
+          "page": 2,
+          "unit": "degree",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "sleep-wake-button-keepout",
+          "quantity": "included-angle",
+          "value": 120,
+          "page": 2,
+          "unit": "degree",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "speaker-keepout",
+          "quantity": "outward-angle",
+          "value": 45,
+          "page": 2,
+          "unit": "degree",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "rear-camera-trim-sidewall",
+          "quantity": "diameter",
+          "value": 10.54,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "rear-camera-turret-sidewall",
+          "quantity": "diameter",
+          "value": 11.89,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "rear-camera-mount",
+          "quantity": "diameter",
+          "value": 15.44,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "rear-camera-lens",
+          "quantity": "diameter",
+          "value": 9.89,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "rear-microphone-opening",
+          "quantity": "diameter",
+          "value": 0.8,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "rear-microphone-keepout",
+          "quantity": "diameter",
+          "value": 1.6,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "flash-window",
+          "quantity": "diameter",
+          "value": 3.75,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "rear-camera-window",
+          "quantity": "depth-to-cover-glass",
+          "value": 8.07,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "rear-camera-window",
+          "quantity": "protrusion-from-housing-back",
+          "value": 1.74,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "inductive-charging-window",
+          "quantity": "upper-end-from-bottom",
+          "value": 110.48,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        },
+        {
+          "feature": "inductive-charging-window",
+          "quantity": "lower-end-from-bottom",
+          "value": 84.95,
+          "page": 3,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf"
+        }
+      ],
+      "features": {
+        "unresolvedRearPositionCallouts": {
+          "featureType": "unresolved-source-claim",
+          "status": "contradicts-body-half-extents",
+          "dimensions": {
+            "horizontalCameraMicrophoneFlash": {
+              "value": 109.36,
+              "unit": "mm",
+              "sourcePage": 3,
+              "detail": "Rear orthographic view",
+              "derivation": "Visually verified printed callout. Arrow ends at body centreline but value exceeds the relevant body half extent. Retained as unresolved source claim; do not use for physical placement."
+            },
+            "verticalCamera": {
+              "value": 170.04,
+              "unit": "mm",
+              "sourcePage": 3,
+              "detail": "Rear orthographic view",
+              "derivation": "Visually verified printed callout. Arrow ends at body centreline but value exceeds the relevant body half extent. Retained as unresolved source claim; do not use for physical placement."
+            }
+          },
+          "note": "Body width134.75 and height195.43 mm are explicit on page2. Printed rear positions cannot be reconciled with these centred datums. No replacement inferred from drawing scale."
+        }
+      },
       "profiles": [],
       "frontCameraPartial": {
         "x": -0.005,
@@ -113312,9 +114800,11 @@
           7
         ],
         "ambiguities": [
-          "The 4.38 mm ALS callout is not labelled as a front-camera dimension."
+          "The 4.38 mm ALS callout is not labelled as a front-camera dimension.",
+          "PDF page3 rear-view109.36 horizontal and170.04 rear-camera vertical callouts exceed body half extents while their arrows terminate at centreline datums. Source values retained as unresolved claims, not valid positions.",
+          "Front camera vertical location is not dimensioned;4.38mm explicitly refers to the cellular ambient-light sensor."
         ],
-        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours."
+        "scope": "Named camera/acoustic/flash/ALS/connector keepouts and apertures reviewed. Rear camera position source contradiction explicitly represented; front camera Y remains unknown. Other sheets and contours remain incomplete."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf",
@@ -181600,7 +183090,599 @@
         "height": 145.64
       },
       "additionalDimensions": [],
-      "features": {},
+      "features": {
+        "combinedFrontCameraAndSensorsKeepout": {
+          "featureType": "combined-mechanical-keepout",
+          "dimensions": {
+            "width": {
+              "value": 19.79,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and bottom section view",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "height": {
+              "value": 5.12,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and bottom section view",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "centerFromTop": {
+              "value": 8.17,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and bottom section view",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "includedAngle": {
+              "value": 94,
+              "unit": "degrees",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and bottom section view",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "centerFromLeft": {
+              "value": 35.81,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and bottom section view",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          },
+          "contactSurface": "Keepout cone base contacts front coverglass.",
+          "centerPortraitMm": {
+            "x": {
+              "value": -0.005,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E",
+              "derivation": "35.81-71.63/2; combined keepout only; body from page2."
+            },
+            "y": {
+              "value": 65.65,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E",
+              "derivation": "147.64/2-8.17; combined keepout only; body from page2."
+            }
+          }
+        },
+        "alsSensorKeepout": {
+          "featureType": "ambient-light-sensor-mechanical-keepout",
+          "dimensions": {
+            "width": {
+              "value": 10.78,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and ALS section",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "height": {
+              "value": 1.5,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and ALS section",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "centerFromLeft": {
+              "value": 30.05,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and ALS section",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "centerFromTop": {
+              "value": 13.21,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and ALS section",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "includedAngle": {
+              "value": 120,
+              "unit": "degrees",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and ALS section",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          },
+          "contactSurface": "Keepout cone base contacts coverglass."
+        },
+        "receiverKeepout": {
+          "featureType": "receiver-mechanical-keepout",
+          "dimensions": {
+            "width": {
+              "value": 14.4,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and receiver bottom view",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          }
+        },
+        "connectorKeepout": {
+          "featureType": "recommended-mating-connector-clearance",
+          "dimensions": {
+            "width": {
+              "value": 12.45,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail C",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "height": {
+              "value": 6.6,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail C",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "cornerRadius": {
+              "value": 3.25,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail C",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "outwardClearanceFromProductSurface": {
+              "value": 14,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail C",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          }
+        },
+        "rearCamera1Keepout": {
+          "featureType": "rear-camera-mechanical-keepout",
+          "dimensions": {
+            "includedAngle": {
+              "value": 121.83,
+              "unit": "degrees",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section H-H",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "baseToCoverGlass": {
+              "value": 9.11,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section H-H",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          }
+        },
+        "rearCamera2Keepout": {
+          "featureType": "rear-camera-mechanical-keepout",
+          "dimensions": {
+            "includedAngle": {
+              "value": 75.55,
+              "unit": "degrees",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section G-G",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "baseToCoverGlass": {
+              "value": 6.9,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section G-G",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          }
+        },
+        "rearFlashKeepout": {
+          "featureType": "rear-flash-mechanical-keepout",
+          "dimensions": {
+            "innerIncludedAngle": {
+              "value": 112.01,
+              "unit": "degrees",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section J-J",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "outerIncludedAngle": {
+              "value": 157,
+              "unit": "degrees",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section J-J",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "baseToCoverGlass": {
+              "value": 9.56,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section J-J",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "transitionToCoverGlass": {
+              "value": 11.62,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section J-J",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          }
+        },
+        "bodyCornerContour": {
+          "featureType": "body-corner-profile-ordinates",
+          "sourcePage": 2,
+          "sourceSheet": 1,
+          "detail": "Detail D",
+          "appliesTo": "All four body corners, as explicitly stated by the drawing.",
+          "sourceConvention": "Top-left datum; positive x right; negative y down as printed.",
+          "normalizedConvention": "Top-left datum; positive x right and positive y down; millimetres.",
+          "ordinateSets": {
+            "x": [
+              {
+                "value": 0,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": 0.04,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": 0.59,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": 2.29,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": 5.24,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": 9.06,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": 13.21,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": 17.4,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              }
+            ],
+            "y": [
+              {
+                "value": 0,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": -0.04,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": -0.59,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": -2.29,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": -5.24,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": -9.06,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": -13.21,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": -17.4,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              }
+            ]
+          },
+          "pairedCoordinates": [
+            {
+              "x": {
+                "value": 0,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              },
+              "y": {
+                "value": 17.4,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Signed vertical ordinate negated to make +y downward."
+              }
+            },
+            {
+              "x": {
+                "value": 0.04,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              },
+              "y": {
+                "value": 13.21,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Signed vertical ordinate negated to make +y downward."
+              }
+            },
+            {
+              "x": {
+                "value": 0.59,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              },
+              "y": {
+                "value": 9.06,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Signed vertical ordinate negated to make +y downward."
+              }
+            },
+            {
+              "x": {
+                "value": 2.29,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              },
+              "y": {
+                "value": 5.24,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Signed vertical ordinate negated to make +y downward."
+              }
+            },
+            {
+              "x": {
+                "value": 5.24,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              },
+              "y": {
+                "value": 2.29,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Signed vertical ordinate negated to make +y downward."
+              }
+            },
+            {
+              "x": {
+                "value": 9.06,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              },
+              "y": {
+                "value": 0.59,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Signed vertical ordinate negated to make +y downward."
+              }
+            },
+            {
+              "x": {
+                "value": 13.21,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              },
+              "y": {
+                "value": 0.04,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Signed vertical ordinate negated to make +y downward."
+              }
+            },
+            {
+              "x": {
+                "value": 17.4,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              },
+              "y": {
+                "value": 0,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Signed vertical ordinate negated to make +y downward."
+              }
+            }
+          ],
+          "continuousCurve": null,
+          "interpolation": null,
+          "derivation": "Printed ordinate labels and their leaders/crosses were visually reviewed. Coordinates below retain only identified point associations. Unknown coordinates remain null. This is a discrete contour sample, not a fitted radius or complete machining curve."
+        },
+        "rearCamera1MechanicalReference": {
+          "featureType": "rear-camera-circular-feature-reference",
+          "dimensions": {
+            "centerFromLeftInRearView": {
+              "value": 12.73,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "centerFromTopInRearView": {
+              "value": 12.73,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "outerCircularFeatureDiameter": {
+              "value": 15.07,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          },
+          "convention": "Mechanical circular centre in rear view; +x right and +y down from top-left, not a calibrated optical centre."
+        },
+        "rearCamera2MechanicalReference": {
+          "featureType": "rear-camera-circular-feature-reference",
+          "dimensions": {
+            "centerFromLeftInRearView": {
+              "value": 25.64,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "centerFromTopInRearView": {
+              "value": 25.64,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "outerCircularFeatureDiameter": {
+              "value": 15.07,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          },
+          "convention": "Mechanical circular centre in rear view; +x right and +y down from top-left, not a calibrated optical centre."
+        }
+      },
       "profiles": [],
       "frontCameraPartial": null,
       "frontCamera": null,
@@ -181613,10 +183695,13 @@
         "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
-          2
+          2,
+          3
         ],
         "ambiguities": [],
-        "scope": "Display/body/glass and explicitly located camera only; other features remain in raw annotations."
+        "scope": "Camera/sensor/receiver/connector mechanical dimensions and sampled corner profile; not calibrated optical geometry or a complete manufacturing contour.",
+        "frontCameraCenterStatus": "not-individually-dimensioned",
+        "frontCameraCenterDerivation": "The front detail identifies a combined camera/forward-sensor keepout; neither its centre nor its leader dot identifies an individual camera."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-15.pdf",
@@ -184052,7 +186137,599 @@
         "height": 158.89
       },
       "additionalDimensions": [],
-      "features": {},
+      "features": {
+        "combinedFrontCameraAndSensorsKeepout": {
+          "featureType": "combined-mechanical-keepout",
+          "dimensions": {
+            "width": {
+              "value": 19.79,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and bottom section view",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "height": {
+              "value": 5.12,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and bottom section view",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "centerFromTop": {
+              "value": 8.17,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and bottom section view",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "includedAngle": {
+              "value": 94,
+              "unit": "degrees",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and bottom section view",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "centerFromLeft": {
+              "value": 38.88,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and bottom section view",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          },
+          "contactSurface": "Keepout cone base contacts front coverglass.",
+          "centerPortraitMm": {
+            "x": {
+              "value": 0.0,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E",
+              "derivation": "38.88-77.76/2; combined keepout only; body from page2."
+            },
+            "y": {
+              "value": 72.275,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E",
+              "derivation": "160.89/2-8.17; combined keepout only; body from page2."
+            }
+          }
+        },
+        "alsSensorKeepout": {
+          "featureType": "ambient-light-sensor-mechanical-keepout",
+          "dimensions": {
+            "width": {
+              "value": 8.3,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and ALS section",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "height": {
+              "value": 1.5,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and ALS section",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "centerFromLeft": {
+              "value": 33.11,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and ALS section",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "centerFromTop": {
+              "value": 13.21,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and ALS section",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "includedAngle": {
+              "value": 120,
+              "unit": "degrees",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and ALS section",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          },
+          "contactSurface": "Keepout cone base contacts coverglass."
+        },
+        "receiverKeepout": {
+          "featureType": "receiver-mechanical-keepout",
+          "dimensions": {
+            "width": {
+              "value": 14.2,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and receiver bottom view",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          }
+        },
+        "connectorKeepout": {
+          "featureType": "recommended-mating-connector-clearance",
+          "dimensions": {
+            "width": {
+              "value": 12.45,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail C",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "height": {
+              "value": 6.6,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail C",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "cornerRadius": {
+              "value": 3.25,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail C",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "outwardClearanceFromProductSurface": {
+              "value": 14,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail C",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          }
+        },
+        "rearCamera1Keepout": {
+          "featureType": "rear-camera-mechanical-keepout",
+          "dimensions": {
+            "includedAngle": {
+              "value": 121.83,
+              "unit": "degrees",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section H-H",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "baseToCoverGlass": {
+              "value": 9.11,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section H-H",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          }
+        },
+        "rearCamera2Keepout": {
+          "featureType": "rear-camera-mechanical-keepout",
+          "dimensions": {
+            "includedAngle": {
+              "value": 75.55,
+              "unit": "degrees",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section G-G",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "baseToCoverGlass": {
+              "value": 6.9,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section G-G",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          }
+        },
+        "rearFlashKeepout": {
+          "featureType": "rear-flash-mechanical-keepout",
+          "dimensions": {
+            "innerIncludedAngle": {
+              "value": 112.01,
+              "unit": "degrees",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section J-J",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "outerIncludedAngle": {
+              "value": 157,
+              "unit": "degrees",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section J-J",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "baseToCoverGlass": {
+              "value": 9.56,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section J-J",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "transitionToCoverGlass": {
+              "value": 11.62,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section J-J",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          }
+        },
+        "bodyCornerContour": {
+          "featureType": "body-corner-profile-ordinates",
+          "sourcePage": 2,
+          "sourceSheet": 1,
+          "detail": "Detail D",
+          "appliesTo": "All four body corners, as explicitly stated by the drawing.",
+          "sourceConvention": "Top-left datum; positive x right; negative y down as printed.",
+          "normalizedConvention": "Top-left datum; positive x right and positive y down; millimetres.",
+          "ordinateSets": {
+            "x": [
+              {
+                "value": 0,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": 0.04,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": 0.59,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": 2.29,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": 5.24,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": 9.06,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": 13.21,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": 17.4,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              }
+            ],
+            "y": [
+              {
+                "value": 0,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": -0.04,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": -0.59,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": -2.29,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": -5.24,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": -9.06,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": -13.21,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": -17.4,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              }
+            ]
+          },
+          "pairedCoordinates": [
+            {
+              "x": {
+                "value": 0,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              },
+              "y": {
+                "value": 17.4,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Signed vertical ordinate negated to make +y downward."
+              }
+            },
+            {
+              "x": {
+                "value": 0.04,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              },
+              "y": {
+                "value": 13.21,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Signed vertical ordinate negated to make +y downward."
+              }
+            },
+            {
+              "x": {
+                "value": 0.59,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              },
+              "y": {
+                "value": 9.06,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Signed vertical ordinate negated to make +y downward."
+              }
+            },
+            {
+              "x": {
+                "value": 2.29,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              },
+              "y": {
+                "value": 5.24,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Signed vertical ordinate negated to make +y downward."
+              }
+            },
+            {
+              "x": {
+                "value": 5.24,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              },
+              "y": {
+                "value": 2.29,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Signed vertical ordinate negated to make +y downward."
+              }
+            },
+            {
+              "x": {
+                "value": 9.06,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              },
+              "y": {
+                "value": 0.59,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Signed vertical ordinate negated to make +y downward."
+              }
+            },
+            {
+              "x": {
+                "value": 13.21,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              },
+              "y": {
+                "value": 0.04,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Signed vertical ordinate negated to make +y downward."
+              }
+            },
+            {
+              "x": {
+                "value": 17.4,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              },
+              "y": {
+                "value": 0,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Signed vertical ordinate negated to make +y downward."
+              }
+            }
+          ],
+          "continuousCurve": null,
+          "interpolation": null,
+          "derivation": "Printed ordinate labels and their leaders/crosses were visually reviewed. Coordinates below retain only identified point associations. Unknown coordinates remain null. This is a discrete contour sample, not a fitted radius or complete machining curve."
+        },
+        "rearCamera1MechanicalReference": {
+          "featureType": "rear-camera-circular-feature-reference",
+          "dimensions": {
+            "centerFromLeftInRearView": {
+              "value": 12.73,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "centerFromTopInRearView": {
+              "value": 12.73,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "outerCircularFeatureDiameter": {
+              "value": 15.07,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          },
+          "convention": "Mechanical circular centre in rear view; +x right and +y down from top-left, not a calibrated optical centre."
+        },
+        "rearCamera2MechanicalReference": {
+          "featureType": "rear-camera-circular-feature-reference",
+          "dimensions": {
+            "centerFromLeftInRearView": {
+              "value": 25.64,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "centerFromTopInRearView": {
+              "value": 25.64,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "outerCircularFeatureDiameter": {
+              "value": 15.07,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          },
+          "convention": "Mechanical circular centre in rear view; +x right and +y down from top-left, not a calibrated optical centre."
+        }
+      },
       "profiles": [],
       "frontCameraPartial": null,
       "frontCamera": null,
@@ -184065,10 +186742,13 @@
         "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
-          2
+          2,
+          3
         ],
         "ambiguities": [],
-        "scope": "Display/body/glass and explicitly located camera only; other features remain in raw annotations."
+        "scope": "Camera/sensor/receiver/connector mechanical dimensions and sampled corner profile; not calibrated optical geometry or a complete manufacturing contour.",
+        "frontCameraCenterStatus": "not-individually-dimensioned",
+        "frontCameraCenterDerivation": "The front detail identifies a combined camera/forward-sensor keepout; neither its centre nor its leader dot identifies an individual camera."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-15-plus.pdf",
@@ -186634,7 +189314,661 @@
         "height": 144.61
       },
       "additionalDimensions": [],
-      "features": {},
+      "features": {
+        "combinedFrontCameraAndSensorsKeepout": {
+          "featureType": "combined-mechanical-keepout",
+          "dimensions": {
+            "width": {
+              "value": 20.03,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and bottom section view",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "height": {
+              "value": 5.41,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and bottom section view",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "centerFromTop": {
+              "value": 7.68,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and bottom section view",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "includedAngle": {
+              "value": 94,
+              "unit": "degrees",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and bottom section view",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "centerFromLeft": {
+              "value": 35.3,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and bottom section view",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          },
+          "contactSurface": "Keepout cone base contacts front coverglass.",
+          "centerPortraitMm": {
+            "x": {
+              "value": 0.0,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E",
+              "derivation": "35.3-70.6/2; combined keepout only; body from page2."
+            },
+            "y": {
+              "value": 65.625,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E",
+              "derivation": "146.61/2-7.68; combined keepout only; body from page2."
+            }
+          }
+        },
+        "alsSensorKeepout": {
+          "featureType": "ambient-light-sensor-mechanical-keepout",
+          "dimensions": {
+            "width": {
+              "value": 9.98,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and ALS section",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "height": {
+              "value": 4.16,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and ALS section",
+              "derivation": "Height equals printed end-circle diameter4.16 on Pro, or twice end radius2.08 on Pro Max."
+            },
+            "centerFromLeft": {
+              "value": 35.56,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and ALS section",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "centerFromTop": {
+              "value": 12.82,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and ALS section",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "includedAngle": {
+              "value": 120,
+              "unit": "degrees",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and ALS section",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          },
+          "contactSurface": "Keepout cone base contacts coverglass."
+        },
+        "receiverKeepout": {
+          "featureType": "receiver-mechanical-keepout",
+          "dimensions": {
+            "width": {
+              "value": 14.6,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and receiver bottom view",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          }
+        },
+        "connectorKeepout": {
+          "featureType": "recommended-mating-connector-clearance",
+          "dimensions": {
+            "width": {
+              "value": 12.45,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail C",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "height": {
+              "value": 6.6,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail C",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "cornerRadius": {
+              "value": 3.25,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail C",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "outwardClearanceFromProductSurface": {
+              "value": 14,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail C",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          }
+        },
+        "rearCamera1Keepout": {
+          "featureType": "rear-camera-mechanical-keepout",
+          "dimensions": {
+            "includedAngle": {
+              "value": 123,
+              "unit": "degrees",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section G-G",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "baseToCoverGlass": {
+              "value": 8.29,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section G-G",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          }
+        },
+        "rearCamera2Keepout": {
+          "featureType": "rear-camera-mechanical-keepout",
+          "dimensions": {
+            "includedAngle": {
+              "value": 86,
+              "unit": "degrees",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section G-G",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "baseToCoverGlass": {
+              "value": 7.59,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section G-G",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          }
+        },
+        "rearCamera3Keepout": {
+          "featureType": "rear-camera-mechanical-keepout",
+          "dimensions": {
+            "includedAngle": {
+              "value": 33.2,
+              "unit": "degrees",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section J-J",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "baseToCoverGlass": {
+              "value": 3.51,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section J-J",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          }
+        },
+        "rearSensorKeepout": {
+          "featureType": "rear-sensor-mechanical-keepout",
+          "dimensions": {
+            "includedAngle": {
+              "value": 80.75,
+              "unit": "degrees",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section J-J and Detail F",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "diameterAtPlateauSurface": {
+              "value": 14.37,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section J-J and Detail F",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "centerFromLeftInRearView": {
+              "value": 32.16,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section J-J and Detail F",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "centerFromTopInRearView": {
+              "value": 36.62,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section J-J and Detail F",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "baseToCoverGlass": {
+              "value": 5.89,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section J-J",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          }
+        },
+        "rearFlashKeepout": {
+          "featureType": "rear-flash-mechanical-keepout",
+          "dimensions": {
+            "innerIncludedAngle": {
+              "value": 112,
+              "unit": "degrees",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section J-J (flash view)",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "outerIncludedAngle": {
+              "value": 157,
+              "unit": "degrees",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section J-J (flash view)",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "originToCoverGlass": {
+              "value": 8.35,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section J-J (flash view)",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "transitionToCoverGlass": {
+              "value": 12.36,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section J-J (flash view)",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          }
+        },
+        "bodyCornerContour": {
+          "featureType": "body-corner-profile-ordinates",
+          "sourcePage": 2,
+          "sourceSheet": 1,
+          "detail": "Detail A",
+          "appliesTo": "All four body corners, as explicitly stated by the drawing.",
+          "sourceConvention": "Top-left datum; positive x right; negative y down as printed.",
+          "normalizedConvention": "Top-left datum; positive x right and positive y down; millimetres.",
+          "ordinateSets": {
+            "x": [
+              {
+                "value": 0,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": 0.05,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": 0.9,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": 3.48,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": 7.58,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": 12.36,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": 17.24,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              }
+            ],
+            "y": [
+              {
+                "value": 0,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": -0.05,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": -0.9,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": -3.48,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": -7.58,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": -12.36,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": -17.24,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              }
+            ]
+          },
+          "pairedCoordinates": [
+            {
+              "x": {
+                "value": 0,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              },
+              "y": {
+                "value": 17.24,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Signed vertical ordinate negated to make +y downward."
+              }
+            },
+            {
+              "x": {
+                "value": 0.05,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              },
+              "y": {
+                "value": 12.36,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Signed vertical ordinate negated to make +y downward."
+              }
+            },
+            {
+              "x": {
+                "value": 0.9,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              },
+              "y": {
+                "value": 7.58,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Signed vertical ordinate negated to make +y downward."
+              }
+            },
+            {
+              "x": {
+                "value": 3.48,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              },
+              "y": {
+                "value": 3.48,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Signed vertical ordinate negated to make +y downward."
+              }
+            },
+            {
+              "x": {
+                "value": 7.58,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              },
+              "y": {
+                "value": 0.9,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Signed vertical ordinate negated to make +y downward."
+              }
+            },
+            {
+              "x": {
+                "value": 12.36,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              },
+              "y": {
+                "value": 0.05,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Signed vertical ordinate negated to make +y downward."
+              }
+            },
+            {
+              "x": {
+                "value": 17.24,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              },
+              "y": {
+                "value": 0,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Signed vertical ordinate negated to make +y downward."
+              }
+            }
+          ],
+          "continuousCurve": null,
+          "interpolation": null,
+          "derivation": "Printed ordinate labels and their leaders/crosses were visually reviewed. Coordinates below retain only identified point associations. Unknown coordinates remain null. This is a discrete contour sample, not a fitted radius or complete machining curve."
+        },
+        "rearCamera1MechanicalReference": {
+          "featureType": "rear-camera-circular-feature-reference",
+          "dimensions": {
+            "centerFromLeftInRearView": {
+              "value": 14.17,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "centerFromTopInRearView": {
+              "value": 14.17,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "outerCircularFeatureDiameter": {
+              "value": 16.2,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          },
+          "convention": "Mechanical circular centre in rear view; +x right and +y down from top-left, not a calibrated optical centre."
+        },
+        "rearCamera2MechanicalReference": {
+          "featureType": "rear-camera-circular-feature-reference",
+          "dimensions": {
+            "centerFromLeftInRearView": {
+              "value": 14.17,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "centerFromTopInRearView": {
+              "value": 33.41,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "outerCircularFeatureDiameter": {
+              "value": 16.2,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          },
+          "convention": "Mechanical circular centre in rear view; +x right and +y down from top-left, not a calibrated optical centre."
+        },
+        "rearCamera3MechanicalReference": {
+          "featureType": "rear-camera-circular-feature-reference",
+          "dimensions": {
+            "centerFromLeftInRearView": {
+              "value": 32.16,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "centerFromTopInRearView": {
+              "value": 23.79,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "outerCircularFeatureDiameter": {
+              "value": 16.2,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          },
+          "convention": "Mechanical circular centre in rear view; +x right and +y down from top-left, not a calibrated optical centre."
+        }
+      },
       "profiles": [],
       "frontCameraPartial": null,
       "frontCamera": null,
@@ -186647,10 +189981,13 @@
         "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
-          2
+          2,
+          3
         ],
         "ambiguities": [],
-        "scope": "Display/body/glass and explicitly located camera only; other features remain in raw annotations."
+        "scope": "Camera/sensor/receiver/connector mechanical dimensions and sampled corner profile; not calibrated optical geometry or a complete manufacturing contour.",
+        "frontCameraCenterStatus": "not-individually-dimensioned",
+        "frontCameraCenterDerivation": "The front detail identifies a combined camera/forward-sensor keepout; neither its centre nor its leader dot identifies an individual camera."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-15-pro.pdf",
@@ -189472,7 +192809,643 @@
         "height": 157.86
       },
       "additionalDimensions": [],
-      "features": {},
+      "features": {
+        "combinedFrontCameraAndSensorsKeepout": {
+          "featureType": "combined-mechanical-keepout",
+          "dimensions": {
+            "width": {
+              "value": 20.03,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and bottom section view",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "height": {
+              "value": 5.41,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and bottom section view",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "centerFromTop": {
+              "value": 7.67,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and bottom section view",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "includedAngle": {
+              "value": 94,
+              "unit": "degrees",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and bottom section view",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "endRadius": {
+              "value": 2.69,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          },
+          "contactSurface": "Keepout cone base contacts front coverglass."
+        },
+        "alsSensorKeepout": {
+          "featureType": "ambient-light-sensor-mechanical-keepout",
+          "dimensions": {
+            "width": {
+              "value": 9.98,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and ALS section",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "height": {
+              "value": 4.16,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and ALS section",
+              "derivation": "Height equals printed end-circle diameter4.16 on Pro, or twice end radius2.08 on Pro Max."
+            },
+            "centerFromLeft": {
+              "value": 38.79,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and ALS section",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "centerFromTop": {
+              "value": 12.82,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and ALS section",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "includedAngle": {
+              "value": 120,
+              "unit": "degrees",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and ALS section",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "endRadius": {
+              "value": 2.08,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          },
+          "contactSurface": "Keepout cone base contacts coverglass."
+        },
+        "receiverKeepout": {
+          "featureType": "receiver-mechanical-keepout",
+          "dimensions": {
+            "width": {
+              "value": 14.4,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Detail E and receiver bottom view",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          }
+        },
+        "connectorKeepout": {
+          "featureType": "recommended-mating-connector-clearance",
+          "dimensions": {
+            "width": {
+              "value": 12.45,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail C",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "height": {
+              "value": 6.6,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail C",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "cornerRadius": {
+              "value": 3.25,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail C",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "outwardClearanceFromProductSurface": {
+              "value": 14,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail C",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          }
+        },
+        "rearCamera1Keepout": {
+          "featureType": "rear-camera-mechanical-keepout",
+          "dimensions": {
+            "includedAngle": {
+              "value": 123,
+              "unit": "degrees",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section G-G",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "baseToCoverGlass": {
+              "value": 8.28,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section G-G",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          }
+        },
+        "rearCamera2Keepout": {
+          "featureType": "rear-camera-mechanical-keepout",
+          "dimensions": {
+            "includedAngle": {
+              "value": 86,
+              "unit": "degrees",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section G-G",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "baseToCoverGlass": {
+              "value": 7.73,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section G-G",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          }
+        },
+        "rearCamera3Keepout": {
+          "featureType": "rear-camera-mechanical-keepout",
+          "dimensions": {
+            "includedAngle": {
+              "value": 24.1,
+              "unit": "degrees",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section J-J",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "baseToCoverGlass": {
+              "value": 4.6,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section J-J",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          }
+        },
+        "rearSensorKeepout": {
+          "featureType": "rear-sensor-mechanical-keepout",
+          "dimensions": {
+            "includedAngle": {
+              "value": 80.75,
+              "unit": "degrees",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section J-J and Detail F",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "diameterAtPlateauSurface": {
+              "value": 14.62,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section J-J and Detail F",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "centerFromLeftInRearView": {
+              "value": 32.16,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section J-J and Detail F",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "centerFromTopInRearView": {
+              "value": 38.22,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section J-J and Detail F",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          }
+        },
+        "rearFlashKeepout": {
+          "featureType": "rear-flash-mechanical-keepout",
+          "dimensions": {
+            "innerIncludedAngle": {
+              "value": 112,
+              "unit": "degrees",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section H-H",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "outerIncludedAngle": {
+              "value": 157,
+              "unit": "degrees",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section H-H",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "originToCoverGlass": {
+              "value": 8.35,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section H-H",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "transitionToCoverGlass": {
+              "value": 12.36,
+              "unit": "mm",
+              "sourcePage": 3,
+              "sourceSheet": 2,
+              "detail": "Section H-H",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          }
+        },
+        "bodyCornerContour": {
+          "featureType": "body-corner-profile-ordinates",
+          "sourcePage": 2,
+          "sourceSheet": 1,
+          "detail": "Detail D",
+          "appliesTo": "All four body corners, as explicitly stated by the drawing.",
+          "sourceConvention": "Top-left datum; positive x right; negative y down as printed.",
+          "normalizedConvention": "Top-left datum; positive x right and positive y down; millimetres.",
+          "ordinateSets": {
+            "x": [
+              {
+                "value": 0,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": 0.05,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": 0.9,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": 3.48,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": 7.58,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": 12.36,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": 17.24,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              }
+            ],
+            "y": [
+              {
+                "value": 0,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": -0.05,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": -0.9,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": -3.48,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": -7.58,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": -12.36,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": -17.24,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              }
+            ]
+          },
+          "pairedCoordinates": [
+            {
+              "x": {
+                "value": 0,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              },
+              "y": {
+                "value": 17.24,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Signed vertical ordinate negated to make +y downward."
+              }
+            },
+            {
+              "x": {
+                "value": 0.05,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              },
+              "y": {
+                "value": 12.36,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Signed vertical ordinate negated to make +y downward."
+              }
+            },
+            {
+              "x": {
+                "value": 0.9,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              },
+              "y": {
+                "value": 7.58,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Signed vertical ordinate negated to make +y downward."
+              }
+            },
+            {
+              "x": {
+                "value": 3.48,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              },
+              "y": {
+                "value": 3.48,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Signed vertical ordinate negated to make +y downward."
+              }
+            },
+            {
+              "x": {
+                "value": 7.58,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              },
+              "y": {
+                "value": 0.9,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Signed vertical ordinate negated to make +y downward."
+              }
+            },
+            {
+              "x": {
+                "value": 12.36,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              },
+              "y": {
+                "value": 0.05,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Signed vertical ordinate negated to make +y downward."
+              }
+            },
+            {
+              "x": {
+                "value": 17.24,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              },
+              "y": {
+                "value": 0,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail D",
+                "derivation": "Signed vertical ordinate negated to make +y downward."
+              }
+            }
+          ],
+          "continuousCurve": null,
+          "interpolation": null,
+          "derivation": "Printed ordinate labels and their leaders/crosses were visually reviewed. Coordinates below retain only identified point associations. Unknown coordinates remain null. This is a discrete contour sample, not a fitted radius or complete machining curve."
+        },
+        "rearCamera1MechanicalReference": {
+          "featureType": "rear-camera-circular-feature-reference",
+          "dimensions": {
+            "centerFromLeftInRearView": {
+              "value": 14.17,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "centerFromTopInRearView": {
+              "value": 14.17,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "outerCircularFeatureDiameter": {
+              "value": 16.2,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          },
+          "convention": "Mechanical circular centre in rear view; +x right and +y down from top-left, not a calibrated optical centre."
+        },
+        "rearCamera2MechanicalReference": {
+          "featureType": "rear-camera-circular-feature-reference",
+          "dimensions": {
+            "centerFromLeftInRearView": {
+              "value": 14.17,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "centerFromTopInRearView": {
+              "value": 33.41,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "outerCircularFeatureDiameter": {
+              "value": 16.2,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          },
+          "convention": "Mechanical circular centre in rear view; +x right and +y down from top-left, not a calibrated optical centre."
+        },
+        "rearCamera3MechanicalReference": {
+          "featureType": "rear-camera-circular-feature-reference",
+          "dimensions": {
+            "centerFromLeftInRearView": {
+              "value": 32.16,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "centerFromTopInRearView": {
+              "value": 23.79,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "outerCircularFeatureDiameter": {
+              "value": 16.2,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          },
+          "convention": "Mechanical circular centre in rear view; +x right and +y down from top-left, not a calibrated optical centre."
+        }
+      },
       "profiles": [],
       "frontCameraPartial": null,
       "frontCamera": null,
@@ -189485,10 +193458,15 @@
         "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
-          2
+          2,
+          3
         ],
-        "ambiguities": [],
-        "scope": "Display/body/glass and explicitly located camera only; other features remain in raw annotations."
+        "ambiguities": [
+          "Combined keepout horizontal centre not separately labelled on page3; no midpoint inferred from receiver alignment or page2 display cutout."
+        ],
+        "scope": "Camera/sensor/receiver/connector mechanical dimensions and sampled corner profile; not calibrated optical geometry or a complete manufacturing contour.",
+        "frontCameraCenterStatus": "not-individually-dimensioned",
+        "frontCameraCenterDerivation": "The front detail identifies a combined camera/forward-sensor keepout; neither its centre nor its leader dot identifies an individual camera."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-15-pro-max.pdf",
@@ -232575,7 +236553,7 @@
       "profiles": [],
       "frontCameraPartial": null,
       "frontCamera": {
-        "x": -10.655,
+        "x": -10.645,
         "y": 60.12,
         "convention": "portrait body centre; +x right, +y up; millimetres",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-se-3rd-generation.pdf",
@@ -232583,7 +236561,7 @@
       },
       "review": {
         "status": "display-body-camera-image-reviewed",
-        "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout. Detail A places front camera centre 22.98 mm from left edge, 9.10 mm from top: x=22.98-67.27/2; y=138.44/2-9.10. Sheet explicitly applies to SE 2nd and 3rd generations.",
+        "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout. Detail A places front camera centre 22.99 mm from left edge, 9.10 mm from top: x=22.99-67.27/2; y=138.44/2-9.10. Sheet explicitly applies to SE 2nd and 3rd generations.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-se-3rd-generation.pdf",
         "page": 2,
         "bodyPage": 2,
@@ -232592,8 +236570,12 @@
         "pagesReviewed": [
           2
         ],
-        "ambiguities": [],
-        "scope": "Display/body/glass and explicitly located camera only; other features remain in raw annotations."
+        "ambiguities": [
+          "Title block explicitly covers both SE third and second generation; this record follows the indexed third-generation identity. Individual camera reference is mechanical only."
+        ],
+        "scope": "Camera/sensor/receiver/connector mechanical dimensions and sampled corner profile; not calibrated optical geometry or a complete manufacturing contour.",
+        "frontCameraCenterStatus": "individual-mechanical-centre-dimensioned",
+        "frontCameraCenterDerivation": "Detail A explicitly labels the individual front-camera circle, located22.99mm from the left edge and9.10mm from the top; body67.27x138.44mm. This is a mechanical reference, not a calibrated optical principal point."
       },
       "drawing": null
     },
@@ -232658,11 +236640,537 @@
           "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-se-3rd-generation.pdf"
         }
       ],
-      "features": {},
+      "features": {
+        "frontCameraKeepout": {
+          "featureType": "individual-front-camera-mechanical-keepout",
+          "dimensions": {
+            "diameterAtSurface": {
+              "value": 3.21,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Details A/B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "includedAngle": {
+              "value": 77,
+              "unit": "degrees",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Details A/B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "coneToCoverGlass": {
+              "value": 2.02,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Details A/B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "centerFromLeft": {
+              "value": 22.99,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Details A/B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "centerFromTop": {
+              "value": 9.1,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Details A/B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          }
+        },
+        "proximitySensorKeepout": {
+          "featureType": "proximity-sensor-mechanical-keepout",
+          "dimensions": {
+            "diameterAtSurface": {
+              "value": 4.35,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Details A/B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "includedAngle": {
+              "value": 120,
+              "unit": "degrees",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Details A/B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "coneToCoverGlass": {
+              "value": 1.26,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Details A/B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "centerFromLeft": {
+              "value": 33.63,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Details A/B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "centerFromTop": {
+              "value": 4.84,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Details A/B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          }
+        },
+        "alsSensorKeepout": {
+          "featureType": "ambient-light-sensor-mechanical-keepout",
+          "dimensions": {
+            "diameterAtSurface": {
+              "value": 6.4,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Details A/B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "includedAngle": {
+              "value": 140,
+              "unit": "degrees",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Details A/B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "coneToCoverGlass": {
+              "value": 1.16,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Details A/B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "centerFromLeft": {
+              "value": 37.32,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Details A/B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "centerFromTop": {
+              "value": 4.84,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Details A/B",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          }
+        },
+        "receiverOpening": {
+          "featureType": "receiver-mechanical-opening",
+          "dimensions": {
+            "width": {
+              "value": 11.87,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "height": {
+              "value": 1.2,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          }
+        },
+        "connectorKeepout": {
+          "featureType": "recommended-mating-connector-clearance",
+          "dimensions": {
+            "width": {
+              "value": 13.65,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail F",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "height": {
+              "value": 6.85,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail F",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "cornerRadius": {
+              "value": 3.4,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail F",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "outwardClearanceFromProductSurface": {
+              "value": 14,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail F",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          }
+        },
+        "rearCamera1Keepout": {
+          "featureType": "rear-camera-mechanical-keepout",
+          "dimensions": {
+            "diameterAtSurface": {
+              "value": 4.54,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "includedAngle": {
+              "value": 76.7,
+              "unit": "degrees",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "coneToBackGlass": {
+              "value": 2.0,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "turretHeight": {
+              "value": 0.87,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          }
+        },
+        "rearFlashKeepout": {
+          "featureType": "rear-flash-mechanical-keepout",
+          "dimensions": {
+            "diameterAtSurface": {
+              "value": 4.16,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "innerIncludedAngle": {
+              "value": 114,
+              "unit": "degrees",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "outerIncludedAngle": {
+              "value": 158,
+              "unit": "degrees",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "angleTransitionHeight": {
+              "value": 1.44,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "coneToBackGlass": {
+              "value": 1.35,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          },
+          "angleDefinition": "114-degree cone under1.44mm;158-degree cone beyond1.44mm, as explicitly labelled."
+        },
+        "rearCamera1MechanicalReference": {
+          "featureType": "rear-camera-circular-feature-reference",
+          "dimensions": {
+            "centerFromLeftInRearView": {
+              "value": 10.44,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Rear view",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "centerFromTopInRearView": {
+              "value": 10.24,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Rear view",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "outerCircularFeatureDiameter": {
+              "value": 8.57,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Rear view",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          },
+          "convention": "Mechanical circular centre in rear view; +x right and +y down from top-left."
+        },
+        "homeTouchIdKeepout": {
+          "featureType": "home-touch-id-sensor-mechanical-keepout",
+          "dimensions": {
+            "width": {
+              "value": 14.6,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail F",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "includedAngle": {
+              "value": 100,
+              "unit": "degrees",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail F",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            "coneToCoverGlass": {
+              "value": 12.46,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail F",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          }
+        },
+        "bodyCornerContour": {
+          "featureType": "body-corner-profile-ordinates",
+          "sourcePage": 2,
+          "sourceSheet": 1,
+          "detail": "Detail A",
+          "appliesTo": "All four body corners, as explicitly stated by the drawing.",
+          "sourceConvention": "Top-left datum; positive x right; positive y down as printed.",
+          "normalizedConvention": "Top-left datum; positive x right and positive y down; millimetres.",
+          "ordinateSets": {
+            "x": [
+              {
+                "value": 0,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": 0.18,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": 3.0,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": 9.1,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": 14.61,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              }
+            ],
+            "y": [
+              {
+                "value": 0,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": 0.18,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": 3.0,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": 9.1,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              },
+              {
+                "value": 14.62,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Explicit printed dimension, visually transcribed."
+              }
+            ]
+          },
+          "pairedCoordinates": [
+            {
+              "x": {
+                "value": 0,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              },
+              "y": {
+                "value": 14.62,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              }
+            },
+            {
+              "x": {
+                "value": 0.18,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              },
+              "y": {
+                "value": 9.1,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              }
+            },
+            {
+              "x": {
+                "value": 3.0,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              },
+              "y": {
+                "value": 3.0,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              }
+            },
+            {
+              "x": {
+                "value": 9.1,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              },
+              "y": {
+                "value": 0.18,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              }
+            },
+            {
+              "x": {
+                "value": 14.61,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              },
+              "y": {
+                "value": 0,
+                "unit": "mm",
+                "sourcePage": 2,
+                "sourceSheet": 1,
+                "detail": "Detail A",
+                "derivation": "Printed ordinate associated with the same contour cross by its leader."
+              }
+            }
+          ],
+          "continuousCurve": null,
+          "interpolation": null,
+          "derivation": "Printed ordinate labels and their leaders/crosses were visually reviewed. Coordinates below retain only identified point associations. Unknown coordinates remain null. This is a discrete contour sample, not a fitted radius or complete machining curve."
+        }
+      },
       "profiles": [],
       "frontCameraPartial": null,
       "frontCamera": {
-        "x": -10.655,
+        "x": -10.645,
         "y": 60.12,
         "convention": "portrait body centre; +x right, +y up; millimetres",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-se-3rd-generation.pdf",
@@ -232670,7 +237178,7 @@
       },
       "review": {
         "status": "display-body-camera-image-reviewed",
-        "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout. Detail A places front camera centre 22.98 mm from left edge, 9.10 mm from top: x=22.98-67.27/2; y=138.44/2-9.10. Sheet explicitly applies to SE 2nd and 3rd generations.",
+        "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout. Detail A places front camera centre 22.99 mm from left edge, 9.10 mm from top: x=22.99-67.27/2; y=138.44/2-9.10. Sheet explicitly applies to SE 2nd and 3rd generations.",
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-se-3rd-generation.pdf",
         "page": 2,
         "bodyPage": 2,
@@ -232679,8 +237187,12 @@
         "pagesReviewed": [
           2
         ],
-        "ambiguities": [],
-        "scope": "Display/body/glass and explicitly located camera only; other features remain in raw annotations."
+        "ambiguities": [
+          "Title block explicitly covers both SE third and second generation; this record follows the indexed third-generation identity. Individual camera reference is mechanical only."
+        ],
+        "scope": "Camera/sensor/receiver/connector mechanical dimensions and sampled corner profile; not calibrated optical geometry or a complete manufacturing contour.",
+        "frontCameraCenterStatus": "individual-mechanical-centre-dimensioned",
+        "frontCameraCenterDerivation": "Detail A explicitly labels the individual front-camera circle, located22.99mm from the left edge and9.10mm from the top; body67.27x138.44mm. This is a mechanical reference, not a calibrated optical principal point."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-se-3rd-generation.pdf",
