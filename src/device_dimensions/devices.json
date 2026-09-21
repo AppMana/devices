@@ -26,10 +26,10 @@
     "nativeResolutions": 129,
     "reviewedDisplays": 69,
     "reviewedCameras": 22,
-    "structuredFeatureRecords": 79,
-    "namedDimensionMeasurements": 2281,
-    "structuredFeatureMeasurements": 7311,
-    "contourOrdinateValues": 3782,
+    "structuredFeatureRecords": 83,
+    "namedDimensionMeasurements": 2373,
+    "structuredFeatureMeasurements": 7467,
+    "contourOrdinateValues": 4514,
     "note": "All current index PDFs are represented; positioned annotations are an extraction aid, not a complete semantic translation. OCR and numerical-token extraction can omit or misread dimensions. Only reviewed fields are used for physical conversions."
   },
   "devices": [
@@ -1439,19 +1439,21 @@
         },
         {
           "feature": "right-lightning-top-front-microphone",
-          "quantity": "depth-from-cushion-plane",
+          "quantity": "top-view-depth-ordinate",
           "value": 8.92,
           "unit": "mm",
           "page": 5,
-          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+          "note": "Local top-view ordinate to opening edge; not an acoustic-center coordinate."
         },
         {
           "feature": "right-lightning-top-rear-microphone",
-          "quantity": "depth-from-cushion-plane",
+          "quantity": "top-view-depth-ordinate",
           "value": 8.92,
           "unit": "mm",
           "page": 5,
-          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+          "note": "Local top-view ordinate to opening edge; not an acoustic-center coordinate."
         },
         {
           "feature": "right-lightning-bottom-microphone",
@@ -1695,19 +1697,21 @@
         },
         {
           "feature": "right-usb-c-top-front-microphone",
-          "quantity": "depth-from-cushion-plane",
+          "quantity": "top-view-depth-ordinate",
           "value": 8.92,
           "unit": "mm",
           "page": 6,
-          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+          "note": "Local top-view ordinate to opening edge; not an acoustic-center coordinate."
         },
         {
           "feature": "right-usb-c-top-rear-microphone",
-          "quantity": "depth-from-cushion-plane",
+          "quantity": "top-view-depth-ordinate",
           "value": 8.92,
           "unit": "mm",
           "page": 6,
-          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+          "note": "Local top-view ordinate to opening edge; not an acoustic-center coordinate."
         },
         {
           "feature": "right-usb-c-bottom-microphone",
@@ -1951,19 +1955,21 @@
         },
         {
           "feature": "left-top-front-microphone",
-          "quantity": "depth-from-cushion-plane",
+          "quantity": "top-view-depth-ordinate",
           "value": 8.92,
           "unit": "mm",
           "page": 7,
-          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+          "note": "Local top-view ordinate to opening edge; not an acoustic-center coordinate."
         },
         {
           "feature": "left-top-rear-microphone",
-          "quantity": "depth-from-cushion-plane",
+          "quantity": "top-view-depth-ordinate",
           "value": 8.92,
           "unit": "mm",
           "page": 7,
-          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf",
+          "note": "Local top-view ordinate to opening edge; not an acoustic-center coordinate."
         },
         {
           "feature": "left-bottom-microphone",
@@ -2089,6 +2095,14 @@
           "feature": "left-lower-acoustic-section",
           "quantity": "outer-horizontal-ordinate",
           "value": 25.14,
+          "unit": "mm",
+          "page": 7,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
+        },
+        {
+          "feature": "left-top-acoustic-section",
+          "quantity": "span",
+          "value": 9.79,
           "unit": "mm",
           "page": 7,
           "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-max.pdf"
@@ -10814,10 +10828,1342 @@
           "page": 5,
           "note": "Upper length tolerance ±0.7%; lower length tolerance ±1.5%.",
           "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf"
+        },
+        {
+          "feature": "deepest-light-seal-assembly",
+          "quantity": "front-depth",
+          "value": 112.93,
+          "unit": "mm",
+          "page": 3,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf"
+        },
+        {
+          "feature": "deepest-light-seal-assembly",
+          "quantity": "center-depth",
+          "value": 74.49,
+          "unit": "mm",
+          "page": 3,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf"
+        },
+        {
+          "feature": "widest-tallest-light-seal-assembly",
+          "quantity": "front-depth",
+          "value": 107.82,
+          "unit": "mm",
+          "page": 3,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf"
+        },
+        {
+          "feature": "widest-tallest-light-seal-assembly",
+          "quantity": "center-depth",
+          "value": 76.87,
+          "unit": "mm",
+          "page": 3,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf"
+        },
+        {
+          "feature": "light-seal-and-face-cushion-largest",
+          "quantity": "width",
+          "value": 161.35,
+          "unit": "mm",
+          "page": 3,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "Table material-condition label: MMC."
+        },
+        {
+          "feature": "light-seal-and-face-cushion-largest",
+          "quantity": "depth",
+          "value": 98.4,
+          "unit": "mm",
+          "page": 3,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "Table material-condition label: MMC."
+        },
+        {
+          "feature": "light-seal-and-face-cushion-largest",
+          "quantity": "height",
+          "value": 104.26,
+          "unit": "mm",
+          "page": 3,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "Table material-condition label: MMC."
+        },
+        {
+          "feature": "light-seal-and-face-cushion-smallest",
+          "quantity": "width",
+          "value": 147.57,
+          "unit": "mm",
+          "page": 3,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "Table material-condition label: LMC."
+        },
+        {
+          "feature": "light-seal-and-face-cushion-smallest",
+          "quantity": "depth",
+          "value": 72.38,
+          "unit": "mm",
+          "page": 3,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "Table material-condition label: MMC."
+        },
+        {
+          "feature": "light-seal-and-face-cushion-smallest",
+          "quantity": "height",
+          "value": 94.07,
+          "unit": "mm",
+          "page": 3,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "Table material-condition label: LMC."
+        },
+        {
+          "feature": "dual-loop-upper-band-small",
+          "quantity": "length",
+          "value": 335,
+          "unit": "mm",
+          "page": 5,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "Explicit tolerance ±0.7%."
+        },
+        {
+          "feature": "dual-loop-lower-band-small",
+          "quantity": "length",
+          "value": 328,
+          "unit": "mm",
+          "page": 5,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "Explicit tolerance ±1.5%."
+        },
+        {
+          "feature": "dual-loop-upper-band-medium",
+          "quantity": "length",
+          "value": 343,
+          "unit": "mm",
+          "page": 5,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "Explicit tolerance ±0.7%."
+        },
+        {
+          "feature": "dual-loop-lower-band-medium",
+          "quantity": "length",
+          "value": 366,
+          "unit": "mm",
+          "page": 5,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "Explicit tolerance ±1.5%."
+        },
+        {
+          "feature": "dual-loop-upper-band-large",
+          "quantity": "length",
+          "value": 352,
+          "unit": "mm",
+          "page": 5,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "Explicit tolerance ±0.7%."
+        },
+        {
+          "feature": "dual-loop-lower-band-large",
+          "quantity": "length",
+          "value": 411,
+          "unit": "mm",
+          "page": 5,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "Explicit tolerance ±1.5%."
+        },
+        {
+          "feature": "dual-loop-pull-tab",
+          "quantity": "length",
+          "value": 5.59,
+          "unit": "mm",
+          "page": 5,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "2X; ±1.00 mm"
+        },
+        {
+          "feature": "dual-loop-hook-pad",
+          "quantity": "overall-length",
+          "value": 58.06,
+          "unit": "mm",
+          "page": 5,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "2X; ±1.00 mm"
+        },
+        {
+          "feature": "dual-loop-first-pad",
+          "quantity": "offset",
+          "value": 4.1,
+          "unit": "mm",
+          "page": 5,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "2X; ±0.50 mm"
+        },
+        {
+          "feature": "dual-loop-hook-pad",
+          "quantity": "gap",
+          "value": 1.45,
+          "unit": "mm",
+          "page": 5,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "6X; ±0.20 mm"
+        },
+        {
+          "feature": "dual-loop-band",
+          "quantity": "overall-thickness",
+          "value": 4.5,
+          "unit": "mm",
+          "page": 5,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "±0.50 mm"
+        },
+        {
+          "feature": "dual-loop-band",
+          "quantity": "included-angle",
+          "value": 122,
+          "unit": "degree",
+          "page": 5,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "±1.20 degrees on right band; left band also labelled 122.00 degrees."
+        },
+        {
+          "feature": "dual-loop-end-tab",
+          "quantity": "side-height",
+          "value": 5.58,
+          "unit": "mm",
+          "page": 5,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf"
+        },
+        {
+          "feature": "dual-loop-end-tab",
+          "quantity": "side-projection",
+          "value": 6.55,
+          "unit": "mm",
+          "page": 5,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf"
+        },
+        {
+          "feature": "dual-loop-left-band",
+          "quantity": "height",
+          "value": 100.99,
+          "unit": "mm",
+          "page": 5,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf"
+        },
+        {
+          "feature": "dual-loop-left-band",
+          "quantity": "width",
+          "value": 89.88,
+          "unit": "mm",
+          "page": 5,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf"
+        },
+        {
+          "feature": "dual-loop-left-band",
+          "quantity": "upper-width",
+          "value": 35.38,
+          "unit": "mm",
+          "page": 5,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf"
+        },
+        {
+          "feature": "dual-loop-left-band",
+          "quantity": "upper-height",
+          "value": 75.52,
+          "unit": "mm",
+          "page": 5,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf"
+        },
+        {
+          "feature": "dual-loop-left-band",
+          "quantity": "upper-thickness",
+          "value": 8.71,
+          "unit": "mm",
+          "page": 5,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf"
+        },
+        {
+          "feature": "dual-loop-left-band",
+          "quantity": "lower-thickness",
+          "value": 10.96,
+          "unit": "mm",
+          "page": 5,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf"
+        },
+        {
+          "feature": "small-solo-knit",
+          "quantity": "deep-light-seal-side-clearance",
+          "value": 79.53,
+          "unit": "mm",
+          "page": 6,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "Parenthesized reference dimension; band in smallest state for small or largest state for large configuration."
+        },
+        {
+          "feature": "small-solo-knit",
+          "quantity": "deep-light-seal-center-clearance",
+          "value": 129.77,
+          "unit": "mm",
+          "page": 6,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "Parenthesized reference dimension; band in smallest state for small or largest state for large configuration."
+        },
+        {
+          "feature": "small-solo-knit",
+          "quantity": "wide-light-seal-side-clearance",
+          "value": 84.17,
+          "unit": "mm",
+          "page": 6,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "Parenthesized reference dimension; band in smallest state for small or largest state for large configuration."
+        },
+        {
+          "feature": "small-solo-knit",
+          "quantity": "wide-light-seal-center-clearance",
+          "value": 127.39,
+          "unit": "mm",
+          "page": 6,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "Parenthesized reference dimension; band in smallest state for small or largest state for large configuration."
+        },
+        {
+          "feature": "large-solo-knit",
+          "quantity": "deep-light-seal-side-clearance",
+          "value": 84.37,
+          "unit": "mm",
+          "page": 7,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "Parenthesized reference dimension; band in smallest state for small or largest state for large configuration."
+        },
+        {
+          "feature": "large-solo-knit",
+          "quantity": "deep-light-seal-center-clearance",
+          "value": 174.99,
+          "unit": "mm",
+          "page": 7,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "Parenthesized reference dimension; band in smallest state for small or largest state for large configuration."
+        },
+        {
+          "feature": "large-solo-knit",
+          "quantity": "wide-light-seal-side-clearance",
+          "value": 89.39,
+          "unit": "mm",
+          "page": 7,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "Parenthesized reference dimension; band in smallest state for small or largest state for large configuration."
+        },
+        {
+          "feature": "large-solo-knit",
+          "quantity": "wide-light-seal-center-clearance",
+          "value": 172.6,
+          "unit": "mm",
+          "page": 7,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "Parenthesized reference dimension; band in smallest state for small or largest state for large configuration."
+        },
+        {
+          "feature": "small-dual-knit",
+          "quantity": "deep-light-seal-side-clearance",
+          "value": 80.56,
+          "unit": "mm",
+          "page": 8,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "Parenthesized reference dimension; band in smallest state for small or largest state for large configuration."
+        },
+        {
+          "feature": "small-dual-knit",
+          "quantity": "deep-light-seal-center-clearance",
+          "value": 137.87,
+          "unit": "mm",
+          "page": 8,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "Parenthesized reference dimension; band in smallest state for small or largest state for large configuration."
+        },
+        {
+          "feature": "small-dual-knit",
+          "quantity": "wide-light-seal-side-clearance",
+          "value": 85.46,
+          "unit": "mm",
+          "page": 8,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "Parenthesized reference dimension; band in smallest state for small or largest state for large configuration."
+        },
+        {
+          "feature": "small-dual-knit",
+          "quantity": "wide-light-seal-center-clearance",
+          "value": 135.48,
+          "unit": "mm",
+          "page": 8,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "Parenthesized reference dimension; band in smallest state for small or largest state for large configuration."
+        },
+        {
+          "feature": "large-dual-knit",
+          "quantity": "deep-light-seal-side-clearance",
+          "value": 82.2,
+          "unit": "mm",
+          "page": 9,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "Parenthesized reference dimension; band in smallest state for small or largest state for large configuration."
+        },
+        {
+          "feature": "large-dual-knit",
+          "quantity": "deep-light-seal-center-clearance",
+          "value": 176.18,
+          "unit": "mm",
+          "page": 9,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "Parenthesized reference dimension; band in smallest state for small or largest state for large configuration."
+        },
+        {
+          "feature": "large-dual-knit",
+          "quantity": "wide-light-seal-side-clearance",
+          "value": 87.26,
+          "unit": "mm",
+          "page": 9,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "Parenthesized reference dimension; band in smallest state for small or largest state for large configuration."
+        },
+        {
+          "feature": "large-dual-knit",
+          "quantity": "wide-light-seal-center-clearance",
+          "value": 173.79,
+          "unit": "mm",
+          "page": 9,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "Parenthesized reference dimension; band in smallest state for small or largest state for large configuration."
         }
       ],
-      "features": {},
-      "profiles": [],
+      "features": {
+        "missingApertures": {
+          "page": 2,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "Drawing identifies controls, vents and optics but supplies no aperture geometry for those features; no optical centers inferred."
+        },
+        "sourceLabelAmbiguity": {
+          "page": 9,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "note": "Sheet heading and right-side state label say large dual knit band; the two upper-left captions repeat SMALL BAND. Dimensions retained under large dual knit configuration following heading."
+        }
+      },
+      "profiles": [
+        {
+          "feature": "small-solo-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "top-upper-horizontal",
+          "values": [
+            180.69,
+            197.89,
+            202.44,
+            205.6,
+            205.96,
+            207.58,
+            208.79,
+            209.46,
+            209.71
+          ],
+          "unit": "mm",
+          "page": 6,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "small-solo-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "top-lower-horizontal",
+          "values": [
+            214.72,
+            220.11,
+            223.66,
+            226.02,
+            227.75,
+            228.8,
+            229.15
+          ],
+          "unit": "mm",
+          "page": 6,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "small-solo-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "top-left-vertical",
+          "values": [
+            92.68,
+            87.77,
+            0,
+            -87.77,
+            -92.68
+          ],
+          "unit": "mm",
+          "page": 6,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "small-solo-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "top-right-vertical",
+          "values": [
+            89.56,
+            86.08,
+            85.77,
+            -86.08,
+            -89.56
+          ],
+          "unit": "mm",
+          "page": 6,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "small-solo-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "side-upper-horizontal",
+          "values": [
+            148.25,
+            163.69,
+            178.62,
+            191.29,
+            201.59,
+            207.84,
+            210.82,
+            212.04,
+            212.36
+          ],
+          "unit": "mm",
+          "page": 6,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "small-solo-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "side-upper-vertical",
+          "values": [
+            115.01,
+            114.45,
+            112.62,
+            109.03,
+            103.18,
+            100.57,
+            87.41,
+            82.5,
+            79.03
+          ],
+          "unit": "mm",
+          "page": 6,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "small-solo-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "side-lower-horizontal",
+          "values": [
+            151.53,
+            167.6,
+            183.52,
+            198.09,
+            209.96,
+            217.04,
+            220.28,
+            221.6,
+            221.85
+          ],
+          "unit": "mm",
+          "page": 6,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "small-solo-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "side-lower-vertical",
+          "values": [
+            51.52,
+            51.73,
+            50.24,
+            45.78,
+            41.04,
+            36.72,
+            33.83,
+            32.3,
+            31.83,
+            0
+          ],
+          "unit": "mm",
+          "page": 6,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "large-solo-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "top-upper-horizontal",
+          "values": [
+            179.1,
+            204.02,
+            205.83,
+            212.84,
+            221.6,
+            231.1,
+            239.43,
+            246.21,
+            251.06,
+            253.96,
+            254.93
+          ],
+          "unit": "mm",
+          "page": 7,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "large-solo-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "top-lower-horizontal",
+          "values": [
+            216.1,
+            226.79,
+            237.8,
+            248.87,
+            258.66,
+            266.54,
+            272.29,
+            276.23
+          ],
+          "unit": "mm",
+          "page": 7,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "large-solo-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "top-left-vertical",
+          "values": [
+            92.68,
+            87.77,
+            0,
+            -87.77,
+            -92.68
+          ],
+          "unit": "mm",
+          "page": 7,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "large-solo-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "top-right-vertical",
+          "values": [
+            91.48,
+            91.14,
+            88.35,
+            -82.34,
+            -88.43,
+            -91.16
+          ],
+          "unit": "mm",
+          "page": 7,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "large-solo-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "side-upper-horizontal",
+          "values": [
+            150.69,
+            169.22,
+            186.11,
+            202.01,
+            217.6,
+            232.35,
+            244.53,
+            252.95,
+            257.72
+          ],
+          "unit": "mm",
+          "page": 7,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "large-solo-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "side-upper-vertical",
+          "values": [
+            122.6,
+            121.24,
+            118.82,
+            115.01,
+            109.32,
+            101.13,
+            100.57,
+            91.79,
+            83.76,
+            80.54
+          ],
+          "unit": "mm",
+          "page": 7,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "large-solo-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "side-lower-horizontal",
+          "values": [
+            154.36,
+            173.51,
+            192.18,
+            210.3,
+            227.78,
+            243.55,
+            256.02,
+            264.35,
+            268.94,
+            276.23
+          ],
+          "unit": "mm",
+          "page": 7,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "large-solo-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "side-lower-vertical",
+          "values": [
+            52.11,
+            50.94,
+            48.03,
+            42.64,
+            38.37,
+            36.3,
+            35.38,
+            34.95,
+            34.82,
+            0
+          ],
+          "unit": "mm",
+          "page": 7,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "small-dual-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "top-upper-horizontal",
+          "values": [
+            176.34,
+            223.22,
+            229.4,
+            238.05,
+            243.29,
+            246.23,
+            247.79,
+            248.47
+          ],
+          "unit": "mm",
+          "page": 8,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "small-dual-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "top-lower-horizontal",
+          "values": [
+            198.75,
+            206.36,
+            211.53,
+            214.7,
+            216.45,
+            217.38,
+            217.81
+          ],
+          "unit": "mm",
+          "page": 8,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "small-dual-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "top-vertical-boundary",
+          "values": [
+            68.98,
+            64.85,
+            55.04,
+            42.92,
+            30.22,
+            16.65,
+            3.69,
+            0,
+            -13.86,
+            -27.78,
+            -41.12,
+            -52.24,
+            -61.71,
+            -69.25
+          ],
+          "unit": "mm",
+          "page": 8,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "small-dual-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "top-front-band-horizontal",
+          "values": [
+            110.56,
+            163.46
+          ],
+          "unit": "mm",
+          "page": 8,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "small-dual-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "front-horizontal",
+          "values": [
+            -70.09,
+            -64.88,
+            -56.56,
+            -47.19,
+            -35.85,
+            -24.21,
+            -12.31,
+            0,
+            2.93,
+            15.51,
+            28.37,
+            40.25,
+            52.14,
+            62.75,
+            71.67,
+            74.95
+          ],
+          "unit": "mm",
+          "page": 8,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "small-dual-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "front-left-vertical",
+          "values": [
+            119.68,
+            119.35,
+            118.56,
+            117,
+            114.29,
+            109.89,
+            103.43,
+            95.1,
+            0
+          ],
+          "unit": "mm",
+          "page": 8,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "small-dual-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "front-right-vertical",
+          "values": [
+            142.61,
+            142.01,
+            140.57,
+            138.11,
+            134.01,
+            127.55,
+            117.87,
+            112.07
+          ],
+          "unit": "mm",
+          "page": 8,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "small-dual-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "side-upper-horizontal",
+          "values": [
+            116.97,
+            134.94,
+            153.45,
+            162.23,
+            162.93,
+            162.95,
+            163.41,
+            164.04,
+            169.87,
+            181.92,
+            194.25,
+            206.27,
+            217.76,
+            234.93,
+            241.09,
+            242.98
+          ],
+          "unit": "mm",
+          "page": 8,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "small-dual-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "side-upper-vertical",
+          "values": [
+            142.1,
+            137.95,
+            137.09,
+            135.22,
+            131.83,
+            129.16,
+            122.38,
+            120.96,
+            115.36,
+            113.22,
+            101.64,
+            98.66,
+            91.38,
+            88.35,
+            86.88,
+            86.68,
+            84.76,
+            82.64,
+            79.97,
+            79.57,
+            79.53,
+            69.56
+          ],
+          "unit": "mm",
+          "page": 8,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "small-dual-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "side-lower-horizontal",
+          "values": [
+            111.08,
+            112.5,
+            116.76,
+            125.65,
+            131.24,
+            163.09,
+            176.47,
+            188.42,
+            198.52,
+            213.24,
+            218.07,
+            220.65,
+            230.13,
+            241.39,
+            247.98
+          ],
+          "unit": "mm",
+          "page": 8,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "small-dual-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "side-lower-vertical",
+          "values": [
+            51.27,
+            50.6,
+            45.96,
+            45.65,
+            37.78,
+            25.48,
+            23.56,
+            20.71,
+            19.24,
+            0
+          ],
+          "unit": "mm",
+          "page": 8,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "large-dual-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "top-upper-horizontal",
+          "values": [
+            175.41,
+            223.95,
+            237.38,
+            249.73,
+            260.6,
+            269.87,
+            277.44,
+            283.17,
+            286.91,
+            288.62
+          ],
+          "unit": "mm",
+          "page": 9,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "large-dual-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "top-lower-horizontal",
+          "values": [
+            200.84,
+            216.67,
+            225.8,
+            234.4,
+            241.78,
+            247.59,
+            252.12,
+            254.99,
+            256.11
+          ],
+          "unit": "mm",
+          "page": 9,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "large-dual-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "top-vertical-boundary",
+          "values": [
+            75.96,
+            71.79,
+            66.08,
+            59.68,
+            50.71,
+            40.15,
+            28.34,
+            16.22,
+            3.05,
+            0,
+            -12.17,
+            -23.94,
+            -35.56,
+            -45.12,
+            -54.23,
+            -61.69,
+            -66.82,
+            -73.57
+          ],
+          "unit": "mm",
+          "page": 9,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "large-dual-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "top-front-band-horizontal",
+          "values": [
+            110.49,
+            163.39
+          ],
+          "unit": "mm",
+          "page": 9,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "large-dual-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "front-horizontal",
+          "values": [
+            -70.09,
+            -64.88,
+            -56.56,
+            -47.19,
+            -35.85,
+            -24.21,
+            -12.31,
+            0,
+            2.93,
+            15.51,
+            28.37,
+            40.25,
+            52.14,
+            62.75,
+            71.67,
+            74.95
+          ],
+          "unit": "mm",
+          "page": 9,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "large-dual-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "front-left-vertical",
+          "values": [
+            119.68,
+            119.35,
+            118.56,
+            117,
+            114.29,
+            109.89,
+            103.43,
+            95.1,
+            0
+          ],
+          "unit": "mm",
+          "page": 9,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "large-dual-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "front-right-vertical",
+          "values": [
+            142.61,
+            142.01,
+            140.57,
+            138.11,
+            134.01,
+            127.55,
+            117.87,
+            112.07
+          ],
+          "unit": "mm",
+          "page": 9,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "large-dual-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "side-upper-horizontal",
+          "values": [
+            116.97,
+            134.94,
+            153.45,
+            162.23,
+            162.93,
+            162.95,
+            163.41,
+            164.04,
+            169.87,
+            181.51,
+            197.55,
+            213.4,
+            228.9,
+            256.84,
+            276.33,
+            283.97
+          ],
+          "unit": "mm",
+          "page": 9,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "large-dual-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "side-upper-vertical",
+          "values": [
+            142.1,
+            137.95,
+            137.09,
+            135.22,
+            131.83,
+            129.16,
+            122.38,
+            120.96,
+            115.36,
+            113.22,
+            101.64,
+            98.66,
+            91.38,
+            88.45,
+            86.39,
+            86.88,
+            83.93,
+            81.1,
+            74.83,
+            69.33,
+            66.62,
+            56.88
+          ],
+          "unit": "mm",
+          "page": 9,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "large-dual-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "side-lower-horizontal",
+          "values": [
+            111.08,
+            112.5,
+            116.76,
+            125.65,
+            131.24,
+            163.09,
+            176.94,
+            190.73,
+            215.24,
+            237,
+            252.3,
+            258.8,
+            268.42,
+            280.77,
+            288.1
+          ],
+          "unit": "mm",
+          "page": 9,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "large-dual-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "side-lower-vertical",
+          "values": [
+            51.33,
+            50.6,
+            44.71,
+            30.58,
+            26.96,
+            13,
+            6.24,
+            4.52,
+            1.85,
+            0
+          ],
+          "unit": "mm",
+          "page": 9,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "dual-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "top-left-vertical",
+          "values": [
+            92.68,
+            87.77,
+            0,
+            -87.77,
+            -92.68
+          ],
+          "unit": "mm",
+          "page": 8,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "dual-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "top-accessory-vertical",
+          "values": [
+            90.64,
+            86.94,
+            90.7,
+            -90.64,
+            -87.09
+          ],
+          "unit": "mm",
+          "page": 8,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "dual-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "top-left-vertical",
+          "values": [
+            92.68,
+            87.77,
+            0,
+            -87.77,
+            -92.68
+          ],
+          "unit": "mm",
+          "page": 9,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "dual-knit-boundary",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "top-accessory-vertical",
+          "values": [
+            90.64,
+            86.94,
+            91.62,
+            -90.64,
+            -87.09
+          ],
+          "unit": "mm",
+          "page": 9,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
@@ -10832,10 +12178,14 @@
           2,
           3,
           4,
-          5
+          5,
+          6,
+          7,
+          8,
+          9
         ],
         "ambiguities": [],
-        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation."
+        "scope": "Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro.pdf",
@@ -20068,7 +21418,7 @@
         {
           "feature": "case-all-around-cross-profile-detail-C",
           "kind": "independent-ordinate-sequence",
-          "sequence": "horizontal",
+          "sequence": "upper-horizontal",
           "values": [
             15.4,
             12.8,
@@ -20121,6 +21471,27 @@
             9.47,
             9.54,
             9.55
+          ],
+          "unit": "mm",
+          "page": 2,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-battery.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "case-all-around-cross-profile-detail-C",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "lower-horizontal",
+          "values": [
+            15.4,
+            12.8,
+            10.2,
+            7.62,
+            5.15,
+            2.99,
+            1.35,
+            0.34,
+            0
           ],
           "unit": "mm",
           "page": 2,
@@ -82392,10 +83763,872 @@
           "unit": "degree",
           "page": 2,
           "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf"
+        },
+        {
+          "feature": "volume-buttons",
+          "quantity": "horizontal-centre-to-cover-glass",
+          "value": 5.18,
+          "page": 4,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf"
+        },
+        {
+          "feature": "volume-buttons",
+          "quantity": "section-width",
+          "value": 2.2,
+          "page": 4,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf"
+        },
+        {
+          "feature": "microphone-exit",
+          "quantity": "depth-to-cover-glass",
+          "value": 3.95,
+          "page": 4,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf"
+        },
+        {
+          "feature": "microphone-opening",
+          "quantity": "diameter",
+          "value": 0.8,
+          "page": 4,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf"
+        },
+        {
+          "feature": "speaker-exit",
+          "quantity": "depth-to-cover-glass",
+          "value": 4.37,
+          "page": 4,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf"
+        },
+        {
+          "feature": "sim-tray",
+          "quantity": "outer-edge-to-cover-glass",
+          "value": 4.97,
+          "page": 4,
+          "unit": "mm",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf"
+        },
+        {
+          "feature": "volume-buttons",
+          "quantity": "section-angle",
+          "value": 32,
+          "page": 4,
+          "unit": "degree",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf"
+        },
+        {
+          "feature": "microphone-exit",
+          "quantity": "section-angle",
+          "value": 25,
+          "page": 4,
+          "unit": "degree",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf"
+        },
+        {
+          "feature": "speaker-keepout",
+          "quantity": "included-angle",
+          "value": 84,
+          "page": 4,
+          "unit": "degree",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf"
+        },
+        {
+          "feature": "speaker-exit",
+          "quantity": "section-angle",
+          "value": 26,
+          "page": 4,
+          "unit": "degree",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf"
+        },
+        {
+          "feature": "volume-buttons",
+          "quantity": "section-rear-offset",
+          "value": 0.59,
+          "unit": "mm",
+          "page": 4,
+          "detail": "F-F",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf"
+        },
+        {
+          "feature": "microphone-exit",
+          "quantity": "section-horizontal-offset-from-rear-tangent",
+          "value": 0.55,
+          "unit": "mm",
+          "page": 4,
+          "detail": "L-L",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf"
+        },
+        {
+          "feature": "sim-tray",
+          "quantity": "section-width",
+          "value": 2.02,
+          "unit": "mm",
+          "page": 4,
+          "detail": "N-N",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf"
+        },
+        {
+          "feature": "sim-tray",
+          "quantity": "inner-edge-to-cover-glass",
+          "value": 3.96,
+          "unit": "mm",
+          "page": 4,
+          "detail": "N-N",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf"
+        },
+        {
+          "feature": "speaker-exit",
+          "quantity": "section-opening-width",
+          "value": 1.6,
+          "unit": "mm",
+          "page": 4,
+          "detail": "G-G",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf"
+        },
+        {
+          "feature": "ambient-light-sensor-keepout",
+          "quantity": "included-angle",
+          "value": 120,
+          "unit": "degree",
+          "page": 3,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf"
         }
       ],
-      "features": {},
-      "profiles": [],
+      "features": {
+        "magneticMounting": {
+          "coordinateConvention": "Landscape front view, camera at left and home button at right; origin at product centre; +x right and +y up. Callouts are parenthesized reference dimensions. Intervals describe depicted segment boundaries, not magnet centres. Undimensioned transverse positions and depths remain null.",
+          "coverFlap": {
+            "segments": [
+              {
+                "xMin": {
+                  "value": -47.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": -41.376,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "N"
+              },
+              {
+                "xMin": {
+                  "value": -41.376,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": -29.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "S"
+              },
+              {
+                "xMin": {
+                  "value": -29.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": -17.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "N"
+              },
+              {
+                "xMin": {
+                  "value": -17.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 0,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "S"
+              },
+              {
+                "xMin": {
+                  "value": 0,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 17.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "N"
+              },
+              {
+                "xMin": {
+                  "value": 17.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 29.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "S"
+              },
+              {
+                "xMin": {
+                  "value": 29.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 41.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "N"
+              },
+              {
+                "xMin": {
+                  "value": 48.42,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 53.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "S"
+              },
+              {
+                "xMin": {
+                  "value": 53.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 65.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "N"
+              },
+              {
+                "xMin": {
+                  "value": 65.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 71.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "S"
+              }
+            ],
+            "polarityFacing": "cover glass",
+            "yMin": null,
+            "yMax": null,
+            "angleToGlass": {
+              "value": 20.3,
+              "unit": "degree",
+              "sourcePage": 3,
+              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+              "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+            },
+            "overallLengthReference": {
+              "value": 118.75,
+              "unit": "mm",
+              "sourcePage": 3,
+              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+              "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+            },
+            "leftEndFromBodyLeftReference": {
+              "value": 77.92,
+              "unit": "mm",
+              "sourcePage": 3,
+              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+              "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+            }
+          },
+          "spine": {
+            "leftSegments": [
+              {
+                "xMin": {
+                  "value": -95.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": -89.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "N"
+              },
+              {
+                "xMin": {
+                  "value": -89.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": -83.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "S"
+              },
+              {
+                "xMin": {
+                  "value": -83.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": -77.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "N"
+              },
+              {
+                "xMin": {
+                  "value": -77.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": -71.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "S"
+              },
+              {
+                "xMin": {
+                  "value": -71.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": -59.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "N"
+              },
+              {
+                "xMin": {
+                  "value": -59.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": -47.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "S"
+              },
+              {
+                "xMin": {
+                  "value": -47.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": -41.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "N"
+              },
+              {
+                "xMin": {
+                  "value": -41.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": -35.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "S"
+              },
+              {
+                "xMin": {
+                  "value": -35.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": -29.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "N"
+              },
+              {
+                "xMin": {
+                  "value": -29.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": -23.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "S"
+              },
+              {
+                "xMin": {
+                  "value": -23.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": -17.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "N"
+              },
+              {
+                "xMin": {
+                  "value": -17.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": -11.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "S"
+              }
+            ],
+            "rightSegments": [
+              {
+                "xMin": {
+                  "value": 11.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 17.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "S"
+              },
+              {
+                "xMin": {
+                  "value": 17.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 23.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "N"
+              },
+              {
+                "xMin": {
+                  "value": 23.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 35.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "S"
+              },
+              {
+                "xMin": {
+                  "value": 35.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 41.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "N"
+              },
+              {
+                "xMin": {
+                  "value": 41.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 47.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "S"
+              },
+              {
+                "xMin": {
+                  "value": 47.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 59.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "N"
+              },
+              {
+                "xMin": {
+                  "value": 59.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 71.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "S"
+              },
+              {
+                "xMin": {
+                  "value": 71.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 77.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "N"
+              },
+              {
+                "xMin": {
+                  "value": 77.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 83.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "S"
+              },
+              {
+                "xMin": {
+                  "value": 83.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 89.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "N"
+              },
+              {
+                "xMin": {
+                  "value": 89.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 95.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "S"
+              }
+            ],
+            "polarityFacing": "outside of product",
+            "yMin": null,
+            "yMax": null,
+            "centerlineAngleToGlass": {
+              "value": 17.8,
+              "unit": "degree",
+              "sourcePage": 3,
+              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+              "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+            },
+            "overallRegionLengthReference": {
+              "value": 190.75,
+              "unit": "mm",
+              "sourcePage": 3,
+              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+              "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+            },
+            "leftEndFromBodyLeftReference": {
+              "value": 29.92,
+              "unit": "mm",
+              "sourcePage": 3,
+              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+              "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+            }
+          },
+          "sensors": {
+            "compass": {
+              "x": {
+                "value": -120.14,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "y": {
+                "value": 5.85,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              }
+            },
+            "hallEffect1": {
+              "x": {
+                "value": -113.41,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "y": {
+                "value": -68.34,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              }
+            },
+            "hallEffect2": {
+              "x": {
+                "value": -56.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "y": {
+                "value": 83.68,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              }
+            }
+          }
+        }
+      },
+      "profiles": [
+        {
+          "feature": "housing-all-four-corners",
+          "detail": "J",
+          "page": 4,
+          "unit": "mm",
+          "coordinateConvention": "Local detail J datum; x right and y up. Negative x ordinates extend left from the right-hand edge datum.",
+          "coordinateStatus": "reviewed-unpaired-ordinates",
+          "x": [
+            -15.61,
+            -11.43,
+            -6.91,
+            -2.87,
+            -0.02,
+            0,
+            0.56
+          ],
+          "y": [
+            0,
+            4.17,
+            8.69,
+            12.74,
+            15.06,
+            15.59,
+            15.61
+          ],
+          "note": "Separate printed ordinate sets; not paired polygon vertices.",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf"
+        },
+        {
+          "feature": "housing-side-contact-end-profile",
+          "detail": "M",
+          "page": 4,
+          "unit": "mm",
+          "coordinateConvention": "Local detail M datum: printed positive x values extend left and printed positive y values extend down from the front-face corner.",
+          "coordinateStatus": "reviewed-unpaired-ordinates",
+          "x": [
+            0,
+            0.22,
+            0.85,
+            2.04,
+            4.1,
+            5.65,
+            7.04
+          ],
+          "y": [
+            0,
+            1.82,
+            3.56,
+            5.05,
+            6.18,
+            6.46
+          ],
+          "note": "Separate printed ordinate sets; preserve source datum rather than assuming portrait-body axes.",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf"
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": {
         "x": 0,
@@ -82413,10 +84646,14 @@
         "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
-          2
+          2,
+          3,
+          4
         ],
-        "ambiguities": [],
-        "scope": "Page 2 front/rear cameras, ALS, buttons, microphones, Lightning/Pencil/audio-jack clearances and smart contacts reviewed from the generation-specific drawing. Remaining antenna, magnet and section/contour geometry incomplete."
+        "ambiguities": [
+          "Cover flap and spine callouts are rounded reference dimensions; individual intervals need not sum exactly to the overall reference length. The 8th- and 9th-generation drawings differ by 0.01 mm in several printed ordinates; own-document values are retained."
+        ],
+        "scope": "Page 2 front/rear cameras, ALS, buttons, microphones, Lightning/Pencil/audio-jack clearances and smart contacts reviewed from the generation-specific drawing. Remaining antenna, magnet and section/contour geometry incomplete. Magnetic page 3: explicit cover/spine segment boundary references and polarities, section angles, Hall sensor and compass locations; no undimensioned segment depth or transverse extent inferred. Section and detail sheet: button, microphone, SIM tray and speaker section offsets, angles, and independent edge/corner contour ordinates."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
@@ -84567,9 +86804,727 @@
           "page": 5,
           "unit": "degree",
           "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "volume-buttons",
+          "quantity": "section-rear-offset",
+          "value": 0.59,
+          "unit": "mm",
+          "page": 5,
+          "detail": "F-F",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "microphone-exit",
+          "quantity": "section-horizontal-offset-from-rear-tangent",
+          "value": 0.55,
+          "unit": "mm",
+          "page": 5,
+          "detail": "L-L",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "sim-tray",
+          "quantity": "section-width",
+          "value": 2.02,
+          "unit": "mm",
+          "page": 5,
+          "detail": "N-N",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "sim-tray",
+          "quantity": "inner-edge-to-cover-glass",
+          "value": 3.96,
+          "unit": "mm",
+          "page": 5,
+          "detail": "N-N",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
+        },
+        {
+          "feature": "speaker-exit",
+          "quantity": "section-opening-width",
+          "value": 1.6,
+          "unit": "mm",
+          "page": 5,
+          "detail": "G-G",
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf"
         }
       ],
-      "features": {},
+      "features": {
+        "magneticMounting": {
+          "coordinateConvention": "Landscape front view, camera at left and home button at right; origin at product centre; +x right and +y up. Callouts are parenthesized reference dimensions. Intervals describe depicted segment boundaries, not magnet centres. Undimensioned transverse positions and depths remain null.",
+          "coverFlap": {
+            "segments": [
+              {
+                "xMin": {
+                  "value": -47.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": -41.375,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "N"
+              },
+              {
+                "xMin": {
+                  "value": -41.375,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": -29.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "S"
+              },
+              {
+                "xMin": {
+                  "value": -29.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": -17.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "N"
+              },
+              {
+                "xMin": {
+                  "value": -17.37,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 0,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "S"
+              },
+              {
+                "xMin": {
+                  "value": 0,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 17.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "N"
+              },
+              {
+                "xMin": {
+                  "value": 17.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 29.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "S"
+              },
+              {
+                "xMin": {
+                  "value": 29.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 41.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "N"
+              },
+              {
+                "xMin": {
+                  "value": 48.43,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 53.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "S"
+              },
+              {
+                "xMin": {
+                  "value": 53.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 65.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "N"
+              },
+              {
+                "xMin": {
+                  "value": 65.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 71.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "S"
+              }
+            ],
+            "polarityFacing": "cover glass",
+            "yMin": null,
+            "yMax": null,
+            "angleToGlass": {
+              "value": 20.3,
+              "unit": "degree",
+              "sourcePage": 3,
+              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+              "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+            },
+            "overallLengthReference": {
+              "value": 118.75,
+              "unit": "mm",
+              "sourcePage": 3,
+              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+              "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+            },
+            "leftEndFromBodyLeftReference": {
+              "value": 77.92,
+              "unit": "mm",
+              "sourcePage": 3,
+              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+              "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+            }
+          },
+          "spine": {
+            "leftSegments": [
+              {
+                "xMin": {
+                  "value": -95.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": -89.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "N"
+              },
+              {
+                "xMin": {
+                  "value": -89.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": -83.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "S"
+              },
+              {
+                "xMin": {
+                  "value": -83.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": -77.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "N"
+              },
+              {
+                "xMin": {
+                  "value": -77.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": -71.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "S"
+              },
+              {
+                "xMin": {
+                  "value": -71.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": -59.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "N"
+              },
+              {
+                "xMin": {
+                  "value": -59.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": -47.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "S"
+              },
+              {
+                "xMin": {
+                  "value": -47.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": -41.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "N"
+              },
+              {
+                "xMin": {
+                  "value": -41.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": -35.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "S"
+              },
+              {
+                "xMin": {
+                  "value": -35.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": -29.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "N"
+              },
+              {
+                "xMin": {
+                  "value": -29.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": -23.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "S"
+              },
+              {
+                "xMin": {
+                  "value": -23.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": -17.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "N"
+              },
+              {
+                "xMin": {
+                  "value": -17.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": -11.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "S"
+              }
+            ],
+            "rightSegments": [
+              {
+                "xMin": {
+                  "value": 11.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 17.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "S"
+              },
+              {
+                "xMin": {
+                  "value": 17.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 23.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "N"
+              },
+              {
+                "xMin": {
+                  "value": 23.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 35.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "S"
+              },
+              {
+                "xMin": {
+                  "value": 35.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 41.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "N"
+              },
+              {
+                "xMin": {
+                  "value": 41.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 47.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "S"
+              },
+              {
+                "xMin": {
+                  "value": 47.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 59.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "N"
+              },
+              {
+                "xMin": {
+                  "value": 59.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 71.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "S"
+              },
+              {
+                "xMin": {
+                  "value": 71.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 77.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "N"
+              },
+              {
+                "xMin": {
+                  "value": 77.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 83.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "S"
+              },
+              {
+                "xMin": {
+                  "value": 83.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 89.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "N"
+              },
+              {
+                "xMin": {
+                  "value": 89.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "xMax": {
+                  "value": 95.38,
+                  "unit": "mm",
+                  "sourcePage": 3,
+                  "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                  "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+                },
+                "polarity": "S"
+              }
+            ],
+            "polarityFacing": "outside of product",
+            "yMin": null,
+            "yMax": null,
+            "centerlineAngleToGlass": {
+              "value": 17.8,
+              "unit": "degree",
+              "sourcePage": 3,
+              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+              "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+            },
+            "overallRegionLengthReference": {
+              "value": 190.75,
+              "unit": "mm",
+              "sourcePage": 3,
+              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+              "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+            },
+            "leftEndFromBodyLeftReference": {
+              "value": 29.92,
+              "unit": "mm",
+              "sourcePage": 3,
+              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+              "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+            }
+          },
+          "sensors": {
+            "compass": {
+              "x": {
+                "value": -120.14,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "y": {
+                "value": 5.85,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              }
+            },
+            "hallEffect1": {
+              "x": {
+                "value": -113.41,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "y": {
+                "value": -68.34,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              }
+            },
+            "hallEffect2": {
+              "x": {
+                "value": -56.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "y": {
+                "value": 83.68,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              }
+            }
+          }
+        }
+      },
       "profiles": [
         {
           "feature": "housing-all-four-corners",
@@ -84649,8 +87604,10 @@
           4,
           5
         ],
-        "ambiguities": [],
-        "scope": "Named imaging/acoustic/button/Lightning/Pencil/smart-contact dimensions, ninth-generation ambient-light-sensor positions, section angles and two housing profiles. Shared drawing also discusses seventh/eighth generation but their different front sensors are not conflated. Magnet tables and some antenna/section coordinates remain incomplete."
+        "ambiguities": [
+          "Cover flap and spine callouts are rounded reference dimensions; individual intervals need not sum exactly to the overall reference length. The 8th- and 9th-generation drawings differ by 0.01 mm in several printed ordinates; own-document values are retained."
+        ],
+        "scope": "Named imaging/acoustic/button/Lightning/Pencil/smart-contact dimensions, ninth-generation ambient-light-sensor positions, section angles and two housing profiles. Shared drawing also discusses seventh/eighth generation but their different front sensors are not conflated. Magnet tables and some antenna/section coordinates remain incomplete. Magnetic page 3: explicit cover/spine segment boundary references and polarities, section angles, Hall sensor and compass locations; no undimensioned segment depth or transverse extent inferred. Section and detail sheet: button, microphone, SIM tray and speaker section offsets, angles, and independent edge/corner contour ordinates."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
@@ -325928,7 +328885,140 @@
           "note": "Right-view positions are unsigned distances from its horizontal case midline: speaker/audio jack above, two USB-C ports below. No sign convention invented."
         }
       },
-      "profiles": [],
+      "profiles": [
+        {
+          "feature": "side-profile-detail-A",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "upper-horizontal",
+          "values": [
+            0.02,
+            0.16,
+            0.58,
+            1.32,
+            2.27,
+            3.3,
+            4.34,
+            5.38
+          ],
+          "unit": "mm",
+          "page": 2,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/macbook-neo.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "side-profile-detail-A",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "upper-vertical",
+          "values": [
+            0,
+            0.16,
+            0.58,
+            1.32,
+            2.27,
+            3.3,
+            4.34,
+            5.38
+          ],
+          "unit": "mm",
+          "page": 2,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/macbook-neo.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "side-profile-detail-A",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "lower-horizontal",
+          "values": [
+            0,
+            0.03,
+            0.2,
+            0.59,
+            1.28,
+            2.26,
+            3.34
+          ],
+          "unit": "mm",
+          "page": 2,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/macbook-neo.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "side-profile-detail-A",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "lower-vertical",
+          "values": [
+            4.79,
+            3.9,
+            3.01,
+            2.14,
+            1.35,
+            0.64,
+            0.17,
+            0.01
+          ],
+          "unit": "mm",
+          "page": 2,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/macbook-neo.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "case-corner-detail-B",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "horizontal",
+          "values": [
+            0,
+            0.1,
+            0.32,
+            0.77,
+            1.5,
+            2.53,
+            3.84,
+            5.43,
+            7.11,
+            8.98,
+            10.95,
+            12.95,
+            14.97,
+            16.98
+          ],
+          "unit": "mm",
+          "page": 2,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/macbook-neo.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "case-corner-detail-B",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "vertical",
+          "values": [
+            0,
+            -0.02,
+            -0.1,
+            -0.32,
+            -0.78,
+            -1.5,
+            -2.53,
+            -3.84,
+            -5.37,
+            -7.11,
+            -8.98,
+            -10.95,
+            -12.95,
+            -14.97,
+            -16.98
+          ],
+          "unit": "mm",
+          "page": 2,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/macbook-neo.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
@@ -332598,9 +335688,9 @@
             -7.17,
             -6.17,
             -5.18,
-            -4.26,
-            -3.37,
-            -2.4,
+            -4.22,
+            -3.3,
+            -2.47,
             -1.73,
             -1.12,
             -0.64,
@@ -332653,12 +335743,12 @@
             -6.25,
             -5.28,
             -4.49,
-            -3.95,
+            -3.85,
             -3.29,
             -2.82,
             -2.57,
             -2.37,
-            -2.21,
+            -2.22,
             -2.1,
             -1.9,
             -1.53,
@@ -334542,9 +337632,9 @@
             -7.17,
             -6.17,
             -5.18,
-            -4.26,
-            -3.37,
-            -2.4,
+            -4.22,
+            -3.3,
+            -2.47,
             -1.73,
             -1.12,
             -0.64,
@@ -334597,12 +337687,12 @@
             -6.25,
             -5.28,
             -4.49,
-            -3.95,
+            -3.85,
             -3.29,
             -2.82,
             -2.57,
             -2.37,
-            -2.21,
+            -2.22,
             -2.1,
             -1.9,
             -1.53,
@@ -337963,10 +341053,695 @@
           "unit": "mm",
           "page": 2,
           "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf"
+        },
+        {
+          "feature": "finger-scoop",
+          "quantity": "width",
+          "value": 11.92,
+          "unit": "mm",
+          "page": 2,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf"
+        },
+        {
+          "feature": "finger-scoop",
+          "quantity": "height",
+          "value": 1.5,
+          "unit": "mm",
+          "page": 2,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf"
+        },
+        {
+          "feature": "finger-scoop",
+          "quantity": "lower-offset",
+          "value": 2.58,
+          "unit": "mm",
+          "page": 2,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf"
+        },
+        {
+          "feature": "prescription-lens",
+          "quantity": "maximum-proud",
+          "value": 1.35,
+          "unit": "mm",
+          "page": 2,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf"
+        },
+        {
+          "feature": "prescription-lens",
+          "quantity": "maximum-subflush",
+          "value": 3.63,
+          "unit": "mm",
+          "page": 2,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf"
+        },
+        {
+          "feature": "datum-section-A",
+          "quantity": "outer-width",
+          "value": 2.68,
+          "unit": "mm",
+          "page": 3,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf"
+        },
+        {
+          "feature": "datum-section-A",
+          "quantity": "inner-step-width",
+          "value": 0.77,
+          "unit": "mm",
+          "page": 3,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf"
+        },
+        {
+          "feature": "datum-section-A",
+          "quantity": "outer-step-width",
+          "value": 1.24,
+          "unit": "mm",
+          "page": 3,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf"
+        },
+        {
+          "feature": "slot-in-alignment-feature",
+          "quantity": "distance-from-box-center",
+          "value": 21.67,
+          "unit": "mm",
+          "page": 3,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf"
+        },
+        {
+          "feature": "slot-in-alignment-feature",
+          "quantity": "axis-angle-from-horizontal",
+          "value": 43.51,
+          "unit": "degree",
+          "page": 3,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf"
+        },
+        {
+          "feature": "slot-in-alignment-feature",
+          "quantity": "axis-relative-angle",
+          "value": 9.42,
+          "unit": "degree",
+          "page": 3,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf"
+        },
+        {
+          "feature": "anti-shear-section-B",
+          "quantity": "height",
+          "value": 1.48,
+          "unit": "mm",
+          "page": 3,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf"
+        },
+        {
+          "feature": "anti-shear-section-C",
+          "quantity": "height",
+          "value": 1.52,
+          "unit": "mm",
+          "page": 3,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf"
+        },
+        {
+          "feature": "anti-shear-section-D",
+          "quantity": "height",
+          "value": 1.5,
+          "unit": "mm",
+          "page": 3,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf"
+        },
+        {
+          "feature": "anti-shear-section-E",
+          "quantity": "height",
+          "value": 1.5,
+          "unit": "mm",
+          "page": 3,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf"
+        },
+        {
+          "feature": "anti-shear-section-F",
+          "quantity": "height",
+          "value": 1.48,
+          "unit": "mm",
+          "page": 3,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf"
+        },
+        {
+          "feature": "anti-shear-section-G",
+          "quantity": "height",
+          "value": 1.47,
+          "unit": "mm",
+          "page": 3,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf"
+        },
+        {
+          "feature": "anti-shear-section-H",
+          "quantity": "height",
+          "value": 1.5,
+          "unit": "mm",
+          "page": 3,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf"
+        },
+        {
+          "feature": "anti-shear-section-J",
+          "quantity": "height",
+          "value": 1.42,
+          "unit": "mm",
+          "page": 3,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf"
+        },
+        {
+          "feature": "anti-shear-section-K",
+          "quantity": "height",
+          "value": 1.33,
+          "unit": "mm",
+          "page": 3,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf"
+        },
+        {
+          "feature": "anti-shear-section-L",
+          "quantity": "height",
+          "value": 1.39,
+          "unit": "mm",
+          "page": 3,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf"
+        },
+        {
+          "feature": "anti-shear-section-M",
+          "quantity": "height",
+          "value": 1.49,
+          "unit": "mm",
+          "page": 3,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf"
+        },
+        {
+          "feature": "lens",
+          "quantity": "bounding-width",
+          "value": 41.52,
+          "unit": "mm",
+          "page": 4,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf"
+        },
+        {
+          "feature": "lens",
+          "quantity": "bounding-height",
+          "value": 33.35,
+          "unit": "mm",
+          "page": 4,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf"
         }
       ],
-      "features": {},
-      "profiles": [],
+      "features": {
+        "datum": {
+          "page": 2,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf",
+          "note": "Box center point is a geometric bounding-box datum, not an optical center. Left insert dimensions apply symmetrically to right unless otherwise specified; no metal contact and minimize lens contact."
+        }
+      },
+      "profiles": [
+        {
+          "feature": "frame-profile",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "upper-horizontal",
+          "values": [
+            -23.48,
+            -23.18,
+            -22.49,
+            -21.39,
+            -19.9,
+            -18.04,
+            -15.88,
+            -13.48,
+            -10.92,
+            -8.25,
+            -5.52,
+            -2.76,
+            0.01,
+            2.78,
+            5.54,
+            8.28,
+            10.96,
+            13.55,
+            15.99,
+            18.2,
+            20.11,
+            21.64,
+            22.72,
+            23.33,
+            23.45
+          ],
+          "unit": "mm",
+          "page": 4,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "frame-profile",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "left-vertical",
+          "values": [
+            19.26,
+            19.19,
+            18.93,
+            18.45,
+            17.7,
+            16.64,
+            15.26,
+            13.53,
+            11.47,
+            9.14,
+            6.59,
+            3.91,
+            1.16,
+            -1.61,
+            -4.34,
+            -6.98,
+            -9.47,
+            -11.75,
+            -13.79,
+            -15.52,
+            -16.93,
+            -18,
+            -18.74,
+            -19.16,
+            -19.29
+          ],
+          "unit": "mm",
+          "page": 4,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "frame-profile",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "right-vertical",
+          "values": [
+            19.17,
+            18.92,
+            18.46,
+            17.77,
+            16.79,
+            15.47,
+            13.81,
+            11.8,
+            9.49,
+            6.94,
+            4.24,
+            1.47,
+            -1.27,
+            -3.93,
+            -6.44,
+            -8.76,
+            -10.86,
+            -12.75,
+            -14.42,
+            -15.85,
+            -17.04,
+            -17.99,
+            -18.7,
+            -19.14
+          ],
+          "unit": "mm",
+          "page": 4,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "frame-profile",
+          "kind": "independent-ordinate-sequence",
+          "sequence": "lower-horizontal",
+          "values": [
+            -23.38,
+            -22.9,
+            -22.04,
+            -20.83,
+            -19.27,
+            -17.38,
+            -15.22,
+            -12.84,
+            -10.28,
+            -7.61,
+            -4.87,
+            -2.1,
+            0.67,
+            3.4,
+            6.08,
+            8.69,
+            11.19,
+            13.56,
+            15.78,
+            17.81,
+            19.61,
+            21.12,
+            22.3,
+            23.09
+          ],
+          "unit": "mm",
+          "page": 4,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf",
+          "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+          "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+        },
+        {
+          "feature": "left-magnet-array-centers",
+          "kind": "labelled-point-table",
+          "axes": [
+            "x",
+            "y"
+          ],
+          "points": [
+            {
+              "label": "M1",
+              "x": -0.13,
+              "y": 17.73
+            },
+            {
+              "label": "M2",
+              "x": 3.95,
+              "y": 17.54
+            },
+            {
+              "label": "M3",
+              "x": 7.98,
+              "y": 16.95
+            },
+            {
+              "label": "M4",
+              "x": 11.88,
+              "y": 15.8
+            },
+            {
+              "label": "M5",
+              "x": 15.46,
+              "y": 13.94
+            },
+            {
+              "label": "M6",
+              "x": 18.49,
+              "y": 11.28
+            },
+            {
+              "label": "M7",
+              "x": 20.66,
+              "y": 7.89
+            },
+            {
+              "label": "M8",
+              "x": 21.75,
+              "y": 4
+            },
+            {
+              "label": "M9",
+              "x": 21.7,
+              "y": -0.04
+            },
+            {
+              "label": "M10",
+              "x": 20.58,
+              "y": -3.92
+            },
+            {
+              "label": "M11",
+              "x": 18.6,
+              "y": -7.45
+            },
+            {
+              "label": "M12",
+              "x": 15.94,
+              "y": -10.52
+            },
+            {
+              "label": "M13",
+              "x": 12.78,
+              "y": -13.08
+            },
+            {
+              "label": "M14",
+              "x": 9.24,
+              "y": -15.11
+            },
+            {
+              "label": "M15",
+              "x": 5.45,
+              "y": -16.58
+            },
+            {
+              "label": "M16",
+              "x": 1.47,
+              "y": -17.48
+            },
+            {
+              "label": "M17",
+              "x": -2.59,
+              "y": -17.75
+            },
+            {
+              "label": "M18",
+              "x": -6.63,
+              "y": -17.37
+            },
+            {
+              "label": "M19",
+              "x": -10.53,
+              "y": -16.25
+            },
+            {
+              "label": "M20",
+              "x": -14.12,
+              "y": -14.37
+            },
+            {
+              "label": "M21",
+              "x": -17.2,
+              "y": -11.72
+            },
+            {
+              "label": "M22",
+              "x": -19.57,
+              "y": -8.44
+            },
+            {
+              "label": "M23",
+              "x": -21.14,
+              "y": -4.69
+            },
+            {
+              "label": "M24",
+              "x": -21.84,
+              "y": -0.69
+            },
+            {
+              "label": "M25",
+              "x": -21.64,
+              "y": 3.36
+            },
+            {
+              "label": "M26",
+              "x": -20.52,
+              "y": 7.25
+            },
+            {
+              "label": "M27",
+              "x": -18.46,
+              "y": 10.74
+            },
+            {
+              "label": "M28",
+              "x": -15.56,
+              "y": 13.55
+            },
+            {
+              "label": "M29",
+              "x": -12.06,
+              "y": 15.58
+            },
+            {
+              "label": "M30",
+              "x": -8.22,
+              "y": 16.86
+            },
+            {
+              "label": "M31",
+              "x": -4.21,
+              "y": 17.53
+            }
+          ],
+          "unit": "mm",
+          "page": 5,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf",
+          "coordinateSystem": "Printed box center point is origin; each magnet center has explicit horizontal and vertical ordinates in its corresponding left or right view.",
+          "note": "Centers refer to magnet rectangles, not optical centers. Left/right array positions explicitly shown mirrored in drawing."
+        },
+        {
+          "feature": "right-magnet-array-centers",
+          "kind": "labelled-point-table",
+          "axes": [
+            "x",
+            "y"
+          ],
+          "points": [
+            {
+              "label": "M1",
+              "x": 0.13,
+              "y": 17.73
+            },
+            {
+              "label": "M2",
+              "x": -3.95,
+              "y": 17.54
+            },
+            {
+              "label": "M3",
+              "x": -7.98,
+              "y": 16.95
+            },
+            {
+              "label": "M4",
+              "x": -11.88,
+              "y": 15.8
+            },
+            {
+              "label": "M5",
+              "x": -15.46,
+              "y": 13.94
+            },
+            {
+              "label": "M6",
+              "x": -18.49,
+              "y": 11.28
+            },
+            {
+              "label": "M7",
+              "x": -20.66,
+              "y": 7.89
+            },
+            {
+              "label": "M8",
+              "x": -21.75,
+              "y": 4
+            },
+            {
+              "label": "M9",
+              "x": -21.7,
+              "y": -0.04
+            },
+            {
+              "label": "M10",
+              "x": -20.58,
+              "y": -3.92
+            },
+            {
+              "label": "M11",
+              "x": -18.6,
+              "y": -7.45
+            },
+            {
+              "label": "M12",
+              "x": -15.94,
+              "y": -10.52
+            },
+            {
+              "label": "M13",
+              "x": -12.78,
+              "y": -13.08
+            },
+            {
+              "label": "M14",
+              "x": -9.24,
+              "y": -15.11
+            },
+            {
+              "label": "M15",
+              "x": -5.45,
+              "y": -16.58
+            },
+            {
+              "label": "M16",
+              "x": -1.47,
+              "y": -17.48
+            },
+            {
+              "label": "M17",
+              "x": 2.59,
+              "y": -17.75
+            },
+            {
+              "label": "M18",
+              "x": 6.63,
+              "y": -17.37
+            },
+            {
+              "label": "M19",
+              "x": 10.53,
+              "y": -16.25
+            },
+            {
+              "label": "M20",
+              "x": 14.12,
+              "y": -14.37
+            },
+            {
+              "label": "M21",
+              "x": 17.2,
+              "y": -11.72
+            },
+            {
+              "label": "M22",
+              "x": 19.57,
+              "y": -8.44
+            },
+            {
+              "label": "M23",
+              "x": 21.14,
+              "y": -4.69
+            },
+            {
+              "label": "M24",
+              "x": 21.84,
+              "y": -0.69
+            },
+            {
+              "label": "M25",
+              "x": 21.64,
+              "y": 3.36
+            },
+            {
+              "label": "M26",
+              "x": 20.52,
+              "y": 7.25
+            },
+            {
+              "label": "M27",
+              "x": 18.46,
+              "y": 10.74
+            },
+            {
+              "label": "M28",
+              "x": 15.56,
+              "y": 13.55
+            },
+            {
+              "label": "M29",
+              "x": 12.06,
+              "y": 15.58
+            },
+            {
+              "label": "M30",
+              "x": 8.22,
+              "y": 16.86
+            },
+            {
+              "label": "M31",
+              "x": 4.21,
+              "y": 17.53
+            }
+          ],
+          "unit": "mm",
+          "page": 5,
+          "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf",
+          "coordinateSystem": "Printed box center point is origin; each magnet center has explicit horizontal and vertical ordinates in its corresponding left or right view.",
+          "note": "Centers refer to magnet rectangles, not optical centers. Left/right array positions explicitly shown mirrored in drawing."
+        }
+      ],
       "frontCameraPartial": null,
       "frontCamera": null,
       "review": {
@@ -337978,10 +341753,13 @@
         "bodyDepthDefinition": null,
         "bodyDepthPage": 2,
         "pagesReviewed": [
-          2
+          2,
+          3,
+          4,
+          5
         ],
         "ambiguities": [],
-        "scope": "Only explicitly named body/component dimensions and selected keepouts; not complete port or contour translation."
+        "scope": "Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/zeiss-optical-inserts.pdf",

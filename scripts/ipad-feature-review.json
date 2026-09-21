@@ -32062,6 +32062,46 @@
         "value": 26,
         "page": 5,
         "unit": "degree"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "section-rear-offset",
+        "value": 0.59,
+        "unit": "mm",
+        "page": 5,
+        "detail": "F-F"
+      },
+      {
+        "feature": "microphone-exit",
+        "quantity": "section-horizontal-offset-from-rear-tangent",
+        "value": 0.55,
+        "unit": "mm",
+        "page": 5,
+        "detail": "L-L"
+      },
+      {
+        "feature": "sim-tray",
+        "quantity": "section-width",
+        "value": 2.02,
+        "unit": "mm",
+        "page": 5,
+        "detail": "N-N"
+      },
+      {
+        "feature": "sim-tray",
+        "quantity": "inner-edge-to-cover-glass",
+        "value": 3.96,
+        "unit": "mm",
+        "page": 5,
+        "detail": "N-N"
+      },
+      {
+        "feature": "speaker-exit",
+        "quantity": "section-opening-width",
+        "value": 1.6,
+        "unit": "mm",
+        "page": 5,
+        "detail": "G-G"
       }
     ],
     "profiles": [
@@ -32119,7 +32159,684 @@
         "note": "Separate printed ordinate sets; preserve source datum rather than assuming portrait-body axes."
       }
     ],
-    "reviewScope": "Named imaging/acoustic/button/Lightning/Pencil/smart-contact dimensions, ninth-generation ambient-light-sensor positions, section angles and two housing profiles. Shared drawing also discusses seventh/eighth generation but their different front sensors are not conflated. Magnet tables and some antenna/section coordinates remain incomplete."
+    "reviewScope": "Named imaging/acoustic/button/Lightning/Pencil/smart-contact dimensions, ninth-generation ambient-light-sensor positions, section angles and two housing profiles. Shared drawing also discusses seventh/eighth generation but their different front sensors are not conflated. Magnet tables and some antenna/section coordinates remain incomplete. Magnetic page 3: explicit cover/spine segment boundary references and polarities, section angles, Hall sensor and compass locations; no undimensioned segment depth or transverse extent inferred. Section and detail sheet: button, microphone, SIM tray and speaker section offsets, angles, and independent edge/corner contour ordinates.",
+    "features": {
+      "magneticMounting": {
+        "coordinateConvention": "Landscape front view, camera at left and home button at right; origin at product centre; +x right and +y up. Callouts are parenthesized reference dimensions. Intervals describe depicted segment boundaries, not magnet centres. Undimensioned transverse positions and depths remain null.",
+        "coverFlap": {
+          "segments": [
+            {
+              "xMin": {
+                "value": -47.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": -41.375,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "N"
+            },
+            {
+              "xMin": {
+                "value": -41.375,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": -29.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "S"
+            },
+            {
+              "xMin": {
+                "value": -29.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": -17.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "N"
+            },
+            {
+              "xMin": {
+                "value": -17.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 0,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "S"
+            },
+            {
+              "xMin": {
+                "value": 0,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 17.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "N"
+            },
+            {
+              "xMin": {
+                "value": 17.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 29.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "S"
+            },
+            {
+              "xMin": {
+                "value": 29.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 41.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "N"
+            },
+            {
+              "xMin": {
+                "value": 48.43,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 53.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "S"
+            },
+            {
+              "xMin": {
+                "value": 53.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 65.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "N"
+            },
+            {
+              "xMin": {
+                "value": 65.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 71.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "S"
+            }
+          ],
+          "polarityFacing": "cover glass",
+          "yMin": null,
+          "yMax": null,
+          "angleToGlass": {
+            "value": 20.3,
+            "unit": "degree",
+            "sourcePage": 3,
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+            "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+          },
+          "overallLengthReference": {
+            "value": 118.75,
+            "unit": "mm",
+            "sourcePage": 3,
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+            "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+          },
+          "leftEndFromBodyLeftReference": {
+            "value": 77.92,
+            "unit": "mm",
+            "sourcePage": 3,
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+            "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+          }
+        },
+        "spine": {
+          "leftSegments": [
+            {
+              "xMin": {
+                "value": -95.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": -89.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "N"
+            },
+            {
+              "xMin": {
+                "value": -89.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": -83.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "S"
+            },
+            {
+              "xMin": {
+                "value": -83.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": -77.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "N"
+            },
+            {
+              "xMin": {
+                "value": -77.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": -71.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "S"
+            },
+            {
+              "xMin": {
+                "value": -71.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": -59.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "N"
+            },
+            {
+              "xMin": {
+                "value": -59.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": -47.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "S"
+            },
+            {
+              "xMin": {
+                "value": -47.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": -41.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "N"
+            },
+            {
+              "xMin": {
+                "value": -41.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": -35.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "S"
+            },
+            {
+              "xMin": {
+                "value": -35.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": -29.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "N"
+            },
+            {
+              "xMin": {
+                "value": -29.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": -23.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "S"
+            },
+            {
+              "xMin": {
+                "value": -23.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": -17.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "N"
+            },
+            {
+              "xMin": {
+                "value": -17.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": -11.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "S"
+            }
+          ],
+          "rightSegments": [
+            {
+              "xMin": {
+                "value": 11.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 17.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "S"
+            },
+            {
+              "xMin": {
+                "value": 17.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 23.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "N"
+            },
+            {
+              "xMin": {
+                "value": 23.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 35.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "S"
+            },
+            {
+              "xMin": {
+                "value": 35.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 41.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "N"
+            },
+            {
+              "xMin": {
+                "value": 41.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 47.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "S"
+            },
+            {
+              "xMin": {
+                "value": 47.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 59.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "N"
+            },
+            {
+              "xMin": {
+                "value": 59.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 71.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "S"
+            },
+            {
+              "xMin": {
+                "value": 71.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 77.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "N"
+            },
+            {
+              "xMin": {
+                "value": 77.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 83.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "S"
+            },
+            {
+              "xMin": {
+                "value": 83.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 89.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "N"
+            },
+            {
+              "xMin": {
+                "value": 89.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 95.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "S"
+            }
+          ],
+          "polarityFacing": "outside of product",
+          "yMin": null,
+          "yMax": null,
+          "centerlineAngleToGlass": {
+            "value": 17.8,
+            "unit": "degree",
+            "sourcePage": 3,
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+            "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+          },
+          "overallRegionLengthReference": {
+            "value": 190.75,
+            "unit": "mm",
+            "sourcePage": 3,
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+            "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+          },
+          "leftEndFromBodyLeftReference": {
+            "value": 29.92,
+            "unit": "mm",
+            "sourcePage": 3,
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+            "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+          }
+        },
+        "sensors": {
+          "compass": {
+            "x": {
+              "value": -120.14,
+              "unit": "mm",
+              "sourcePage": 3,
+              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+              "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+            },
+            "y": {
+              "value": 5.85,
+              "unit": "mm",
+              "sourcePage": 3,
+              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+              "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+            }
+          },
+          "hallEffect1": {
+            "x": {
+              "value": -113.41,
+              "unit": "mm",
+              "sourcePage": 3,
+              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+              "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+            },
+            "y": {
+              "value": -68.34,
+              "unit": "mm",
+              "sourcePage": 3,
+              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+              "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+            }
+          },
+          "hallEffect2": {
+            "x": {
+              "value": -56.37,
+              "unit": "mm",
+              "sourcePage": 3,
+              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+              "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+            },
+            "y": {
+              "value": 83.68,
+              "unit": "mm",
+              "sourcePage": 3,
+              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+              "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+            }
+          }
+        }
+      }
+    },
+    "ambiguities": [
+      "Cover flap and spine callouts are rounded reference dimensions; individual intervals need not sum exactly to the overall reference length. The 8th- and 9th-generation drawings differ by 0.01 mm in several printed ordinates; own-document values are retained."
+    ]
   },
   {
     "id": "ipad-mini-a17-pro",
@@ -40711,7 +41428,9 @@
   {
     "id": "ipad-8th-generation",
     "sourcePagesReviewed": [
-      2
+      2,
+      3,
+      4
     ],
     "additionalDimensions": [
       {
@@ -41035,8 +41754,857 @@
         "value": 23.3,
         "unit": "degree",
         "page": 2
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "horizontal-centre-to-cover-glass",
+        "value": 5.18,
+        "page": 4,
+        "unit": "mm"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "section-width",
+        "value": 2.2,
+        "page": 4,
+        "unit": "mm"
+      },
+      {
+        "feature": "microphone-exit",
+        "quantity": "depth-to-cover-glass",
+        "value": 3.95,
+        "page": 4,
+        "unit": "mm"
+      },
+      {
+        "feature": "microphone-opening",
+        "quantity": "diameter",
+        "value": 0.8,
+        "page": 4,
+        "unit": "mm"
+      },
+      {
+        "feature": "speaker-exit",
+        "quantity": "depth-to-cover-glass",
+        "value": 4.37,
+        "page": 4,
+        "unit": "mm"
+      },
+      {
+        "feature": "sim-tray",
+        "quantity": "outer-edge-to-cover-glass",
+        "value": 4.97,
+        "page": 4,
+        "unit": "mm"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "section-angle",
+        "value": 32,
+        "page": 4,
+        "unit": "degree"
+      },
+      {
+        "feature": "microphone-exit",
+        "quantity": "section-angle",
+        "value": 25,
+        "page": 4,
+        "unit": "degree"
+      },
+      {
+        "feature": "speaker-keepout",
+        "quantity": "included-angle",
+        "value": 84,
+        "page": 4,
+        "unit": "degree"
+      },
+      {
+        "feature": "speaker-exit",
+        "quantity": "section-angle",
+        "value": 26,
+        "page": 4,
+        "unit": "degree"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "section-rear-offset",
+        "value": 0.59,
+        "unit": "mm",
+        "page": 4,
+        "detail": "F-F"
+      },
+      {
+        "feature": "microphone-exit",
+        "quantity": "section-horizontal-offset-from-rear-tangent",
+        "value": 0.55,
+        "unit": "mm",
+        "page": 4,
+        "detail": "L-L"
+      },
+      {
+        "feature": "sim-tray",
+        "quantity": "section-width",
+        "value": 2.02,
+        "unit": "mm",
+        "page": 4,
+        "detail": "N-N"
+      },
+      {
+        "feature": "sim-tray",
+        "quantity": "inner-edge-to-cover-glass",
+        "value": 3.96,
+        "unit": "mm",
+        "page": 4,
+        "detail": "N-N"
+      },
+      {
+        "feature": "speaker-exit",
+        "quantity": "section-opening-width",
+        "value": 1.6,
+        "unit": "mm",
+        "page": 4,
+        "detail": "G-G"
+      },
+      {
+        "feature": "ambient-light-sensor-keepout",
+        "quantity": "included-angle",
+        "value": 120,
+        "unit": "degree",
+        "page": 3
       }
     ],
-    "reviewScope": "Page 2 front/rear cameras, ALS, buttons, microphones, Lightning/Pencil/audio-jack clearances and smart contacts reviewed from the generation-specific drawing. Remaining antenna, magnet and section/contour geometry incomplete."
+    "reviewScope": "Page 2 front/rear cameras, ALS, buttons, microphones, Lightning/Pencil/audio-jack clearances and smart contacts reviewed from the generation-specific drawing. Remaining antenna, magnet and section/contour geometry incomplete. Magnetic page 3: explicit cover/spine segment boundary references and polarities, section angles, Hall sensor and compass locations; no undimensioned segment depth or transverse extent inferred. Section and detail sheet: button, microphone, SIM tray and speaker section offsets, angles, and independent edge/corner contour ordinates.",
+    "features": {
+      "magneticMounting": {
+        "coordinateConvention": "Landscape front view, camera at left and home button at right; origin at product centre; +x right and +y up. Callouts are parenthesized reference dimensions. Intervals describe depicted segment boundaries, not magnet centres. Undimensioned transverse positions and depths remain null.",
+        "coverFlap": {
+          "segments": [
+            {
+              "xMin": {
+                "value": -47.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": -41.376,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "N"
+            },
+            {
+              "xMin": {
+                "value": -41.376,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": -29.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "S"
+            },
+            {
+              "xMin": {
+                "value": -29.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": -17.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "N"
+            },
+            {
+              "xMin": {
+                "value": -17.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 0,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "S"
+            },
+            {
+              "xMin": {
+                "value": 0,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 17.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "N"
+            },
+            {
+              "xMin": {
+                "value": 17.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 29.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "S"
+            },
+            {
+              "xMin": {
+                "value": 29.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 41.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "N"
+            },
+            {
+              "xMin": {
+                "value": 48.42,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 53.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "S"
+            },
+            {
+              "xMin": {
+                "value": 53.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 65.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "N"
+            },
+            {
+              "xMin": {
+                "value": 65.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 71.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "S"
+            }
+          ],
+          "polarityFacing": "cover glass",
+          "yMin": null,
+          "yMax": null,
+          "angleToGlass": {
+            "value": 20.3,
+            "unit": "degree",
+            "sourcePage": 3,
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+            "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+          },
+          "overallLengthReference": {
+            "value": 118.75,
+            "unit": "mm",
+            "sourcePage": 3,
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+            "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+          },
+          "leftEndFromBodyLeftReference": {
+            "value": 77.92,
+            "unit": "mm",
+            "sourcePage": 3,
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+            "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+          }
+        },
+        "spine": {
+          "leftSegments": [
+            {
+              "xMin": {
+                "value": -95.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": -89.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "N"
+            },
+            {
+              "xMin": {
+                "value": -89.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": -83.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "S"
+            },
+            {
+              "xMin": {
+                "value": -83.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": -77.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "N"
+            },
+            {
+              "xMin": {
+                "value": -77.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": -71.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "S"
+            },
+            {
+              "xMin": {
+                "value": -71.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": -59.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "N"
+            },
+            {
+              "xMin": {
+                "value": -59.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": -47.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "S"
+            },
+            {
+              "xMin": {
+                "value": -47.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": -41.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "N"
+            },
+            {
+              "xMin": {
+                "value": -41.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": -35.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "S"
+            },
+            {
+              "xMin": {
+                "value": -35.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": -29.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "N"
+            },
+            {
+              "xMin": {
+                "value": -29.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": -23.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "S"
+            },
+            {
+              "xMin": {
+                "value": -23.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": -17.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "N"
+            },
+            {
+              "xMin": {
+                "value": -17.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": -11.38,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "S"
+            }
+          ],
+          "rightSegments": [
+            {
+              "xMin": {
+                "value": 11.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 17.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "S"
+            },
+            {
+              "xMin": {
+                "value": 17.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 23.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "N"
+            },
+            {
+              "xMin": {
+                "value": 23.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 35.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "S"
+            },
+            {
+              "xMin": {
+                "value": 35.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 41.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "N"
+            },
+            {
+              "xMin": {
+                "value": 41.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 47.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "S"
+            },
+            {
+              "xMin": {
+                "value": 47.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 59.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "N"
+            },
+            {
+              "xMin": {
+                "value": 59.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 71.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "S"
+            },
+            {
+              "xMin": {
+                "value": 71.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 77.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "N"
+            },
+            {
+              "xMin": {
+                "value": 77.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 83.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "S"
+            },
+            {
+              "xMin": {
+                "value": 83.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 89.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "N"
+            },
+            {
+              "xMin": {
+                "value": 89.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "xMax": {
+                "value": 95.37,
+                "unit": "mm",
+                "sourcePage": 3,
+                "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+                "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+              },
+              "polarity": "S"
+            }
+          ],
+          "polarityFacing": "outside of product",
+          "yMin": null,
+          "yMax": null,
+          "centerlineAngleToGlass": {
+            "value": 17.8,
+            "unit": "degree",
+            "sourcePage": 3,
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+            "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+          },
+          "overallRegionLengthReference": {
+            "value": 190.75,
+            "unit": "mm",
+            "sourcePage": 3,
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+            "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+          },
+          "leftEndFromBodyLeftReference": {
+            "value": 29.92,
+            "unit": "mm",
+            "sourcePage": 3,
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+            "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+          }
+        },
+        "sensors": {
+          "compass": {
+            "x": {
+              "value": -120.14,
+              "unit": "mm",
+              "sourcePage": 3,
+              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+              "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+            },
+            "y": {
+              "value": 5.85,
+              "unit": "mm",
+              "sourcePage": 3,
+              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+              "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+            }
+          },
+          "hallEffect1": {
+            "x": {
+              "value": -113.41,
+              "unit": "mm",
+              "sourcePage": 3,
+              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+              "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+            },
+            "y": {
+              "value": -68.34,
+              "unit": "mm",
+              "sourcePage": 3,
+              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+              "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+            }
+          },
+          "hallEffect2": {
+            "x": {
+              "value": -56.37,
+              "unit": "mm",
+              "sourcePage": 3,
+              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+              "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+            },
+            "y": {
+              "value": 83.68,
+              "unit": "mm",
+              "sourcePage": 3,
+              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+              "derivation": "Explicit drawing callout; left/below centre magnitudes are signed negative according to the depicted position."
+            }
+          }
+        }
+      }
+    },
+    "ambiguities": [
+      "Cover flap and spine callouts are rounded reference dimensions; individual intervals need not sum exactly to the overall reference length. The 8th- and 9th-generation drawings differ by 0.01 mm in several printed ordinates; own-document values are retained."
+    ],
+    "profiles": [
+      {
+        "feature": "housing-all-four-corners",
+        "detail": "J",
+        "page": 4,
+        "unit": "mm",
+        "coordinateConvention": "Local detail J datum; x right and y up. Negative x ordinates extend left from the right-hand edge datum.",
+        "coordinateStatus": "reviewed-unpaired-ordinates",
+        "x": [
+          -15.61,
+          -11.43,
+          -6.91,
+          -2.87,
+          -0.02,
+          0,
+          0.56
+        ],
+        "y": [
+          0,
+          4.17,
+          8.69,
+          12.74,
+          15.06,
+          15.59,
+          15.61
+        ],
+        "note": "Separate printed ordinate sets; not paired polygon vertices."
+      },
+      {
+        "feature": "housing-side-contact-end-profile",
+        "detail": "M",
+        "page": 4,
+        "unit": "mm",
+        "coordinateConvention": "Local detail M datum: printed positive x values extend left and printed positive y values extend down from the front-face corner.",
+        "coordinateStatus": "reviewed-unpaired-ordinates",
+        "x": [
+          0,
+          0.22,
+          0.85,
+          2.04,
+          4.1,
+          5.65,
+          7.04
+        ],
+        "y": [
+          0,
+          1.82,
+          3.56,
+          5.05,
+          6.18,
+          6.46
+        ],
+        "note": "Separate printed ordinate sets; preserve source datum rather than assuming portrait-body axes."
+      }
+    ]
   }
 ]
