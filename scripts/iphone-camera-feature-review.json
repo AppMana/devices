@@ -848,7 +848,26 @@
             "detail": "Detail D",
             "derivation": "Explicit printed dimension, visually transcribed."
           }
-        }
+        },
+        "mechanicalCenterReference": {
+          "xFromLeftInRearView": {
+            "value": 20.54,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "yFromTopInRearView": {
+            "value": 22.48,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "centreStatus": "individually-dimensioned"
       },
       "rearConductiveKeepout1": {
         "featureType": "material-exclusion-cone-reference",
@@ -1739,6 +1758,176 @@
           }
         },
         "meaning": "Mating connector keepout flush to product surface required outward14.0mm."
+      },
+      "rearFlashMechanicalReference": {
+        "featureType": "rear-flash-mechanical-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 30.41,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 22.48,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "diameter": {
+            "value": 6.28,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "unknownFields": []
+      },
+      "rearCameraPlateauContourOrdinates": {
+        "featureType": "rear-camera-plateau-ordinate-references",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Detail D",
+        "ordinateSets": {
+          "x": [
+            {
+              "value": 1.18,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 3.79,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 23.45,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 26.06,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "y": [
+            {
+              "value": 1.34,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 3.97,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 40.99,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 43.62,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ]
+        },
+        "pairedCoordinates": null,
+        "continuousCurve": null,
+        "coordinateConvention": "Rear-view top-left body datum, x right and y down. Negative x retained where printed. Multiple plateau/trim perimeter surfaces remain unpaired.",
+        "derivation": "Explicit non-centre plateau and trim ordinate references. No outline fit or guessed correspondence."
+      },
+      "rearCamera1MechanicalReference": {
+        "featureType": "rear-camera-mechanical-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 13.62,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 13.62,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "diameter": {
+            "value": 16,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Explicit mechanical circle centre and diameter; not optical centre calibration."
+      },
+      "rearCamera2MechanicalReference": {
+        "featureType": "rear-camera-mechanical-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 13.62,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 31.34,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "diameter": {
+            "value": 16,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Explicit mechanical circle centre and diameter; not optical centre calibration."
       }
     },
     "ambiguities": [
@@ -2622,7 +2811,26 @@
             "detail": "Detail D",
             "derivation": "Explicit printed dimension, visually transcribed."
           }
-        }
+        },
+        "mechanicalCenterReference": {
+          "xFromLeftInRearView": {
+            "value": 58.03,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "yFromTopInRearView": {
+            "value": 23.99,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "centreStatus": "individually-dimensioned"
       },
       "topConductiveMaterialKeepout": {
         "featureType": "material-exclusion-cone-reference",
@@ -3468,6 +3676,155 @@
           }
         },
         "meaning": "Mating connector keepout flush to product surface required outward14.0mm."
+      },
+      "rearFlashMechanicalReference": {
+        "featureType": "rear-flash-mechanical-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 58.03,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 13.82,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "diameter": {
+            "value": 6.8,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "unknownFields": []
+      },
+      "rearSensorMechanicalReference": {
+        "featureType": "rear-sensor-mechanical-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 58.03,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 34.16,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "diameter": {
+            "value": 6.65,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "rearCamera1MechanicalReference": {
+        "featureType": "rear-camera-mechanical-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 14.37,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 14.37,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "diameter": {
+            "value": 16.2,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Explicit mechanical circle centre and diameter; not optical centre calibration."
+      },
+      "rearCamera2MechanicalReference": {
+        "featureType": "rear-camera-mechanical-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 14.37,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 33.61,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "diameter": {
+            "value": 16.2,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Explicit mechanical circle centre and diameter; not optical centre calibration."
+      },
+      "rearCamera3MechanicalReference": {
+        "featureType": "rear-camera-mechanical-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 32.36,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 23.99,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "diameter": {
+            "value": 16.2,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Explicit mechanical circle centre and diameter; not optical centre calibration."
       }
     },
     "ambiguities": [
@@ -4354,7 +4711,26 @@
             "detail": "Detail D",
             "derivation": "Explicit printed dimension, visually transcribed."
           }
-        }
+        },
+        "mechanicalCenterReference": {
+          "xFromLeftInRearView": {
+            "value": 64.16,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "yFromTopInRearView": {
+            "value": 23.99,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "centreStatus": "individually-dimensioned"
       },
       "topConductiveMaterialKeepout": {
         "featureType": "material-exclusion-cone-reference",
@@ -5221,6 +5597,155 @@
           }
         },
         "meaning": "Mating connector keepout flush to product surface required outward14.0mm."
+      },
+      "rearFlashMechanicalReference": {
+        "featureType": "rear-flash-mechanical-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 64.16,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 13.82,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "diameter": {
+            "value": 6.8,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "unknownFields": []
+      },
+      "rearSensorMechanicalReference": {
+        "featureType": "rear-sensor-mechanical-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 64.16,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 34.16,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "diameter": {
+            "value": 6.65,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "rearCamera1MechanicalReference": {
+        "featureType": "rear-camera-mechanical-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 14.37,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 14.37,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "diameter": {
+            "value": 16.2,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Explicit mechanical circle centre and diameter; not optical centre calibration."
+      },
+      "rearCamera2MechanicalReference": {
+        "featureType": "rear-camera-mechanical-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 14.37,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 33.61,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "diameter": {
+            "value": 16.2,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Explicit mechanical circle centre and diameter; not optical centre calibration."
+      },
+      "rearCamera3MechanicalReference": {
+        "featureType": "rear-camera-mechanical-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 32.36,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 23.99,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "diameter": {
+            "value": 16.2,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Explicit mechanical circle centre and diameter; not optical centre calibration."
       }
     },
     "ambiguities": [
@@ -6423,7 +6948,26 @@
             "detail": "Detail D",
             "derivation": "Explicit printed dimension, visually transcribed."
           }
-        }
+        },
+        "mechanicalCenterReference": {
+          "xFromLeftInRearView": {
+            "value": 20.54,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "yFromTopInRearView": {
+            "value": 22.48,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "centreStatus": "individually-dimensioned"
       },
       "rearConductiveKeepout1": {
         "featureType": "material-exclusion-cone-reference",
@@ -6980,6 +7524,116 @@
           }
         },
         "meaning": "Mating connector keepout flush to product surface required outward14.0mm."
+      },
+      "rearFlashMechanicalReference": {
+        "featureType": "rear-flash-mechanical-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 30.01,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 22.48,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "diameter": {
+            "value": 6.28,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "unknownFields": []
+      },
+      "rearCameraPlateauContourOrdinates": {
+        "featureType": "rear-camera-plateau-ordinate-references",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Detail D",
+        "ordinateSets": {
+          "x": [
+            {
+              "value": 1.09,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 3.79,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 23.45,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 26.16,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "y": [
+            {
+              "value": 1.25,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 3.97,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 41,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 43.72,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ]
+        },
+        "pairedCoordinates": null,
+        "continuousCurve": null,
+        "coordinateConvention": "Rear-view top-left body datum, x right and y down. Negative x retained where printed. Multiple plateau/trim perimeter surfaces remain unpaired.",
+        "derivation": "Explicit non-centre plateau and trim ordinate references. No outline fit or guessed correspondence."
       }
     },
     "ambiguities": [
@@ -8181,7 +8835,26 @@
             "detail": "Detail D",
             "derivation": "Explicit printed dimension, visually transcribed."
           }
-        }
+        },
+        "mechanicalCenterReference": {
+          "xFromLeftInRearView": {
+            "value": 20.55,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "yFromTopInRearView": {
+            "value": 22.48,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "centreStatus": "individually-dimensioned"
       },
       "rearConductiveKeepout1": {
         "featureType": "material-exclusion-cone-reference",
@@ -8738,6 +9411,116 @@
           }
         },
         "meaning": "Mating connector keepout flush to product surface required outward14.0mm."
+      },
+      "rearFlashMechanicalReference": {
+        "featureType": "rear-flash-mechanical-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 30.01,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 22.48,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "diameter": {
+            "value": 6.28,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "unknownFields": []
+      },
+      "rearCameraPlateauContourOrdinates": {
+        "featureType": "rear-camera-plateau-ordinate-references",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Detail D",
+        "ordinateSets": {
+          "x": [
+            {
+              "value": 1.09,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 3.79,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 23.45,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 26.16,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "y": [
+            {
+              "value": 1.25,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 3.96,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 41,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 43.72,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ]
+        },
+        "pairedCoordinates": null,
+        "continuousCurve": null,
+        "coordinateConvention": "Rear-view top-left body datum, x right and y down. Negative x retained where printed. Multiple plateau/trim perimeter surfaces remain unpaired.",
+        "derivation": "Explicit non-centre plateau and trim ordinate references. No outline fit or guessed correspondence."
       }
     },
     "ambiguities": [
@@ -10019,7 +10802,26 @@
             "detail": "Detail D",
             "derivation": "Explicit printed dimension, visually transcribed."
           }
-        }
+        },
+        "mechanicalCenterReference": {
+          "xFromLeftInRearView": {
+            "value": 38,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "yFromTopInRearView": {
+            "value": 34.14,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "centreStatus": "individually-dimensioned"
       },
       "rearConductiveKeepoutBoundaryOrdinates": {
         "featureType": "material-exclusion-boundary-reference",
@@ -10551,6 +11353,116 @@
           }
         },
         "meaning": "Mating connector keepout flush to product surface required outward14.0mm."
+      },
+      "rearFlashMechanicalReference": {
+        "featureType": "rear-flash-mechanical-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 32.16,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 10.22,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "diameter": {
+            "value": 6.92,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "unknownFields": []
+      },
+      "rearCameraPlateauContourOrdinates": {
+        "featureType": "rear-camera-plateau-ordinate-references",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Detail D",
+        "ordinateSets": {
+          "x": [
+            {
+              "value": 1.04,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 4.7,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 41.56,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 45.22,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "y": [
+            {
+              "value": 1.04,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 4.7,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 42.88,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 46.54,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ]
+        },
+        "pairedCoordinates": null,
+        "continuousCurve": null,
+        "coordinateConvention": "Rear-view top-left body datum, x right and y down. Negative x retained where printed. Multiple plateau/trim perimeter surfaces remain unpaired.",
+        "derivation": "Explicit non-centre plateau and trim ordinate references. No outline fit or guessed correspondence."
       }
     },
     "ambiguities": [
@@ -11780,7 +12692,26 @@
             "detail": "Detail D",
             "derivation": "Explicit printed dimension, visually transcribed."
           }
-        }
+        },
+        "mechanicalCenterReference": {
+          "xFromLeftInRearView": {
+            "value": 38,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "yFromTopInRearView": {
+            "value": 34.14,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "centreStatus": "individually-dimensioned"
       },
       "rearConductiveKeepoutBoundaryOrdinates": {
         "featureType": "material-exclusion-boundary-reference",
@@ -12344,6 +13275,116 @@
           }
         },
         "meaning": "Mating connector keepout flush to product surface required outward14.0mm."
+      },
+      "rearFlashMechanicalReference": {
+        "featureType": "rear-flash-mechanical-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 32.16,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 10.22,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "diameter": {
+            "value": 6.92,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "unknownFields": []
+      },
+      "rearCameraPlateauContourOrdinates": {
+        "featureType": "rear-camera-plateau-ordinate-references",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Detail D",
+        "ordinateSets": {
+          "x": [
+            {
+              "value": 1.04,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 4.7,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 41.56,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 45.22,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "y": [
+            {
+              "value": 1.04,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 4.7,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 42.88,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 46.54,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ]
+        },
+        "pairedCoordinates": null,
+        "continuousCurve": null,
+        "coordinateConvention": "Rear-view top-left body datum, x right and y down. Negative x retained where printed. Multiple plateau/trim perimeter surfaces remain unpaired.",
+        "derivation": "Explicit non-centre plateau and trim ordinate references. No outline fit or guessed correspondence."
       }
     },
     "ambiguities": [
@@ -13354,7 +14395,26 @@
             "detail": "Rear camera detail",
             "derivation": "Explicit printed dimension, visually transcribed."
           }
-        }
+        },
+        "mechanicalCenterReference": {
+          "xFromLeftInRearView": {
+            "value": 51.34,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "yFromTopInRearView": {
+            "value": 16.29,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "centreStatus": "individually-dimensioned"
       },
       "sideThicknessProfile": {
         "featureType": "sampled-side-profile",
@@ -13881,6 +14941,36 @@
           }
         },
         "meaning": "Mating connector keepout flush to product surface required outward14.0mm."
+      },
+      "rearFlashMechanicalReference": {
+        "featureType": "rear-flash-mechanical-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 58.42,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 16.29,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "diameter": {
+            "value": 6.3,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "unknownFields": []
       }
     },
     "ambiguities": [
@@ -14783,7 +15873,26 @@
             "detail": "Rear camera detail",
             "derivation": "Explicit printed dimension, visually transcribed."
           }
-        }
+        },
+        "mechanicalCenterReference": {
+          "xFromLeftInRearView": {
+            "value": 24.3,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "yFromTopInRearView": {
+            "value": 13.32,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "centreStatus": "individually-dimensioned"
       },
       "sideThicknessProfile": {
         "featureType": "sampled-side-profile",
@@ -15218,6 +16327,36 @@
           }
         },
         "meaning": "Mating connector keepout flush to product surface required outward14.0mm."
+      },
+      "rearFlashMechanicalReference": {
+        "featureType": "rear-flash-mechanical-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 29.68,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 13.32,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "diameter": {
+            "value": 3.75,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "unknownFields": []
       }
     },
     "ambiguities": [
@@ -16134,7 +17273,26 @@
             "detail": "Rear camera detail",
             "derivation": "Explicit printed dimension, visually transcribed."
           }
-        }
+        },
+        "mechanicalCenterReference": {
+          "xFromLeftInRearView": {
+            "value": 24.3,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "yFromTopInRearView": {
+            "value": 13.32,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "centreStatus": "individually-dimensioned"
       },
       "sideThicknessProfile": {
         "featureType": "sampled-side-profile",
@@ -16569,6 +17727,36 @@
           }
         },
         "meaning": "Mating connector keepout flush to product surface required outward14.0mm."
+      },
+      "rearFlashMechanicalReference": {
+        "featureType": "rear-flash-mechanical-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 29.68,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 13.32,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "diameter": {
+            "value": 3.75,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "unknownFields": []
       }
     },
     "ambiguities": [
@@ -17519,7 +18707,26 @@
             "detail": "Rear camera detail",
             "derivation": "Explicit printed dimension, visually transcribed."
           }
-        }
+        },
+        "mechanicalCenterReference": {
+          "xFromLeftInRearView": {
+            "value": 11.47,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail A",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "yFromTopInRearView": {
+            "value": 26.9,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail A",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "centreStatus": "individually-dimensioned"
       },
       "rearCameraPlateauHeight": {
         "featureType": "camera-plateau-height-reference",
@@ -18155,6 +19362,116 @@
           }
         },
         "meaning": "Mating connector keepout flush to product surface required outward14.0mm."
+      },
+      "rearFlashMechanicalReference": {
+        "featureType": "rear-flash-mechanical-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 27.32,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail A",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 11.06,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail A",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "diameter": {
+            "value": 6.28,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail A",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "unknownFields": []
+      },
+      "rearCameraPlateauContourOrdinates": {
+        "featureType": "rear-camera-plateau-ordinate-references",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Detail A",
+        "ordinateSets": {
+          "x": [
+            {
+              "value": 1.22,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 3.9,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 34.47,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 37.15,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "y": [
+            {
+              "value": 1.22,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 3.9,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 34.47,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 37.15,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ]
+        },
+        "pairedCoordinates": null,
+        "continuousCurve": null,
+        "coordinateConvention": "Rear-view top-left body datum, x right and y down. Negative x retained where printed. Multiple plateau/trim perimeter surfaces remain unpaired.",
+        "derivation": "Explicit non-centre plateau and trim ordinate references. No outline fit or guessed correspondence."
       }
     },
     "ambiguities": [],
@@ -19102,7 +20419,26 @@
             "detail": "Rear camera detail",
             "derivation": "Explicit printed dimension, visually transcribed."
           }
-        }
+        },
+        "mechanicalCenterReference": {
+          "xFromLeftInRearView": {
+            "value": 11.47,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail A",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "yFromTopInRearView": {
+            "value": 26.9,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail A",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "centreStatus": "individually-dimensioned"
       },
       "rearCameraPlateauHeight": {
         "featureType": "camera-plateau-height-reference",
@@ -19738,6 +21074,116 @@
           }
         },
         "meaning": "Mating connector keepout flush to product surface required outward14.0mm."
+      },
+      "rearFlashMechanicalReference": {
+        "featureType": "rear-flash-mechanical-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 27.32,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail A",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 11.06,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail A",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "diameter": {
+            "value": 6.28,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail A",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "unknownFields": []
+      },
+      "rearCameraPlateauContourOrdinates": {
+        "featureType": "rear-camera-plateau-ordinate-references",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Detail A",
+        "ordinateSets": {
+          "x": [
+            {
+              "value": 1.22,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 3.9,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 34.47,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 37.15,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "y": [
+            {
+              "value": 1.22,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 3.9,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 34.47,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 37.15,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ]
+        },
+        "pairedCoordinates": null,
+        "continuousCurve": null,
+        "coordinateConvention": "Rear-view top-left body datum, x right and y down. Negative x retained where printed. Multiple plateau/trim perimeter surfaces remain unpaired.",
+        "derivation": "Explicit non-centre plateau and trim ordinate references. No outline fit or guessed correspondence."
       }
     },
     "ambiguities": [],
@@ -20747,7 +22193,26 @@
             "detail": "Rear camera detail",
             "derivation": "Explicit printed dimension, visually transcribed."
           }
-        }
+        },
+        "mechanicalCenterReference": {
+          "xFromLeftInRearView": {
+            "value": 37.95,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "yFromTopInRearView": {
+            "value": 33.86,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "centreStatus": "individually-dimensioned"
       },
       "rearCameraPlateauHeight": {
         "featureType": "camera-plateau-height-reference",
@@ -21368,6 +22833,116 @@
           }
         },
         "meaning": "Mating connector keepout flush to product surface required outward14.0mm."
+      },
+      "rearFlashMechanicalReference": {
+        "featureType": "rear-flash-mechanical-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 32.16,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 10.22,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "diameter": {
+            "value": 6.92,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "unknownFields": []
+      },
+      "rearCameraPlateauContourOrdinates": {
+        "featureType": "rear-camera-plateau-ordinate-references",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Detail D",
+        "ordinateSets": {
+          "x": [
+            {
+              "value": 1.04,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 4.7,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 41.56,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 45.22,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "y": [
+            {
+              "value": 1.04,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 4.7,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 42.88,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 46.54,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ]
+        },
+        "pairedCoordinates": null,
+        "continuousCurve": null,
+        "coordinateConvention": "Rear-view top-left body datum, x right and y down. Negative x retained where printed. Multiple plateau/trim perimeter surfaces remain unpaired.",
+        "derivation": "Explicit non-centre plateau and trim ordinate references. No outline fit or guessed correspondence."
       }
     },
     "ambiguities": [],
@@ -22359,7 +23934,26 @@
             "detail": "Rear camera detail",
             "derivation": "Explicit printed dimension, visually transcribed."
           }
-        }
+        },
+        "mechanicalCenterReference": {
+          "xFromLeftInRearView": {
+            "value": 37.95,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail A",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "yFromTopInRearView": {
+            "value": 33.86,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail A",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "centreStatus": "individually-dimensioned"
       },
       "rearCameraPlateauHeight": {
         "featureType": "camera-plateau-height-reference",
@@ -22971,6 +24565,124 @@
           }
         },
         "meaning": "Mating connector keepout flush to product surface required outward14.0mm."
+      },
+      "rearFlashMechanicalReference": {
+        "featureType": "rear-flash-mechanical-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 32.16,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail A",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 10.22,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail A",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "diameter": {
+            "value": 6.9,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail A",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "unknownFields": []
+      },
+      "rearCameraPlateauContourOrdinates": {
+        "featureType": "rear-camera-plateau-ordinate-references",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Detail A",
+        "ordinateSets": {
+          "x": [
+            {
+              "value": 1.04,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 2.41,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 4.7,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 41.56,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 45.22,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "y": [
+            {
+              "value": 1.04,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 4.7,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 42.88,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 46.54,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ]
+        },
+        "pairedCoordinates": null,
+        "continuousCurve": null,
+        "coordinateConvention": "Rear-view top-left body datum, x right and y down. Negative x retained where printed. Multiple plateau/trim perimeter surfaces remain unpaired.",
+        "derivation": "Explicit non-centre plateau and trim ordinate references. No outline fit or guessed correspondence."
       }
     },
     "ambiguities": [
@@ -25088,7 +26800,26 @@
             "detail": "Rear camera detail",
             "derivation": "Explicit printed dimension, visually transcribed."
           }
-        }
+        },
+        "mechanicalCenterReference": {
+          "xFromLeftInRearView": {
+            "value": 10.62,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "yFromTopInRearView": {
+            "value": 25.89,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "centreStatus": "individually-dimensioned"
       },
       "rearCameraPlateauHeight": {
         "featureType": "rear-camera-height-reference",
@@ -25582,6 +27313,100 @@
           }
         },
         "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
+      },
+      "rearFlashMechanicalReference": {
+        "featureType": "rear-flash-mechanical-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 26.3,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 10.21,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "diameter": {
+            "value": 6.28,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "unknownFields": []
+      },
+      "rearCameraPlateauContourOrdinates": {
+        "featureType": "rear-camera-plateau-ordinate-references",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Detail D",
+        "ordinateSets": {
+          "x": [
+            {
+              "value": 1.15,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 3.21,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 33.3,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 35.9,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "y": [
+            {
+              "value": 33.3,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 35.9,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ]
+        },
+        "pairedCoordinates": null,
+        "continuousCurve": null,
+        "coordinateConvention": "Rear-view top-left body datum, x right and y down. Negative x retained where printed. Multiple plateau/trim perimeter surfaces remain unpaired.",
+        "derivation": "Explicit non-centre plateau and trim ordinate references. No outline fit or guessed correspondence."
       }
     },
     "ambiguities": [],
@@ -26474,7 +28299,26 @@
             "detail": "Rear camera detail",
             "derivation": "Explicit printed dimension, visually transcribed."
           }
-        }
+        },
+        "mechanicalCenterReference": {
+          "xFromLeftInRearView": {
+            "value": 11.29,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail A",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "yFromTopInRearView": {
+            "value": 26.56,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail A",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "centreStatus": "individually-dimensioned"
       },
       "rearCameraPlateauHeight": {
         "featureType": "rear-camera-height-reference",
@@ -26967,6 +28811,116 @@
           }
         },
         "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
+      },
+      "rearFlashMechanicalReference": {
+        "featureType": "rear-flash-mechanical-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 26.97,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail A",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 10.87,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail A",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "diameter": {
+            "value": 6.28,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail A",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "unknownFields": []
+      },
+      "rearCameraPlateauContourOrdinates": {
+        "featureType": "rear-camera-plateau-ordinate-references",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Detail A",
+        "ordinateSets": {
+          "x": [
+            {
+              "value": 1.28,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 3.88,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 33.97,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 36.57,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "y": [
+            {
+              "value": 1.28,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 3.88,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 33.97,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 36.57,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ]
+        },
+        "pairedCoordinates": null,
+        "continuousCurve": null,
+        "coordinateConvention": "Rear-view top-left body datum, x right and y down. Negative x retained where printed. Multiple plateau/trim perimeter surfaces remain unpaired.",
+        "derivation": "Explicit non-centre plateau and trim ordinate references. No outline fit or guessed correspondence."
       }
     },
     "ambiguities": [],
@@ -28016,7 +29970,26 @@
             "detail": "Rear camera detail",
             "derivation": "Explicit printed dimension, visually transcribed."
           }
-        }
+        },
+        "mechanicalCenterReference": {
+          "xFromLeftInRearView": {
+            "value": 37.91,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "yFromTopInRearView": {
+            "value": 33.98,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "centreStatus": "individually-dimensioned"
       },
       "rearCameraPlateauHeight": {
         "featureType": "rear-camera-height-reference",
@@ -28534,6 +30507,116 @@
           }
         },
         "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
+      },
+      "rearFlashMechanicalReference": {
+        "featureType": "rear-flash-mechanical-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 32.12,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 10.32,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "diameter": {
+            "value": 6.9,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "unknownFields": []
+      },
+      "rearCameraPlateauContourOrdinates": {
+        "featureType": "rear-camera-plateau-ordinate-references",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Detail D",
+        "ordinateSets": {
+          "x": [
+            {
+              "value": 2.19,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 4.79,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 41.52,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 44.12,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "y": [
+            {
+              "value": 2.19,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 4.79,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 43.01,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 45.61,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ]
+        },
+        "pairedCoordinates": null,
+        "continuousCurve": null,
+        "coordinateConvention": "Rear-view top-left body datum, x right and y down. Negative x retained where printed. Multiple plateau/trim perimeter surfaces remain unpaired.",
+        "derivation": "Explicit non-centre plateau and trim ordinate references. No outline fit or guessed correspondence."
       }
     },
     "ambiguities": [
@@ -29585,7 +31668,26 @@
             "detail": "Rear camera detail",
             "derivation": "Explicit printed dimension, visually transcribed."
           }
-        }
+        },
+        "mechanicalCenterReference": {
+          "xFromLeftInRearView": {
+            "value": 37.91,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail A",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "yFromTopInRearView": {
+            "value": 33.98,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail A",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "centreStatus": "individually-dimensioned"
       },
       "rearCameraPlateauHeight": {
         "featureType": "rear-camera-height-reference",
@@ -30078,6 +32180,132 @@
           }
         },
         "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
+      },
+      "rearFlashMechanicalReference": {
+        "featureType": "rear-flash-mechanical-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 32.12,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail A",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 10.32,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail A",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "diameter": {
+            "value": 6.9,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail A",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "unknownFields": []
+      },
+      "rearCameraPlateauContourOrdinates": {
+        "featureType": "rear-camera-plateau-ordinate-references",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Detail A",
+        "ordinateSets": {
+          "x": [
+            {
+              "value": -16.17,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 2.19,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 4.79,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 41.52,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 44.12,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "y": [
+            {
+              "value": 1.15,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 2.19,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 4.79,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 43.01,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 45.61,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail A",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ]
+        },
+        "pairedCoordinates": null,
+        "continuousCurve": null,
+        "coordinateConvention": "Rear-view top-left body datum, x right and y down. Negative x retained where printed. Multiple plateau/trim perimeter surfaces remain unpaired.",
+        "derivation": "Explicit non-centre plateau and trim ordinate references. No outline fit or guessed correspondence."
       }
     },
     "ambiguities": [
@@ -31001,7 +33229,26 @@
             "detail": "Rear camera detail",
             "derivation": "Explicit printed dimension, visually transcribed."
           }
-        }
+        },
+        "mechanicalCenterReference": {
+          "xFromLeftInRearView": {
+            "value": 10.43,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "yFromTopInRearView": {
+            "value": 25.69,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "centreStatus": "individually-dimensioned"
       },
       "rearCameraPlateauHeight": {
         "featureType": "rear-camera-height-reference",
@@ -31583,6 +33830,100 @@
           }
         },
         "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
+      },
+      "rearFlashMechanicalReference": {
+        "featureType": "rear-flash-mechanical-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 26.11,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 10.01,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "diameter": {
+            "value": 6.28,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "unknownFields": []
+      },
+      "rearCameraPlateauContourOrdinates": {
+        "featureType": "rear-camera-plateau-ordinate-references",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Detail D",
+        "ordinateSets": {
+          "x": [
+            {
+              "value": 1.15,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 3.64,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 32.48,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 35.12,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "y": [
+            {
+              "value": 1.15,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 3.64,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ]
+        },
+        "pairedCoordinates": null,
+        "continuousCurve": null,
+        "coordinateConvention": "Rear-view top-left body datum, x right and y down. Negative x retained where printed. Multiple plateau/trim perimeter surfaces remain unpaired.",
+        "derivation": "Explicit non-centre plateau and trim ordinate references. No outline fit or guessed correspondence."
       }
     },
     "ambiguities": [],
@@ -32521,7 +34862,26 @@
             "detail": "Rear camera detail",
             "derivation": "Explicit printed dimension, visually transcribed."
           }
-        }
+        },
+        "mechanicalCenterReference": {
+          "xFromLeftInRearView": {
+            "value": 9.4,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail Y",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "yFromTopInRearView": {
+            "value": 24.66,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail Y",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "centreStatus": "individually-dimensioned"
       },
       "rearCameraPlateauHeight": {
         "featureType": "rear-camera-height-reference",
@@ -33136,6 +35496,75 @@
           }
         },
         "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
+      },
+      "rearFlashMechanicalReference": {
+        "featureType": "rear-flash-mechanical-reference",
+        "dimensions": {
+          "centerFromTopInRearView": {
+            "value": 8.98,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail Y",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "diameter": {
+            "value": 6.28,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail Y",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "unknownFields": [
+          "centerFromLeftInRearView"
+        ]
+      },
+      "rearCameraPlateauEnvelopeReferences": {
+        "featureType": "rear-camera-plateau-reference",
+        "dimensions": {
+          "outerWidth": {
+            "value": 32.07,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail Y",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "outerHeight": {
+            "value": 31.97,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail Y",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "innerWidth": {
+            "value": 28.32,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail Y",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "innerHeight": {
+            "value": 28.32,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail Y",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "turretKeepoutAboveHousing": {
+            "value": 1.51,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail Y",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
       }
     },
     "ambiguities": [
@@ -34147,7 +36576,12 @@
             "detail": "Rear camera detail",
             "derivation": "Explicit printed dimension, visually transcribed."
           }
-        }
+        },
+        "mechanicalCenterReference": {
+          "xFromLeftInRearView": null,
+          "yFromTopInRearView": null
+        },
+        "centreStatus": "not-dimensioned-on-reviewed-sheet"
       },
       "rearCameraPlateauHeight": {
         "featureType": "rear-camera-height-reference",
@@ -34697,6 +37131,110 @@
           }
         },
         "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
+      },
+      "rearFlashMechanicalReference": {
+        "featureType": "rear-flash-mechanical-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 30.08,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 9.42,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "unknownFields": [
+          "diameter"
+        ]
+      },
+      "rearCameraPlateauContourOrdinates": {
+        "featureType": "rear-camera-plateau-ordinate-references",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Detail D",
+        "ordinateSets": {
+          "x": [
+            {
+              "value": 1.15,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 4.27,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 39.28,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 42.39,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "y": [
+            {
+              "value": 1.15,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 4.27,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 40.51,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 43.62,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ]
+        },
+        "pairedCoordinates": null,
+        "continuousCurve": null,
+        "coordinateConvention": "Rear-view top-left body datum, x right and y down. Negative x retained where printed. Multiple plateau/trim perimeter surfaces remain unpaired.",
+        "derivation": "Explicit non-centre plateau and trim ordinate references. No outline fit or guessed correspondence."
       }
     },
     "ambiguities": [
@@ -35717,7 +38255,26 @@
             "detail": "Rear camera detail",
             "derivation": "Explicit printed dimension, visually transcribed."
           }
-        }
+        },
+        "mechanicalCenterReference": {
+          "xFromLeftInRearView": {
+            "value": 35.76,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "yFromTopInRearView": {
+            "value": 32.21,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "centreStatus": "individually-dimensioned"
       },
       "rearCameraPlateauHeight": {
         "featureType": "rear-camera-height-reference",
@@ -36267,6 +38824,116 @@
           }
         },
         "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
+      },
+      "rearFlashMechanicalReference": {
+        "featureType": "rear-flash-mechanical-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 30.08,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 9.42,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "diameter": {
+            "value": 6.28,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "unknownFields": []
+      },
+      "rearCameraPlateauContourOrdinates": {
+        "featureType": "rear-camera-plateau-ordinate-references",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Detail D",
+        "ordinateSets": {
+          "x": [
+            {
+              "value": 1.15,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 4.27,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 39.28,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 42.39,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "y": [
+            {
+              "value": 1.15,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 4.27,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 40.51,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 43.62,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ]
+        },
+        "pairedCoordinates": null,
+        "continuousCurve": null,
+        "coordinateConvention": "Rear-view top-left body datum, x right and y down. Negative x retained where printed. Multiple plateau/trim perimeter surfaces remain unpaired.",
+        "derivation": "Explicit non-centre plateau and trim ordinate references. No outline fit or guessed correspondence."
       }
     },
     "ambiguities": [],
@@ -37191,7 +39858,26 @@
             "detail": "Rear camera detail",
             "derivation": "Explicit printed dimension, visually transcribed."
           }
-        }
+        },
+        "mechanicalCenterReference": {
+          "xFromLeftInRearView": {
+            "value": 25.28,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "yFromTopInRearView": {
+            "value": 12.28,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "centreStatus": "individually-dimensioned"
       },
       "rearCameraPlateauHeight": {
         "featureType": "rear-camera-height-reference",
@@ -37693,6 +40379,116 @@
           }
         },
         "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
+      },
+      "rearFlashMechanicalReference": {
+        "featureType": "rear-flash-mechanical-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 25.28,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 19.87,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "diameter": {
+            "value": 5.66,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "unknownFields": []
+      },
+      "rearCameraPlateauContourOrdinates": {
+        "featureType": "rear-camera-plateau-ordinate-references",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Detail D",
+        "ordinateSets": {
+          "x": [
+            {
+              "value": 3.43,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 5.37,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 32.19,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 34.13,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "y": [
+            {
+              "value": 3.43,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 5.37,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 34.37,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 36.3,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ]
+        },
+        "pairedCoordinates": null,
+        "continuousCurve": null,
+        "coordinateConvention": "Rear-view top-left body datum, x right and y down. Negative x retained where printed. Multiple plateau/trim perimeter surfaces remain unpaired.",
+        "derivation": "Explicit non-centre plateau and trim ordinate references. No outline fit or guessed correspondence."
       }
     },
     "ambiguities": [],
@@ -38633,7 +41429,26 @@
             "detail": "Rear camera detail",
             "derivation": "Explicit printed dimension, visually transcribed."
           }
-        }
+        },
+        "mechanicalCenterReference": {
+          "xFromLeftInRearView": {
+            "value": 22.21,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "yFromTopInRearView": {
+            "value": 10.22,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "centreStatus": "individually-dimensioned"
       },
       "rearCameraPlateauHeight": {
         "featureType": "rear-camera-height-reference",
@@ -39191,6 +42006,116 @@
           }
         },
         "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
+      },
+      "rearFlashMechanicalReference": {
+        "featureType": "rear-flash-mechanical-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 22.21,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 17.81,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "diameter": {
+            "value": 5.66,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "unknownFields": []
+      },
+      "rearCameraPlateauContourOrdinates": {
+        "featureType": "rear-camera-plateau-ordinate-references",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Detail D",
+        "ordinateSets": {
+          "x": [
+            {
+              "value": 1.67,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 3.61,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 28.82,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 30.76,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "y": [
+            {
+              "value": 1.67,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 3.61,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 32.01,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 33.95,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ]
+        },
+        "pairedCoordinates": null,
+        "continuousCurve": null,
+        "coordinateConvention": "Rear-view top-left body datum, x right and y down. Negative x retained where printed. Multiple plateau/trim perimeter surfaces remain unpaired.",
+        "derivation": "Explicit non-centre plateau and trim ordinate references. No outline fit or guessed correspondence."
       }
     },
     "ambiguities": [],
@@ -40220,7 +43145,26 @@
             "detail": "Rear camera detail",
             "derivation": "Explicit printed dimension, visually transcribed."
           }
-        }
+        },
+        "mechanicalCenterReference": {
+          "xFromLeftInRearView": {
+            "value": 30.23,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "yFromTopInRearView": {
+            "value": 27.38,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "centreStatus": "individually-dimensioned"
       },
       "rearCameraPlateauHeight": {
         "featureType": "rear-camera-height-reference",
@@ -40730,6 +43674,116 @@
           }
         },
         "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
+      },
+      "rearFlashMechanicalReference": {
+        "featureType": "rear-flash-mechanical-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 25.51,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 9.17,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "diameter": {
+            "value": 6.28,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "unknownFields": []
+      },
+      "rearCameraPlateauContourOrdinates": {
+        "featureType": "rear-camera-plateau-ordinate-references",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Detail D",
+        "ordinateSets": {
+          "x": [
+            {
+              "value": 2.12,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 4.62,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 32.94,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 35.44,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "y": [
+            {
+              "value": 2.12,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 4.62,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 35.11,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 37.62,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ]
+        },
+        "pairedCoordinates": null,
+        "continuousCurve": null,
+        "coordinateConvention": "Rear-view top-left body datum, x right and y down. Negative x retained where printed. Multiple plateau/trim perimeter surfaces remain unpaired.",
+        "derivation": "Explicit non-centre plateau and trim ordinate references. No outline fit or guessed correspondence."
       }
     },
     "ambiguities": [],
@@ -41759,7 +44813,26 @@
             "detail": "Rear camera detail",
             "derivation": "Explicit printed dimension, visually transcribed."
           }
-        }
+        },
+        "mechanicalCenterReference": {
+          "xFromLeftInRearView": {
+            "value": 33.69,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "yFromTopInRearView": {
+            "value": 30.89,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "centreStatus": "individually-dimensioned"
       },
       "rearCameraPlateauHeight": {
         "featureType": "rear-camera-height-reference",
@@ -42317,6 +45390,116 @@
           }
         },
         "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
+      },
+      "rearFlashMechanicalReference": {
+        "featureType": "rear-flash-mechanical-reference",
+        "dimensions": {
+          "centerFromLeftInRearView": {
+            "value": 28.56,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "centerFromTopInRearView": {
+            "value": 10.11,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "diameter": {
+            "value": 6.28,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail D",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "unknownFields": []
+      },
+      "rearCameraPlateauContourOrdinates": {
+        "featureType": "rear-camera-plateau-ordinate-references",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Detail D",
+        "ordinateSets": {
+          "x": [
+            {
+              "value": 1.7,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 5.06,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 36.82,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 40.18,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ],
+          "y": [
+            {
+              "value": 1.7,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 5.06,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 39.27,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            },
+            {
+              "value": 42.63,
+              "unit": "mm",
+              "sourcePage": 2,
+              "sourceSheet": 1,
+              "detail": "Detail D",
+              "derivation": "Explicit printed dimension, visually transcribed."
+            }
+          ]
+        },
+        "pairedCoordinates": null,
+        "continuousCurve": null,
+        "coordinateConvention": "Rear-view top-left body datum, x right and y down. Negative x retained where printed. Multiple plateau/trim perimeter surfaces remain unpaired.",
+        "derivation": "Explicit non-centre plateau and trim ordinate references. No outline fit or guessed correspondence."
       }
     },
     "ambiguities": [],

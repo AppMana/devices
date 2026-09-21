@@ -12,7 +12,7 @@ export interface Device {
   display: { activeMm: Size | null; nativePixels: Size | null; nominalPpi: number | null; ppi: {x: number; y: number} | null; source: string | null; resolutionReview?: Record<string, unknown> };
   bodyMm: {width: number | null; height: number | null; depth?: number | null} | null;
   coverGlassMm: Size | null;
-  additionalDimensions: {feature: string; quantity: string; value: number; unit: 'mm' | 'degree'; page: number; source?: string; detail?: string; note?: string}[];
+  additionalDimensions: {feature: string; quantity: string; value: number; unit: 'mm' | 'degree' | 'percent'; page: number; source?: string; detail?: string; note?: string}[];
   features: Record<string, unknown>;
   profiles: Profile[];
   frontCameraPartial: {x: number | null; y: number | null} | null;

@@ -1,0 +1,3493 @@
+[
+  {
+    "id": "macbook-neo",
+    "sourcePagesReviewed": [
+      2
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "speaker-port",
+        "quantity": "length",
+        "value": 27.48,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/macbook-neo.pdf"
+      },
+      {
+        "feature": "speaker-port",
+        "quantity": "width",
+        "value": 1.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/macbook-neo.pdf"
+      },
+      {
+        "feature": "speaker-port",
+        "quantity": "center-ordinate-from-case-midline",
+        "value": 68.44,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/macbook-neo.pdf"
+      },
+      {
+        "feature": "audio-jack",
+        "quantity": "center-ordinate-from-case-midline",
+        "value": 49.55,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/macbook-neo.pdf"
+      },
+      {
+        "feature": "usb-c-port-1",
+        "quantity": "center-ordinate-from-case-midline",
+        "value": 65.26,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/macbook-neo.pdf"
+      },
+      {
+        "feature": "usb-c-port-2",
+        "quantity": "center-ordinate-from-case-midline",
+        "value": 80.13,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/macbook-neo.pdf"
+      },
+      {
+        "feature": "display-to-base",
+        "quantity": "gap",
+        "value": 0.56,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/macbook-neo.pdf"
+      },
+      {
+        "feature": "case-foot",
+        "quantity": "diameter",
+        "value": 26.74,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/macbook-neo.pdf"
+      },
+      {
+        "feature": "case-foot",
+        "quantity": "center-offset-from-adjacent-edge-x",
+        "value": 21.01,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/macbook-neo.pdf"
+      },
+      {
+        "feature": "case-foot",
+        "quantity": "center-offset-from-adjacent-edge-y",
+        "value": 21.01,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/macbook-neo.pdf"
+      },
+      {
+        "feature": "usb-c-connector-keepout",
+        "quantity": "width",
+        "value": 12.38,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/macbook-neo.pdf"
+      },
+      {
+        "feature": "usb-c-connector-keepout",
+        "quantity": "height",
+        "value": 6.6,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/macbook-neo.pdf"
+      },
+      {
+        "feature": "hinge-rotation-axis",
+        "quantity": "section-horizontal-offset",
+        "value": 2.94,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/macbook-neo.pdf"
+      },
+      {
+        "feature": "hinge-rotation-axis",
+        "quantity": "section-vertical-offset",
+        "value": 7.95,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/macbook-neo.pdf"
+      },
+      {
+        "feature": "display-rear-edge",
+        "quantity": "section-height",
+        "value": 10.01,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/macbook-neo.pdf"
+      }
+    ],
+    "features": {
+      "portOrdinateConvention": {
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/macbook-neo.pdf",
+        "note": "Right-view positions are unsigned distances from its horizontal case midline: speaker/audio jack above, two USB-C ports below. No sign convention invented."
+      }
+    },
+    "profiles": [],
+    "reviewScope": "Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+  },
+  {
+    "id": "siri-remote-2nd-generation",
+    "sourcePagesReviewed": [
+      2
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "power-button",
+        "quantity": "diameter",
+        "value": 6,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "power-button",
+        "quantity": "protrusion",
+        "value": 0.15,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "power-button",
+        "quantity": "center-from-right-edge",
+        "value": 7,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "power-button",
+        "quantity": "center-from-front-midline",
+        "value": 10.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "power-button",
+        "quantity": "center-from-bottom",
+        "value": 129,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "front-microphone",
+        "quantity": "width",
+        "value": 2.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "front-microphone",
+        "quantity": "height",
+        "value": 1,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "microphone-keepout",
+        "quantity": "minimum-clearance",
+        "value": 1,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "infrared-antenna-window-keepout",
+        "quantity": "minimum-clearance",
+        "value": 0.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "clickpad",
+        "quantity": "outer-diameter",
+        "value": 31,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "clickpad",
+        "quantity": "inner-diameter",
+        "value": 17.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "clickpad",
+        "quantity": "center-from-bottom",
+        "value": 107.56,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "clickpad",
+        "quantity": "protrusion",
+        "value": 0.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "clickpad-keepout",
+        "quantity": "minimum-material-clearance",
+        "value": 5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "clickpad-keepout",
+        "quantity": "minimum-metal-clearance",
+        "value": 10,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "front-round-buttons",
+        "quantity": "diameter",
+        "value": 12.25,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "front-buttons",
+        "quantity": "protrusion",
+        "value": 0.6,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "back-and-tv-buttons",
+        "quantity": "center-from-bottom",
+        "value": 84.62,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "play-pause-button",
+        "quantity": "center-from-bottom",
+        "value": 69.87,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "mute-button",
+        "quantity": "center-from-bottom",
+        "value": 55.12,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "front-button-columns",
+        "quantity": "offset-from-midline",
+        "value": 7.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "front-button-rows",
+        "quantity": "reference-pitch",
+        "value": 14.75,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "volume-button",
+        "quantity": "length",
+        "value": 27,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "volume-button",
+        "quantity": "width",
+        "value": 11.75,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "siri-button",
+        "quantity": "length",
+        "value": 15,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "siri-button",
+        "quantity": "width",
+        "value": 3.6,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "siri-button",
+        "quantity": "side-center-offset",
+        "value": 3.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "siri-button",
+        "quantity": "protrusion",
+        "value": 0.6,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "infrared-window",
+        "quantity": "height",
+        "value": 6.82,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "enclosure-rim",
+        "quantity": "width",
+        "value": 0.8,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "charging-port",
+        "quantity": "width",
+        "value": 7.94,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "charging-port",
+        "quantity": "height",
+        "value": 2.2,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "charging-port",
+        "quantity": "center-from-front-plane",
+        "value": 4.03,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "charging-cable-body-keepout",
+        "quantity": "width",
+        "value": 13.65,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "charging-cable-body-keepout",
+        "quantity": "height",
+        "value": 6.85,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "bottom-end-screw-regions",
+        "quantity": "height",
+        "value": 7.05,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      },
+      {
+        "feature": "rear-cross-section",
+        "quantity": "horizontal-ordinate-pitch",
+        "value": 1,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf",
+        "note": "1.00 TYP. ALL POINTS; rear profile symmetric around centerline."
+      },
+      {
+        "feature": "rear-cross-section",
+        "quantity": "half-width",
+        "value": 17.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf"
+      }
+    ],
+    "features": {
+      "generalTolerances": {
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf",
+        "linearByDecimalPlacesMm": {
+          "1": 0.2,
+          "2": 0.1,
+          "3": 0.05
+        },
+        "anglesPlusMinusDegrees": 0.5,
+        "note": "Printed title-block general tolerances. Parenthesized 14.75 dimensions are reference dimensions."
+      }
+    },
+    "profiles": [
+      {
+        "feature": "rear-cross-section",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "vertical",
+        "values": [
+          -7.05,
+          -7.29,
+          -7.55,
+          -7.79,
+          -8,
+          -8.2,
+          -8.37,
+          -8.52,
+          -8.66,
+          -8.78,
+          -8.89,
+          -8.98,
+          -9.06,
+          -9.12,
+          -9.17,
+          -9.21,
+          -9.24,
+          -9.25
+        ],
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "corner-profile-detail-B",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "vertical",
+        "values": [
+          9.17,
+          7.67,
+          6.67,
+          5.67,
+          4.69,
+          3.75,
+          2.87,
+          2.08,
+          1.41,
+          0.86,
+          0.46,
+          0.2,
+          0.06,
+          0.01,
+          0
+        ],
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "corner-profile-detail-B",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "horizontal",
+        "values": [
+          -9.17,
+          -8.17,
+          -7.17,
+          -6.17,
+          -5.18,
+          -4.26,
+          -3.37,
+          -2.4,
+          -1.73,
+          -1.12,
+          -0.64,
+          -0.31,
+          -0.12,
+          -0.03,
+          0
+        ],
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "blend-profile-detail-C",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "vertical",
+        "values": [
+          -2,
+          -2.01,
+          -2.06,
+          -2.22,
+          -2.5,
+          -2.87,
+          -3.35,
+          -3.92,
+          -4.35,
+          -4.81,
+          -5.28,
+          -5.87,
+          -6.32,
+          -6.66,
+          -6.84,
+          -6.86
+        ],
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "blend-profile-detail-C",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "horizontal",
+        "values": [
+          -8.23,
+          -7.24,
+          -6.25,
+          -5.28,
+          -4.49,
+          -3.95,
+          -3.29,
+          -2.82,
+          -2.57,
+          -2.37,
+          -2.21,
+          -2.1,
+          -1.9,
+          -1.53,
+          -1.08,
+          -0.65,
+          0
+        ],
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-2nd-generation.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      }
+    ],
+    "reviewScope": "Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+  },
+  {
+    "id": "siri-remote-3rd-generation",
+    "sourcePagesReviewed": [
+      2
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "power-button",
+        "quantity": "diameter",
+        "value": 6,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "power-button",
+        "quantity": "protrusion",
+        "value": 0.15,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "power-button",
+        "quantity": "center-from-right-edge",
+        "value": 7,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "power-button",
+        "quantity": "center-from-front-midline",
+        "value": 10.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "power-button",
+        "quantity": "center-from-bottom",
+        "value": 129,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "front-microphone",
+        "quantity": "width",
+        "value": 2.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "front-microphone",
+        "quantity": "height",
+        "value": 1,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "microphone-keepout",
+        "quantity": "minimum-clearance",
+        "value": 1,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "infrared-antenna-window-keepout",
+        "quantity": "minimum-clearance",
+        "value": 0.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "clickpad",
+        "quantity": "outer-diameter",
+        "value": 31,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "clickpad",
+        "quantity": "inner-diameter",
+        "value": 17.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "clickpad",
+        "quantity": "center-from-bottom",
+        "value": 107.56,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "clickpad",
+        "quantity": "protrusion",
+        "value": 0.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "clickpad-keepout",
+        "quantity": "minimum-material-clearance",
+        "value": 5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "clickpad-keepout",
+        "quantity": "minimum-metal-clearance",
+        "value": 10,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "front-round-buttons",
+        "quantity": "diameter",
+        "value": 12.25,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "front-buttons",
+        "quantity": "protrusion",
+        "value": 0.6,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "back-and-tv-buttons",
+        "quantity": "center-from-bottom",
+        "value": 84.62,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "play-pause-button",
+        "quantity": "center-from-bottom",
+        "value": 69.87,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "mute-button",
+        "quantity": "center-from-bottom",
+        "value": 55.12,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "front-button-columns",
+        "quantity": "offset-from-midline",
+        "value": 7.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "front-button-rows",
+        "quantity": "reference-pitch",
+        "value": 14.75,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "volume-button",
+        "quantity": "length",
+        "value": 27,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "volume-button",
+        "quantity": "width",
+        "value": 11.75,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "siri-button",
+        "quantity": "length",
+        "value": 15,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "siri-button",
+        "quantity": "width",
+        "value": 3.6,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "siri-button",
+        "quantity": "side-center-offset",
+        "value": 3.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "siri-button",
+        "quantity": "protrusion",
+        "value": 0.6,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "infrared-window",
+        "quantity": "height",
+        "value": 6.86,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "enclosure-rim",
+        "quantity": "width",
+        "value": 0.8,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "charging-port",
+        "quantity": "width",
+        "value": 8.8,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "charging-port",
+        "quantity": "height",
+        "value": 3.01,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "charging-port",
+        "quantity": "center-from-front-plane",
+        "value": 4.03,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "charging-cable-body-keepout",
+        "quantity": "width",
+        "value": 13.65,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "charging-cable-body-keepout",
+        "quantity": "height",
+        "value": 6.85,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "bottom-end-screw-regions",
+        "quantity": "height",
+        "value": 7.1,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      },
+      {
+        "feature": "rear-cross-section",
+        "quantity": "horizontal-ordinate-pitch",
+        "value": 1,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf",
+        "note": "1.00 TYP. ALL POINTS; rear profile symmetric around centerline."
+      },
+      {
+        "feature": "rear-cross-section",
+        "quantity": "half-width",
+        "value": 17.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf"
+      }
+    ],
+    "features": {
+      "generalTolerances": {
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf",
+        "linearByDecimalPlacesMm": {
+          "1": 0.2,
+          "2": 0.1,
+          "3": 0.05
+        },
+        "anglesPlusMinusDegrees": 0.5,
+        "note": "Printed title-block general tolerances. Parenthesized 14.75 dimensions are reference dimensions."
+      }
+    },
+    "profiles": [
+      {
+        "feature": "rear-cross-section",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "vertical",
+        "values": [
+          -7.29,
+          -7.55,
+          -7.79,
+          -8,
+          -8.2,
+          -8.37,
+          -8.52,
+          -8.66,
+          -8.78,
+          -8.89,
+          -8.98,
+          -9.06,
+          -9.12,
+          -9.17,
+          -9.21,
+          -9.24,
+          -9.25
+        ],
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "corner-profile-detail-B",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "vertical",
+        "values": [
+          9.17,
+          7.67,
+          6.67,
+          5.67,
+          4.69,
+          3.75,
+          2.87,
+          2.08,
+          1.41,
+          0.86,
+          0.46,
+          0.2,
+          0.06,
+          0.01,
+          0
+        ],
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "corner-profile-detail-B",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "horizontal",
+        "values": [
+          -9.17,
+          -8.17,
+          -7.17,
+          -6.17,
+          -5.18,
+          -4.26,
+          -3.37,
+          -2.4,
+          -1.73,
+          -1.12,
+          -0.64,
+          -0.31,
+          -0.12,
+          -0.03,
+          0
+        ],
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "blend-profile-detail-C",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "vertical",
+        "values": [
+          -2,
+          -2.01,
+          -2.06,
+          -2.22,
+          -2.5,
+          -2.87,
+          -3.35,
+          -3.92,
+          -4.35,
+          -4.81,
+          -5.28,
+          -5.87,
+          -6.32,
+          -6.66,
+          -6.84,
+          -6.86
+        ],
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "blend-profile-detail-C",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "horizontal",
+        "values": [
+          -8.23,
+          -7.24,
+          -6.25,
+          -5.28,
+          -4.49,
+          -3.95,
+          -3.29,
+          -2.82,
+          -2.57,
+          -2.37,
+          -2.21,
+          -2.1,
+          -1.9,
+          -1.53,
+          -1.08,
+          -0.65,
+          0
+        ],
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/siri-remote-3rd-generation.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      }
+    ],
+    "reviewScope": "Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+  },
+  {
+    "id": "apple-tv-4k-3rd-generation",
+    "sourcePagesReviewed": [
+      2
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "infrared-window",
+        "quantity": "width",
+        "value": 8,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf"
+      },
+      {
+        "feature": "infrared-window",
+        "quantity": "height",
+        "value": 3.68,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf"
+      },
+      {
+        "feature": "infrared-window",
+        "quantity": "center-height-from-base",
+        "value": 25.14,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf"
+      },
+      {
+        "feature": "status-indicator",
+        "quantity": "diameter",
+        "value": 3,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf"
+      },
+      {
+        "feature": "status-indicator",
+        "quantity": "center-height-from-base",
+        "value": 11,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf"
+      },
+      {
+        "feature": "status-indicator",
+        "quantity": "center-offset-from-front-midline",
+        "value": 24.87,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf"
+      },
+      {
+        "feature": "power-connector",
+        "quantity": "width",
+        "value": 16.65,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf"
+      },
+      {
+        "feature": "power-connector",
+        "quantity": "height",
+        "value": 8.36,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf"
+      },
+      {
+        "feature": "power-connector",
+        "quantity": "center-offset-from-rear-midline",
+        "value": 23.36,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf"
+      },
+      {
+        "feature": "power-connector",
+        "quantity": "center-height-from-base",
+        "value": 16.43,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf"
+      },
+      {
+        "feature": "hdmi-port",
+        "quantity": "width",
+        "value": 14.3,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf"
+      },
+      {
+        "feature": "hdmi-port",
+        "quantity": "height",
+        "value": 4.85,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf"
+      },
+      {
+        "feature": "hdmi-port",
+        "quantity": "center-offset-from-rear-midline",
+        "value": 22.21,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf"
+      },
+      {
+        "feature": "hdmi-port",
+        "quantity": "center-height-from-base",
+        "value": 16.43,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf"
+      },
+      {
+        "feature": "ethernet-port",
+        "quantity": "width",
+        "value": 12.78,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf"
+      },
+      {
+        "feature": "ethernet-port",
+        "quantity": "height",
+        "value": 10.23,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf"
+      },
+      {
+        "feature": "ethernet-port",
+        "quantity": "center-height-from-base",
+        "value": 17.38,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf"
+      },
+      {
+        "feature": "infrared-window-keepout",
+        "quantity": "minimum-clearance",
+        "value": 0.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf"
+      },
+      {
+        "feature": "status-indicator-keepout",
+        "quantity": "minimum-clearance",
+        "value": 0.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf"
+      },
+      {
+        "feature": "antenna-keepout",
+        "quantity": "minimum-metal-clearance",
+        "value": 5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf"
+      },
+      {
+        "feature": "antenna-keepout-upper-left",
+        "quantity": "x-boundary-from-left",
+        "value": 16.09,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf",
+        "note": "Top-view local left/bottom tangent datums; keepout boundaries, not antenna component locations."
+      },
+      {
+        "feature": "antenna-keepout-upper-right",
+        "quantity": "x-boundary-from-left",
+        "value": 74.91,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf",
+        "note": "Top-view local left/bottom tangent datums; keepout boundaries, not antenna component locations."
+      },
+      {
+        "feature": "antenna-keepout-upper-left",
+        "quantity": "y-top-from-bottom",
+        "value": 55.6,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf",
+        "note": "Top-view local left/bottom tangent datums; keepout boundaries, not antenna component locations."
+      },
+      {
+        "feature": "antenna-keepout-upper-left",
+        "quantity": "y-bottom-from-bottom",
+        "value": 25.03,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf",
+        "note": "Top-view local left/bottom tangent datums; keepout boundaries, not antenna component locations."
+      },
+      {
+        "feature": "antenna-keepout-upper-right",
+        "quantity": "y-bottom-from-bottom",
+        "value": 62.7,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf",
+        "note": "Top-view local left/bottom tangent datums; keepout boundaries, not antenna component locations."
+      },
+      {
+        "feature": "antenna-keepout-lower-left",
+        "quantity": "x-boundary-from-left",
+        "value": 35.59,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf",
+        "note": "Top-view local left/bottom tangent datums; keepout boundaries, not antenna component locations."
+      },
+      {
+        "feature": "antenna-keepout-lower-right",
+        "quantity": "x-boundary-from-left",
+        "value": 57.66,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf",
+        "note": "Top-view local left/bottom tangent datums; keepout boundaries, not antenna component locations."
+      },
+      {
+        "feature": "antenna-keepout-lower-pair",
+        "quantity": "height",
+        "value": 17.72,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf",
+        "note": "Top-view local left/bottom tangent datums; keepout boundaries, not antenna component locations."
+      }
+    ],
+    "features": {
+      "ethernetApplicability": {
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf",
+        "page": 2,
+        "note": "Ethernet geometry applies only to Wi-Fi + Ethernet variant; power and HDMI views are shown for both variants."
+      }
+    },
+    "profiles": [
+      {
+        "feature": "four-corner-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "horizontal",
+        "values": [
+          0,
+          2,
+          4,
+          6,
+          8,
+          10,
+          11.99,
+          13.98,
+          15.93,
+          17.85,
+          19.71,
+          21.47,
+          23.13,
+          24.66,
+          26.05,
+          27.27,
+          28.31,
+          29.21,
+          29.89,
+          30.4,
+          30.75,
+          30.96,
+          31.07,
+          31.12,
+          31.14
+        ],
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "four-corner-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "vertical",
+        "values": [
+          0,
+          0.01,
+          0.03,
+          0.09,
+          0.23,
+          0.49,
+          0.89,
+          1.46,
+          2.21,
+          3.15,
+          4.27,
+          5.55,
+          6.99,
+          8.57,
+          10.27,
+          12.06,
+          13.94,
+          15.87,
+          17.84,
+          19.83,
+          21.83,
+          23.83,
+          25.83,
+          27.83,
+          29.83
+        ],
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-tv-4k-3rd-generation.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      }
+    ],
+    "reviewScope": "Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+  },
+  {
+    "id": "airpods-2nd-generation",
+    "sourcePagesReviewed": [
+      2
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "side-vent-keepout",
+        "quantity": "margin",
+        "value": 0.5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-2nd-generation.pdf"
+      }
+    ],
+    "features": {
+      "dimensionScope": {
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-2nd-generation.pdf",
+        "note": "All printed numeric callouts describe shaded accessory exclusion regions or their margins. They are not complete earbud body dimensions. Existing base geometry retains the main keepout envelopes."
+      },
+      "metalContacts": {
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-2nd-generation.pdf",
+        "status": "illustrated-without-dimensions",
+        "note": "Bottom metal contact surfaces must remain uncovered; no contact aperture sizes are supplied."
+      }
+    },
+    "profiles": [],
+    "reviewScope": "Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+  },
+  {
+    "id": "airpods-3rd-generation",
+    "sourcePagesReviewed": [
+      2
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "top-vent-keepout",
+        "quantity": "margin",
+        "value": 1,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-3rd-generation.pdf"
+      },
+      {
+        "feature": "rear-vent-keepout",
+        "quantity": "margin",
+        "value": 1,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-3rd-generation.pdf"
+      }
+    ],
+    "features": {
+      "dimensionScope": {
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-3rd-generation.pdf",
+        "note": "All printed numeric callouts describe shaded accessory exclusion regions or their margins. They are not complete earbud body dimensions. Existing base geometry retains the main keepout envelopes."
+      },
+      "metalContacts": {
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-3rd-generation.pdf",
+        "status": "illustrated-without-dimensions",
+        "note": "Bottom metal contact surfaces must remain uncovered; no contact aperture sizes are supplied."
+      },
+      "generalTolerances": {
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-3rd-generation.pdf",
+        "linearByDecimalPlacesMm": {
+          "1": 0.2,
+          "2": 0.1,
+          "3": 0.05
+        },
+        "anglesPlusMinusDegrees": 0.5,
+        "note": "Printed title-block general tolerances."
+      }
+    },
+    "profiles": [],
+    "reviewScope": "Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+  },
+  {
+    "id": "airpods-4",
+    "sourcePagesReviewed": [
+      2
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "top-vent-keepout",
+        "quantity": "margin",
+        "value": 1,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-4.pdf"
+      },
+      {
+        "feature": "rear-vent-keepout",
+        "quantity": "margin",
+        "value": 1,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-4.pdf"
+      },
+      {
+        "feature": "bottom-stem-acoustic-keepout",
+        "quantity": "margin",
+        "value": 1,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-4.pdf"
+      }
+    ],
+    "features": {
+      "dimensionScope": {
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-4.pdf",
+        "note": "All printed numeric callouts describe shaded accessory exclusion regions or their margins. They are not complete earbud body dimensions. Existing base geometry retains the main keepout envelopes."
+      },
+      "metalContacts": {
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-4.pdf",
+        "status": "illustrated-without-dimensions",
+        "note": "Bottom metal contact surfaces must remain uncovered; no contact aperture sizes are supplied."
+      }
+    },
+    "profiles": [],
+    "reviewScope": "Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+  },
+  {
+    "id": "airpods-pro-2nd-generation",
+    "sourcePagesReviewed": [
+      2
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "top-vent-keepout",
+        "quantity": "margin",
+        "value": 1,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "rear-vent-keepout",
+        "quantity": "margin",
+        "value": 1,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "bottom-stem-acoustic-keepout",
+        "quantity": "margin",
+        "value": 1,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "stem-side-keepout",
+        "quantity": "margin",
+        "value": 1,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-pro-2nd-generation.pdf"
+      }
+    ],
+    "features": {
+      "dimensionScope": {
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-pro-2nd-generation.pdf",
+        "note": "All printed numeric callouts describe shaded accessory exclusion regions or their margins. They are not complete earbud body dimensions. Existing base geometry retains the main keepout envelopes."
+      },
+      "metalContacts": {
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-pro-2nd-generation.pdf",
+        "status": "illustrated-without-dimensions",
+        "note": "Bottom metal contact surfaces must remain uncovered; no contact aperture sizes are supplied."
+      }
+    },
+    "profiles": [],
+    "reviewScope": "Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+  },
+  {
+    "id": "airpods-pro-3",
+    "sourcePagesReviewed": [
+      2
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "top-vent-keepout",
+        "quantity": "margin",
+        "value": 1,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-pro-3.pdf"
+      },
+      {
+        "feature": "rear-vent-keepout",
+        "quantity": "margin",
+        "value": 1,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-pro-3.pdf"
+      }
+    ],
+    "features": {
+      "dimensionScope": {
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-pro-3.pdf",
+        "note": "All printed numeric callouts describe shaded accessory exclusion regions or their margins. They are not complete earbud body dimensions. Existing base geometry retains the main keepout envelopes."
+      },
+      "metalContacts": {
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-pro-3.pdf",
+        "status": "illustrated-without-dimensions",
+        "note": "Bottom metal contact surfaces must remain uncovered; no contact aperture sizes are supplied."
+      },
+      "generalTolerances": {
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airpods-pro-3.pdf",
+        "linearByDecimalPlacesMm": {
+          "1": 0.2,
+          "2": 0.1,
+          "3": 0.05
+        },
+        "anglesPlusMinusDegrees": 0.5,
+        "note": "Printed title-block general tolerances."
+      }
+    },
+    "profiles": [],
+    "reviewScope": "Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+  },
+  {
+    "id": "magsafe-charging-case-for-airpods-pro-3",
+    "sourcePagesReviewed": [
+      2,
+      3,
+      4
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "open-lid-interior-keepout",
+        "quantity": "width",
+        "value": 62.07,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf"
+      },
+      {
+        "feature": "open-base-interior-keepout",
+        "quantity": "width",
+        "value": 62.22,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf"
+      },
+      {
+        "feature": "open-base-interior-keepout",
+        "quantity": "depth",
+        "value": 19.64,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf"
+      },
+      {
+        "feature": "status-led",
+        "quantity": "center-height-from-base",
+        "value": 26.31,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf"
+      },
+      {
+        "feature": "status-led",
+        "quantity": "center-distance-from-side",
+        "value": 31.11,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf"
+      },
+      {
+        "feature": "lanyard-loop-holes",
+        "quantity": "diameter",
+        "value": 3.47,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf"
+      },
+      {
+        "feature": "lanyard-loop-holes",
+        "quantity": "center-pitch",
+        "value": 4.67,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf"
+      },
+      {
+        "feature": "lanyard-loop-internal-section",
+        "quantity": "width",
+        "value": 2.8,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf"
+      },
+      {
+        "feature": "lanyard-loop-internal-section",
+        "quantity": "height",
+        "value": 2,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf"
+      },
+      {
+        "feature": "lanyard-loop-keepout",
+        "quantity": "width",
+        "value": 4.47,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf"
+      },
+      {
+        "feature": "lanyard-loop-keepout",
+        "quantity": "height",
+        "value": 9.08,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf"
+      },
+      {
+        "feature": "lanyard-loop-keepout",
+        "quantity": "offset-below-open-case-top",
+        "value": 4.16,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf"
+      },
+      {
+        "feature": "hinge-keepout",
+        "quantity": "recommended-width",
+        "value": 49.7,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf",
+        "note": "Recommended minimum varies with accessory material thickness."
+      },
+      {
+        "feature": "hinge-keepout",
+        "quantity": "recommended-height",
+        "value": 7.9,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf",
+        "note": "Recommended minimum varies with accessory material thickness."
+      },
+      {
+        "feature": "hinge-keepout",
+        "quantity": "upper-margin",
+        "value": 1,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf",
+        "note": "Recommended minimum varies with accessory material thickness."
+      },
+      {
+        "feature": "bottom-port-hole-keepout",
+        "quantity": "diameter",
+        "value": 3.45,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf"
+      },
+      {
+        "feature": "speaker-hole-keepout",
+        "quantity": "width",
+        "value": 7.66,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf"
+      },
+      {
+        "feature": "speaker-hole-keepout",
+        "quantity": "height",
+        "value": 3.35,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf"
+      },
+      {
+        "feature": "qi-charging",
+        "quantity": "recommended-separation",
+        "value": 1,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf"
+      },
+      {
+        "feature": "qi-charging",
+        "quantity": "maximum-separation",
+        "value": 2.5,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf"
+      },
+      {
+        "feature": "watch-charger-keepout",
+        "quantity": "diameter",
+        "value": 28.62,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf"
+      },
+      {
+        "feature": "watch-charger-keepout",
+        "quantity": "center-height-from-base",
+        "value": 16.76,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf"
+      },
+      {
+        "feature": "watch-charger-keepout",
+        "quantity": "center-distance-from-side",
+        "value": 31.11,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf"
+      },
+      {
+        "feature": "connector-recommended-keepout",
+        "quantity": "width",
+        "value": 12.46,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf"
+      },
+      {
+        "feature": "connector-recommended-keepout",
+        "quantity": "height",
+        "value": 6.6,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf"
+      },
+      {
+        "feature": "wireless-charging-metal-keepout",
+        "quantity": "width",
+        "value": 52.22,
+        "unit": "mm",
+        "page": 4,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf"
+      },
+      {
+        "feature": "wireless-charging-metal-keepout",
+        "quantity": "height",
+        "value": 37.22,
+        "unit": "mm",
+        "page": 4,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf"
+      },
+      {
+        "feature": "wireless-charging-metal-keepout",
+        "quantity": "inset-from-top",
+        "value": 5,
+        "unit": "mm",
+        "page": 4,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf"
+      },
+      {
+        "feature": "rf-antenna-keepout",
+        "quantity": "width-on-front-rear",
+        "value": 15.2,
+        "unit": "mm",
+        "page": 4,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf"
+      },
+      {
+        "feature": "rf-antenna-keepout",
+        "quantity": "height-from-base",
+        "value": 21.23,
+        "unit": "mm",
+        "page": 4,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf"
+      },
+      {
+        "feature": "wireless-charging-metal-keepout",
+        "quantity": "inset-from-side",
+        "value": 5,
+        "unit": "mm",
+        "page": 4,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf"
+      }
+    ],
+    "features": {
+      "undimensionedBodyContour": {
+        "status": "not-dimensioned",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf",
+        "note": "Case curved envelope illustrated, with overall body dimensions; no case-body contour ordinate table supplied."
+      }
+    },
+    "profiles": [
+      {
+        "feature": "connector-keepout-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "horizontal",
+        "values": [
+          0,
+          0.05,
+          0.2,
+          0.45,
+          0.79,
+          1.21,
+          1.69,
+          2.22,
+          2.79,
+          3.36,
+          3.94
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "connector-keepout-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "vertical",
+        "values": [
+          0,
+          0.01,
+          0.07,
+          0.21,
+          0.44,
+          0.76,
+          1.17,
+          1.64,
+          2.16,
+          2.72,
+          3.3
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-3.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      }
+    ],
+    "reviewScope": "Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+  },
+  {
+    "id": "wireless-charging-case-usb-c-for-airpods-4",
+    "sourcePagesReviewed": [
+      2,
+      3,
+      4
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "open-lid-interior-keepout",
+        "quantity": "width",
+        "value": 49.84,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/wireless-charging-case-usb-c-for-airpods-4.pdf"
+      },
+      {
+        "feature": "open-base-interior-keepout",
+        "quantity": "width",
+        "value": 50.08,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/wireless-charging-case-usb-c-for-airpods-4.pdf"
+      },
+      {
+        "feature": "open-base-interior-keepout",
+        "quantity": "depth",
+        "value": 18.99,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/wireless-charging-case-usb-c-for-airpods-4.pdf"
+      },
+      {
+        "feature": "status-led",
+        "quantity": "center-height-from-base",
+        "value": 27.52,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/wireless-charging-case-usb-c-for-airpods-4.pdf"
+      },
+      {
+        "feature": "status-led",
+        "quantity": "center-distance-from-side",
+        "value": 25.04,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/wireless-charging-case-usb-c-for-airpods-4.pdf"
+      },
+      {
+        "feature": "hinge-keepout",
+        "quantity": "recommended-width",
+        "value": 39.04,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/wireless-charging-case-usb-c-for-airpods-4.pdf",
+        "note": "Recommended minimum varies with accessory material thickness."
+      },
+      {
+        "feature": "hinge-keepout",
+        "quantity": "recommended-height",
+        "value": 7.63,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/wireless-charging-case-usb-c-for-airpods-4.pdf",
+        "note": "Recommended minimum varies with accessory material thickness."
+      },
+      {
+        "feature": "hinge-keepout",
+        "quantity": "upper-margin",
+        "value": 1,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/wireless-charging-case-usb-c-for-airpods-4.pdf",
+        "note": "Recommended minimum varies with accessory material thickness."
+      },
+      {
+        "feature": "bottom-port-hole-keepout",
+        "quantity": "diameter",
+        "value": 3.42,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/wireless-charging-case-usb-c-for-airpods-4.pdf",
+        "note": "Drawing note 8: applies only to wireless charging case for AirPods 4 with ANC."
+      },
+      {
+        "feature": "speaker-hole-keepout",
+        "quantity": "width",
+        "value": 7.73,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/wireless-charging-case-usb-c-for-airpods-4.pdf",
+        "note": "Drawing note 8: applies only to wireless charging case for AirPods 4 with ANC."
+      },
+      {
+        "feature": "speaker-hole-keepout",
+        "quantity": "height",
+        "value": 3.42,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/wireless-charging-case-usb-c-for-airpods-4.pdf",
+        "note": "Drawing note 8: applies only to wireless charging case for AirPods 4 with ANC."
+      },
+      {
+        "feature": "qi-charging",
+        "quantity": "recommended-separation",
+        "value": 1,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/wireless-charging-case-usb-c-for-airpods-4.pdf",
+        "note": "Drawing note 8: applies only to wireless charging case for AirPods 4 with ANC."
+      },
+      {
+        "feature": "qi-charging",
+        "quantity": "maximum-separation",
+        "value": 2.5,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/wireless-charging-case-usb-c-for-airpods-4.pdf",
+        "note": "Drawing note 8: applies only to wireless charging case for AirPods 4 with ANC."
+      },
+      {
+        "feature": "watch-charger-keepout",
+        "quantity": "diameter",
+        "value": 28.62,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/wireless-charging-case-usb-c-for-airpods-4.pdf",
+        "note": "Drawing note 8: applies only to wireless charging case for AirPods 4 with ANC."
+      },
+      {
+        "feature": "watch-charger-keepout",
+        "quantity": "center-height-from-base",
+        "value": 16.61,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/wireless-charging-case-usb-c-for-airpods-4.pdf",
+        "note": "Drawing note 8: applies only to wireless charging case for AirPods 4 with ANC."
+      },
+      {
+        "feature": "watch-charger-keepout",
+        "quantity": "center-distance-from-side",
+        "value": 25.04,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/wireless-charging-case-usb-c-for-airpods-4.pdf",
+        "note": "Drawing note 8: applies only to wireless charging case for AirPods 4 with ANC."
+      },
+      {
+        "feature": "wireless-charging-metal-keepout",
+        "quantity": "width",
+        "value": 40.08,
+        "unit": "mm",
+        "page": 4,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/wireless-charging-case-usb-c-for-airpods-4.pdf",
+        "note": "Drawing note 8: applies only to wireless charging case for AirPods 4 with ANC."
+      },
+      {
+        "feature": "wireless-charging-metal-keepout",
+        "quantity": "height",
+        "value": 36.2,
+        "unit": "mm",
+        "page": 4,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/wireless-charging-case-usb-c-for-airpods-4.pdf",
+        "note": "Drawing note 8: applies only to wireless charging case for AirPods 4 with ANC."
+      },
+      {
+        "feature": "wireless-charging-metal-keepout",
+        "quantity": "inset-from-top",
+        "value": 5,
+        "unit": "mm",
+        "page": 4,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/wireless-charging-case-usb-c-for-airpods-4.pdf",
+        "note": "Drawing note 8: applies only to wireless charging case for AirPods 4 with ANC."
+      },
+      {
+        "feature": "rf-antenna-keepout",
+        "quantity": "width-on-front-rear",
+        "value": 11.69,
+        "unit": "mm",
+        "page": 4,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/wireless-charging-case-usb-c-for-airpods-4.pdf",
+        "note": "Drawing note 8: applies only to wireless charging case for AirPods 4 with ANC."
+      },
+      {
+        "feature": "rf-antenna-keepout",
+        "quantity": "height-from-base",
+        "value": 27.5,
+        "unit": "mm",
+        "page": 4,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/wireless-charging-case-usb-c-for-airpods-4.pdf",
+        "note": "Drawing note 8: applies only to wireless charging case for AirPods 4 with ANC."
+      }
+    ],
+    "features": {
+      "undimensionedBodyContour": {
+        "status": "not-dimensioned",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/wireless-charging-case-usb-c-for-airpods-4.pdf",
+        "note": "Case curved envelope illustrated, with overall body dimensions; no case-body contour ordinate table supplied."
+      }
+    },
+    "profiles": [
+      {
+        "feature": "connector-keepout-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "horizontal",
+        "values": [
+          0,
+          0.05,
+          0.19,
+          0.43,
+          0.76,
+          1.16,
+          1.63,
+          2.15,
+          2.7,
+          3.26,
+          3.83
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/wireless-charging-case-usb-c-for-airpods-4.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "connector-keepout-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "vertical",
+        "values": [
+          0,
+          0.01,
+          0.08,
+          0.23,
+          0.47,
+          0.79,
+          1.2,
+          1.66,
+          2.18,
+          2.73,
+          3.3
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/wireless-charging-case-usb-c-for-airpods-4.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      }
+    ],
+    "reviewScope": "Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+  },
+  {
+    "id": "magsafe-charging-case-for-airpods-pro-2nd-generation",
+    "sourcePagesReviewed": [
+      2,
+      3,
+      4
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "open-lid-interior-keepout",
+        "quantity": "width",
+        "value": 60.47,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "open-base-interior-keepout",
+        "quantity": "width",
+        "value": 60.62,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "open-base-interior-keepout",
+        "quantity": "depth",
+        "value": 19.45,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "lanyard-loop-holes",
+        "quantity": "diameter",
+        "value": 3.44,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "lanyard-loop-holes",
+        "quantity": "center-pitch",
+        "value": 4.65,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "lanyard-loop-internal-section",
+        "quantity": "width",
+        "value": 2.8,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "lanyard-loop-internal-section",
+        "quantity": "height",
+        "value": 2,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "lanyard-loop-keepout",
+        "quantity": "width",
+        "value": 4.53,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "lanyard-loop-keepout",
+        "quantity": "height",
+        "value": 9.24,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "lanyard-loop-keepout",
+        "quantity": "offset-below-open-case-top",
+        "value": 3.09,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "hinge-keepout",
+        "quantity": "recommended-width",
+        "value": 49,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-2nd-generation.pdf",
+        "note": "Recommended minimum varies with accessory material thickness."
+      },
+      {
+        "feature": "hinge-keepout",
+        "quantity": "recommended-height",
+        "value": 7.9,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-2nd-generation.pdf",
+        "note": "Recommended minimum varies with accessory material thickness."
+      },
+      {
+        "feature": "hinge-keepout",
+        "quantity": "upper-margin",
+        "value": 1,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-2nd-generation.pdf",
+        "note": "Recommended minimum varies with accessory material thickness."
+      },
+      {
+        "feature": "bottom-port-hole-keepout",
+        "quantity": "diameter",
+        "value": 3.45,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "speaker-hole-keepout",
+        "quantity": "width",
+        "value": 7.66,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "speaker-hole-keepout",
+        "quantity": "height",
+        "value": 3.35,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "qi-charging",
+        "quantity": "recommended-separation",
+        "value": 1,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "qi-charging",
+        "quantity": "maximum-separation",
+        "value": 2.5,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "watch-charger-keepout",
+        "quantity": "diameter",
+        "value": 28.62,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "watch-charger-keepout",
+        "quantity": "center-height-from-base",
+        "value": 16.4,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "watch-charger-keepout",
+        "quantity": "center-distance-from-side",
+        "value": 30.31,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "rear-button",
+        "quantity": "diameter",
+        "value": 6.5,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "rear-button-keepout",
+        "quantity": "recommended-diameter",
+        "value": 10.48,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "rear-button",
+        "quantity": "center-height-from-base",
+        "value": 16.4,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "wireless-charging-metal-keepout",
+        "quantity": "width",
+        "value": 50.62,
+        "unit": "mm",
+        "page": 4,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "wireless-charging-metal-keepout",
+        "quantity": "height",
+        "value": 35.21,
+        "unit": "mm",
+        "page": 4,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "wireless-charging-metal-keepout",
+        "quantity": "inset-from-top",
+        "value": 5,
+        "unit": "mm",
+        "page": 4,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "rf-antenna-keepout",
+        "quantity": "width-on-front-rear",
+        "value": 15.2,
+        "unit": "mm",
+        "page": 4,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "rf-antenna-keepout",
+        "quantity": "height-from-base",
+        "value": 21.23,
+        "unit": "mm",
+        "page": 4,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-2nd-generation.pdf"
+      }
+    ],
+    "features": {
+      "undimensionedBodyContour": {
+        "status": "not-dimensioned",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-pro-2nd-generation.pdf",
+        "note": "Case curved envelope illustrated, with overall body dimensions; no case-body contour ordinate table supplied."
+      }
+    },
+    "profiles": [],
+    "reviewScope": "Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+  },
+  {
+    "id": "magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation",
+    "sourcePagesReviewed": [
+      2,
+      3,
+      4
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "open-lid-interior-keepout",
+        "quantity": "width",
+        "value": 60.47,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "open-base-interior-keepout",
+        "quantity": "width",
+        "value": 60.62,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "open-base-interior-keepout",
+        "quantity": "depth",
+        "value": 19.45,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "lanyard-loop-holes",
+        "quantity": "diameter",
+        "value": 3.44,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "lanyard-loop-holes",
+        "quantity": "center-pitch",
+        "value": 4.65,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "lanyard-loop-internal-section",
+        "quantity": "width",
+        "value": 2.8,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "lanyard-loop-internal-section",
+        "quantity": "height",
+        "value": 2,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "lanyard-loop-keepout",
+        "quantity": "width",
+        "value": 4.47,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "lanyard-loop-keepout",
+        "quantity": "height",
+        "value": 9.08,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "lanyard-loop-keepout",
+        "quantity": "offset-below-open-case-top",
+        "value": 3.17,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "hinge-keepout",
+        "quantity": "recommended-width",
+        "value": 49,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf",
+        "note": "Recommended minimum varies with accessory material thickness."
+      },
+      {
+        "feature": "hinge-keepout",
+        "quantity": "recommended-height",
+        "value": 7.9,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf",
+        "note": "Recommended minimum varies with accessory material thickness."
+      },
+      {
+        "feature": "hinge-keepout",
+        "quantity": "upper-margin",
+        "value": 1,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf",
+        "note": "Recommended minimum varies with accessory material thickness."
+      },
+      {
+        "feature": "bottom-port-hole-keepout",
+        "quantity": "diameter",
+        "value": 3.45,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "speaker-hole-keepout",
+        "quantity": "width",
+        "value": 7.66,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "speaker-hole-keepout",
+        "quantity": "height",
+        "value": 3.35,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "qi-charging",
+        "quantity": "recommended-separation",
+        "value": 1,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "qi-charging",
+        "quantity": "maximum-separation",
+        "value": 2.5,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "watch-charger-keepout",
+        "quantity": "diameter",
+        "value": 28.62,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "watch-charger-keepout",
+        "quantity": "center-height-from-base",
+        "value": 16.4,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "watch-charger-keepout",
+        "quantity": "center-distance-from-side",
+        "value": 30.31,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "rear-button",
+        "quantity": "diameter",
+        "value": 6.5,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "rear-button-keepout",
+        "quantity": "recommended-diameter",
+        "value": 10.48,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "rear-button",
+        "quantity": "center-height-from-base",
+        "value": 16.4,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "wireless-charging-metal-keepout",
+        "quantity": "width",
+        "value": 50.62,
+        "unit": "mm",
+        "page": 4,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "wireless-charging-metal-keepout",
+        "quantity": "height",
+        "value": 35.21,
+        "unit": "mm",
+        "page": 4,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "wireless-charging-metal-keepout",
+        "quantity": "inset-from-top",
+        "value": 5,
+        "unit": "mm",
+        "page": 4,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "rf-antenna-keepout",
+        "quantity": "width-on-front-rear",
+        "value": 15.2,
+        "unit": "mm",
+        "page": 4,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf"
+      },
+      {
+        "feature": "rf-antenna-keepout",
+        "quantity": "height-from-base",
+        "value": 21.23,
+        "unit": "mm",
+        "page": 4,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf"
+      }
+    ],
+    "features": {
+      "undimensionedBodyContour": {
+        "status": "not-dimensioned",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf",
+        "note": "Case curved envelope illustrated, with overall body dimensions; no case-body contour ordinate table supplied."
+      }
+    },
+    "profiles": [
+      {
+        "feature": "connector-keepout-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "horizontal",
+        "values": [
+          0,
+          0.05,
+          0.2,
+          0.45,
+          0.79,
+          1.21,
+          1.69,
+          2.22,
+          2.79,
+          3.36,
+          3.94
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "connector-keepout-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "vertical",
+        "values": [
+          0,
+          0.01,
+          0.07,
+          0.21,
+          0.44,
+          0.76,
+          1.17,
+          1.64,
+          2.16,
+          2.72,
+          3.3
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-usb-c-for-airpods-pro-2nd-generation.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      }
+    ],
+    "reviewScope": "Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+  },
+  {
+    "id": "magsafe-charging-case-for-airpods-3rd-generation",
+    "sourcePagesReviewed": [
+      2
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "status-led",
+        "quantity": "center-height-from-base",
+        "value": 23.2,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-3rd-generation.pdf"
+      },
+      {
+        "feature": "rear-button",
+        "quantity": "diameter",
+        "value": 5.95,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-3rd-generation.pdf"
+      },
+      {
+        "feature": "rear-button-keepout",
+        "quantity": "recommended-diameter",
+        "value": 7.95,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-3rd-generation.pdf"
+      },
+      {
+        "feature": "rear-button",
+        "quantity": "center-height-from-base",
+        "value": 18.45,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-3rd-generation.pdf"
+      },
+      {
+        "feature": "hinge-keepout",
+        "quantity": "recommended-width",
+        "value": 42.1,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-3rd-generation.pdf"
+      },
+      {
+        "feature": "hinge-keepout",
+        "quantity": "recommended-height",
+        "value": 7.9,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-3rd-generation.pdf"
+      },
+      {
+        "feature": "hinge-keepout",
+        "quantity": "margin",
+        "value": 1,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-3rd-generation.pdf"
+      },
+      {
+        "feature": "connector-recommended-keepout",
+        "quantity": "width",
+        "value": 13.65,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-3rd-generation.pdf"
+      },
+      {
+        "feature": "connector-recommended-keepout",
+        "quantity": "height",
+        "value": 6.85,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-3rd-generation.pdf"
+      },
+      {
+        "feature": "wireless-charging-metal-keepout",
+        "quantity": "width",
+        "value": 46.4,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-3rd-generation.pdf"
+      },
+      {
+        "feature": "wireless-charging-metal-keepout",
+        "quantity": "height",
+        "value": 38.4,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-3rd-generation.pdf"
+      },
+      {
+        "feature": "wireless-charging-metal-keepout",
+        "quantity": "inset-from-base",
+        "value": 4,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-3rd-generation.pdf"
+      },
+      {
+        "feature": "open-lid-interior-keepout",
+        "quantity": "width",
+        "value": 54.2,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-3rd-generation.pdf"
+      },
+      {
+        "feature": "open-base-interior-keepout",
+        "quantity": "width",
+        "value": 54.4,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-3rd-generation.pdf"
+      },
+      {
+        "feature": "open-base-interior-keepout",
+        "quantity": "depth",
+        "value": 19.1,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/magsafe-charging-case-for-airpods-3rd-generation.pdf"
+      }
+    ],
+    "features": {},
+    "profiles": [],
+    "reviewScope": "Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+  },
+  {
+    "id": "apple-magsafe-charger",
+    "sourcePagesReviewed": [
+      2
+    ],
+    "additionalDimensions": [],
+    "features": {
+      "holderReference": {
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-magsafe-charger.pdf",
+        "datum": "A",
+        "note": "Accessory holder remains below the top aluminum charger surface. Puck, cable and USB-C body dimensions are already transcribed in base geometry; no cable length, USB contact layout or numeric holder-contour ordinates are supplied on this sheet."
+      }
+    },
+    "profiles": [],
+    "reviewScope": "Entire drawing sheet visually reviewed. All explicit numeric measurements are already in base geometry; holder keep-in contour is illustrated but not numerically dimensioned."
+  },
+  {
+    "id": "apple-magsafe-charger-1-m-and-apple-magsafe-charger-2-m",
+    "sourcePagesReviewed": [
+      2
+    ],
+    "additionalDimensions": [],
+    "features": {
+      "holderReference": {
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-magsafe-charger-1-m-and-apple-magsafe-charger-2-m.pdf",
+        "datum": "A",
+        "note": "Accessory holder remains below the top aluminum charger surface. Puck, cable and USB-C body dimensions are already transcribed in base geometry; no cable length, USB contact layout or numeric holder-contour ordinates are supplied on this sheet."
+      }
+    },
+    "profiles": [],
+    "reviewScope": "Entire drawing sheet visually reviewed. All explicit numeric measurements are already in base geometry; holder keep-in contour is illustrated but not numerically dimensioned."
+  },
+  {
+    "id": "airtag",
+    "sourcePagesReviewed": [
+      2
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "rear-concentric-ring-1",
+        "quantity": "diameter",
+        "value": 28.94,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airtag.pdf",
+        "note": "Successive rear-view concentric ring callouts; no electrical or acoustic function inferred."
+      },
+      {
+        "feature": "rear-concentric-ring-2",
+        "quantity": "diameter",
+        "value": 27.84,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airtag.pdf",
+        "note": "Successive rear-view concentric ring callouts; no electrical or acoustic function inferred."
+      },
+      {
+        "feature": "rear-concentric-ring-3",
+        "quantity": "diameter",
+        "value": 27.9,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airtag.pdf",
+        "note": "Successive rear-view concentric ring callouts; no electrical or acoustic function inferred."
+      },
+      {
+        "feature": "rear-concentric-ring-4",
+        "quantity": "diameter",
+        "value": 25.55,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airtag.pdf",
+        "note": "Successive rear-view concentric ring callouts; no electrical or acoustic function inferred."
+      },
+      {
+        "feature": "rear-base-flat",
+        "quantity": "diameter",
+        "value": 23.11,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airtag.pdf"
+      },
+      {
+        "feature": "rear-base-edge",
+        "quantity": "chamfer-size",
+        "value": 0.05,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airtag.pdf",
+        "note": "0.05 CHAMFER ALL AROUND; no chamfer angle specified."
+      }
+    ],
+    "features": {},
+    "profiles": [
+      {
+        "feature": "body-side-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "vertical-stations",
+        "values": [
+          7.98,
+          2.29,
+          1.89,
+          1.84,
+          0.94,
+          0.88,
+          0
+        ],
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airtag.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "all-around-profile-detail-A",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "upper-horizontal",
+        "values": [
+          0.13,
+          0.58,
+          1.23,
+          1.97,
+          2.75,
+          3.55,
+          4.36,
+          5.18,
+          6,
+          6.83,
+          7.65,
+          8.48,
+          9.3,
+          10.13,
+          10.96,
+          11.78,
+          12.61,
+          13.44,
+          14.27,
+          15.1,
+          15.93
+        ],
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airtag.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "all-around-profile-detail-A",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "upper-vertical",
+        "values": [
+          7.98,
+          7.97,
+          7.96,
+          7.95,
+          7.95,
+          7.92,
+          7.89,
+          7.85,
+          7.81,
+          7.75,
+          7.69,
+          7.62,
+          7.54,
+          7.44,
+          7.33,
+          7.2,
+          7.03,
+          6.82,
+          6.55,
+          6.18,
+          5.67,
+          4.98,
+          4.17,
+          3.38,
+          2.75,
+          2.29
+        ],
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airtag.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "all-around-profile-detail-A",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "lower-horizontal",
+        "values": [
+          0,
+          0.24,
+          0.77,
+          1.46,
+          3.21,
+          4.18,
+          5.16,
+          6.13,
+          7.11,
+          8.09,
+          9.07,
+          10.04,
+          11.02,
+          12,
+          12.98,
+          13.97,
+          14.95,
+          15.93
+        ],
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airtag.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "all-around-profile-detail-A",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "lower-vertical",
+        "values": [
+          0.88,
+          0.75,
+          0.63,
+          0.52,
+          0.42,
+          0.33,
+          0.26,
+          0.19,
+          0.13,
+          0.08,
+          0.05,
+          0.02,
+          0.01,
+          0
+        ],
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/airtag.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      }
+    ],
+    "reviewScope": "Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+  },
+  {
+    "id": "apple-vision-pro-battery",
+    "sourcePagesReviewed": [
+      2
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "usb-c-connector-keepout",
+        "quantity": "width",
+        "value": 12.45,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-battery.pdf"
+      },
+      {
+        "feature": "usb-c-connector-keepout",
+        "quantity": "height",
+        "value": 6.6,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-battery.pdf"
+      },
+      {
+        "feature": "usb-c-connector-keepout",
+        "quantity": "end-radius",
+        "value": 3.25,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-battery.pdf"
+      },
+      {
+        "feature": "usb-c-port",
+        "quantity": "center-from-end",
+        "value": 18.16,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-battery.pdf"
+      },
+      {
+        "feature": "battery-status-led",
+        "quantity": "diameter",
+        "value": 0.81,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-battery.pdf"
+      },
+      {
+        "feature": "battery-status-led",
+        "quantity": "center-from-end",
+        "value": 25.23,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-battery.pdf"
+      },
+      {
+        "feature": "headset-cable-connector",
+        "quantity": "diameter",
+        "value": 18.24,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-battery.pdf"
+      },
+      {
+        "feature": "headset-cable-connector",
+        "quantity": "body-depth",
+        "value": 7.07,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-battery.pdf"
+      },
+      {
+        "feature": "headset-cable-connector",
+        "quantity": "projection",
+        "value": 2.51,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-battery.pdf"
+      },
+      {
+        "feature": "headset-cable-connector-led",
+        "quantity": "diameter",
+        "value": 1.27,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-battery.pdf"
+      },
+      {
+        "feature": "headset-cable-connector-led",
+        "quantity": "center-offset",
+        "value": 5,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-battery.pdf"
+      },
+      {
+        "feature": "battery-surface",
+        "quantity": "minimum-recommended-exposed-area",
+        "value": 25,
+        "unit": "percent",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-battery.pdf",
+        "note": "Drawing note5: surface exposure recommended for heat dissipation."
+      }
+    ],
+    "features": {},
+    "profiles": [
+      {
+        "feature": "case-four-corner-profile-detail-A",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "horizontal",
+        "values": [
+          0,
+          0.01,
+          0.48,
+          3.62,
+          13.19,
+          28.19,
+          43.19,
+          58.19,
+          73.19
+        ],
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-battery.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "case-four-corner-profile-detail-A",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "vertical",
+        "values": [
+          73.19,
+          58.19,
+          43.19,
+          28.19,
+          13.19,
+          3.62,
+          0.48,
+          0.01,
+          0
+        ],
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-battery.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "case-all-around-cross-profile-detail-C",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "horizontal",
+        "values": [
+          15.4,
+          12.8,
+          10.2,
+          7.62,
+          5.15,
+          3,
+          1.35,
+          0.34,
+          0
+        ],
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-battery.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "case-all-around-cross-profile-detail-C",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "upper-vertical",
+        "values": [
+          9.55,
+          9.54,
+          9.47,
+          9.17,
+          8.38,
+          6.95,
+          4.95,
+          2.57,
+          0
+        ],
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-battery.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "case-all-around-cross-profile-detail-C",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "lower-vertical",
+        "values": [
+          0,
+          2.57,
+          4.95,
+          6.95,
+          8.38,
+          9.17,
+          9.47,
+          9.54,
+          9.55
+        ],
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-battery.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      }
+    ],
+    "reviewScope": "Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+  },
+  {
+    "id": "apple-vision-pro-audio-strap",
+    "sourcePagesReviewed": [
+      2
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "connector-end-region",
+        "quantity": "height",
+        "value": 27.04,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-audio-strap.pdf"
+      },
+      {
+        "feature": "connector",
+        "quantity": "offset-from-end",
+        "value": 10.05,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-audio-strap.pdf"
+      },
+      {
+        "feature": "connector",
+        "quantity": "offset-from-upper-edge",
+        "value": 6.59,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-audio-strap.pdf"
+      },
+      {
+        "feature": "end-profile",
+        "quantity": "upper-span",
+        "value": 9.17,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-audio-strap.pdf"
+      },
+      {
+        "feature": "end-profile",
+        "quantity": "lower-offset",
+        "value": 2.32,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-audio-strap.pdf"
+      },
+      {
+        "feature": "connector-side-feature",
+        "quantity": "inset",
+        "value": 0.65,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-audio-strap.pdf"
+      },
+      {
+        "feature": "connector-side-feature",
+        "quantity": "upper-section-height",
+        "value": 1.25,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-audio-strap.pdf"
+      },
+      {
+        "feature": "connector-side-feature",
+        "quantity": "middle-section-height",
+        "value": 1.1,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-audio-strap.pdf"
+      },
+      {
+        "feature": "connector-side-feature",
+        "quantity": "lower-section-height",
+        "value": 1.48,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-audio-strap.pdf"
+      },
+      {
+        "feature": "connector",
+        "quantity": "angle-to-faceplate",
+        "value": 90,
+        "unit": "degree",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-audio-strap.pdf"
+      },
+      {
+        "feature": "connector",
+        "quantity": "angle-to-strap-centerline",
+        "value": 90,
+        "unit": "degree",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-audio-strap.pdf"
+      }
+    ],
+    "features": {
+      "applicability": {
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-audio-strap.pdf",
+        "note": "Dimensions refer to left audio strap; right strap mirrored unless specified. Speaker opening is identified but no numeric aperture geometry is supplied."
+      }
+    },
+    "profiles": [
+      {
+        "feature": "connector-four-corner-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "horizontal",
+        "values": [
+          0,
+          0.01,
+          0.18,
+          0.73,
+          1.73,
+          3.02
+        ],
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-audio-strap.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      },
+      {
+        "feature": "connector-four-corner-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "vertical",
+        "values": [
+          0,
+          -0.3,
+          -1.09,
+          -2.13,
+          -3.21,
+          -4.6
+        ],
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/apple-vision-pro-audio-strap.pdf",
+        "coordinateSystem": "Printed drawing-local boxed-zero datum for this view or detail; signs retained without global transformation.",
+        "note": "Independent ordinate sequence; do not zip with other sequences to invent coordinate pairs."
+      }
+    ],
+    "reviewScope": "Visually reviewed explicit feature dimensions, keepouts and source-local contour ordinates. Undimensioned features remain unavailable; no measurements scaled from artwork."
+  }
+]

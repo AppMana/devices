@@ -13,8 +13,9 @@ for d in table['devices']:
             for a in p['annotations']:
                 assert len(a['bbox'])==4 and all(math.isfinite(v) for v in a['bbox'])
     for measurement in d['additionalDimensions']:
-        assert measurement['unit'] in ('mm','degree'), d['id']
+        assert measurement['unit'] in ('mm','degree','percent'), d['id']
         assert math.isfinite(measurement['value']), d['id']
+        if measurement['unit']=='percent':assert 0<=measurement['value']<=100,d['id']
         assert measurement['page']>=2 and measurement['feature'] and measurement['quantity'], d['id']
         if d['drawing']:
             source=measurement.get('source') or d['drawing']['url']

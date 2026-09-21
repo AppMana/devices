@@ -32126,7 +32126,10 @@
     "sourcePagesReviewed": [
       2,
       3,
-      4
+      4,
+      5,
+      6,
+      7
     ],
     "additionalDimensions": [
       {
@@ -32394,6 +32397,62 @@
         "value": 84.95,
         "page": 3,
         "unit": "mm"
+      },
+      {
+        "feature": "antenna-metal-keepout",
+        "quantity": "outside-housing-margin",
+        "value": 8,
+        "unit": "mm",
+        "page": 7,
+        "note": "Antenna sheet x origin at right housing edge and y origin at body mid-height."
+      },
+      {
+        "feature": "antenna-metal-keepout",
+        "quantity": "inside-housing-margin",
+        "value": 11.89,
+        "unit": "mm",
+        "page": 7,
+        "note": "Antenna sheet x origin at right housing edge and y origin at body mid-height."
+      },
+      {
+        "feature": "antenna-metal-keepout",
+        "quantity": "end-boundary-y-from-body-centre",
+        "value": 75.04,
+        "unit": "mm",
+        "page": 7,
+        "note": "Antenna sheet x origin at right housing edge and y origin at body mid-height."
+      },
+      {
+        "feature": "antenna-metal-keepout",
+        "quantity": "opposite-end-boundary-y-from-body-centre",
+        "value": -75.04,
+        "unit": "mm",
+        "page": 7,
+        "note": "Antenna sheet x origin at right housing edge and y origin at body mid-height."
+      },
+      {
+        "feature": "antenna-metal-keepout",
+        "quantity": "side-keepout-inner-x-from-right-edge",
+        "value": -13.47,
+        "unit": "mm",
+        "page": 7,
+        "note": "Antenna sheet x origin at right housing edge and y origin at body mid-height."
+      },
+      {
+        "feature": "antenna-metal-keepout",
+        "quantity": "side-keepout-lower-y-from-body-centre",
+        "value": 36.95,
+        "unit": "mm",
+        "page": 7,
+        "note": "Antenna sheet x origin at right housing edge and y origin at body mid-height."
+      },
+      {
+        "feature": "antenna-metal-keepout",
+        "quantity": "side-keepout-upper-y-from-body-centre",
+        "value": 85.44,
+        "unit": "mm",
+        "page": 7,
+        "note": "Antenna sheet x origin at right housing edge and y origin at body mid-height."
       }
     ],
     "features": {
@@ -33280,20 +33339,156 @@
             "maximumMilliTesla": 1.3
           }
         }
+      },
+      "topModuleMagnets": {
+        "coordinateConvention": "Front portrait view, origin lower-left body tangent; x right and y up.",
+        "sourcePage": 5,
+        "bipolarSurfaceReferences": [
+          {
+            "x": {
+              "value": 130.09,
+              "unit": "mm",
+              "sourcePage": 5,
+              "derivation": "Explicit top-module magnetic reference on page5; origin at lower-left body tangent."
+            },
+            "y": {
+              "value": 135.68,
+              "unit": "mm",
+              "sourcePage": 5,
+              "derivation": "Explicit top-module magnetic reference on page5; origin at lower-left body tangent."
+            },
+            "polarity": "N"
+          },
+          {
+            "x": {
+              "value": 130.09,
+              "unit": "mm",
+              "sourcePage": 5,
+              "derivation": "Explicit top-module magnetic reference on page5; origin at lower-left body tangent."
+            },
+            "y": {
+              "value": 130.18,
+              "unit": "mm",
+              "sourcePage": 5,
+              "derivation": "Explicit top-module magnetic reference on page5; origin at lower-left body tangent."
+            },
+            "polarity": "S"
+          }
+        ],
+        "singlePoleSurfaceReferences": [
+          {
+            "x": {
+              "value": 130.75,
+              "unit": "mm",
+              "sourcePage": 5,
+              "derivation": "Explicit top-module magnetic reference on page5; origin at lower-left body tangent."
+            },
+            "y": {
+              "value": 116.84,
+              "unit": "mm",
+              "sourcePage": 5,
+              "derivation": "Explicit top-module magnetic reference on page5; origin at lower-left body tangent."
+            },
+            "polarity": "N"
+          },
+          {
+            "x": {
+              "value": 130.75,
+              "unit": "mm",
+              "sourcePage": 5,
+              "derivation": "Explicit top-module magnetic reference on page5; origin at lower-left body tangent."
+            },
+            "y": {
+              "value": 77.46,
+              "unit": "mm",
+              "sourcePage": 5,
+              "derivation": "Explicit top-module magnetic reference on page5; origin at lower-left body tangent."
+            },
+            "polarity": "N"
+          },
+          {
+            "x": {
+              "value": 130.67,
+              "unit": "mm",
+              "sourcePage": 5,
+              "derivation": "Explicit top-module magnetic reference on page5; origin at lower-left body tangent."
+            },
+            "y": {
+              "value": 50.87,
+              "unit": "mm",
+              "sourcePage": 5,
+              "derivation": "Explicit top-module magnetic reference on page5; origin at lower-left body tangent."
+            },
+            "polarity": "S"
+          }
+        ]
       }
     },
     "ambiguities": [
       "PDF page3 rear-view109.36 horizontal and170.04 rear-camera vertical callouts exceed body half extents while their arrows terminate at centreline datums. Source values retained as unresolved claims, not valid positions.",
       "Front camera vertical location is not dimensioned;4.38mm explicitly refers to the cellular ambient-light sensor."
     ],
-    "reviewScope": "Named camera/acoustic/flash/ALS/connector keepouts and apertures reviewed. Rear camera position source contradiction explicitly represented; front camera Y remains unknown. Other sheets and contours remain incomplete. Magnetic page normalized: all tabulated magnets and surface polarities, shunt references, HES/compass and four magnetic keepout regions. Unlisted inside/axial polarities remain unknown."
+    "reviewScope": "Named camera/acoustic/flash/ALS/connector keepouts and apertures reviewed. Rear camera position source contradiction explicitly represented; front camera Y remains unknown. Other sheets and contours remain incomplete. Magnetic page normalized: all tabulated magnets and surface polarities, shunt references, HES/compass and four magnetic keepout regions. Unlisted inside/axial polarities remain unknown. Top-module polarity references, edge/corner ordinate sets and antenna margins reviewed with generation-specific page order and magnet geometry.",
+    "profiles": [
+      {
+        "feature": "housing-edge-all-around",
+        "detail": "J",
+        "page": 6,
+        "unit": "mm",
+        "coordinateConvention": "Printed local lower-left detail datum, x right and y up.",
+        "coordinateStatus": "reviewed-unpaired-ordinates",
+        "x": [
+          0,
+          0.06,
+          0.43,
+          1.12
+        ],
+        "y": [
+          0,
+          0.05,
+          0.43,
+          1.12
+        ],
+        "note": "Two sides apply; source x/y near-zero ordinates differ on A17 Pro."
+      },
+      {
+        "feature": "housing-all-four-corners",
+        "detail": "K",
+        "page": 6,
+        "unit": "mm",
+        "coordinateConvention": "Printed local lower-left corner datum, x right and y up.",
+        "coordinateStatus": "reviewed-unpaired-ordinates",
+        "x": [
+          0,
+          0.01,
+          0.07,
+          1.53,
+          6.76,
+          13.15,
+          18.79
+        ],
+        "y": [
+          0,
+          0.05,
+          1.53,
+          6.76,
+          12.88,
+          14.68,
+          18.79
+        ],
+        "note": "Independent ordinate sets, not paired polygon vertices."
+      }
+    ]
   },
   {
     "id": "ipad-mini-6th-generation",
     "sourcePagesReviewed": [
       2,
       3,
-      4
+      4,
+      5,
+      6,
+      7
     ],
     "additionalDimensions": [
       {
@@ -33547,6 +33742,62 @@
         "value": 3.94,
         "page": 3,
         "unit": "mm"
+      },
+      {
+        "feature": "antenna-metal-keepout",
+        "quantity": "outside-housing-margin",
+        "value": 8,
+        "unit": "mm",
+        "page": 6,
+        "note": "Antenna sheet x origin at right housing edge and y origin at body mid-height."
+      },
+      {
+        "feature": "antenna-metal-keepout",
+        "quantity": "inside-housing-margin",
+        "value": 11.89,
+        "unit": "mm",
+        "page": 6,
+        "note": "Antenna sheet x origin at right housing edge and y origin at body mid-height."
+      },
+      {
+        "feature": "antenna-metal-keepout",
+        "quantity": "end-boundary-y-from-body-centre",
+        "value": 75.04,
+        "unit": "mm",
+        "page": 6,
+        "note": "Antenna sheet x origin at right housing edge and y origin at body mid-height."
+      },
+      {
+        "feature": "antenna-metal-keepout",
+        "quantity": "opposite-end-boundary-y-from-body-centre",
+        "value": -75.04,
+        "unit": "mm",
+        "page": 6,
+        "note": "Antenna sheet x origin at right housing edge and y origin at body mid-height."
+      },
+      {
+        "feature": "antenna-metal-keepout",
+        "quantity": "side-keepout-inner-x-from-right-edge",
+        "value": -13.47,
+        "unit": "mm",
+        "page": 6,
+        "note": "Antenna sheet x origin at right housing edge and y origin at body mid-height."
+      },
+      {
+        "feature": "antenna-metal-keepout",
+        "quantity": "side-keepout-lower-y-from-body-centre",
+        "value": 36.95,
+        "unit": "mm",
+        "page": 6,
+        "note": "Antenna sheet x origin at right housing edge and y origin at body mid-height."
+      },
+      {
+        "feature": "antenna-metal-keepout",
+        "quantity": "side-keepout-upper-y-from-body-centre",
+        "value": 85.44,
+        "unit": "mm",
+        "page": 6,
+        "note": "Antenna sheet x origin at right housing edge and y origin at body mid-height."
       }
     ],
     "features": {
@@ -34232,13 +34483,107 @@
             "note": "Two explicitly dimensioned centres without individual labels."
           }
         }
+      },
+      "topModuleMagnets": {
+        "coordinateConvention": "Front portrait view, origin lower-left body tangent; x right and y up.",
+        "sourcePage": 5,
+        "bipolarMagnets": [
+          {
+            "center": {
+              "x": {
+                "value": 130.6,
+                "unit": "mm",
+                "sourcePage": 5,
+                "derivation": "Explicit top-module magnetic reference on page5; origin at lower-left body tangent."
+              },
+              "y": {
+                "value": 133.45,
+                "unit": "mm",
+                "sourcePage": 5,
+                "derivation": "Explicit top-module magnetic reference on page5; origin at lower-left body tangent."
+              }
+            },
+            "upperPolarity": "N",
+            "lowerPolarity": "S",
+            "note": "Centre reference only; upper/lower pole centre coordinates not individually dimensioned."
+          },
+          {
+            "center": {
+              "x": {
+                "value": 130.52,
+                "unit": "mm",
+                "sourcePage": 5,
+                "derivation": "Explicit top-module magnetic reference on page5; origin at lower-left body tangent."
+              },
+              "y": {
+                "value": 58.09,
+                "unit": "mm",
+                "sourcePage": 5,
+                "derivation": "Explicit top-module magnetic reference on page5; origin at lower-left body tangent."
+              }
+            },
+            "upperPolarity": "N",
+            "lowerPolarity": "S",
+            "note": "Centre reference only; upper/lower pole centre coordinates not individually dimensioned."
+          }
+        ]
       }
     },
     "ambiguities": [
       "PDF page3 rear-view109.36 horizontal and170.04 rear-camera vertical callouts exceed body half extents while their arrows terminate at centreline datums. Source values retained as unresolved claims, not valid positions.",
       "Front camera vertical location is not dimensioned;4.38mm explicitly refers to the cellular ambient-light sensor."
     ],
-    "reviewScope": "Named camera/acoustic/flash/ALS/connector keepouts and apertures reviewed. Rear camera position source contradiction explicitly represented; front camera Y remains unknown. Other sheets and contours remain incomplete. Sixth-generation magnetic page: named magnet locations/surface polarities, shunts and sensor coordinates. Pencil magnets differ from A17 Pro; other unlabelled centre ordinates are retained without invented names. Sensor depth and flux keepouts are not supplied on this page."
+    "reviewScope": "Named camera/acoustic/flash/ALS/connector keepouts and apertures reviewed. Rear camera position source contradiction explicitly represented; front camera Y remains unknown. Other sheets and contours remain incomplete. Sixth-generation magnetic page: named magnet locations/surface polarities, shunts and sensor coordinates. Pencil magnets differ from A17 Pro; other unlabelled centre ordinates are retained without invented names. Sensor depth and flux keepouts are not supplied on this page. Top-module polarity references, edge/corner ordinate sets and antenna margins reviewed with generation-specific page order and magnet geometry.",
+    "profiles": [
+      {
+        "feature": "housing-edge-all-around",
+        "detail": "J",
+        "page": 7,
+        "unit": "mm",
+        "coordinateConvention": "Printed local lower-left detail datum, x right and y up.",
+        "coordinateStatus": "reviewed-unpaired-ordinates",
+        "x": [
+          0,
+          0.06,
+          0.43,
+          1.12
+        ],
+        "y": [
+          0,
+          0.06,
+          0.43,
+          1.12
+        ],
+        "note": "Two sides apply; source x/y near-zero ordinates differ on A17 Pro."
+      },
+      {
+        "feature": "housing-all-four-corners",
+        "detail": "K",
+        "page": 7,
+        "unit": "mm",
+        "coordinateConvention": "Printed local lower-left corner datum, x right and y up.",
+        "coordinateStatus": "reviewed-unpaired-ordinates",
+        "x": [
+          0,
+          0.01,
+          0.07,
+          1.53,
+          6.76,
+          13.15,
+          18.79
+        ],
+        "y": [
+          0,
+          0.05,
+          1.53,
+          6.76,
+          12.88,
+          14.68,
+          18.79
+        ],
+        "note": "Independent ordinate sets, not paired polygon vertices."
+      }
+    ]
   },
   {
     "id": "ipad-air-5th-generation",
