@@ -22,3 +22,20 @@ test('X and XR remain distinct; returned records do not mutate dataset', () => {
  assert.equal(findDevice('iPad16,5').display.activeMm.width,199.14);
  const t=getTable();t.devices.length=0;assert.ok(getTable().devices.length>200);
 });
+test('all indexed phones and tablets have reviewed physical scale', () => {
+ const devices=getTable().devices.filter(d=>d.drawing && /^(ipad|iphone)-/.test(d.id));
+ assert.equal(devices.length,49);
+ for(const d of devices){
+   assert.ok(d.bodyMm.width>d.display.activeMm.width,d.id);
+   assert.ok(d.bodyMm.height>d.display.activeMm.height,d.id);
+   assert.ok(d.bodyMm.depth>0,d.id);
+   for(const axis of ['x','y']) assert.ok(pixelsPerInch(d)[axis]>200 && pixelsPerInch(d)[axis]<500,d.id);
+ }
+ // Similar names do not imply identical panels, bodies, or camera offsets.
+ assert.equal(findDevice('iphone-17').display.activeMm.height,144.79);
+ assert.equal(findDevice('iphone-17-pro').display.activeMm.height,144.73);
+ assert.equal(findDevice('ipad-10th-generation').display.activeMm.width,158.94);
+ assert.equal(findDevice('ipad-mini-6th-generation').frontCamera,null);
+ assert.deepEqual(findDevice('iphone-se-2nd-generation').frontCamera,findDevice('iphone-se-3rd-generation').frontCamera);
+ assert.equal(findDevice('iphone-se-3rd-generation').frontCamera.x,-10.655);
+});

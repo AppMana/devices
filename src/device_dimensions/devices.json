@@ -23,8 +23,8 @@
     "drawings": 90,
     "drawingPages": 259,
     "nativeResolutions": 125,
-    "reviewedDisplays": 9,
-    "reviewedCameras": 2,
+    "reviewedDisplays": 50,
+    "reviewedCameras": 22,
     "note": "All current index PDFs are represented; positioned annotations are an extraction aid, not a complete semantic translation. OCR and numerical-token extraction can omit or misread dimensions. Only reviewed fields are used for physical conversions."
   },
   "devices": [
@@ -42,6 +42,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -63,6 +65,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -372,6 +376,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -664,6 +670,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -998,6 +1006,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -4884,6 +4894,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -4903,6 +4915,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -5377,6 +5391,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -5733,6 +5749,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -5754,6 +5772,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -5775,6 +5795,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -6470,6 +6492,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -6638,6 +6662,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -6806,6 +6832,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -6827,6 +6855,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -6848,6 +6878,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -6869,6 +6901,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -6890,6 +6924,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -6911,6 +6947,8 @@
         "source": "https://support.apple.com/kb/SP769"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -6932,6 +6970,8 @@
         "source": "https://support.apple.com/kb/SP845"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -6953,6 +6993,8 @@
         "source": "https://support.apple.com/kb/SP886"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -7930,6 +7972,8 @@
         "source": "https://support.apple.com/kb/SP724"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -7949,6 +7993,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -16163,6 +16209,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -16815,6 +16863,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -18083,6 +18133,8 @@
         "source": "https://support.apple.com/kb/SP735"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -18104,6 +18156,8 @@
         "source": "https://support.apple.com/kb/SP735"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -18129,6 +18183,8 @@
         "source": "https://support.apple.com/kb/SP877"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -18154,6 +18210,8 @@
         "source": "https://support.apple.com/kb/SP877"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -18173,6 +18231,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -19790,6 +19850,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -21612,6 +21674,8 @@
         "source": "https://support.apple.com/en-us/125094"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -21637,6 +21701,8 @@
         "source": "https://support.apple.com/en-us/125094"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -21662,6 +21728,8 @@
         "source": "https://support.apple.com/kb/SP827"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -23212,6 +23280,8 @@
         "source": "https://support.apple.com/kb/SP827"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -24608,6 +24678,8 @@
         "source": "https://support.apple.com/kb/SP745"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -24632,6 +24704,8 @@
         "source": "https://support.apple.com/kb/SP745"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -24657,6 +24731,8 @@
         "source": "https://support.apple.com/en-us/121202"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -26043,6 +26119,8 @@
         "source": "https://support.apple.com/en-us/121202"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -27334,6 +27412,8 @@
         "source": "https://support.apple.com/en-us/125093"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -28720,6 +28800,8 @@
         "source": "https://support.apple.com/en-us/125093"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -30010,6 +30092,8 @@
         "source": "https://support.apple.com/kb/SP746"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -30034,6 +30118,8 @@
         "source": "https://support.apple.com/kb/SP746"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -30059,6 +30145,8 @@
         "source": "https://support.apple.com/kb/SP766"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -30084,6 +30172,8 @@
         "source": "https://support.apple.com/kb/SP766"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -30109,6 +30199,8 @@
         "source": "https://support.apple.com/kb/SP778"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -30134,6 +30226,8 @@
         "source": "https://support.apple.com/kb/SP778"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -30159,6 +30253,8 @@
         "source": "https://support.apple.com/kb/SP808"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -30184,6 +30280,8 @@
         "source": "https://support.apple.com/kb/SP808"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -30209,6 +30307,8 @@
         "source": "https://support.apple.com/kb/SP826"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -31684,6 +31784,8 @@
         "source": "https://support.apple.com/kb/SP826"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -33234,6 +33336,8 @@
         "source": "https://support.apple.com/kb/SP860"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -34800,6 +34904,8 @@
         "source": "https://support.apple.com/kb/SP860"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -36281,6 +36387,8 @@
         "source": "https://support.apple.com/kb/SP878"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -37845,6 +37953,8 @@
         "source": "https://support.apple.com/kb/SP878"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -39358,6 +39468,8 @@
         "source": "https://support.apple.com/kb/SP905"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -40886,6 +40998,8 @@
         "source": "https://support.apple.com/kb/SP905"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -42411,6 +42525,8 @@
         "source": "https://support.apple.com/kb/SP879"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -48186,6 +48302,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -54038,6 +54156,8 @@
         "source": "https://support.apple.com/en-us/125095"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -57162,6 +57282,8 @@
         "source": "https://support.apple.com/en-us/111832"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -57183,6 +57305,8 @@
         "source": "https://support.apple.com/kb/SP773"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -57204,6 +57328,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -57225,6 +57351,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -57246,6 +57374,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -57267,6 +57397,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -57288,6 +57420,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -57309,6 +57443,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -57330,6 +57466,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -57351,6 +57489,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -57372,6 +57512,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -57393,6 +57535,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -57414,6 +57558,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -57435,6 +57581,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -57456,6 +57604,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -57477,6 +57627,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -57498,6 +57650,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -57519,6 +57673,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -57540,6 +57696,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -57561,6 +57719,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -57582,6 +57742,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -57603,6 +57765,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -57624,6 +57788,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -57645,6 +57811,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -57666,6 +57834,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -57687,6 +57857,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -57708,6 +57880,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -57729,6 +57903,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -57750,6 +57926,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -57771,6 +57949,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -57792,6 +57972,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -57813,6 +57995,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -57828,20 +58012,42 @@
         "iPad13,19"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 158.94,
+          "height": 228.06
+        },
         "nativePixels": {
           "width": 1640,
           "height": 2360
         },
         "nominalPpi": 264,
-        "ppi": null,
+        "ppi": {
+          "x": 262.0863218824714,
+          "y": 262.843111461896
+        },
         "source": "https://support.apple.com/kb/SP884"
       },
-      "bodyMm": null,
-      "frontCamera": null,
+      "bodyMm": {
+        "width": 179.51,
+        "height": 248.63,
+        "depth": 7.03
+      },
+      "coverGlassMm": null,
+      "additionalDimensions": [],
+      "frontCamera": {
+        "x": 84.515,
+        "y": -0.005,
+        "convention": "portrait body centre; +x right, +y up; millimetres",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-10th-generation.pdf",
+        "page": 2
+      },
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Front camera is the upper point in the three-point stack (detail J), 5.24 from right edge and 124.31 from bottom: x=179.51/2-5.24=84.515; y=124.31-248.63/2=-0.005. The other heights 117.56 and 111.15 belong to microphone/ALS. The 0.005 mm residual is retained from printed dimensions.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-10th-generation.pdf",
+        "page": 2,
+        "bodyDepthPage": 2,
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-10th-generation.pdf",
@@ -64300,6 +64506,8 @@
         "source": "https://support.apple.com/kb/SP622"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -64321,6 +64529,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -64347,6 +64557,8 @@
         "source": "https://support.apple.com/kb/SP647"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -64373,6 +64585,8 @@
         "source": "https://support.apple.com/kb/SP662"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -64398,6 +64612,8 @@
         "source": "https://support.apple.com/kb/SP751"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -64423,6 +64639,8 @@
         "source": "https://support.apple.com/kb/SP774"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -64448,6 +64666,8 @@
         "source": "https://support.apple.com/kb/SP807"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -64463,20 +64683,42 @@
         "iPad11,7"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 155.52,
+          "height": 207.36
+        },
         "nativePixels": {
           "width": 1620,
           "height": 2160
         },
         "nominalPpi": 264,
-        "ppi": null,
+        "ppi": {
+          "x": 264.5833333333333,
+          "y": 264.5833333333333
+        },
         "source": "https://support.apple.com/kb/SP822"
       },
-      "bodyMm": null,
-      "frontCamera": null,
+      "bodyMm": {
+        "width": 174.08,
+        "height": 250.59,
+        "depth": 7.5
+      },
+      "coverGlassMm": null,
+      "additionalDimensions": [],
+      "frontCamera": {
+        "x": 0,
+        "y": 114.225,
+        "convention": "portrait body centre; +x right, +y up; millimetres",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+        "page": 2
+      },
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Front camera is 87.04 from right edge and 11.07 below top: x=174.08/2-87.04=0; y=250.59/2-11.07=114.225. 11.03 is ALS, not camera. Thickness is shown in side view on page 2.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+        "page": 2,
+        "bodyDepthPage": 2,
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
@@ -66235,20 +66477,42 @@
         "iPad12,2"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 155.52,
+          "height": 207.36
+        },
         "nativePixels": {
           "width": 1620,
           "height": 2160
         },
         "nominalPpi": 264,
-        "ppi": null,
+        "ppi": {
+          "x": 264.5833333333333,
+          "y": 264.5833333333333
+        },
         "source": "https://support.apple.com/kb/SP849"
       },
-      "bodyMm": null,
-      "frontCamera": null,
+      "bodyMm": {
+        "width": 174.08,
+        "height": 250.59,
+        "depth": 7.5
+      },
+      "coverGlassMm": null,
+      "additionalDimensions": [],
+      "frontCamera": {
+        "x": 0,
+        "y": 114.225,
+        "convention": "portrait body centre; +x right, +y up; millimetres",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+        "page": 2
+      },
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Front camera is 87.04 from right edge and 11.07 below top: x=174.08/2-87.04=0; y=250.59/2-11.07=114.225. 11.03 is ALS, not camera. Thickness is shown in side view on page 2.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+        "page": 2,
+        "bodyDepthPage": 2,
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
@@ -68208,20 +68472,42 @@
         "iPad15,8"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 158.94,
+          "height": 228.06
+        },
         "nativePixels": {
           "width": 1640,
           "height": 2360
         },
         "nominalPpi": 264,
-        "ppi": null,
+        "ppi": {
+          "x": 262.0863218824714,
+          "y": 262.843111461896
+        },
         "source": "https://support.apple.com/122240"
       },
-      "bodyMm": null,
-      "frontCamera": null,
+      "bodyMm": {
+        "width": 179.51,
+        "height": 248.63,
+        "depth": 7.03
+      },
+      "coverGlassMm": null,
+      "additionalDimensions": [],
+      "frontCamera": {
+        "x": 84.515,
+        "y": -0.005,
+        "convention": "portrait body centre; +x right, +y up; millimetres",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf",
+        "page": 2
+      },
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Front camera is the upper point in the three-point stack (detail J), 5.24 from right edge and 124.31 from bottom: x=179.51/2-5.24=84.515; y=124.31-248.63/2=-0.005. The other heights 117.56 and 111.15 belong to microphone/ALS. The 0.005 mm residual is retained from printed dimensions.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf",
+        "page": 2,
+        "bodyDepthPage": 2,
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf",
@@ -71365,6 +71651,8 @@
         "source": "https://support.apple.com/kb/SP692"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -71380,20 +71668,42 @@
         "iPad14,9"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 158.44,
+          "height": 227.56
+        },
         "nativePixels": {
           "width": 1640,
           "height": 2360
         },
         "nominalPpi": 264,
-        "ppi": null,
+        "ppi": {
+          "x": 262.9134057056299,
+          "y": 263.420636315697
+        },
         "source": "https://support.apple.com/119894"
       },
-      "bodyMm": null,
-      "frontCamera": null,
+      "bodyMm": {
+        "width": 178.52,
+        "height": 247.64,
+        "depth": 6.123
+      },
+      "coverGlassMm": null,
+      "additionalDimensions": [],
+      "frontCamera": {
+        "x": 84.77,
+        "y": 9.5,
+        "convention": "portrait body centre; +x right, +y up; millimetres",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m2.pdf",
+        "page": 2
+      },
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. FC centre is 4.49 from right edge (detail AL), 114.32 from top: x=178.52/2-4.49=84.77; y=247.64/2-114.32=9.50. Other right-edge points are microphone and ALS.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m2.pdf",
+        "page": 2,
+        "bodyDepthPage": 3,
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m2.pdf",
@@ -75113,11 +75423,27 @@
         },
         "source": "https://support.apple.com/122241"
       },
-      "bodyMm": null,
-      "frontCamera": null,
+      "bodyMm": {
+        "width": 178.52,
+        "height": 247.64,
+        "depth": 6.123
+      },
+      "coverGlassMm": null,
+      "additionalDimensions": [],
+      "frontCamera": {
+        "x": 84.77,
+        "y": 9.5,
+        "convention": "portrait body centre; +x right, +y up; millimetres",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m3.pdf",
+        "page": 2
+      },
       "review": {
-        "status": "display-label-reviewed",
-        "derivation": "Sheet 1 numerical PDF text gives DISPLAY ACTIVE AREA dimensions 158.44 × 227.56 mm; no body or camera centre inferred."
+        "status": "drawing-reviewed",
+        "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. FC centre is 4.49 from right edge (detail AL), 114.32 from top: x=178.52/2-4.49=84.77; y=247.64/2-114.32=9.50. Other right-edge points are microphone and ALS.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m3.pdf",
+        "page": 2,
+        "bodyDepthPage": 3,
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m3.pdf",
@@ -80631,20 +80957,42 @@
         "iPad16,9"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 158.44,
+          "height": 227.56
+        },
         "nativePixels": {
           "width": 1640,
           "height": 2360
         },
         "nominalPpi": 264,
-        "ppi": null,
+        "ppi": {
+          "x": 262.9134057056299,
+          "y": 263.420636315697
+        },
         "source": "https://support.apple.com/126471"
       },
-      "bodyMm": null,
-      "frontCamera": null,
+      "bodyMm": {
+        "width": 178.52,
+        "height": 247.64,
+        "depth": 6.123
+      },
+      "coverGlassMm": null,
+      "additionalDimensions": [],
+      "frontCamera": {
+        "x": 84.77,
+        "y": 9.5,
+        "convention": "portrait body centre; +x right, +y up; millimetres",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "page": 2
+      },
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. FC centre is 4.49 from right edge (detail AL), 114.32 from top: x=178.52/2-4.49=84.77; y=247.64/2-114.32=9.50. Other right-edge points are microphone and ALS.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "page": 2,
+        "bodyDepthPage": 3,
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
@@ -84349,20 +84697,42 @@
         "iPad14,11"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 197.61,
+          "height": 263.27
+        },
         "nativePixels": {
           "width": 2048,
           "height": 2732
         },
         "nominalPpi": 264,
-        "ppi": null,
+        "ppi": {
+          "x": 263.2417387784019,
+          "y": 263.5803547688685
+        },
         "source": "https://support.apple.com/119893"
       },
-      "bodyMm": null,
-      "frontCamera": null,
+      "bodyMm": {
+        "width": 215,
+        "height": 280.66,
+        "depth": 6.123
+      },
+      "coverGlassMm": null,
+      "additionalDimensions": [],
+      "frontCamera": {
+        "x": 103.28,
+        "y": 9.5,
+        "convention": "portrait body centre; +x right, +y up; millimetres",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m2.pdf",
+        "page": 2
+      },
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Front camera centre is 4.22 from right edge and 9.50 above horizontal body centreline: x=215/2-4.22=103.28; y=+9.50. The microphone is below the centreline; ALS dimensions are distinct.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m2.pdf",
+        "page": 2,
+        "bodyDepthPage": 3,
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m2.pdf",
@@ -89339,11 +89709,27 @@
         },
         "source": "https://support.apple.com/122242"
       },
-      "bodyMm": null,
-      "frontCamera": null,
+      "bodyMm": {
+        "width": 215,
+        "height": 280.66,
+        "depth": 6.123
+      },
+      "coverGlassMm": null,
+      "additionalDimensions": [],
+      "frontCamera": {
+        "x": 103.28,
+        "y": 9.5,
+        "convention": "portrait body centre; +x right, +y up; millimetres",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m3.pdf",
+        "page": 2
+      },
       "review": {
-        "status": "display-label-reviewed",
-        "derivation": "Sheet 1 numerical PDF text gives DISPLAY ACTIVE AREA dimensions 197.61 × 263.27 mm; no body or camera centre inferred."
+        "status": "drawing-reviewed",
+        "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Front camera centre is 4.22 from right edge and 9.50 above horizontal body centreline: x=215/2-4.22=103.28; y=+9.50. The microphone is below the centreline; ALS dimensions are distinct.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m3.pdf",
+        "page": 2,
+        "bodyDepthPage": 3,
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m3.pdf",
@@ -95021,20 +95407,42 @@
         "iPad16,11"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 197.61,
+          "height": 263.27
+        },
         "nativePixels": {
           "width": 2048,
           "height": 2732
         },
         "nominalPpi": 264,
-        "ppi": null,
+        "ppi": {
+          "x": 263.2417387784019,
+          "y": 263.5803547688685
+        },
         "source": "https://support.apple.com/126472"
       },
-      "bodyMm": null,
-      "frontCamera": null,
+      "bodyMm": {
+        "width": 215,
+        "height": 280.66,
+        "depth": 6.123
+      },
+      "coverGlassMm": null,
+      "additionalDimensions": [],
+      "frontCamera": {
+        "x": 103.28,
+        "y": 9.5,
+        "convention": "portrait body centre; +x right, +y up; millimetres",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "page": 2
+      },
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Front camera centre is 4.22 from right edge and 9.50 above horizontal body centreline: x=215/2-4.22=103.28; y=+9.50. The microphone is below the centreline; ALS dimensions are distinct.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "page": 2,
+        "bodyDepthPage": 3,
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
@@ -100005,6 +100413,8 @@
         "source": "https://support.apple.com/kb/SP708"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -100030,6 +100440,8 @@
         "source": "https://support.apple.com/kb/SP787"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -100045,20 +100457,42 @@
         "iPad13,2"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 158.44,
+          "height": 227.56
+        },
         "nativePixels": {
           "width": 1640,
           "height": 2360
         },
         "nominalPpi": 264,
-        "ppi": null,
+        "ppi": {
+          "x": 262.9134057056299,
+          "y": 263.420636315697
+        },
         "source": "https://support.apple.com/kb/SP828"
       },
-      "bodyMm": null,
-      "frontCamera": null,
+      "bodyMm": {
+        "width": 178.51,
+        "height": 247.64,
+        "depth": 6.123
+      },
+      "coverGlassMm": null,
+      "additionalDimensions": [],
+      "frontCamera": {
+        "x": -0.005,
+        "y": 118.82,
+        "convention": "portrait body centre; +x right, +y up; millimetres",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf",
+        "page": 2
+      },
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Front camera is 89.26 from right edge, 5.00 below top (detail B): x=178.51/2-89.26; y=247.64/2-5.00=118.82. The resulting 0.005 mm horizontal residual is retained from printed dimensions, not an inferred real offset.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf",
+        "page": 2,
+        "bodyDepthPage": 3,
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf",
@@ -102603,20 +103037,42 @@
         "iPad13,17"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 158.44,
+          "height": 227.56
+        },
         "nativePixels": {
           "width": 1640,
           "height": 2360
         },
         "nominalPpi": 264,
-        "ppi": null,
+        "ppi": {
+          "x": 262.9134057056299,
+          "y": 263.420636315697
+        },
         "source": "https://support.apple.com/kb/SP866"
       },
-      "bodyMm": null,
-      "frontCamera": null,
+      "bodyMm": {
+        "width": 178.51,
+        "height": 247.64,
+        "depth": 6.123
+      },
+      "coverGlassMm": null,
+      "additionalDimensions": [],
+      "frontCamera": {
+        "x": 0.005,
+        "y": 118.82,
+        "convention": "portrait body centre; +x right, +y up; millimetres",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf",
+        "page": 2
+      },
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Front camera is 89.25 from right edge, 5.00 below top (detail B): x=178.51/2-89.25; y=247.64/2-5.00=118.82. The resulting 0.005 mm horizontal residual is retained from printed dimensions, not an inferred real offset.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf",
+        "page": 2,
+        "bodyDepthPage": 3,
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf",
@@ -105545,6 +106001,8 @@
         "source": "https://support.apple.com/kb/SP661"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -105571,6 +106029,8 @@
         "source": "https://support.apple.com/kb/SP693"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -105597,6 +106057,8 @@
         "source": "https://support.apple.com/kb/SP709"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -105622,6 +106084,8 @@
         "source": "https://support.apple.com/kb/SP725"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -105647,6 +106111,8 @@
         "source": "https://support.apple.com/kb/SP788"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -105662,20 +106128,36 @@
         "iPad14,2"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 117.06,
+          "height": 177.75
+        },
         "nativePixels": {
           "width": 1488,
           "height": 2266
         },
         "nominalPpi": 326,
-        "ppi": null,
+        "ppi": {
+          "x": 322.8703229113275,
+          "y": 323.8053445850914
+        },
         "source": "https://support.apple.com/kb/SP850"
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 134.75,
+        "height": 195.43,
+        "depth": 6.32
+      },
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "display-and-body-reviewed",
+        "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Camera horizontal location is explicitly 67.37 from left edge, but the nearby 4.38 vertical annotation is labelled ALS CELL ONLY. Camera vertical centre is not independently dimensioned unambiguously on reviewed front sheet; do not promote its visual alignment with the ALS to a camera coordinate. A second visual pass reviewed every technical sheet (PDF pages 2–7), including magnified front view, magnets/sensors, antenna and profile detail. No independent camera Y datum was found.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf",
+        "page": 2,
+        "bodyDepthPage": 3,
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf",
@@ -108075,20 +108557,36 @@
         "iPad16,2"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 117.06,
+          "height": 177.75
+        },
         "nativePixels": {
           "width": 1488,
           "height": 2266
         },
         "nominalPpi": 326,
-        "ppi": null,
+        "ppi": {
+          "x": 322.8703229113275,
+          "y": 323.8053445850914
+        },
         "source": "https://support.apple.com/en-us/121456"
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 134.75,
+        "height": 195.43,
+        "depth": 6.32
+      },
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "display-and-body-reviewed",
+        "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Camera horizontal location is explicitly 67.37 from left edge, but the nearby 4.38 vertical annotation is labelled ALS CELL ONLY. Camera vertical centre is not independently dimensioned unambiguously on reviewed front sheet; do not promote its visual alignment with the ALS to a camera coordinate. A second visual pass reviewed every technical sheet (PDF pages 2–7), including magnified front view, magnets/sensors, antenna and profile detail. No independent camera Y datum was found.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf",
+        "page": 2,
+        "bodyDepthPage": 3,
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf",
@@ -110996,6 +111494,8 @@
         "source": "https://support.apple.com/kb/SP762"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -111023,6 +111523,8 @@
         "source": "https://support.apple.com/kb/SP784"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -111048,6 +111550,8 @@
         "source": "https://support.apple.com/kb/SP814"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -111065,20 +111569,42 @@
         "iPad13,7"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 161.13,
+          "height": 230.25
+        },
         "nativePixels": {
           "width": 1668,
           "height": 2388
         },
         "nominalPpi": 264,
-        "ppi": null,
+        "ppi": {
+          "x": 262.93800037237014,
+          "y": 263.4319218241042
+        },
         "source": "https://support.apple.com/kb/SP843"
       },
-      "bodyMm": null,
-      "frontCamera": null,
+      "bodyMm": {
+        "width": 178.52,
+        "height": 247.64,
+        "depth": 5.953
+      },
+      "coverGlassMm": null,
+      "additionalDimensions": [],
+      "frontCamera": {
+        "x": 0,
+        "y": 119.69,
+        "convention": "portrait body centre; +x right, +y up; millimetres",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-3rd-generation.pdf",
+        "page": 2
+      },
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Detail J identifies the middle large aperture as front camera, at 89.26 from left edge and 4.13 below top: x=89.26-178.52/2=0; y=247.64/2-4.13=119.69. IR camera, flood illuminator and dot projector use the separate 4.22 height.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-3rd-generation.pdf",
+        "page": 2,
+        "bodyDepthPage": 3,
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-3rd-generation.pdf",
@@ -114856,20 +115382,42 @@
         "iPad14,4"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 161.13,
+          "height": 230.25
+        },
         "nativePixels": {
           "width": 1668,
           "height": 2388
         },
         "nominalPpi": 264,
-        "ppi": null,
+        "ppi": {
+          "x": 262.93800037237014,
+          "y": 263.4319218241042
+        },
         "source": "https://support.apple.com/kb/SP882"
       },
-      "bodyMm": null,
-      "frontCamera": null,
+      "bodyMm": {
+        "width": 178.52,
+        "height": 247.64,
+        "depth": 5.953
+      },
+      "coverGlassMm": null,
+      "additionalDimensions": [],
+      "frontCamera": {
+        "x": 0,
+        "y": 119.69,
+        "convention": "portrait body centre; +x right, +y up; millimetres",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-4th-generation.pdf",
+        "page": 2
+      },
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Detail J identifies the middle large aperture as front camera, at 89.26 from left edge and 4.13 below top: x=89.26-178.52/2=0; y=247.64/2-4.13=119.69. IR camera, flood illuminator and dot projector use the separate 4.22 height.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-4th-generation.pdf",
+        "page": 2,
+        "bodyDepthPage": 3,
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-4th-generation.pdf",
@@ -118747,8 +119295,11 @@
       },
       "bodyMm": {
         "width": 177.51,
-        "height": 249.7
+        "height": 249.7,
+        "depth": 5.268
       },
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": {
         "x": 84.045,
         "y": 8.65,
@@ -118758,7 +119309,11 @@
       },
       "review": {
         "status": "drawing-reviewed",
-        "derivation": "Body 177.51 x 249.70 mm; FCAM center is 4.71 mm from right edge and 116.20 mm from top. x=177.51/2-4.71; y=249.70/2-116.20. 103.65 and 110.90 locate the illuminator/projector capsule, not FCAM."
+        "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. FCAM is 4.71 from right edge, 116.20 below top: x=177.51/2-4.71=84.045; y=249.70/2-116.20=8.65. Detail F distinguishes FCAM from IR camera and illuminator/projector capsule; 103.65 and 110.90 locate capsule, not FCAM.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "page": 2,
+        "bodyDepthPage": 3,
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
@@ -125399,20 +125954,42 @@
         "iPad17,2"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 160.13,
+          "height": 232.32
+        },
         "nativePixels": {
           "width": 1668,
           "height": 2420
         },
         "nominalPpi": 264,
-        "ppi": null,
+        "ppi": {
+          "x": 264.5800287266596,
+          "y": 264.5833333333333
+        },
         "source": "https://support.apple.com/en-us/125406"
       },
-      "bodyMm": null,
-      "frontCamera": null,
+      "bodyMm": {
+        "width": 177.51,
+        "height": 249.7,
+        "depth": 5.268
+      },
+      "coverGlassMm": null,
+      "additionalDimensions": [],
+      "frontCamera": {
+        "x": 84.045,
+        "y": 8.65,
+        "convention": "portrait body centre; +x right, +y up; millimetres",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "page": 2
+      },
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. FCAM is 4.71 from right edge, 116.20 below top: x=177.51/2-4.71=84.045; y=249.70/2-116.20=8.65. Detail F distinguishes FCAM from IR camera and illuminator/projector capsule; 103.65 and 110.90 locate capsule, not FCAM.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "page": 2,
+        "bodyDepthPage": 3,
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
@@ -130735,6 +131312,8 @@
         "source": "https://support.apple.com/kb/SP723"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -130760,6 +131339,8 @@
         "source": "https://support.apple.com/kb/SP761"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -130787,6 +131368,8 @@
         "source": "https://support.apple.com/kb/SP785"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -130812,6 +131395,8 @@
         "source": "https://support.apple.com/kb/SP815"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -130829,20 +131414,42 @@
         "iPad13,9"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 196.61,
+          "height": 262.27
+        },
         "nativePixels": {
           "width": 2048,
           "height": 2732
         },
         "nominalPpi": 264,
-        "ppi": null,
+        "ppi": {
+          "x": 264.58064187986366,
+          "y": 264.58535097418695
+        },
         "source": "https://support.apple.com/kb/SP844"
       },
-      "bodyMm": null,
-      "frontCamera": null,
+      "bodyMm": {
+        "width": 215,
+        "height": 280.66,
+        "depth": 6.44
+      },
+      "coverGlassMm": null,
+      "additionalDimensions": [],
+      "frontCamera": {
+        "x": 0,
+        "y": 136.2,
+        "convention": "portrait body centre; +x right, +y up; millimetres",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-12.9-inch-5th-generation.pdf",
+        "page": 2
+      },
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Detail K identifies the middle large aperture as front camera, at 107.50 from left edge and 4.13 below top: x=107.50-215/2=0; y=280.66/2-4.13=136.20. IR camera, flood illuminator and dot projector use the separate 4.22 height.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-12.9-inch-5th-generation.pdf",
+        "page": 2,
+        "bodyDepthPage": 3,
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-12.9-inch-5th-generation.pdf",
@@ -134459,20 +135066,42 @@
         "iPad14,6"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 196.61,
+          "height": 262.27
+        },
         "nativePixels": {
           "width": 2048,
           "height": 2732
         },
         "nominalPpi": 264,
-        "ppi": null,
+        "ppi": {
+          "x": 264.58064187986366,
+          "y": 264.58535097418695
+        },
         "source": "https://support.apple.com/kb/SP883"
       },
-      "bodyMm": null,
-      "frontCamera": null,
+      "bodyMm": {
+        "width": 215,
+        "height": 280.66,
+        "depth": 6.44
+      },
+      "coverGlassMm": null,
+      "additionalDimensions": [],
+      "frontCamera": {
+        "x": 0,
+        "y": 136.2,
+        "convention": "portrait body centre; +x right, +y up; millimetres",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-12.9-inch-6th-generation.pdf",
+        "page": 2
+      },
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Detail K identifies the middle large aperture as front camera, at 107.50 from left edge and 4.13 below top: x=107.50-215/2=0; y=280.66/2-4.13=136.20. IR camera, flood illuminator and dot projector use the separate 4.22 height.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-12.9-inch-6th-generation.pdf",
+        "page": 2,
+        "bodyDepthPage": 3,
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-12.9-inch-6th-generation.pdf",
@@ -138360,8 +138989,11 @@
       },
       "bodyMm": {
         "width": 215.53,
-        "height": 281.58
+        "height": 281.58,
+        "depth": 5.125
       },
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": {
         "x": 103.055,
         "y": 8.65,
@@ -138371,7 +139003,11 @@
       },
       "review": {
         "status": "drawing-reviewed",
-        "derivation": "Body 215.53 x 281.58 mm; FCAM center is 4.71 mm from right edge and 132.14 mm from top. x=215.53/2-4.71; y=281.58/2-132.14. 119.79 and 126.64 locate the illuminator/projector capsule, not FCAM."
+        "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. FCAM is 4.71 from right edge, 132.14 below top: x=215.53/2-4.71=103.055; y=281.58/2-132.14=8.65. Detail F distinguishes FCAM from IR camera and illuminator/projector capsule; 119.79 and 126.64 locate capsule, not FCAM.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "page": 2,
+        "bodyDepthPage": 3,
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
@@ -142738,20 +143374,42 @@
         "iPad17,4"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 199.14,
+          "height": 265.19
+        },
         "nativePixels": {
           "width": 2064,
           "height": 2752
         },
         "nominalPpi": 264,
-        "ppi": null,
+        "ppi": {
+          "x": 263.2600180777343,
+          "y": 263.58761642595874
+        },
         "source": "https://support.apple.com/en-us/125407"
       },
-      "bodyMm": null,
-      "frontCamera": null,
+      "bodyMm": {
+        "width": 215.53,
+        "height": 281.58,
+        "depth": 5.125
+      },
+      "coverGlassMm": null,
+      "additionalDimensions": [],
+      "frontCamera": {
+        "x": 103.055,
+        "y": 8.65,
+        "convention": "portrait body centre; +x right, +y up; millimetres",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "page": 2
+      },
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "drawing-reviewed",
+        "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. FCAM is 4.71 from right edge, 132.14 below top: x=215.53/2-4.71=103.055; y=281.58/2-132.14=8.65. Detail F distinguishes FCAM from IR camera and illuminator/projector capsule; 119.79 and 126.64 locate capsule, not FCAM.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "page": 2,
+        "bodyDepthPage": 3,
+        "scope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
@@ -147128,6 +147786,8 @@
         "source": "https://support.apple.com/kb/SP739"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -147149,6 +147809,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -147173,6 +147835,8 @@
         "source": "https://support.apple.com/kb/SP804"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -147197,6 +147861,8 @@
         "source": "https://support.apple.com/kb/SP805"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -147221,6 +147887,8 @@
         "source": "https://support.apple.com/kb/SP806"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -147235,20 +147903,39 @@
         "iPhone13,2"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 64.58,
+          "height": 139.77
+        },
         "nativePixels": {
           "width": 1170,
           "height": 2532
         },
         "nominalPpi": 460,
-        "ppi": null,
+        "ppi": {
+          "x": 460.1734283059771,
+          "y": 460.133075767332
+        },
         "source": "https://support.apple.com/kb/SP830"
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 71.52,
+        "height": 146.71,
+        "depth": 7.39
+      },
+      "coverGlassMm": {
+        "width": 69.42,
+        "height": 144.61
+      },
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "display-body-image-reviewed",
+        "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-12.pdf",
+        "page": 2,
+        "bodyDepthPage": 2,
+        "scope": "Display/body/glass and explicitly located camera only; other features remain in raw annotations."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-12.pdf",
@@ -148653,20 +149340,39 @@
         "iPhone13,1"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 57.67,
+          "height": 124.96
+        },
         "nativePixels": {
           "width": 1080,
           "height": 2340
         },
         "nominalPpi": 476,
-        "ppi": null,
+        "ppi": {
+          "x": 475.6719264782382,
+          "y": 475.640204865557
+        },
         "source": "https://support.apple.com/kb/SP829"
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 64.21,
+        "height": 131.5,
+        "depth": 7.39
+      },
+      "coverGlassMm": {
+        "width": 62.11,
+        "height": 129.4
+      },
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "display-body-image-reviewed",
+        "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-12-mini.pdf",
+        "page": 2,
+        "bodyDepthPage": 2,
+        "scope": "Display/body/glass and explicitly located camera only; other features remain in raw annotations."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-12-mini.pdf",
@@ -150620,20 +151326,39 @@
         "iPhone13,3"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 64.58,
+          "height": 139.77
+        },
         "nativePixels": {
           "width": 1170,
           "height": 2532
         },
         "nominalPpi": 460,
-        "ppi": null,
+        "ppi": {
+          "x": 460.1734283059771,
+          "y": 460.133075767332
+        },
         "source": "https://support.apple.com/kb/SP831"
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 71.52,
+        "height": 146.71,
+        "depth": 7.39
+      },
+      "coverGlassMm": {
+        "width": 69.42,
+        "height": 144.61
+      },
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "display-body-image-reviewed",
+        "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-12-pro.pdf",
+        "page": 2,
+        "bodyDepthPage": 2,
+        "scope": "Display/body/glass and explicitly located camera only; other features remain in raw annotations."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-12-pro.pdf",
@@ -152274,20 +152999,39 @@
         "iPhone13,4"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 71.13,
+          "height": 153.9
+        },
         "nativePixels": {
           "width": 1284,
           "height": 2778
         },
         "nominalPpi": 458,
-        "ppi": null,
+        "ppi": {
+          "x": 458.506959088992,
+          "y": 458.4873294346978
+        },
         "source": "https://support.apple.com/kb/SP832"
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 78.07,
+        "height": 160.84,
+        "depth": 7.39
+      },
+      "coverGlassMm": {
+        "width": 75.97,
+        "height": 158.74
+      },
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "display-body-image-reviewed",
+        "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-12-pro-max.pdf",
+        "page": 2,
+        "bodyDepthPage": 2,
+        "scope": "Display/body/glass and explicitly located camera only; other features remain in raw annotations."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-12-pro-max.pdf",
@@ -153678,20 +154422,39 @@
         "iPhone14,5"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 64.58,
+          "height": 139.77
+        },
         "nativePixels": {
           "width": 1170,
           "height": 2532
         },
         "nominalPpi": 460,
-        "ppi": null,
+        "ppi": {
+          "x": 460.1734283059771,
+          "y": 460.133075767332
+        },
         "source": "https://support.apple.com/kb/SP851"
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 71.52,
+        "height": 146.7,
+        "depth": 7.65
+      },
+      "coverGlassMm": {
+        "width": 69.42,
+        "height": 144.61
+      },
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "display-body-image-reviewed",
+        "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-13.pdf",
+        "page": 2,
+        "bodyDepthPage": 2,
+        "scope": "Display/body/glass and explicitly located camera only; other features remain in raw annotations."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-13.pdf",
@@ -156153,20 +156916,39 @@
         "iPhone14,4"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 57.67,
+          "height": 124.96
+        },
         "nativePixels": {
           "width": 1080,
           "height": 2340
         },
         "nominalPpi": 476,
-        "ppi": null,
+        "ppi": {
+          "x": 475.6719264782382,
+          "y": 475.640204865557
+        },
         "source": "https://support.apple.com/kb/SP847"
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 64.21,
+        "height": 131.5,
+        "depth": 7.65
+      },
+      "coverGlassMm": {
+        "width": 62.11,
+        "height": 129.4
+      },
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "display-body-image-reviewed",
+        "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-13-mini.pdf",
+        "page": 2,
+        "bodyDepthPage": 2,
+        "scope": "Display/body/glass and explicitly located camera only; other features remain in raw annotations."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-13-mini.pdf",
@@ -158692,20 +159474,39 @@
         "iPhone14,2"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 64.58,
+          "height": 139.77
+        },
         "nativePixels": {
           "width": 1170,
           "height": 2532
         },
         "nominalPpi": 460,
-        "ppi": null,
+        "ppi": {
+          "x": 460.1734283059771,
+          "y": 460.133075767332
+        },
         "source": "https://support.apple.com/kb/SP852"
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 71.52,
+        "height": 146.71,
+        "depth": 7.65
+      },
+      "coverGlassMm": {
+        "width": 69.42,
+        "height": 144.61
+      },
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "display-body-image-reviewed",
+        "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-13-pro.pdf",
+        "page": 2,
+        "bodyDepthPage": 2,
+        "scope": "Display/body/glass and explicitly located camera only; other features remain in raw annotations."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-13-pro.pdf",
@@ -161175,20 +161976,39 @@
         "iPhone14,3"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 71.13,
+          "height": 153.9
+        },
         "nativePixels": {
           "width": 1284,
           "height": 2778
         },
         "nominalPpi": 458,
-        "ppi": null,
+        "ppi": {
+          "x": 458.506959088992,
+          "y": 458.4873294346978
+        },
         "source": "https://support.apple.com/kb/SP848"
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 78.07,
+        "height": 160.84,
+        "depth": 7.65
+      },
+      "coverGlassMm": {
+        "width": 75.97,
+        "height": 158.74
+      },
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "display-body-image-reviewed",
+        "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-13-pro-max.pdf",
+        "page": 2,
+        "bodyDepthPage": 2,
+        "scope": "Display/body/glass and explicitly located camera only; other features remain in raw annotations."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-13-pro-max.pdf",
@@ -163599,20 +164419,39 @@
         "iPhone14,7"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 64.58,
+          "height": 139.77
+        },
         "nativePixels": {
           "width": 1170,
           "height": 2532
         },
         "nominalPpi": 460,
-        "ppi": null,
+        "ppi": {
+          "x": 460.1734283059771,
+          "y": 460.133075767332
+        },
         "source": "https://support.apple.com/kb/SP873"
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 71.52,
+        "height": 146.71,
+        "depth": 7.8
+      },
+      "coverGlassMm": {
+        "width": 69.42,
+        "height": 144.61
+      },
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "display-body-image-reviewed",
+        "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-14.pdf",
+        "page": 2,
+        "bodyDepthPage": 2,
+        "scope": "Display/body/glass and explicitly located camera only; other features remain in raw annotations."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-14.pdf",
@@ -166067,20 +166906,39 @@
         "iPhone14,8"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 71.13,
+          "height": 153.9
+        },
         "nativePixels": {
           "width": 1284,
           "height": 2778
         },
         "nominalPpi": 458,
-        "ppi": null,
+        "ppi": {
+          "x": 458.506959088992,
+          "y": 458.4873294346978
+        },
         "source": "https://support.apple.com/kb/SP874"
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 78.07,
+        "height": 160.84,
+        "depth": 7.8
+      },
+      "coverGlassMm": {
+        "width": 75.97,
+        "height": 158.74
+      },
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "display-body-image-reviewed",
+        "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-14-plus.pdf",
+        "page": 2,
+        "bodyDepthPage": 2,
+        "scope": "Display/body/glass and explicitly located camera only; other features remain in raw annotations."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-14-plus.pdf",
@@ -168447,20 +169305,39 @@
         "iPhone15,2"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 65.08,
+          "height": 141.09
+        },
         "nativePixels": {
           "width": 1179,
           "height": 2556
         },
         "nominalPpi": 460,
-        "ppi": null,
+        "ppi": {
+          "x": 460.15058389674243,
+          "y": 460.14884116521364
+        },
         "source": "https://support.apple.com/kb/SP875"
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 71.45,
+        "height": 147.46,
+        "depth": 7.85
+      },
+      "coverGlassMm": {
+        "width": 69.35,
+        "height": 145.36
+      },
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "display-body-image-reviewed",
+        "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-14-pro.pdf",
+        "page": 2,
+        "bodyDepthPage": 2,
+        "scope": "Display/body/glass and explicitly located camera only; other features remain in raw annotations."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-14-pro.pdf",
@@ -171067,20 +171944,39 @@
         "iPhone15,3"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 71.21,
+          "height": 154.34
+        },
         "nativePixels": {
           "width": 1290,
           "height": 2796
         },
         "nominalPpi": 460,
-        "ppi": null,
+        "ppi": {
+          "x": 460.13200393203203,
+          "y": 460.1425424387715
+        },
         "source": "https://support.apple.com/kb/SP876"
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 77.58,
+        "height": 160.71,
+        "depth": 7.85
+      },
+      "coverGlassMm": {
+        "width": 75.48,
+        "height": 158.61
+      },
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "display-body-image-reviewed",
+        "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-14-pro-max.pdf",
+        "page": 2,
+        "bodyDepthPage": 2,
+        "scope": "Display/body/glass and explicitly located camera only; other features remain in raw annotations."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-14-pro-max.pdf",
@@ -173449,20 +174345,39 @@
         "iPhone15,4"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 65.08,
+          "height": 141.09
+        },
         "nativePixels": {
           "width": 1179,
           "height": 2556
         },
         "nominalPpi": 460,
-        "ppi": null,
+        "ppi": {
+          "x": 460.15058389674243,
+          "y": 460.14884116521364
+        },
         "source": "https://support.apple.com/kb/SP901"
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 71.63,
+        "height": 147.64,
+        "depth": 7.81
+      },
+      "coverGlassMm": {
+        "width": 69.63,
+        "height": 145.64
+      },
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "display-body-image-reviewed",
+        "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-15.pdf",
+        "page": 2,
+        "bodyDepthPage": 2,
+        "scope": "Display/body/glass and explicitly located camera only; other features remain in raw annotations."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-15.pdf",
@@ -175873,20 +176788,39 @@
         "iPhone15,5"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 71.21,
+          "height": 154.34
+        },
         "nativePixels": {
           "width": 1290,
           "height": 2796
         },
         "nominalPpi": 460,
-        "ppi": null,
+        "ppi": {
+          "x": 460.13200393203203,
+          "y": 460.1425424387715
+        },
         "source": "https://support.apple.com/kb/SP902"
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 77.76,
+        "height": 160.89,
+        "depth": 7.81
+      },
+      "coverGlassMm": {
+        "width": 75.76,
+        "height": 158.89
+      },
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "display-body-image-reviewed",
+        "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-15-plus.pdf",
+        "page": 2,
+        "bodyDepthPage": 2,
+        "scope": "Display/body/glass and explicitly located camera only; other features remain in raw annotations."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-15-plus.pdf",
@@ -178427,20 +179361,39 @@
         "iPhone16,1"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 65.08,
+          "height": 141.09
+        },
         "nativePixels": {
           "width": 1179,
           "height": 2556
         },
         "nominalPpi": 460,
-        "ppi": null,
+        "ppi": {
+          "x": 460.15058389674243,
+          "y": 460.14884116521364
+        },
         "source": "https://support.apple.com/kb/SP903"
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 70.6,
+        "height": 146.61,
+        "depth": 8.25
+      },
+      "coverGlassMm": {
+        "width": 68.6,
+        "height": 144.61
+      },
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "display-body-image-reviewed",
+        "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-15-pro.pdf",
+        "page": 2,
+        "bodyDepthPage": 2,
+        "scope": "Display/body/glass and explicitly located camera only; other features remain in raw annotations."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-15-pro.pdf",
@@ -181254,12 +182207,22 @@
       },
       "bodyMm": {
         "width": 76.73,
-        "height": 159.86
+        "height": 159.86,
+        "depth": 8.25
       },
+      "coverGlassMm": {
+        "width": 74.73,
+        "height": 157.86
+      },
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
-        "status": "display-reviewed",
-        "derivation": "Sheet 1 gives active display 71.21 x 154.34 mm and body 76.73 x 159.86 mm. Sheet 2 specifies a shared front sensor keepout region, not an individual optical center; frontCameraPortraitMm remains unverified."
+        "status": "display-body-image-reviewed",
+        "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-15-pro-max.pdf",
+        "page": 2,
+        "bodyDepthPage": 2,
+        "scope": "Display/body/glass and explicitly located camera only; other features remain in raw annotations."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-15-pro-max.pdf",
@@ -184107,11 +185070,24 @@
         },
         "source": "https://support.apple.com/121029"
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 71.63,
+        "height": 147.64,
+        "depth": 7.81
+      },
+      "coverGlassMm": {
+        "width": 69.63,
+        "height": 145.64
+      },
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
-        "status": "display-label-reviewed",
-        "derivation": "Sheet 1 numerical PDF text gives DISPLAY ACTIVE AREA dimensions 65.08 × 141.09 mm; no body or camera centre inferred."
+        "status": "display-body-image-reviewed",
+        "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-16.pdf",
+        "page": 2,
+        "bodyDepthPage": 2,
+        "scope": "Display/body/glass and explicitly located camera only; other features remain in raw annotations."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-16.pdf",
@@ -188165,20 +189141,39 @@
         "iPhone17,4"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 71.21,
+          "height": 154.34
+        },
         "nativePixels": {
           "width": 1290,
           "height": 2796
         },
         "nominalPpi": 460,
-        "ppi": null,
+        "ppi": {
+          "x": 460.13200393203203,
+          "y": 460.1425424387715
+        },
         "source": "https://support.apple.com/121030"
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 77.76,
+        "height": 160.89,
+        "depth": 7.81
+      },
+      "coverGlassMm": {
+        "width": 75.76,
+        "height": 158.89
+      },
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "display-body-image-reviewed",
+        "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-16-plus.pdf",
+        "page": 2,
+        "bodyDepthPage": 2,
+        "scope": "Display/body/glass and explicitly located camera only; other features remain in raw annotations."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-16-plus.pdf",
@@ -190651,11 +191646,24 @@
         },
         "source": "https://support.apple.com/121031"
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 71.45,
+        "height": 149.61,
+        "depth": 8.25
+      },
+      "coverGlassMm": {
+        "width": 69.45,
+        "height": 147.61
+      },
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
-        "status": "display-label-reviewed",
-        "derivation": "Sheet 1 numerical PDF text gives DISPLAY ACTIVE AREA dimensions 66.57 × 144.79 mm; no body or camera centre inferred."
+        "status": "display-body-image-reviewed",
+        "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-16-pro.pdf",
+        "page": 2,
+        "bodyDepthPage": 2,
+        "scope": "Display/body/glass and explicitly located camera only; other features remain in raw annotations."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-16-pro.pdf",
@@ -195168,11 +196176,24 @@
         },
         "source": "https://support.apple.com/121032"
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 77.58,
+        "height": 163.03,
+        "depth": 8.25
+      },
+      "coverGlassMm": {
+        "width": 75.58,
+        "height": 161.03
+      },
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
-        "status": "display-label-reviewed",
-        "derivation": "Sheet 1 numerical PDF text gives DISPLAY ACTIVE AREA dimensions 72.86 × 158.31 mm; no body or camera centre inferred."
+        "status": "display-body-image-reviewed",
+        "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-16-pro-max.pdf",
+        "page": 2,
+        "bodyDepthPage": 2,
+        "scope": "Display/body/glass and explicitly located camera only; other features remain in raw annotations."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-16-pro-max.pdf",
@@ -199714,20 +200735,39 @@
         "iPhone17,5"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 64.58,
+          "height": 139.77
+        },
         "nativePixels": {
           "width": 1170,
           "height": 2532
         },
         "nominalPpi": 460,
-        "ppi": null,
+        "ppi": {
+          "x": 460.1734283059771,
+          "y": 460.133075767332
+        },
         "source": "https://support.apple.com/122208"
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 71.52,
+        "height": 146.71,
+        "depth": 7.8
+      },
+      "coverGlassMm": {
+        "width": 69.42,
+        "height": 144.61
+      },
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "display-body-image-reviewed",
+        "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-16e.pdf",
+        "page": 2,
+        "bodyDepthPage": 2,
+        "scope": "Display/body/glass and explicitly located camera only; other features remain in raw annotations."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-16e.pdf",
@@ -201922,20 +202962,39 @@
         "iPhone18,3"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 66.57,
+          "height": 144.79
+        },
         "nativePixels": {
           "width": 1206,
           "height": 2622
         },
         "nominalPpi": 460,
-        "ppi": null,
+        "ppi": {
+          "x": 460.15322217214964,
+          "y": 459.96822985012784
+        },
         "source": "https://support.apple.com/125089"
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 71.45,
+        "height": 149.61,
+        "depth": 7.95
+      },
+      "coverGlassMm": {
+        "width": 69.45,
+        "height": 147.61
+      },
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "display-body-image-reviewed",
+        "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-17.pdf",
+        "page": 2,
+        "bodyDepthPage": 2,
+        "scope": "Display/body/glass and explicitly located camera only; other features remain in raw annotations."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-17.pdf",
@@ -205312,20 +206371,39 @@
         "iPhone18,1"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 66.57,
+          "height": 144.73
+        },
         "nativePixels": {
           "width": 1206,
           "height": 2622
         },
         "nominalPpi": 460,
-        "ppi": null,
+        "ppi": {
+          "x": 460.15322217214964,
+          "y": 460.1589166033304
+        },
         "source": "https://support.apple.com/125090"
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 71.85,
+        "height": 150.01,
+        "depth": 8.75
+      },
+      "coverGlassMm": {
+        "width": 69.45,
+        "height": 147.61
+      },
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "display-body-image-reviewed",
+        "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-17-pro.pdf",
+        "page": 2,
+        "bodyDepthPage": 2,
+        "scope": "Display/body/glass and explicitly located camera only; other features remain in raw annotations."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-17-pro.pdf",
@@ -208737,20 +209815,39 @@
         "iPhone18,2"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 72.86,
+          "height": 158.31
+        },
         "nativePixels": {
           "width": 1320,
           "height": 2868
         },
         "nominalPpi": 460,
-        "ppi": null,
+        "ppi": {
+          "x": 460.17018940433707,
+          "y": 460.1553913208262
+        },
         "source": "https://support.apple.com/125091"
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 77.98,
+        "height": 163.43,
+        "depth": 8.75
+      },
+      "coverGlassMm": {
+        "width": 75.58,
+        "height": 161.03
+      },
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "display-body-image-reviewed",
+        "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-17-pro-max.pdf",
+        "page": 2,
+        "bodyDepthPage": 2,
+        "scope": "Display/body/glass and explicitly located camera only; other features remain in raw annotations."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-17-pro-max.pdf",
@@ -212141,11 +213238,24 @@
         },
         "source": "https://support.apple.com/126470"
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 71.52,
+        "height": 146.71,
+        "depth": 7.8
+      },
+      "coverGlassMm": {
+        "width": 69.42,
+        "height": 144.61
+      },
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
-        "status": "display-label-reviewed",
-        "derivation": "Sheet 1 numerical PDF text gives DISPLAY ACTIVE AREA dimensions 64.58 × 139.77 mm; no body or camera centre inferred."
+        "status": "display-body-image-reviewed",
+        "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-17e.pdf",
+        "page": 2,
+        "bodyDepthPage": 2,
+        "scope": "Display/body/glass and explicitly located camera only; other features remain in raw annotations."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-17e.pdf",
@@ -214907,6 +216017,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -214928,6 +216040,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -214954,6 +216068,8 @@
         "source": "https://support.apple.com/kb/SP587"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -214978,6 +216094,8 @@
         "source": "https://support.apple.com/kb/SP643"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -215003,6 +216121,8 @@
         "source": "https://support.apple.com/kb/SP655"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -215028,6 +216148,8 @@
         "source": "https://support.apple.com/kb/SP684"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -215053,6 +216175,8 @@
         "source": "https://support.apple.com/kb/SP685"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -215077,6 +216201,8 @@
         "source": "https://support.apple.com/kb/SP705"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -215101,6 +216227,8 @@
         "source": "https://support.apple.com/kb/SP706"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -215125,6 +216253,8 @@
         "source": "https://support.apple.com/kb/SP726"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -215149,6 +216279,8 @@
         "source": "https://support.apple.com/kb/SP727"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -215174,6 +216306,8 @@
         "source": "https://support.apple.com/kb/SP743"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -215199,6 +216333,8 @@
         "source": "https://support.apple.com/kb/SP744"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -215224,6 +216360,8 @@
         "source": "https://support.apple.com/kb/SP767"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -215249,6 +216387,8 @@
         "source": "https://support.apple.com/kb/SP768"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -215263,20 +216403,39 @@
         "iPhone18,4"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 69.55,
+          "height": 151.03
+        },
         "nativePixels": {
           "width": 1260,
           "height": 2736
         },
         "nominalPpi": 460,
-        "ppi": null,
+        "ppi": {
+          "x": 460.15815959741195,
+          "y": 460.136396742369
+        },
         "source": "https://support.apple.com/125092"
       },
-      "bodyMm": null,
+      "bodyMm": {
+        "width": 74.7,
+        "height": 156.18,
+        "depth": 5.64
+      },
+      "coverGlassMm": {
+        "width": 72.42,
+        "height": 153.9
+      },
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "display-body-image-reviewed",
+        "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-air.pdf",
+        "page": 2,
+        "bodyDepthPage": 2,
+        "scope": "Display/body/glass and explicitly located camera only; other features remain in raw annotations."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-air.pdf",
@@ -218643,6 +219802,8 @@
         "source": "https://support.apple.com/kb/SP738"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -218657,20 +219818,71 @@
         "iPhone12,8"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 58.5,
+          "height": 104.05
+        },
         "nativePixels": {
           "width": 750,
           "height": 1334
         },
         "nominalPpi": 326,
-        "ppi": null,
+        "ppi": {
+          "x": 325.64102564102564,
+          "y": 325.64728495915426
+        },
         "source": "https://support.apple.com/kb/SP820"
       },
-      "bodyMm": null,
-      "frontCamera": null,
+      "bodyMm": {
+        "width": 67.27,
+        "height": 138.44,
+        "depth": 7.31
+      },
+      "coverGlassMm": {
+        "width": 63.81,
+        "height": 134.97
+      },
+      "additionalDimensions": [
+        {
+          "feature": "front-camera-keepout",
+          "quantity": "cone-angle",
+          "value": 77.0,
+          "unit": "degree",
+          "page": 2,
+          "detail": "B",
+          "note": "Accessory keepout; not capture field of view."
+        },
+        {
+          "feature": "front-camera-keepout",
+          "quantity": "diameter-at-surface",
+          "value": 3.21,
+          "unit": "mm",
+          "page": 2,
+          "detail": "B"
+        },
+        {
+          "feature": "front-camera-keepout",
+          "quantity": "cone-to-coverglass",
+          "value": 2.02,
+          "unit": "mm",
+          "page": 2,
+          "detail": "B"
+        }
+      ],
+      "frontCamera": {
+        "x": -10.655,
+        "y": 60.12,
+        "convention": "portrait body centre; +x right, +y up; millimetres",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-se-3rd-generation.pdf",
+        "page": 2
+      },
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "display-body-camera-image-reviewed",
+        "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout. Detail A places front camera centre 22.98 mm from left edge, 9.10 mm from top: x=22.98-67.27/2; y=138.44/2-9.10. Sheet explicitly applies to SE 2nd and 3rd generations.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-se-3rd-generation.pdf",
+        "page": 2,
+        "bodyDepthPage": 2,
+        "scope": "Display/body/glass and explicitly located camera only; other features remain in raw annotations."
       },
       "drawing": null
     },
@@ -218681,20 +219893,71 @@
         "iPhone14,6"
       ],
       "display": {
-        "activeMm": null,
+        "activeMm": {
+          "width": 58.5,
+          "height": 104.05
+        },
         "nativePixels": {
           "width": 750,
           "height": 1334
         },
         "nominalPpi": 326,
-        "ppi": null,
+        "ppi": {
+          "x": 325.64102564102564,
+          "y": 325.64728495915426
+        },
         "source": "https://support.apple.com/kb/SP867"
       },
-      "bodyMm": null,
-      "frontCamera": null,
+      "bodyMm": {
+        "width": 67.27,
+        "height": 138.44,
+        "depth": 7.31
+      },
+      "coverGlassMm": {
+        "width": 63.81,
+        "height": 134.97
+      },
+      "additionalDimensions": [
+        {
+          "feature": "front-camera-keepout",
+          "quantity": "cone-angle",
+          "value": 77.0,
+          "unit": "degree",
+          "page": 2,
+          "detail": "B",
+          "note": "Accessory keepout; not capture field of view."
+        },
+        {
+          "feature": "front-camera-keepout",
+          "quantity": "diameter-at-surface",
+          "value": 3.21,
+          "unit": "mm",
+          "page": 2,
+          "detail": "B"
+        },
+        {
+          "feature": "front-camera-keepout",
+          "quantity": "cone-to-coverglass",
+          "value": 2.02,
+          "unit": "mm",
+          "page": 2,
+          "detail": "B"
+        }
+      ],
+      "frontCamera": {
+        "x": -10.655,
+        "y": 60.12,
+        "convention": "portrait body centre; +x right, +y up; millimetres",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-se-3rd-generation.pdf",
+        "page": 2
+      },
       "review": {
-        "status": "unreviewed",
-        "derivation": null
+        "status": "display-body-camera-image-reviewed",
+        "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout. Detail A places front camera centre 22.98 mm from left edge, 9.10 mm from top: x=22.98-67.27/2; y=138.44/2-9.10. Sheet explicitly applies to SE 2nd and 3rd generations.",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-se-3rd-generation.pdf",
+        "page": 2,
+        "bodyDepthPage": 2,
+        "scope": "Display/body/glass and explicitly located camera only; other features remain in raw annotations."
       },
       "drawing": {
         "url": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-se-3rd-generation.pdf",
@@ -220196,6 +221459,8 @@
         "source": "https://support.apple.com/kb/SP770"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220220,6 +221485,8 @@
         "source": "https://support.apple.com/kb/SP781"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220244,6 +221511,8 @@
         "source": "https://support.apple.com/kb/SP779"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220269,6 +221538,8 @@
         "source": "https://support.apple.com/kb/SP780"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220290,6 +221561,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220311,6 +221584,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220332,6 +221607,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220353,6 +221630,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220377,6 +221656,8 @@
         "source": "https://support.apple.com/kb/SP657"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220401,6 +221682,8 @@
         "source": "https://support.apple.com/kb/SP720"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220425,6 +221708,8 @@
         "source": "https://support.apple.com/kb/SP796"
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220446,6 +221731,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220467,6 +221754,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220488,6 +221777,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220509,6 +221800,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220530,6 +221823,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220551,6 +221846,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220572,6 +221869,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220593,6 +221892,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220614,6 +221915,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220635,6 +221938,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220656,6 +221961,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220677,6 +221984,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220698,6 +222007,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220719,6 +222030,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220740,6 +222053,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220761,6 +222076,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220782,6 +222099,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220803,6 +222122,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220824,6 +222145,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220845,6 +222168,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220866,6 +222191,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220887,6 +222214,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220908,6 +222237,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220929,6 +222260,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220950,6 +222283,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220971,6 +222306,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -220992,6 +222329,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -221013,6 +222352,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -221034,6 +222375,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -221055,6 +222398,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -221076,6 +222421,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -221097,6 +222444,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -221118,6 +222467,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -221139,6 +222490,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -221160,6 +222513,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -221181,6 +222536,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -221200,6 +222557,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -221958,6 +223317,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -221979,6 +223340,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222000,6 +223363,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222021,6 +223386,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222042,6 +223409,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222063,6 +223432,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222084,6 +223455,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222105,6 +223478,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222126,6 +223501,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222147,6 +223524,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222168,6 +223547,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222189,6 +223570,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222210,6 +223593,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222231,6 +223616,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222252,6 +223639,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222273,6 +223662,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222294,6 +223685,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222315,6 +223708,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222336,6 +223731,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222357,6 +223754,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222378,6 +223777,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222399,6 +223800,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222420,6 +223823,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222441,6 +223846,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222462,6 +223869,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222483,6 +223892,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222504,6 +223915,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222525,6 +223938,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222546,6 +223961,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222567,6 +223984,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222588,6 +224007,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222609,6 +224030,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222630,6 +224053,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222651,6 +224076,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222672,6 +224099,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222693,6 +224122,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222714,6 +224145,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222735,6 +224168,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222756,6 +224191,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222777,6 +224214,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222798,6 +224237,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222819,6 +224260,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222840,6 +224283,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222861,6 +224306,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -222880,6 +224327,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -223383,6 +224832,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -224119,6 +225570,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -224922,6 +226375,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -226027,6 +227482,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -227469,6 +228926,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -229426,6 +230885,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",
@@ -230451,6 +231912,8 @@
         "source": null
       },
       "bodyMm": null,
+      "coverGlassMm": null,
+      "additionalDimensions": [],
       "frontCamera": null,
       "review": {
         "status": "unreviewed",

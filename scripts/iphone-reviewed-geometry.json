@@ -1,0 +1,653 @@
+[
+  {
+    "id": "iphone-17",
+    "name": "iPhone 17",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-17.pdf",
+    "mechanicalStatus": "display-body-image-reviewed",
+    "activeDisplayMm": {
+      "width": 66.57,
+      "height": 144.79
+    },
+    "bodyMm": {
+      "width": 71.45,
+      "height": 149.61,
+      "depth": 7.95
+    },
+    "coverGlassMm": {
+      "width": 69.45,
+      "height": 147.61
+    },
+    "frontCameraPortraitMm": null,
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout."
+  },
+  {
+    "id": "iphone-17-pro",
+    "name": "iPhone 17 Pro",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-17-pro.pdf",
+    "mechanicalStatus": "display-body-image-reviewed",
+    "activeDisplayMm": {
+      "width": 66.57,
+      "height": 144.73
+    },
+    "bodyMm": {
+      "width": 71.85,
+      "height": 150.01,
+      "depth": 8.75
+    },
+    "coverGlassMm": {
+      "width": 69.45,
+      "height": 147.61
+    },
+    "frontCameraPortraitMm": null,
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout."
+  },
+  {
+    "id": "iphone-17-pro-max",
+    "name": "iPhone 17 Pro Max",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-17-pro-max.pdf",
+    "mechanicalStatus": "display-body-image-reviewed",
+    "activeDisplayMm": {
+      "width": 72.86,
+      "height": 158.31
+    },
+    "bodyMm": {
+      "width": 77.98,
+      "height": 163.43,
+      "depth": 8.75
+    },
+    "coverGlassMm": {
+      "width": 75.58,
+      "height": 161.03
+    },
+    "frontCameraPortraitMm": null,
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout."
+  },
+  {
+    "id": "iphone-air",
+    "name": "iPhone Air",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-air.pdf",
+    "mechanicalStatus": "display-body-image-reviewed",
+    "activeDisplayMm": {
+      "width": 69.55,
+      "height": 151.03
+    },
+    "bodyMm": {
+      "width": 74.7,
+      "height": 156.18,
+      "depth": 5.64
+    },
+    "coverGlassMm": {
+      "width": 72.42,
+      "height": 153.9
+    },
+    "frontCameraPortraitMm": null,
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout."
+  },
+  {
+    "id": "iphone-17e",
+    "name": "iPhone 17e",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-17e.pdf",
+    "mechanicalStatus": "display-body-image-reviewed",
+    "activeDisplayMm": {
+      "width": 64.58,
+      "height": 139.77
+    },
+    "bodyMm": {
+      "width": 71.52,
+      "height": 146.71,
+      "depth": 7.8
+    },
+    "coverGlassMm": {
+      "width": 69.42,
+      "height": 144.61
+    },
+    "frontCameraPortraitMm": null,
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout."
+  },
+  {
+    "id": "iphone-16e",
+    "name": "iPhone 16e",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-16e.pdf",
+    "mechanicalStatus": "display-body-image-reviewed",
+    "activeDisplayMm": {
+      "width": 64.58,
+      "height": 139.77
+    },
+    "bodyMm": {
+      "width": 71.52,
+      "height": 146.71,
+      "depth": 7.8
+    },
+    "coverGlassMm": {
+      "width": 69.42,
+      "height": 144.61
+    },
+    "frontCameraPortraitMm": null,
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout."
+  },
+  {
+    "id": "iphone-16",
+    "name": "iPhone 16",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-16.pdf",
+    "mechanicalStatus": "display-body-image-reviewed",
+    "activeDisplayMm": {
+      "width": 65.08,
+      "height": 141.09
+    },
+    "bodyMm": {
+      "width": 71.63,
+      "height": 147.64,
+      "depth": 7.81
+    },
+    "coverGlassMm": {
+      "width": 69.63,
+      "height": 145.64
+    },
+    "frontCameraPortraitMm": null,
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout."
+  },
+  {
+    "id": "iphone-16-plus",
+    "name": "iPhone 16 Plus",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-16-plus.pdf",
+    "mechanicalStatus": "display-body-image-reviewed",
+    "activeDisplayMm": {
+      "width": 71.21,
+      "height": 154.34
+    },
+    "bodyMm": {
+      "width": 77.76,
+      "height": 160.89,
+      "depth": 7.81
+    },
+    "coverGlassMm": {
+      "width": 75.76,
+      "height": 158.89
+    },
+    "frontCameraPortraitMm": null,
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout."
+  },
+  {
+    "id": "iphone-16-pro",
+    "name": "iPhone 16 Pro",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-16-pro.pdf",
+    "mechanicalStatus": "display-body-image-reviewed",
+    "activeDisplayMm": {
+      "width": 66.57,
+      "height": 144.79
+    },
+    "bodyMm": {
+      "width": 71.45,
+      "height": 149.61,
+      "depth": 8.25
+    },
+    "coverGlassMm": {
+      "width": 69.45,
+      "height": 147.61
+    },
+    "frontCameraPortraitMm": null,
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout."
+  },
+  {
+    "id": "iphone-16-pro-max",
+    "name": "iPhone 16 Pro Max",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-16-pro-max.pdf",
+    "mechanicalStatus": "display-body-image-reviewed",
+    "activeDisplayMm": {
+      "width": 72.86,
+      "height": 158.31
+    },
+    "bodyMm": {
+      "width": 77.58,
+      "height": 163.03,
+      "depth": 8.25
+    },
+    "coverGlassMm": {
+      "width": 75.58,
+      "height": 161.03
+    },
+    "frontCameraPortraitMm": null,
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout."
+  },
+  {
+    "id": "iphone-15",
+    "name": "iPhone 15",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-15.pdf",
+    "mechanicalStatus": "display-body-image-reviewed",
+    "activeDisplayMm": {
+      "width": 65.08,
+      "height": 141.09
+    },
+    "bodyMm": {
+      "width": 71.63,
+      "height": 147.64,
+      "depth": 7.81
+    },
+    "coverGlassMm": {
+      "width": 69.63,
+      "height": 145.64
+    },
+    "frontCameraPortraitMm": null,
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout."
+  },
+  {
+    "id": "iphone-15-plus",
+    "name": "iPhone 15 Plus",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-15-plus.pdf",
+    "mechanicalStatus": "display-body-image-reviewed",
+    "activeDisplayMm": {
+      "width": 71.21,
+      "height": 154.34
+    },
+    "bodyMm": {
+      "width": 77.76,
+      "height": 160.89,
+      "depth": 7.81
+    },
+    "coverGlassMm": {
+      "width": 75.76,
+      "height": 158.89
+    },
+    "frontCameraPortraitMm": null,
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout."
+  },
+  {
+    "id": "iphone-15-pro",
+    "name": "iPhone 15 Pro",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-15-pro.pdf",
+    "mechanicalStatus": "display-body-image-reviewed",
+    "activeDisplayMm": {
+      "width": 65.08,
+      "height": 141.09
+    },
+    "bodyMm": {
+      "width": 70.6,
+      "height": 146.61,
+      "depth": 8.25
+    },
+    "coverGlassMm": {
+      "width": 68.6,
+      "height": 144.61
+    },
+    "frontCameraPortraitMm": null,
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout."
+  },
+  {
+    "id": "iphone-15-pro-max",
+    "name": "iPhone 15 Pro Max",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-15-pro-max.pdf",
+    "mechanicalStatus": "display-body-image-reviewed",
+    "activeDisplayMm": {
+      "width": 71.21,
+      "height": 154.34
+    },
+    "bodyMm": {
+      "width": 76.73,
+      "height": 159.86,
+      "depth": 8.25
+    },
+    "coverGlassMm": {
+      "width": 74.73,
+      "height": 157.86
+    },
+    "frontCameraPortraitMm": null,
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout."
+  },
+  {
+    "id": "iphone-14",
+    "name": "iPhone 14",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-14.pdf",
+    "mechanicalStatus": "display-body-image-reviewed",
+    "activeDisplayMm": {
+      "width": 64.58,
+      "height": 139.77
+    },
+    "bodyMm": {
+      "width": 71.52,
+      "height": 146.71,
+      "depth": 7.8
+    },
+    "coverGlassMm": {
+      "width": 69.42,
+      "height": 144.61
+    },
+    "frontCameraPortraitMm": null,
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout."
+  },
+  {
+    "id": "iphone-14-plus",
+    "name": "iPhone 14 Plus",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-14-plus.pdf",
+    "mechanicalStatus": "display-body-image-reviewed",
+    "activeDisplayMm": {
+      "width": 71.13,
+      "height": 153.9
+    },
+    "bodyMm": {
+      "width": 78.07,
+      "height": 160.84,
+      "depth": 7.8
+    },
+    "coverGlassMm": {
+      "width": 75.97,
+      "height": 158.74
+    },
+    "frontCameraPortraitMm": null,
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout."
+  },
+  {
+    "id": "iphone-14-pro",
+    "name": "iPhone 14 Pro",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-14-pro.pdf",
+    "mechanicalStatus": "display-body-image-reviewed",
+    "activeDisplayMm": {
+      "width": 65.08,
+      "height": 141.09
+    },
+    "bodyMm": {
+      "width": 71.45,
+      "height": 147.46,
+      "depth": 7.85
+    },
+    "coverGlassMm": {
+      "width": 69.35,
+      "height": 145.36
+    },
+    "frontCameraPortraitMm": null,
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout."
+  },
+  {
+    "id": "iphone-14-pro-max",
+    "name": "iPhone 14 Pro Max",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-14-pro-max.pdf",
+    "mechanicalStatus": "display-body-image-reviewed",
+    "activeDisplayMm": {
+      "width": 71.21,
+      "height": 154.34
+    },
+    "bodyMm": {
+      "width": 77.58,
+      "height": 160.71,
+      "depth": 7.85
+    },
+    "coverGlassMm": {
+      "width": 75.48,
+      "height": 158.61
+    },
+    "frontCameraPortraitMm": null,
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout."
+  },
+  {
+    "id": "iphone-13",
+    "name": "iPhone 13",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-13.pdf",
+    "mechanicalStatus": "display-body-image-reviewed",
+    "activeDisplayMm": {
+      "width": 64.58,
+      "height": 139.77
+    },
+    "bodyMm": {
+      "width": 71.52,
+      "height": 146.7,
+      "depth": 7.65
+    },
+    "coverGlassMm": {
+      "width": 69.42,
+      "height": 144.61
+    },
+    "frontCameraPortraitMm": null,
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout."
+  },
+  {
+    "id": "iphone-13-pro",
+    "name": "iPhone 13 Pro",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-13-pro.pdf",
+    "mechanicalStatus": "display-body-image-reviewed",
+    "activeDisplayMm": {
+      "width": 64.58,
+      "height": 139.77
+    },
+    "bodyMm": {
+      "width": 71.52,
+      "height": 146.71,
+      "depth": 7.65
+    },
+    "coverGlassMm": {
+      "width": 69.42,
+      "height": 144.61
+    },
+    "frontCameraPortraitMm": null,
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout."
+  },
+  {
+    "id": "iphone-13-pro-max",
+    "name": "iPhone 13 Pro Max",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-13-pro-max.pdf",
+    "mechanicalStatus": "display-body-image-reviewed",
+    "activeDisplayMm": {
+      "width": 71.13,
+      "height": 153.9
+    },
+    "bodyMm": {
+      "width": 78.07,
+      "height": 160.84,
+      "depth": 7.65
+    },
+    "coverGlassMm": {
+      "width": 75.97,
+      "height": 158.74
+    },
+    "frontCameraPortraitMm": null,
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout."
+  },
+  {
+    "id": "iphone-13-mini",
+    "name": "iPhone 13 mini",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-13-mini.pdf",
+    "mechanicalStatus": "display-body-image-reviewed",
+    "activeDisplayMm": {
+      "width": 57.67,
+      "height": 124.96
+    },
+    "bodyMm": {
+      "width": 64.21,
+      "height": 131.5,
+      "depth": 7.65
+    },
+    "coverGlassMm": {
+      "width": 62.11,
+      "height": 129.4
+    },
+    "frontCameraPortraitMm": null,
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout."
+  },
+  {
+    "id": "iphone-12",
+    "name": "iPhone 12",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-12.pdf",
+    "mechanicalStatus": "display-body-image-reviewed",
+    "activeDisplayMm": {
+      "width": 64.58,
+      "height": 139.77
+    },
+    "bodyMm": {
+      "width": 71.52,
+      "height": 146.71,
+      "depth": 7.39
+    },
+    "coverGlassMm": {
+      "width": 69.42,
+      "height": 144.61
+    },
+    "frontCameraPortraitMm": null,
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout."
+  },
+  {
+    "id": "iphone-12-pro",
+    "name": "iPhone 12 Pro",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-12-pro.pdf",
+    "mechanicalStatus": "display-body-image-reviewed",
+    "activeDisplayMm": {
+      "width": 64.58,
+      "height": 139.77
+    },
+    "bodyMm": {
+      "width": 71.52,
+      "height": 146.71,
+      "depth": 7.39
+    },
+    "coverGlassMm": {
+      "width": 69.42,
+      "height": 144.61
+    },
+    "frontCameraPortraitMm": null,
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout."
+  },
+  {
+    "id": "iphone-12-pro-max",
+    "name": "iPhone 12 Pro Max",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-12-pro-max.pdf",
+    "mechanicalStatus": "display-body-image-reviewed",
+    "activeDisplayMm": {
+      "width": 71.13,
+      "height": 153.9
+    },
+    "bodyMm": {
+      "width": 78.07,
+      "height": 160.84,
+      "depth": 7.39
+    },
+    "coverGlassMm": {
+      "width": 75.97,
+      "height": 158.74
+    },
+    "frontCameraPortraitMm": null,
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout."
+  },
+  {
+    "id": "iphone-12-mini",
+    "name": "iPhone 12 mini",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-12-mini.pdf",
+    "mechanicalStatus": "display-body-image-reviewed",
+    "activeDisplayMm": {
+      "width": 57.67,
+      "height": 124.96
+    },
+    "bodyMm": {
+      "width": 64.21,
+      "height": 131.5,
+      "depth": 7.39
+    },
+    "coverGlassMm": {
+      "width": 62.11,
+      "height": 129.4
+    },
+    "frontCameraPortraitMm": null,
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout."
+  },
+  {
+    "id": "iphone-se-3rd-generation",
+    "name": "iPhone SE (3rd generation)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-se-3rd-generation.pdf",
+    "mechanicalStatus": "display-body-camera-image-reviewed",
+    "activeDisplayMm": {
+      "width": 58.5,
+      "height": 104.05
+    },
+    "bodyMm": {
+      "width": 67.27,
+      "height": 138.44,
+      "depth": 7.31
+    },
+    "coverGlassMm": {
+      "width": 63.81,
+      "height": 134.97
+    },
+    "frontCameraPortraitMm": {
+      "x": -10.655,
+      "y": 60.12
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "derivation": "Visually reviewed PDF page 2 / sheet 1: explicit DISPLAY ACTIVE AREA, PRODUCT WIDTH/LENGTH/THICKNESS, and GLASS dimensions. Thickness excludes rear camera bump. Front camera centre not inferred from screen cutout. Detail A places front camera centre 22.98 mm from left edge, 9.10 mm from top: x=22.98-67.27/2; y=138.44/2-9.10. Sheet explicitly applies to SE 2nd and 3rd generations.",
+    "additionalDimensions": [
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "cone-angle",
+        "value": 77.0,
+        "unit": "degree",
+        "page": 2,
+        "detail": "B",
+        "note": "Accessory keepout; not capture field of view."
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "diameter-at-surface",
+        "value": 3.21,
+        "unit": "mm",
+        "page": 2,
+        "detail": "B"
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "cone-to-coverglass",
+        "value": 2.02,
+        "unit": "mm",
+        "page": 2,
+        "detail": "B"
+      }
+    ]
+  }
+]

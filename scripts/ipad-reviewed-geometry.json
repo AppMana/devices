@@ -1,0 +1,598 @@
+[
+  {
+    "id": "ipad-10th-generation",
+    "name": "iPad (10th generation)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-10th-generation.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 158.94,
+      "height": 228.06
+    },
+    "bodyMm": {
+      "width": 179.51,
+      "height": 248.63,
+      "depth": 7.03
+    },
+    "frontCameraPortraitMm": {
+      "x": 84.515,
+      "y": -0.005
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodyDepthSourcePage": 2,
+    "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Front camera is the upper point in the three-point stack (detail J), 5.24 from right edge and 124.31 from bottom: x=179.51/2-5.24=84.515; y=124.31-248.63/2=-0.005. The other heights 117.56 and 111.15 belong to microphone/ALS. The 0.005 mm residual is retained from printed dimensions.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours.",
+    "opticalStatus": "requires-camera-mode-measurement"
+  },
+  {
+    "id": "ipad-8th-generation",
+    "name": "iPad (8th generation)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-8th-generation.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 155.52,
+      "height": 207.36
+    },
+    "bodyMm": {
+      "width": 174.08,
+      "height": 250.59,
+      "depth": 7.5
+    },
+    "frontCameraPortraitMm": {
+      "x": 0,
+      "y": 114.225
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodyDepthSourcePage": 2,
+    "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Front camera is 87.04 from right edge and 11.07 below top: x=174.08/2-87.04=0; y=250.59/2-11.07=114.225. 11.03 is ALS, not camera. Thickness is shown in side view on page 2.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours.",
+    "opticalStatus": "requires-camera-mode-measurement"
+  },
+  {
+    "id": "ipad-9th-generation",
+    "name": "iPad (9th generation)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-9th-generation.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 155.52,
+      "height": 207.36
+    },
+    "bodyMm": {
+      "width": 174.08,
+      "height": 250.59,
+      "depth": 7.5
+    },
+    "frontCameraPortraitMm": {
+      "x": 0,
+      "y": 114.225
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodyDepthSourcePage": 2,
+    "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Front camera is 87.04 from right edge and 11.07 below top: x=174.08/2-87.04=0; y=250.59/2-11.07=114.225. 11.03 is ALS, not camera. Thickness is shown in side view on page 2.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours.",
+    "opticalStatus": "requires-camera-mode-measurement"
+  },
+  {
+    "id": "ipad-a16",
+    "name": "iPad (A16)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 158.94,
+      "height": 228.06
+    },
+    "bodyMm": {
+      "width": 179.51,
+      "height": 248.63,
+      "depth": 7.03
+    },
+    "frontCameraPortraitMm": {
+      "x": 84.515,
+      "y": -0.005
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodyDepthSourcePage": 2,
+    "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Front camera is the upper point in the three-point stack (detail J), 5.24 from right edge and 124.31 from bottom: x=179.51/2-5.24=84.515; y=124.31-248.63/2=-0.005. The other heights 117.56 and 111.15 belong to microphone/ALS. The 0.005 mm residual is retained from printed dimensions.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours.",
+    "opticalStatus": "requires-camera-mode-measurement"
+  },
+  {
+    "id": "ipad-air-11-inch-m2",
+    "name": "iPad Air 11-inch (M2)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m2.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 158.44,
+      "height": 227.56
+    },
+    "bodyMm": {
+      "width": 178.52,
+      "height": 247.64,
+      "depth": 6.123
+    },
+    "frontCameraPortraitMm": {
+      "x": 84.77,
+      "y": 9.5
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodyDepthSourcePage": 3,
+    "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. FC centre is 4.49 from right edge (detail AL), 114.32 from top: x=178.52/2-4.49=84.77; y=247.64/2-114.32=9.50. Other right-edge points are microphone and ALS.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours.",
+    "opticalStatus": "requires-camera-mode-measurement"
+  },
+  {
+    "id": "ipad-air-11-inch-m3",
+    "name": "iPad Air 11-inch (M3)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m3.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 158.44,
+      "height": 227.56
+    },
+    "bodyMm": {
+      "width": 178.52,
+      "height": 247.64,
+      "depth": 6.123
+    },
+    "frontCameraPortraitMm": {
+      "x": 84.77,
+      "y": 9.5
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodyDepthSourcePage": 3,
+    "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. FC centre is 4.49 from right edge (detail AL), 114.32 from top: x=178.52/2-4.49=84.77; y=247.64/2-114.32=9.50. Other right-edge points are microphone and ALS.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours.",
+    "opticalStatus": "requires-camera-mode-measurement"
+  },
+  {
+    "id": "ipad-air-11-inch-m4",
+    "name": "iPad Air 11-inch (M4)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 158.44,
+      "height": 227.56
+    },
+    "bodyMm": {
+      "width": 178.52,
+      "height": 247.64,
+      "depth": 6.123
+    },
+    "frontCameraPortraitMm": {
+      "x": 84.77,
+      "y": 9.5
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodyDepthSourcePage": 3,
+    "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. FC centre is 4.49 from right edge (detail AL), 114.32 from top: x=178.52/2-4.49=84.77; y=247.64/2-114.32=9.50. Other right-edge points are microphone and ALS.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours.",
+    "opticalStatus": "requires-camera-mode-measurement"
+  },
+  {
+    "id": "ipad-air-13-inch-m2",
+    "name": "iPad Air 13-inch (M2)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m2.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 197.61,
+      "height": 263.27
+    },
+    "bodyMm": {
+      "width": 215,
+      "height": 280.66,
+      "depth": 6.123
+    },
+    "frontCameraPortraitMm": {
+      "x": 103.28,
+      "y": 9.5
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodyDepthSourcePage": 3,
+    "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Front camera centre is 4.22 from right edge and 9.50 above horizontal body centreline: x=215/2-4.22=103.28; y=+9.50. The microphone is below the centreline; ALS dimensions are distinct.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours.",
+    "opticalStatus": "requires-camera-mode-measurement"
+  },
+  {
+    "id": "ipad-air-13-inch-m3",
+    "name": "iPad Air 13-inch (M3)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m3.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 197.61,
+      "height": 263.27
+    },
+    "bodyMm": {
+      "width": 215,
+      "height": 280.66,
+      "depth": 6.123
+    },
+    "frontCameraPortraitMm": {
+      "x": 103.28,
+      "y": 9.5
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodyDepthSourcePage": 3,
+    "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Front camera centre is 4.22 from right edge and 9.50 above horizontal body centreline: x=215/2-4.22=103.28; y=+9.50. The microphone is below the centreline; ALS dimensions are distinct.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours.",
+    "opticalStatus": "requires-camera-mode-measurement"
+  },
+  {
+    "id": "ipad-air-13-inch-m4",
+    "name": "iPad Air 13-inch (M4)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 197.61,
+      "height": 263.27
+    },
+    "bodyMm": {
+      "width": 215,
+      "height": 280.66,
+      "depth": 6.123
+    },
+    "frontCameraPortraitMm": {
+      "x": 103.28,
+      "y": 9.5
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodyDepthSourcePage": 3,
+    "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Front camera centre is 4.22 from right edge and 9.50 above horizontal body centreline: x=215/2-4.22=103.28; y=+9.50. The microphone is below the centreline; ALS dimensions are distinct.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours.",
+    "opticalStatus": "requires-camera-mode-measurement"
+  },
+  {
+    "id": "ipad-air-4th-generation",
+    "name": "iPad Air (4th generation)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 158.44,
+      "height": 227.56
+    },
+    "bodyMm": {
+      "width": 178.51,
+      "height": 247.64,
+      "depth": 6.123
+    },
+    "frontCameraPortraitMm": {
+      "x": -0.005,
+      "y": 118.82
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodyDepthSourcePage": 3,
+    "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Front camera is 89.26 from right edge, 5.00 below top (detail B): x=178.51/2-89.26; y=247.64/2-5.00=118.82. The resulting 0.005 mm horizontal residual is retained from printed dimensions, not an inferred real offset.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours.",
+    "opticalStatus": "requires-camera-mode-measurement"
+  },
+  {
+    "id": "ipad-air-5th-generation",
+    "name": "iPad Air (5th generation)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 158.44,
+      "height": 227.56
+    },
+    "bodyMm": {
+      "width": 178.51,
+      "height": 247.64,
+      "depth": 6.123
+    },
+    "frontCameraPortraitMm": {
+      "x": 0.005,
+      "y": 118.82
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodyDepthSourcePage": 3,
+    "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Front camera is 89.25 from right edge, 5.00 below top (detail B): x=178.51/2-89.25; y=247.64/2-5.00=118.82. The resulting 0.005 mm horizontal residual is retained from printed dimensions, not an inferred real offset.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours.",
+    "opticalStatus": "requires-camera-mode-measurement"
+  },
+  {
+    "id": "ipad-mini-6th-generation",
+    "name": "iPad mini (6th generation)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-6th-generation.pdf",
+    "mechanicalStatus": "display-and-body-reviewed",
+    "activeDisplayMm": {
+      "width": 117.06,
+      "height": 177.75
+    },
+    "bodyMm": {
+      "width": 134.75,
+      "height": 195.43,
+      "depth": 6.32
+    },
+    "frontCameraPortraitMm": null,
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodyDepthSourcePage": 3,
+    "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Camera horizontal location is explicitly 67.37 from left edge, but the nearby 4.38 vertical annotation is labelled ALS CELL ONLY. Camera vertical centre is not independently dimensioned unambiguously on reviewed front sheet; do not promote its visual alignment with the ALS to a camera coordinate. A second visual pass reviewed every technical sheet (PDF pages 2\u20137), including magnified front view, magnets/sensors, antenna and profile detail. No independent camera Y datum was found.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours.",
+    "opticalStatus": "requires-camera-mode-measurement",
+    "frontCameraPartialPortraitMm": {
+      "x": -0.005,
+      "y": null
+    },
+    "ambiguities": [
+      "The 4.38 mm ALS callout is not labelled as a front-camera dimension."
+    ],
+    "sourcePagesReviewed": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": "ipad-mini-a17-pro",
+    "name": "iPad mini (A17 Pro)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-mini-a17-pro.pdf",
+    "mechanicalStatus": "display-and-body-reviewed",
+    "activeDisplayMm": {
+      "width": 117.06,
+      "height": 177.75
+    },
+    "bodyMm": {
+      "width": 134.75,
+      "height": 195.43,
+      "depth": 6.32
+    },
+    "frontCameraPortraitMm": null,
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodyDepthSourcePage": 3,
+    "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Camera horizontal location is explicitly 67.37 from left edge, but the nearby 4.38 vertical annotation is labelled ALS CELL ONLY. Camera vertical centre is not independently dimensioned unambiguously on reviewed front sheet; do not promote its visual alignment with the ALS to a camera coordinate. A second visual pass reviewed every technical sheet (PDF pages 2\u20137), including magnified front view, magnets/sensors, antenna and profile detail. No independent camera Y datum was found.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours.",
+    "opticalStatus": "requires-camera-mode-measurement",
+    "frontCameraPartialPortraitMm": {
+      "x": -0.005,
+      "y": null
+    },
+    "ambiguities": [
+      "The 4.38 mm ALS callout is not labelled as a front-camera dimension."
+    ],
+    "sourcePagesReviewed": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": "ipad-pro-11-inch-3rd-generation",
+    "name": "iPad Pro 11-inch (3rd generation)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-3rd-generation.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 161.13,
+      "height": 230.25
+    },
+    "bodyMm": {
+      "width": 178.52,
+      "height": 247.64,
+      "depth": 5.953
+    },
+    "frontCameraPortraitMm": {
+      "x": 0,
+      "y": 119.69
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodyDepthSourcePage": 3,
+    "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Detail J identifies the middle large aperture as front camera, at 89.26 from left edge and 4.13 below top: x=89.26-178.52/2=0; y=247.64/2-4.13=119.69. IR camera, flood illuminator and dot projector use the separate 4.22 height.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours.",
+    "opticalStatus": "requires-camera-mode-measurement"
+  },
+  {
+    "id": "ipad-pro-11-inch-4th-generation",
+    "name": "iPad Pro 11-inch (4th generation)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-4th-generation.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 161.13,
+      "height": 230.25
+    },
+    "bodyMm": {
+      "width": 178.52,
+      "height": 247.64,
+      "depth": 5.953
+    },
+    "frontCameraPortraitMm": {
+      "x": 0,
+      "y": 119.69
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodyDepthSourcePage": 3,
+    "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Detail J identifies the middle large aperture as front camera, at 89.26 from left edge and 4.13 below top: x=89.26-178.52/2=0; y=247.64/2-4.13=119.69. IR camera, flood illuminator and dot projector use the separate 4.22 height.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours.",
+    "opticalStatus": "requires-camera-mode-measurement"
+  },
+  {
+    "id": "ipad-pro-11-inch-m4",
+    "name": "iPad Pro 11-inch (M4)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 160.13,
+      "height": 232.32
+    },
+    "bodyMm": {
+      "width": 177.51,
+      "height": 249.7,
+      "depth": 5.268
+    },
+    "frontCameraPortraitMm": {
+      "x": 84.045,
+      "y": 8.65
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodyDepthSourcePage": 3,
+    "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. FCAM is 4.71 from right edge, 116.20 below top: x=177.51/2-4.71=84.045; y=249.70/2-116.20=8.65. Detail F distinguishes FCAM from IR camera and illuminator/projector capsule; 103.65 and 110.90 locate capsule, not FCAM.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours.",
+    "opticalStatus": "requires-camera-mode-measurement"
+  },
+  {
+    "id": "ipad-pro-11-inch-m5",
+    "name": "iPad Pro 11-inch (M5)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 160.13,
+      "height": 232.32
+    },
+    "bodyMm": {
+      "width": 177.51,
+      "height": 249.7,
+      "depth": 5.268
+    },
+    "frontCameraPortraitMm": {
+      "x": 84.045,
+      "y": 8.65
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodyDepthSourcePage": 3,
+    "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. FCAM is 4.71 from right edge, 116.20 below top: x=177.51/2-4.71=84.045; y=249.70/2-116.20=8.65. Detail F distinguishes FCAM from IR camera and illuminator/projector capsule; 103.65 and 110.90 locate capsule, not FCAM.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours.",
+    "opticalStatus": "requires-camera-mode-measurement"
+  },
+  {
+    "id": "ipad-pro-12.9-inch-5th-generation",
+    "name": "iPad Pro 12.9-inch (5th generation)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-12.9-inch-5th-generation.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 196.61,
+      "height": 262.27
+    },
+    "bodyMm": {
+      "width": 215,
+      "height": 280.66,
+      "depth": 6.44
+    },
+    "frontCameraPortraitMm": {
+      "x": 0,
+      "y": 136.2
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodyDepthSourcePage": 3,
+    "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Detail K identifies the middle large aperture as front camera, at 107.50 from left edge and 4.13 below top: x=107.50-215/2=0; y=280.66/2-4.13=136.20. IR camera, flood illuminator and dot projector use the separate 4.22 height.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours.",
+    "opticalStatus": "requires-camera-mode-measurement"
+  },
+  {
+    "id": "ipad-pro-12.9-inch-6th-generation",
+    "name": "iPad Pro 12.9-inch (6th generation)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-12.9-inch-6th-generation.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 196.61,
+      "height": 262.27
+    },
+    "bodyMm": {
+      "width": 215,
+      "height": 280.66,
+      "depth": 6.44
+    },
+    "frontCameraPortraitMm": {
+      "x": 0,
+      "y": 136.2
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodyDepthSourcePage": 3,
+    "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. Detail K identifies the middle large aperture as front camera, at 107.50 from left edge and 4.13 below top: x=107.50-215/2=0; y=280.66/2-4.13=136.20. IR camera, flood illuminator and dot projector use the separate 4.22 height.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours.",
+    "opticalStatus": "requires-camera-mode-measurement"
+  },
+  {
+    "id": "ipad-pro-13-inch-m4",
+    "name": "iPad Pro 13-inch (M4)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 199.14,
+      "height": 265.19
+    },
+    "bodyMm": {
+      "width": 215.53,
+      "height": 281.58,
+      "depth": 5.125
+    },
+    "frontCameraPortraitMm": {
+      "x": 103.055,
+      "y": 8.65
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodyDepthSourcePage": 3,
+    "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. FCAM is 4.71 from right edge, 132.14 below top: x=215.53/2-4.71=103.055; y=281.58/2-132.14=8.65. Detail F distinguishes FCAM from IR camera and illuminator/projector capsule; 119.79 and 126.64 locate capsule, not FCAM.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours.",
+    "opticalStatus": "requires-camera-mode-measurement"
+  },
+  {
+    "id": "ipad-pro-13-inch-m5",
+    "name": "iPad Pro 13-inch (M5)",
+    "drawingUrl": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+    "mechanicalStatus": "drawing-reviewed",
+    "activeDisplayMm": {
+      "width": 199.14,
+      "height": 265.19
+    },
+    "bodyMm": {
+      "width": 215.53,
+      "height": 281.58,
+      "depth": 5.125
+    },
+    "frontCameraPortraitMm": {
+      "x": 103.055,
+      "y": 8.65
+    },
+    "sourcePage": 2,
+    "sourceSheet": 1,
+    "bodyDepthSourcePage": 3,
+    "derivation": "Active display and body width/height transcribed from dimension arrows on PDF page 2; values are millimetres. Body depth is system thickness, excluding rear camera projection. FCAM is 4.71 from right edge, 132.14 below top: x=215.53/2-4.71=103.055; y=281.58/2-132.14=8.65. Detail F distinguishes FCAM from IR camera and illuminator/projector capsule; 119.79 and 126.64 locate capsule, not FCAM.",
+    "uncertaintyMm": null,
+    "reviewScope": "Active display envelope, body dimensions and front-camera centre; not a complete transcription of magnets, acoustic holes, contacts or all keepout contours.",
+    "opticalStatus": "requires-camera-mode-measurement"
+  }
+]
