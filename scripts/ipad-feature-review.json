@@ -4352,5 +4352,775 @@
       }
     ],
     "reviewScope": "M4 drawing explicitly lists Air 13-inch M4, M3 and M2 in its title block. Named camera, acoustic, connector/button dimensions and body-corner ordinates reviewed from that shared-applicability drawing. Magnetic tables, antenna contours and remaining dimensions are incomplete."
+  },
+  {
+    "id": "ipad-a16",
+    "sourcePagesReviewed": [
+      2,
+      3
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "diameter",
+        "value": 5.18,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "front-microphone-opening",
+        "quantity": "diameter",
+        "value": 0.8,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "front-microphone-keepout",
+        "quantity": "diameter",
+        "value": 1.6,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "adjacent-ambient-light-sensor-keepout",
+        "quantity": "diameter",
+        "value": 3.57,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "upper-ambient-light-sensor",
+        "quantity": "diameter",
+        "value": 3,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "upper-ambient-light-sensor",
+        "quantity": "centre-from-top",
+        "value": 35.02,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "upper-ambient-light-sensor",
+        "quantity": "centre-from-right",
+        "value": 4.53,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "front-camera-and-adjacent-sensors",
+        "quantity": "centre-from-right",
+        "value": 5.24,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "front-camera",
+        "quantity": "centre-from-bottom",
+        "value": 124.31,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "front-microphone",
+        "quantity": "centre-from-bottom",
+        "value": 117.56,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "adjacent-ambient-light-sensor",
+        "quantity": "centre-from-bottom",
+        "value": 111.15,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "speaker",
+        "quantity": "section-width",
+        "value": 1.89,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "sleep-wake-button",
+        "quantity": "width",
+        "value": 4,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "sleep-wake-button-keepout",
+        "quantity": "surface-width",
+        "value": 20.12,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "width",
+        "value": 10.25,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "height",
+        "value": 5.54,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "outward-depth",
+        "value": 14,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "included-angle",
+        "value": 132.15,
+        "page": 2,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf",
+        "note": "Mechanical accessory clearance cone; not measured capture field of view."
+      },
+      {
+        "feature": "ambient-light-sensor-keepout",
+        "quantity": "included-angle",
+        "value": 120,
+        "page": 2,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf",
+        "note": "Mechanical accessory clearance cone; not measured capture field of view."
+      },
+      {
+        "feature": "sleep-wake-button-keepout",
+        "quantity": "included-angle",
+        "value": 120,
+        "page": 2,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf",
+        "note": "Mechanical accessory clearance cone; not measured capture field of view."
+      },
+      {
+        "feature": "rear-camera-keepout",
+        "quantity": "included-angle",
+        "value": 77,
+        "page": 2,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf",
+        "note": "Mechanical accessory clearance cone; not measured capture field of view."
+      },
+      {
+        "feature": "rear-camera-keepout",
+        "quantity": "surface-diameter",
+        "value": 3.21,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "speaker-keepout",
+        "quantity": "surrounding-clearance",
+        "value": 1,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "speaker-keepout",
+        "quantity": "outward-angle",
+        "value": 45,
+        "page": 2,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "rear-camera-lens",
+        "quantity": "diameter",
+        "value": 9.89,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "rear-camera-side-wall",
+        "quantity": "diameter",
+        "value": 11.89,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "rear-camera-mount",
+        "quantity": "diameter",
+        "value": 16.92,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "rear-microphone-keepout",
+        "quantity": "diameter",
+        "value": 2.9,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "centre-from-top",
+        "value": 14.9,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "rear-camera-and-microphone",
+        "quantity": "centre-from-left-rear-view",
+        "value": 14.9,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "centre-from-top",
+        "value": 29.82,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "depth-to-cover-glass",
+        "value": 8.95,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "rear-camera-window",
+        "quantity": "protrusion-from-housing-back",
+        "value": 1.93,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "length",
+        "value": 10.06,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "width",
+        "value": 2,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "upper-centre-from-top",
+        "value": 22.72,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "lower-centre-from-top",
+        "value": 34.78,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "smart-connector-pin",
+        "quantity": "diameter",
+        "value": 3.2,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "smart-connector-pin",
+        "quantity": "adjacent-centre-spacing",
+        "value": 4.65,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "smart-connector-enclosure-opening",
+        "quantity": "diameter",
+        "value": 3.75,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "smart-connector-pin",
+        "quantity": "centre-to-cover-glass",
+        "value": 3.54,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "smart-connector-middle-pin",
+        "quantity": "centre-from-top",
+        "value": 124.31,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      }
+    ],
+    "features": {
+      "generalDrawingTolerances": {
+        "featureType": "title-block-general-tolerances",
+        "dimensions": {
+          "oneDecimal": {
+            "value": 0.2,
+            "unit": "mm",
+            "sourcePage": 2,
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf",
+            "derivation": "Explicit general title-block tolerance for printed precision; applies unless a feature supplies its own tolerance."
+          },
+          "twoDecimals": {
+            "value": 0.1,
+            "unit": "mm",
+            "sourcePage": 2,
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf",
+            "derivation": "Explicit general title-block tolerance for printed precision; applies unless a feature supplies its own tolerance."
+          },
+          "threeDecimals": {
+            "value": 0.05,
+            "unit": "mm",
+            "sourcePage": 2,
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf",
+            "derivation": "Explicit general title-block tolerance for printed precision; applies unless a feature supplies its own tolerance."
+          },
+          "angles": {
+            "value": 0.5,
+            "unit": "degrees",
+            "sourcePage": 2,
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf",
+            "derivation": "Explicit general title-block tolerance for printed precision; applies unless a feature supplies its own tolerance."
+          }
+        }
+      }
+    },
+    "reviewScope": "A16 drawing explicitly covers iPad A16 and 10th generation. Named camera/sensor/button/connector dimensions and title-block tolerances reviewed; other pages, magnets and local contour callouts remain incomplete."
+  },
+  {
+    "id": "ipad-10th-generation",
+    "sourcePagesReviewed": [
+      2,
+      3
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "diameter",
+        "value": 5.18,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "front-microphone-opening",
+        "quantity": "diameter",
+        "value": 0.8,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "front-microphone-keepout",
+        "quantity": "diameter",
+        "value": 1.6,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "adjacent-ambient-light-sensor-keepout",
+        "quantity": "diameter",
+        "value": 3.57,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "upper-ambient-light-sensor",
+        "quantity": "diameter",
+        "value": 3,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "upper-ambient-light-sensor",
+        "quantity": "centre-from-top",
+        "value": 35.02,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "upper-ambient-light-sensor",
+        "quantity": "centre-from-right",
+        "value": 4.53,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "front-camera-and-adjacent-sensors",
+        "quantity": "centre-from-right",
+        "value": 5.24,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "front-camera",
+        "quantity": "centre-from-bottom",
+        "value": 124.31,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "front-microphone",
+        "quantity": "centre-from-bottom",
+        "value": 117.56,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "adjacent-ambient-light-sensor",
+        "quantity": "centre-from-bottom",
+        "value": 111.15,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "speaker",
+        "quantity": "section-width",
+        "value": 1.89,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "sleep-wake-button",
+        "quantity": "width",
+        "value": 4,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "sleep-wake-button-keepout",
+        "quantity": "surface-width",
+        "value": 20.12,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "width",
+        "value": 10.25,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "height",
+        "value": 5.54,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "usb-c-mating-connector-recommended-keepout",
+        "quantity": "outward-depth",
+        "value": 14,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "front-camera-keepout",
+        "quantity": "included-angle",
+        "value": 132.15,
+        "page": 2,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf",
+        "note": "Mechanical accessory clearance cone; not measured capture field of view."
+      },
+      {
+        "feature": "ambient-light-sensor-keepout",
+        "quantity": "included-angle",
+        "value": 120,
+        "page": 2,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf",
+        "note": "Mechanical accessory clearance cone; not measured capture field of view."
+      },
+      {
+        "feature": "sleep-wake-button-keepout",
+        "quantity": "included-angle",
+        "value": 120,
+        "page": 2,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf",
+        "note": "Mechanical accessory clearance cone; not measured capture field of view."
+      },
+      {
+        "feature": "rear-camera-keepout",
+        "quantity": "included-angle",
+        "value": 77,
+        "page": 2,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf",
+        "note": "Mechanical accessory clearance cone; not measured capture field of view."
+      },
+      {
+        "feature": "rear-camera-keepout",
+        "quantity": "surface-diameter",
+        "value": 3.21,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "speaker-keepout",
+        "quantity": "surrounding-clearance",
+        "value": 1,
+        "page": 2,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "speaker-keepout",
+        "quantity": "outward-angle",
+        "value": 45,
+        "page": 2,
+        "unit": "degree",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "rear-camera-lens",
+        "quantity": "diameter",
+        "value": 9.89,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "rear-camera-side-wall",
+        "quantity": "diameter",
+        "value": 11.89,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "rear-camera-mount",
+        "quantity": "diameter",
+        "value": 16.92,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "rear-microphone-keepout",
+        "quantity": "diameter",
+        "value": 2.9,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "centre-from-top",
+        "value": 14.9,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "rear-camera-and-microphone",
+        "quantity": "centre-from-left-rear-view",
+        "value": 14.9,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "centre-from-top",
+        "value": 29.82,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "depth-to-cover-glass",
+        "value": 8.95,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "rear-camera-window",
+        "quantity": "protrusion-from-housing-back",
+        "value": 1.93,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "length",
+        "value": 10.06,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "width",
+        "value": 2,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "upper-centre-from-top",
+        "value": 22.72,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "lower-centre-from-top",
+        "value": 34.78,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "smart-connector-pin",
+        "quantity": "diameter",
+        "value": 3.2,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "smart-connector-pin",
+        "quantity": "adjacent-centre-spacing",
+        "value": 4.65,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "smart-connector-enclosure-opening",
+        "quantity": "diameter",
+        "value": 3.75,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "smart-connector-pin",
+        "quantity": "centre-to-cover-glass",
+        "value": 3.54,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "smart-connector-middle-pin",
+        "quantity": "centre-from-top",
+        "value": 124.31,
+        "page": 3,
+        "unit": "mm",
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      }
+    ],
+    "features": {
+      "generalDrawingTolerances": {
+        "featureType": "title-block-general-tolerances",
+        "dimensions": {
+          "oneDecimal": {
+            "value": 0.2,
+            "unit": "mm",
+            "sourcePage": 2,
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf",
+            "derivation": "Explicit general title-block tolerance for printed precision; applies unless a feature supplies its own tolerance."
+          },
+          "twoDecimals": {
+            "value": 0.1,
+            "unit": "mm",
+            "sourcePage": 2,
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf",
+            "derivation": "Explicit general title-block tolerance for printed precision; applies unless a feature supplies its own tolerance."
+          },
+          "threeDecimals": {
+            "value": 0.05,
+            "unit": "mm",
+            "sourcePage": 2,
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf",
+            "derivation": "Explicit general title-block tolerance for printed precision; applies unless a feature supplies its own tolerance."
+          },
+          "angles": {
+            "value": 0.5,
+            "unit": "degrees",
+            "sourcePage": 2,
+            "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf",
+            "derivation": "Explicit general title-block tolerance for printed precision; applies unless a feature supplies its own tolerance."
+          }
+        }
+      }
+    },
+    "reviewScope": "A16 drawing explicitly covers iPad A16 and 10th generation. Named camera/sensor/button/connector dimensions and title-block tolerances reviewed; other pages, magnets and local contour callouts remain incomplete."
   }
 ]

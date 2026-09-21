@@ -70,4 +70,9 @@ test('feature geometry retains source meaning and separate contour axes', () => 
  assert.equal(phone.features.combinedFrontCameraAndSensorsKeepout.dimensions.width.value,20.75);
  assert.equal(findDevice('iphone-17-pro').features.combinedFrontCameraAndSensorsKeepout.dimensions.width.value,19.74);
  assert.equal(phone.review.frontCameraCenterStatus,'not-individually-dimensioned');
+ assert.equal(findDevice('iphone-16e').features.connectorKeepout.dimensions.endRadius.value,3.25);
+ assert.equal(findDevice('iphone-17e').features.connectorKeepout.dimensions.endRadius.value,3.30);
+ const air=findDevice('ipad-air-11-inch-m2').additionalDimensions.find(v=>v.feature==='rear-camera-lens');
+ assert.equal(air.value,9.65);assert.ok(air.source.endsWith('ipad-air-11-inch-m4.pdf'));
+ assert.equal(findDevice('ipad-a16').features.generalDrawingTolerances.dimensions.twoDecimals.value,.1);
 });
