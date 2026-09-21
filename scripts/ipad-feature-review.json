@@ -870,12 +870,7 @@
               "sourcePage": 4,
               "derivation": "Magnet keepout left boundary."
             },
-            "xMax": {
-              "value": 111.47,
-              "unit": "mm",
-              "sourcePage": 4,
-              "derivation": "Magnet keepout right boundary."
-            },
+            "xMax": null,
             "yMin": {
               "value": 106.04,
               "unit": "mm",
@@ -888,7 +883,8 @@
               "sourcePage": 4,
               "derivation": "Magnet keepout upper boundary."
             },
-            "extentThroughThickness": "Extends above and below product thickness; no finite depth specified."
+            "extentThroughThickness": "Extends above and below product thickness; no finite depth specified.",
+            "xMaxDefinition": "Outer right housing boundary as drawn; no separate local x ordinate is provided for the shaded region. The nearby field-line x ordinate is a different boundary."
           },
           "rightFluxExclusion": {
             "xMin": {
@@ -897,12 +893,7 @@
               "sourcePage": 4,
               "derivation": "Cross-hatched flux keepout left edge."
             },
-            "xMax": {
-              "value": 111.47,
-              "unit": "mm",
-              "sourcePage": 4,
-              "derivation": "Cross-hatched flux keepout right edge."
-            },
+            "xMax": null,
             "yMin": {
               "value": 119.04,
               "unit": "mm",
@@ -921,7 +912,8 @@
               "sourcePage": 4,
               "derivation": "Centered in product thickness."
             },
-            "maximumMilliTesla": 0.25
+            "maximumMilliTesla": 0.25,
+            "xMaxDefinition": "Outer right housing boundary as drawn; no separate local x ordinate is provided for the shaded region. The nearby field-line x ordinate is a different boundary."
           },
           "upperRightFieldLine": {
             "x": {
@@ -3580,12 +3572,7 @@
               "sourcePage": 4,
               "derivation": "Magnet keepout left boundary."
             },
-            "xMax": {
-              "value": 111.47,
-              "unit": "mm",
-              "sourcePage": 4,
-              "derivation": "Magnet keepout right boundary."
-            },
+            "xMax": null,
             "yMin": {
               "value": 106.04,
               "unit": "mm",
@@ -3598,7 +3585,8 @@
               "sourcePage": 4,
               "derivation": "Magnet keepout upper boundary."
             },
-            "extentThroughThickness": "Extends above and below product thickness; no finite depth specified."
+            "extentThroughThickness": "Extends above and below product thickness; no finite depth specified.",
+            "xMaxDefinition": "Outer right housing boundary as drawn; no separate local x ordinate is provided for the shaded region. The nearby field-line x ordinate is a different boundary."
           },
           "rightFluxExclusion": {
             "xMin": {
@@ -3607,12 +3595,7 @@
               "sourcePage": 4,
               "derivation": "Cross-hatched flux keepout left edge."
             },
-            "xMax": {
-              "value": 111.47,
-              "unit": "mm",
-              "sourcePage": 4,
-              "derivation": "Cross-hatched flux keepout right edge."
-            },
+            "xMax": null,
             "yMin": {
               "value": 119.04,
               "unit": "mm",
@@ -3631,7 +3614,8 @@
               "sourcePage": 4,
               "derivation": "Centered in product thickness."
             },
-            "maximumMilliTesla": 0.25
+            "maximumMilliTesla": 0.25,
+            "xMaxDefinition": "Outer right housing boundary as drawn; no separate local x ordinate is provided for the shaded region. The nearby field-line x ordinate is a different boundary."
           },
           "upperRightFieldLine": {
             "x": {
@@ -6464,12 +6448,7 @@
               "sourcePage": 4,
               "derivation": "Explicit magnet-detail ordinate in local smart-connector-pin coordinate system."
             },
-            "xMax": {
-              "value": 92.46,
-              "unit": "mm",
-              "sourcePage": 4,
-              "derivation": "Explicit magnet-detail ordinate in local smart-connector-pin coordinate system."
-            },
+            "xMax": null,
             "yMin": {
               "value": 103.1,
               "unit": "mm",
@@ -6488,7 +6467,8 @@
               "unit": "mm",
               "sourcePage": 4,
               "derivation": "Centered in product thickness."
-            }
+            },
+            "xMaxDefinition": "Outer right housing boundary as drawn; no separate local x ordinate is provided for the shaded region. The nearby field-line x ordinate is a different boundary."
           },
           "rightMagnetExclusion": {
             "xMin": {
@@ -6497,12 +6477,7 @@
               "sourcePage": 4,
               "derivation": "Explicit magnet-detail ordinate in local smart-connector-pin coordinate system."
             },
-            "xMax": {
-              "value": 92.46,
-              "unit": "mm",
-              "sourcePage": 4,
-              "derivation": "Explicit magnet-detail ordinate in local smart-connector-pin coordinate system."
-            },
+            "xMax": null,
             "yMin": {
               "value": 90.1,
               "unit": "mm",
@@ -6515,7 +6490,8 @@
               "sourcePage": 4,
               "derivation": "Explicit magnet-detail ordinate in local smart-connector-pin coordinate system."
             },
-            "extentThroughThickness": "Extends above and below product thickness; no finite depth specified."
+            "extentThroughThickness": "Extends above and below product thickness; no finite depth specified.",
+            "xMaxDefinition": "Outer right housing boundary as drawn; no separate local x ordinate is provided for the shaded region. The nearby field-line x ordinate is a different boundary."
           },
           "upperRightFieldLine": {
             "x": {
@@ -8865,12 +8841,7 @@
               "sourcePage": 4,
               "derivation": "Explicit magnet-detail ordinate in local smart-connector-pin coordinate system."
             },
-            "xMax": {
-              "value": 92.46,
-              "unit": "mm",
-              "sourcePage": 4,
-              "derivation": "Explicit magnet-detail ordinate in local smart-connector-pin coordinate system."
-            },
+            "xMax": null,
             "yMin": {
               "value": 103.1,
               "unit": "mm",
@@ -8889,7 +8860,8 @@
               "unit": "mm",
               "sourcePage": 4,
               "derivation": "Centered in product thickness."
-            }
+            },
+            "xMaxDefinition": "Outer right housing boundary as drawn; no separate local x ordinate is provided for the shaded region. The nearby field-line x ordinate is a different boundary."
           },
           "rightMagnetExclusion": {
             "xMin": {
@@ -8898,12 +8870,7 @@
               "sourcePage": 4,
               "derivation": "Explicit magnet-detail ordinate in local smart-connector-pin coordinate system."
             },
-            "xMax": {
-              "value": 92.46,
-              "unit": "mm",
-              "sourcePage": 4,
-              "derivation": "Explicit magnet-detail ordinate in local smart-connector-pin coordinate system."
-            },
+            "xMax": null,
             "yMin": {
               "value": 90.1,
               "unit": "mm",
@@ -8916,7 +8883,8 @@
               "sourcePage": 4,
               "derivation": "Explicit magnet-detail ordinate in local smart-connector-pin coordinate system."
             },
-            "extentThroughThickness": "Extends above and below product thickness; no finite depth specified."
+            "extentThroughThickness": "Extends above and below product thickness; no finite depth specified.",
+            "xMaxDefinition": "Outer right housing boundary as drawn; no separate local x ordinate is provided for the shaded region. The nearby field-line x ordinate is a different boundary."
           },
           "upperRightFieldLine": {
             "x": {
@@ -12313,13 +12281,7 @@
               "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
               "derivation": "Explicit magnet-detail ordinate or section dimension; shared drawing title applies to M2/M3/M4."
             },
-            "xMax": {
-              "value": 92.96,
-              "unit": "mm",
-              "sourcePage": 4,
-              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
-              "derivation": "Explicit magnet-detail ordinate or section dimension; shared drawing title applies to M2/M3/M4."
-            },
+            "xMax": null,
             "yMin": {
               "value": 89.05,
               "unit": "mm",
@@ -12334,7 +12296,8 @@
               "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
               "derivation": "Explicit magnet-detail ordinate or section dimension; shared drawing title applies to M2/M3/M4."
             },
-            "extentThroughThickness": "Extends above and below product thickness; no finite depth specified."
+            "extentThroughThickness": "Extends above and below product thickness; no finite depth specified.",
+            "xMaxDefinition": "Outer right housing boundary as drawn; no separate local x ordinate is provided for the shaded region. The nearby field-line x ordinate is a different boundary."
           },
           "rightFluxExclusion": {
             "xMin": {
@@ -12344,13 +12307,7 @@
               "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
               "derivation": "Explicit magnet-detail ordinate or section dimension; shared drawing title applies to M2/M3/M4."
             },
-            "xMax": {
-              "value": 92.96,
-              "unit": "mm",
-              "sourcePage": 4,
-              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
-              "derivation": "Explicit magnet-detail ordinate or section dimension; shared drawing title applies to M2/M3/M4."
-            },
+            "xMax": null,
             "yMin": {
               "value": 100.57,
               "unit": "mm",
@@ -12372,7 +12329,8 @@
               "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
               "derivation": "Centered in product thickness."
             },
-            "maximumMilliTesla": 0.25
+            "maximumMilliTesla": 0.25,
+            "xMaxDefinition": "Outer right housing boundary as drawn; no separate local x ordinate is provided for the shaded region. The nearby field-line x ordinate is a different boundary."
           },
           "upperRightFieldLine": {
             "x": {
@@ -14517,13 +14475,7 @@
               "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
               "derivation": "Explicit magnet-detail ordinate or section dimension; shared drawing title applies to M2/M3/M4."
             },
-            "xMax": {
-              "value": 92.96,
-              "unit": "mm",
-              "sourcePage": 4,
-              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
-              "derivation": "Explicit magnet-detail ordinate or section dimension; shared drawing title applies to M2/M3/M4."
-            },
+            "xMax": null,
             "yMin": {
               "value": 89.05,
               "unit": "mm",
@@ -14538,7 +14490,8 @@
               "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
               "derivation": "Explicit magnet-detail ordinate or section dimension; shared drawing title applies to M2/M3/M4."
             },
-            "extentThroughThickness": "Extends above and below product thickness; no finite depth specified."
+            "extentThroughThickness": "Extends above and below product thickness; no finite depth specified.",
+            "xMaxDefinition": "Outer right housing boundary as drawn; no separate local x ordinate is provided for the shaded region. The nearby field-line x ordinate is a different boundary."
           },
           "rightFluxExclusion": {
             "xMin": {
@@ -14548,13 +14501,7 @@
               "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
               "derivation": "Explicit magnet-detail ordinate or section dimension; shared drawing title applies to M2/M3/M4."
             },
-            "xMax": {
-              "value": 92.96,
-              "unit": "mm",
-              "sourcePage": 4,
-              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
-              "derivation": "Explicit magnet-detail ordinate or section dimension; shared drawing title applies to M2/M3/M4."
-            },
+            "xMax": null,
             "yMin": {
               "value": 100.57,
               "unit": "mm",
@@ -14576,7 +14523,8 @@
               "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
               "derivation": "Centered in product thickness."
             },
-            "maximumMilliTesla": 0.25
+            "maximumMilliTesla": 0.25,
+            "xMaxDefinition": "Outer right housing boundary as drawn; no separate local x ordinate is provided for the shaded region. The nearby field-line x ordinate is a different boundary."
           },
           "upperRightFieldLine": {
             "x": {
@@ -16721,13 +16669,7 @@
               "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
               "derivation": "Explicit magnet-detail ordinate or section dimension; shared drawing title applies to M2/M3/M4."
             },
-            "xMax": {
-              "value": 92.96,
-              "unit": "mm",
-              "sourcePage": 4,
-              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
-              "derivation": "Explicit magnet-detail ordinate or section dimension; shared drawing title applies to M2/M3/M4."
-            },
+            "xMax": null,
             "yMin": {
               "value": 89.05,
               "unit": "mm",
@@ -16742,7 +16684,8 @@
               "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
               "derivation": "Explicit magnet-detail ordinate or section dimension; shared drawing title applies to M2/M3/M4."
             },
-            "extentThroughThickness": "Extends above and below product thickness; no finite depth specified."
+            "extentThroughThickness": "Extends above and below product thickness; no finite depth specified.",
+            "xMaxDefinition": "Outer right housing boundary as drawn; no separate local x ordinate is provided for the shaded region. The nearby field-line x ordinate is a different boundary."
           },
           "rightFluxExclusion": {
             "xMin": {
@@ -16752,13 +16695,7 @@
               "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
               "derivation": "Explicit magnet-detail ordinate or section dimension; shared drawing title applies to M2/M3/M4."
             },
-            "xMax": {
-              "value": 92.96,
-              "unit": "mm",
-              "sourcePage": 4,
-              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
-              "derivation": "Explicit magnet-detail ordinate or section dimension; shared drawing title applies to M2/M3/M4."
-            },
+            "xMax": null,
             "yMin": {
               "value": 100.57,
               "unit": "mm",
@@ -16780,7 +16717,8 @@
               "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
               "derivation": "Centered in product thickness."
             },
-            "maximumMilliTesla": 0.25
+            "maximumMilliTesla": 0.25,
+            "xMaxDefinition": "Outer right housing boundary as drawn; no separate local x ordinate is provided for the shaded region. The nearby field-line x ordinate is a different boundary."
           },
           "upperRightFieldLine": {
             "x": {
@@ -20279,13 +20217,7 @@
               "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
               "derivation": "Explicit magnet-detail ordinate or section dimension; shared drawing title applies to M2/M3/M4."
             },
-            "xMax": {
-              "value": 111.2,
-              "unit": "mm",
-              "sourcePage": 4,
-              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
-              "derivation": "Explicit magnet-detail ordinate or section dimension; shared drawing title applies to M2/M3/M4."
-            },
+            "xMax": null,
             "yMin": {
               "value": 105.58,
               "unit": "mm",
@@ -20300,7 +20232,8 @@
               "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
               "derivation": "Explicit magnet-detail ordinate or section dimension; shared drawing title applies to M2/M3/M4."
             },
-            "extentThroughThickness": "Extends above and below product thickness; no finite depth specified."
+            "extentThroughThickness": "Extends above and below product thickness; no finite depth specified.",
+            "xMaxDefinition": "Outer right housing boundary as drawn; no separate local x ordinate is provided for the shaded region. The nearby field-line x ordinate is a different boundary."
           },
           "rightFluxExclusion": {
             "xMin": {
@@ -20310,13 +20243,7 @@
               "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
               "derivation": "Explicit magnet-detail ordinate or section dimension; shared drawing title applies to M2/M3/M4."
             },
-            "xMax": {
-              "value": 111.2,
-              "unit": "mm",
-              "sourcePage": 4,
-              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
-              "derivation": "Explicit magnet-detail ordinate or section dimension; shared drawing title applies to M2/M3/M4."
-            },
+            "xMax": null,
             "yMin": {
               "value": 117.24,
               "unit": "mm",
@@ -20338,7 +20265,8 @@
               "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
               "derivation": "Centered in product thickness."
             },
-            "maximumMilliTesla": 0.25
+            "maximumMilliTesla": 0.25,
+            "xMaxDefinition": "Outer right housing boundary as drawn; no separate local x ordinate is provided for the shaded region. The nearby field-line x ordinate is a different boundary."
           },
           "upperRightFieldLine": {
             "x": {
@@ -23931,13 +23859,7 @@
               "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
               "derivation": "Explicit magnet-detail ordinate or section dimension; shared drawing title applies to M2/M3/M4."
             },
-            "xMax": {
-              "value": 111.2,
-              "unit": "mm",
-              "sourcePage": 4,
-              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
-              "derivation": "Explicit magnet-detail ordinate or section dimension; shared drawing title applies to M2/M3/M4."
-            },
+            "xMax": null,
             "yMin": {
               "value": 105.58,
               "unit": "mm",
@@ -23952,7 +23874,8 @@
               "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
               "derivation": "Explicit magnet-detail ordinate or section dimension; shared drawing title applies to M2/M3/M4."
             },
-            "extentThroughThickness": "Extends above and below product thickness; no finite depth specified."
+            "extentThroughThickness": "Extends above and below product thickness; no finite depth specified.",
+            "xMaxDefinition": "Outer right housing boundary as drawn; no separate local x ordinate is provided for the shaded region. The nearby field-line x ordinate is a different boundary."
           },
           "rightFluxExclusion": {
             "xMin": {
@@ -23962,13 +23885,7 @@
               "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
               "derivation": "Explicit magnet-detail ordinate or section dimension; shared drawing title applies to M2/M3/M4."
             },
-            "xMax": {
-              "value": 111.2,
-              "unit": "mm",
-              "sourcePage": 4,
-              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
-              "derivation": "Explicit magnet-detail ordinate or section dimension; shared drawing title applies to M2/M3/M4."
-            },
+            "xMax": null,
             "yMin": {
               "value": 117.24,
               "unit": "mm",
@@ -23990,7 +23907,8 @@
               "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
               "derivation": "Centered in product thickness."
             },
-            "maximumMilliTesla": 0.25
+            "maximumMilliTesla": 0.25,
+            "xMaxDefinition": "Outer right housing boundary as drawn; no separate local x ordinate is provided for the shaded region. The nearby field-line x ordinate is a different boundary."
           },
           "upperRightFieldLine": {
             "x": {
@@ -27583,13 +27501,7 @@
               "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
               "derivation": "Explicit magnet-detail ordinate or section dimension; shared drawing title applies to M2/M3/M4."
             },
-            "xMax": {
-              "value": 111.2,
-              "unit": "mm",
-              "sourcePage": 4,
-              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
-              "derivation": "Explicit magnet-detail ordinate or section dimension; shared drawing title applies to M2/M3/M4."
-            },
+            "xMax": null,
             "yMin": {
               "value": 105.58,
               "unit": "mm",
@@ -27604,7 +27516,8 @@
               "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
               "derivation": "Explicit magnet-detail ordinate or section dimension; shared drawing title applies to M2/M3/M4."
             },
-            "extentThroughThickness": "Extends above and below product thickness; no finite depth specified."
+            "extentThroughThickness": "Extends above and below product thickness; no finite depth specified.",
+            "xMaxDefinition": "Outer right housing boundary as drawn; no separate local x ordinate is provided for the shaded region. The nearby field-line x ordinate is a different boundary."
           },
           "rightFluxExclusion": {
             "xMin": {
@@ -27614,13 +27527,7 @@
               "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
               "derivation": "Explicit magnet-detail ordinate or section dimension; shared drawing title applies to M2/M3/M4."
             },
-            "xMax": {
-              "value": 111.2,
-              "unit": "mm",
-              "sourcePage": 4,
-              "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
-              "derivation": "Explicit magnet-detail ordinate or section dimension; shared drawing title applies to M2/M3/M4."
-            },
+            "xMax": null,
             "yMin": {
               "value": 117.24,
               "unit": "mm",
@@ -27642,7 +27549,8 @@
               "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
               "derivation": "Centered in product thickness."
             },
-            "maximumMilliTesla": 0.25
+            "maximumMilliTesla": 0.25,
+            "xMaxDefinition": "Outer right housing boundary as drawn; no separate local x ordinate is provided for the shaded region. The nearby field-line x ordinate is a different boundary."
           },
           "upperRightFieldLine": {
             "x": {
@@ -32217,7 +32125,8 @@
     "id": "ipad-mini-a17-pro",
     "sourcePagesReviewed": [
       2,
-      3
+      3,
+      4
     ],
     "additionalDimensions": [
       {
@@ -32508,19 +32417,883 @@
           }
         },
         "note": "Body width134.75 and height195.43 mm are explicit on page2. Printed rear positions cannot be reconciled with these centred datums. No replacement inferred from drawing scale."
+      },
+      "magnetDetail": {
+        "coordinateConvention": "Front portrait view: origin at lower-left body tangent, x right and y up. This differs from the centred display coordinates.",
+        "sensors": {
+          "HES1": {
+            "center": {
+              "x": {
+                "value": 12.54,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 45.62,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "bottomToOutsideHousing": {
+              "value": 2.51,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+            }
+          },
+          "HES2": {
+            "center": {
+              "x": {
+                "value": 116.59,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 40.35,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "bottomToOutsideHousing": {
+              "value": 1.42,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+            }
+          },
+          "compass": {
+            "center": {
+              "x": {
+                "value": 85.37,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 173.36,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "bottomToOutsideHousing": {
+              "value": 0.54,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+            }
+          }
+        },
+        "magnets": [
+          {
+            "label": "PM-FH-1",
+            "center": {
+              "x": {
+                "value": 133.08,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 125.15,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "S",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "PM-FH-2",
+            "center": {
+              "x": {
+                "value": 133.08,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 128.34,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": null,
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred.",
+            "polarityStatus": "Not specified in surface-polarity table."
+          },
+          {
+            "label": "PM-FH-3",
+            "center": {
+              "x": {
+                "value": 133.08,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 132.06,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "N",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "PM-FH-4",
+            "center": {
+              "x": {
+                "value": 133.08,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 135.42,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": null,
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred.",
+            "polarityStatus": "Not specified in surface-polarity table."
+          },
+          {
+            "label": "PM-CH-1",
+            "center": {
+              "x": {
+                "value": 133.08,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 70.28,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "S",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "PM-CH-2",
+            "center": {
+              "x": {
+                "value": 133.08,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 67.09,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": null,
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred.",
+            "polarityStatus": "Not specified in surface-polarity table."
+          },
+          {
+            "label": "PM-CH-3",
+            "center": {
+              "x": {
+                "value": 133.08,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 63.37,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "N",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "PM-CH-4",
+            "center": {
+              "x": {
+                "value": 133.08,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 60.02,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": null,
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred.",
+            "polarityStatus": "Not specified in surface-polarity table."
+          },
+          {
+            "label": "BVA-11",
+            "center": {
+              "x": {
+                "value": 5.34,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 21.87,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "N",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVA-12",
+            "center": {
+              "x": {
+                "value": 5.34,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 33.65,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "N",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVA-13",
+            "center": {
+              "x": {
+                "value": 5.34,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 38.55,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "S",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVA-14",
+            "center": {
+              "x": {
+                "value": 5.34,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 48.94,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "N",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVA-15",
+            "center": {
+              "x": {
+                "value": 5.34,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 53.84,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "S",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVA-21",
+            "center": {
+              "x": {
+                "value": 11.92,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 21.87,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "S",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVA-22",
+            "center": {
+              "x": {
+                "value": 12.48,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 27.04,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "N",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVB-11",
+            "center": {
+              "x": {
+                "value": 129.28,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 45.25,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "N",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVB-12",
+            "center": {
+              "x": {
+                "value": 129.28,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 55.21,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "S",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVB-13",
+            "center": {
+              "x": {
+                "value": 129.28,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 64.1,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "N",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVC-11",
+            "center": {
+              "x": {
+                "value": 129.81,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 130.45,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "S",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVC-12",
+            "center": {
+              "x": {
+                "value": 129.81,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 134.26,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "N",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVC-13",
+            "center": {
+              "x": {
+                "value": 129.81,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 138.46,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "S",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVE-11",
+            "center": {
+              "x": {
+                "value": 5.34,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 154.62,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "S",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVE-12",
+            "center": {
+              "x": {
+                "value": 5.34,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 159.52,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "N",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVE-13",
+            "center": {
+              "x": {
+                "value": 5.34,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 164.42,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "S",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVE-14",
+            "center": {
+              "x": {
+                "value": 5.8,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 169.98,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "N",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVE-15",
+            "center": {
+              "x": {
+                "value": 5.34,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 173.56,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "S",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVE-21",
+            "center": {
+              "x": {
+                "value": 9.77,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 169.98,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "S",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVE-22",
+            "center": {
+              "x": {
+                "value": 9.77,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 173.56,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "N",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVF-11",
+            "center": {
+              "x": {
+                "value": 5.34,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 80.13,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "N",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVF-12",
+            "center": {
+              "x": {
+                "value": 5.34,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 85.03,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "S",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVF-13",
+            "center": {
+              "x": {
+                "value": 5.34,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 97.72,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "N",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          }
+        ],
+        "shuntReferences": {
+          "C2": {
+            "x": {
+              "value": 111.87,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+            },
+            "y": {
+              "value": 21.21,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+            }
+          },
+          "C3": {
+            "x": {
+              "value": 111.78,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+            },
+            "y": {
+              "value": 148.31,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+            }
+          },
+          "BVB": {
+            "x": {
+              "value": 129.28,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+            },
+            "y": {
+              "value": 54.21,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+            }
+          },
+          "BVC": {
+            "x": {
+              "value": 129.81,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+            },
+            "y": {
+              "value": 134.66,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+            }
+          }
+        },
+        "magneticKeepouts": {
+          "rightMagnetExclusion": {
+            "xMin": {
+              "value": 117.48,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+            },
+            "xMax": null,
+            "xMaxDefinition": "Outer right housing boundary as drawn; no separate local x ordinate is provided for the shaded region. The nearby field-line x ordinate is a different boundary.",
+            "yMin": {
+              "value": 77.72,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+            },
+            "yMax": {
+              "value": 117.72,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+            },
+            "extentThroughThickness": "Extends above and below product thickness; no finite depth specified."
+          },
+          "rightFluxExclusion": {
+            "xMin": {
+              "value": 130.96,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+            },
+            "xMax": null,
+            "xMaxDefinition": "Outer right housing boundary as drawn; no separate local x ordinate is provided for the shaded region. The nearby field-line x ordinate is a different boundary.",
+            "yMin": {
+              "value": 89.22,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+            },
+            "yMax": {
+              "value": 106.22,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+            },
+            "thickness": {
+              "value": 3,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+            },
+            "maximumMilliTesla": 0.25
+          },
+          "upperRightFieldLine": {
+            "x": {
+              "value": 138.45,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+            },
+            "yMin": {
+              "value": 129.22,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+            },
+            "yMax": {
+              "value": 132.02,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+            },
+            "outsideHousingOffset": {
+              "value": 3.14,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+            },
+            "maximumMilliTesla": 1.3
+          },
+          "lowerRightFieldLine": {
+            "x": {
+              "value": 138.45,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+            },
+            "yMin": {
+              "value": 63.42,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+            },
+            "yMax": {
+              "value": 66.22,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+            },
+            "outsideHousingOffset": {
+              "value": 3.14,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+            },
+            "maximumMilliTesla": 1.3
+          }
+        }
       }
     },
     "ambiguities": [
       "PDF page3 rear-view109.36 horizontal and170.04 rear-camera vertical callouts exceed body half extents while their arrows terminate at centreline datums. Source values retained as unresolved claims, not valid positions.",
       "Front camera vertical location is not dimensioned;4.38mm explicitly refers to the cellular ambient-light sensor."
     ],
-    "reviewScope": "Named camera/acoustic/flash/ALS/connector keepouts and apertures reviewed. Rear camera position source contradiction explicitly represented; front camera Y remains unknown. Other sheets and contours remain incomplete."
+    "reviewScope": "Named camera/acoustic/flash/ALS/connector keepouts and apertures reviewed. Rear camera position source contradiction explicitly represented; front camera Y remains unknown. Other sheets and contours remain incomplete. Magnetic page normalized: all tabulated magnets and surface polarities, shunt references, HES/compass and four magnetic keepout regions. Unlisted inside/axial polarities remain unknown."
   },
   {
     "id": "ipad-mini-6th-generation",
     "sourcePagesReviewed": [
       2,
-      3
+      3,
+      4
     ],
     "additionalDimensions": [
       {
@@ -32797,13 +33570,675 @@
           }
         },
         "note": "Body width134.75 and height195.43 mm are explicit on page2. Printed rear positions cannot be reconciled with these centred datums. No replacement inferred from drawing scale."
+      },
+      "magnetDetail": {
+        "coordinateConvention": "Front portrait view: origin at lower-left body tangent, x right and y up. This differs from the centred display coordinates.",
+        "sensors": {
+          "HES1": {
+            "center": {
+              "x": {
+                "value": 12.54,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 45.62,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            }
+          },
+          "HES2": {
+            "center": {
+              "x": {
+                "value": 116.59,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 40.35,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            }
+          },
+          "compass": {
+            "center": {
+              "x": {
+                "value": 85.37,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 173.36,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            }
+          }
+        },
+        "magnets": [
+          {
+            "label": "BVA-11",
+            "center": {
+              "x": {
+                "value": 5.34,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 21.87,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "N",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVA-12",
+            "center": {
+              "x": {
+                "value": 5.34,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 33.65,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "N",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVA-13",
+            "center": {
+              "x": {
+                "value": 5.34,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 38.55,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "S",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVA-14",
+            "center": {
+              "x": {
+                "value": 5.34,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 48.94,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "N",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVA-15",
+            "center": {
+              "x": {
+                "value": 5.34,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 53.84,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "S",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVA-21",
+            "center": {
+              "x": {
+                "value": 11.92,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 21.87,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "S",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVA-22",
+            "center": {
+              "x": {
+                "value": 12.48,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 27.04,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "N",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVB-11",
+            "center": {
+              "x": {
+                "value": 129.28,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 45.25,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "N",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVB-12",
+            "center": {
+              "x": {
+                "value": 129.28,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 55.21,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "S",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVB-13",
+            "center": {
+              "x": {
+                "value": 129.28,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 64.1,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "N",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVC-11",
+            "center": {
+              "x": {
+                "value": 130.06,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 130.45,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "S",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVC-12",
+            "center": {
+              "x": {
+                "value": 130.06,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 134.26,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "N",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVC-13",
+            "center": {
+              "x": {
+                "value": 130.06,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 138.46,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "S",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVE-11",
+            "center": {
+              "x": {
+                "value": 5.34,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 154.62,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "S",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVE-12",
+            "center": {
+              "x": {
+                "value": 5.34,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 159.52,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "N",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVE-13",
+            "center": {
+              "x": {
+                "value": 5.34,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 164.42,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "S",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVE-14",
+            "center": {
+              "x": {
+                "value": 5.8,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 169.98,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "N",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVE-15",
+            "center": {
+              "x": {
+                "value": 5.34,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 173.56,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "S",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVE-21",
+            "center": {
+              "x": {
+                "value": 9.77,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 169.98,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "S",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVE-22",
+            "center": {
+              "x": {
+                "value": 9.77,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 173.56,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "N",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVF-11",
+            "center": {
+              "x": {
+                "value": 5.34,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 80.13,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "N",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVF-12",
+            "center": {
+              "x": {
+                "value": 5.34,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 85.03,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "S",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "BVF-13",
+            "center": {
+              "x": {
+                "value": 5.34,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              },
+              "y": {
+                "value": 97.72,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+              }
+            },
+            "polarityTowardSurface": "N",
+            "sourcePage": 4,
+            "derivation": "Only surface polarity is tabulated; inside polarity is not inferred."
+          },
+          {
+            "label": "PM-FH-3",
+            "center": {
+              "x": {
+                "value": 131.39,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit sixth-generation magnet-detail ordinate, lower-left-body origin."
+              },
+              "y": {
+                "value": 121.09,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit sixth-generation magnet-detail ordinate, lower-left-body origin."
+              }
+            },
+            "polarityTowardSurface": "S",
+            "sourcePage": 4,
+            "derivation": "Explicit surface-polarity table; only central member is individually labelled."
+          },
+          {
+            "label": "PM-CH-3",
+            "center": {
+              "x": {
+                "value": 131.39,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit sixth-generation magnet-detail ordinate, lower-left-body origin."
+              },
+              "y": {
+                "value": 74.34,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit sixth-generation magnet-detail ordinate, lower-left-body origin."
+              }
+            },
+            "polarityTowardSurface": "S",
+            "sourcePage": 4,
+            "derivation": "Explicit surface-polarity table; only central member is individually labelled."
+          }
+        ],
+        "shuntReferences": {
+          "C2": {
+            "x": {
+              "value": 111.87,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+            },
+            "y": {
+              "value": 21.21,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+            }
+          },
+          "C3": {
+            "x": {
+              "value": 111.78,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+            },
+            "y": {
+              "value": 148.31,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+            }
+          },
+          "BVB": {
+            "x": {
+              "value": 129.28,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+            },
+            "y": {
+              "value": 54.21,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+            }
+          },
+          "BVC": {
+            "x": {
+              "value": 130.06,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+            },
+            "y": {
+              "value": 134.66,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit local bottom-left-origin magnet-detail ordinate or section dimension."
+            }
+          }
+        },
+        "otherPencilMagnetCentreOrdinates": {
+          "coordinateConvention": "Front portrait view: origin at lower-left body tangent, x right and y up. This differs from the centred display coordinates.",
+          "upperGroup": {
+            "x": {
+              "value": 131.39,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit sixth-generation magnet-detail ordinate, lower-left-body origin."
+            },
+            "y": [
+              {
+                "value": 124.69,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit sixth-generation magnet-detail ordinate, lower-left-body origin."
+              },
+              {
+                "value": 117.49,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit sixth-generation magnet-detail ordinate, lower-left-body origin."
+              }
+            ],
+            "note": "Two explicitly dimensioned centres without individual labels."
+          },
+          "lowerGroup": {
+            "x": {
+              "value": 131.39,
+              "unit": "mm",
+              "sourcePage": 4,
+              "derivation": "Explicit sixth-generation magnet-detail ordinate, lower-left-body origin."
+            },
+            "y": [
+              {
+                "value": 77.94,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit sixth-generation magnet-detail ordinate, lower-left-body origin."
+              },
+              {
+                "value": 70.74,
+                "unit": "mm",
+                "sourcePage": 4,
+                "derivation": "Explicit sixth-generation magnet-detail ordinate, lower-left-body origin."
+              }
+            ],
+            "note": "Two explicitly dimensioned centres without individual labels."
+          }
+        }
       }
     },
     "ambiguities": [
       "PDF page3 rear-view109.36 horizontal and170.04 rear-camera vertical callouts exceed body half extents while their arrows terminate at centreline datums. Source values retained as unresolved claims, not valid positions.",
       "Front camera vertical location is not dimensioned;4.38mm explicitly refers to the cellular ambient-light sensor."
     ],
-    "reviewScope": "Named camera/acoustic/flash/ALS/connector keepouts and apertures reviewed. Rear camera position source contradiction explicitly represented; front camera Y remains unknown. Other sheets and contours remain incomplete."
+    "reviewScope": "Named camera/acoustic/flash/ALS/connector keepouts and apertures reviewed. Rear camera position source contradiction explicitly represented; front camera Y remains unknown. Other sheets and contours remain incomplete. Sixth-generation magnetic page: named magnet locations/surface polarities, shunts and sensor coordinates. Pencil magnets differ from A17 Pro; other unlabelled centre ordinates are retained without invented names. Sensor depth and flux keepouts are not supplied on this page."
   },
   {
     "id": "ipad-air-5th-generation",

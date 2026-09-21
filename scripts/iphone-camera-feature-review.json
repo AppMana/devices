@@ -1585,6 +1585,160 @@
         "continuousBoundary": null,
         "derivation": "Every legible ordinate in this named region is preserved; no guessed pairing, curve or interpolation.",
         "meaning": "Upper hatched exclusion; preserve printed callout category. 15 Pro and 16 Pro/Pro Max callout says metal or other conductive material; other listed models say magnetic/permeable material."
+      },
+      "maximumBackCaseThickness": {
+        "featureType": "case-design-dimensional-note",
+        "dimensions": {
+          "maximumThickness": {
+            "value": 2.1,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Note 8",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Maximum accessory case thickness on backside to ensure full functionality; not body thickness."
+      },
+      "caseMaterialPermeabilityNote": {
+        "featureType": "case-design-material-note",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Note 5",
+        "printedMaximumRelativePermeability": 1.05,
+        "quantityKind": "dimensionless relative magnetic permeability",
+        "standardReference": "ASTM A342/A342M-14",
+        "derivation": "Explicit note; dimensionless ratio is not represented as a millimetre measurement."
+      },
+      "generalDrawingHandlingNotes": {
+        "featureType": "drawing-notes",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "derivation": "Explicit general drawing notes, summarized without converting to geometry.",
+        "notes": [
+          "No metal contact with product.",
+          "Do not obstruct ports/acoustic openings, imaging features or forward-facing sensors.",
+          "Do not touch glass.",
+          "No magnets on rear of product except MagSafe magnets."
+        ]
+      },
+      "bottomMechanicalOrdinateReferences": {
+        "featureType": "bottom-view-mechanical-ordinates",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Bottom overview",
+        "xFromLeftAsDrawn": [
+          {
+            "value": 19.71,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 24.42,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 28.8,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 31.23,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 40.22,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 42.65,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 47.23,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 56.25,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        ],
+        "thicknessDirectionCentre": {
+          "value": 3.97,
+          "unit": "mm",
+          "sourcePage": 2,
+          "sourceSheet": 1,
+          "detail": "Bottom overview",
+          "derivation": "Explicit printed dimension, visually transcribed."
+        },
+        "individualFeatureAssociations": null,
+        "derivation": "Printed bottom-view ordinate set. Preserves acoustic-port, screw, connector and other aperture references without guessing ambiguous individual leader associations. Left means left of bottom view as drawn, not automatically front portrait left."
+      },
+      "connectorApertureAndDatum": {
+        "featureType": "connector-mechanical-reference",
+        "dimensions": {
+          "apertureHeight": {
+            "value": 3.14,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "thicknessDirectionCentre": {
+            "value": 3.97,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
+      },
+      "connectorMatingKeepoutProjection": {
+        "featureType": "connector-clearance-requirement",
+        "dimensions": {
+          "outwardDistance": {
+            "value": 14,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Mating connector keepout flush to product surface required outward14.0mm."
       }
     },
     "ambiguities": [
@@ -3104,6 +3258,216 @@
             "derivation": "Explicit printed dimension, visually transcribed."
           }
         }
+      },
+      "maximumBackCaseThickness": {
+        "featureType": "case-design-dimensional-note",
+        "dimensions": {
+          "maximumThickness": {
+            "value": 2.1,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Note 8",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Maximum accessory case thickness on backside to ensure full functionality; not body thickness."
+      },
+      "caseMaterialPermeabilityNote": {
+        "featureType": "case-design-material-note",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Note 5",
+        "printedMaximumRelativePermeability": 1.05,
+        "quantityKind": "dimensionless relative magnetic permeability",
+        "standardReference": "ASTM A342/A342M-14",
+        "derivation": "Explicit note; dimensionless ratio is not represented as a millimetre measurement."
+      },
+      "generalDrawingHandlingNotes": {
+        "featureType": "drawing-notes",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "derivation": "Explicit general drawing notes, summarized without converting to geometry.",
+        "notes": [
+          "No metal contact with product.",
+          "Do not obstruct ports/acoustic openings, imaging features or forward-facing sensors.",
+          "Do not touch glass.",
+          "No magnets on rear of product except MagSafe magnets."
+        ]
+      },
+      "bottomMechanicalOrdinateReferences": {
+        "featureType": "bottom-view-mechanical-ordinates",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Bottom overview",
+        "xFromLeftAsDrawn": [
+          {
+            "value": 15.4,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 17.65,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 19.91,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 22.16,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 24.42,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 29,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 31.43,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 40.42,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 42.85,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 47.43,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 49.69,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 51.94,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 54.2,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 56.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        ],
+        "thicknessDirectionCentre": {
+          "value": 4.375,
+          "unit": "mm",
+          "sourcePage": 2,
+          "sourceSheet": 1,
+          "detail": "Bottom overview",
+          "derivation": "Explicit printed dimension, visually transcribed."
+        },
+        "individualFeatureAssociations": null,
+        "derivation": "Printed bottom-view ordinate set. Preserves acoustic-port, screw, connector and other aperture references without guessing ambiguous individual leader associations. Left means left of bottom view as drawn, not automatically front portrait left."
+      },
+      "connectorApertureAndDatum": {
+        "featureType": "connector-mechanical-reference",
+        "dimensions": {
+          "apertureHeight": {
+            "value": 3.14,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "thicknessDirectionCentre": {
+            "value": 4.375,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "additionalThicknessReference": {
+            "value": 3.25,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope. Additional 3.25 vertical reference retained independently from overview4.375."
+      },
+      "connectorMatingKeepoutProjection": {
+        "featureType": "connector-clearance-requirement",
+        "dimensions": {
+          "outwardDistance": {
+            "value": 14,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Mating connector keepout flush to product surface required outward14.0mm."
       }
     },
     "ambiguities": [
@@ -4655,6 +5019,208 @@
             "derivation": "Explicit printed dimension, visually transcribed."
           }
         }
+      },
+      "maximumBackCaseThickness": {
+        "featureType": "case-design-dimensional-note",
+        "dimensions": {
+          "maximumThickness": {
+            "value": 2.1,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Note 8",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Maximum accessory case thickness on backside to ensure full functionality; not body thickness."
+      },
+      "caseMaterialPermeabilityNote": {
+        "featureType": "case-design-material-note",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Note 5",
+        "printedMaximumRelativePermeability": 1.05,
+        "quantityKind": "dimensionless relative magnetic permeability",
+        "standardReference": "ASTM A342/A342M-14",
+        "derivation": "Explicit note; dimensionless ratio is not represented as a millimetre measurement."
+      },
+      "generalDrawingHandlingNotes": {
+        "featureType": "drawing-notes",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "derivation": "Explicit general drawing notes, summarized without converting to geometry.",
+        "notes": [
+          "No metal contact with product.",
+          "Do not obstruct ports/acoustic openings, imaging features or forward-facing sensors.",
+          "Do not touch glass.",
+          "No magnets on rear of product except MagSafe magnets."
+        ]
+      },
+      "bottomMechanicalOrdinateReferences": {
+        "featureType": "bottom-view-mechanical-ordinates",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Bottom overview",
+        "xFromLeftAsDrawn": [
+          {
+            "value": 15.41,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 17.65,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 19.91,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 22.16,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 24.42,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 26.67,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 32.06,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 45.91,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 51.3,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 53.56,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 55.81,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 58.07,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 60.32,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 62.57,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        ],
+        "thicknessDirectionCentre": {
+          "value": 4.375,
+          "unit": "mm",
+          "sourcePage": 2,
+          "sourceSheet": 1,
+          "detail": "Bottom overview",
+          "derivation": "Explicit printed dimension, visually transcribed."
+        },
+        "individualFeatureAssociations": null,
+        "derivation": "Printed bottom-view ordinate set. Preserves acoustic-port, screw, connector and other aperture references without guessing ambiguous individual leader associations. Left means left of bottom view as drawn, not automatically front portrait left."
+      },
+      "connectorApertureAndDatum": {
+        "featureType": "connector-mechanical-reference",
+        "dimensions": {
+          "apertureHeight": {
+            "value": 3.12,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "thicknessDirectionCentre": {
+            "value": 4.375,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
+      },
+      "connectorMatingKeepoutProjection": {
+        "featureType": "connector-clearance-requirement",
+        "dimensions": {
+          "outwardDistance": {
+            "value": 14,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Mating connector keepout flush to product surface required outward14.0mm."
       }
     },
     "ambiguities": [
@@ -6260,6 +6826,160 @@
         "continuousBoundary": null,
         "derivation": "Every legible ordinate in this named region is preserved; no guessed pairing, curve or interpolation.",
         "meaning": "Upper hatched exclusion; preserve printed callout category. 15 Pro and 16 Pro/Pro Max callout says metal or other conductive material; other listed models say magnetic/permeable material."
+      },
+      "maximumBackCaseThickness": {
+        "featureType": "case-design-dimensional-note",
+        "dimensions": {
+          "maximumThickness": {
+            "value": 2.1,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Note 8",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Maximum accessory case thickness on backside to ensure full functionality; not body thickness."
+      },
+      "caseMaterialPermeabilityNote": {
+        "featureType": "case-design-material-note",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Note 5",
+        "printedMaximumRelativePermeability": 1.05,
+        "quantityKind": "dimensionless relative magnetic permeability",
+        "standardReference": "ASTM A342/A342M-14",
+        "derivation": "Explicit note; dimensionless ratio is not represented as a millimetre measurement."
+      },
+      "generalDrawingHandlingNotes": {
+        "featureType": "drawing-notes",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "derivation": "Explicit general drawing notes, summarized without converting to geometry.",
+        "notes": [
+          "No metal contact with product.",
+          "Do not obstruct ports/acoustic openings, imaging features or forward-facing sensors.",
+          "Do not touch glass.",
+          "No magnets on rear of product except MagSafe magnets."
+        ]
+      },
+      "bottomMechanicalOrdinateReferences": {
+        "featureType": "bottom-view-mechanical-ordinates",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Bottom overview",
+        "xFromLeftAsDrawn": [
+          {
+            "value": 19.75,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 24.26,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 28.89,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 31.31,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 40.31,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 42.74,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 47.37,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 56.39,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        ],
+        "thicknessDirectionCentre": {
+          "value": 3.91,
+          "unit": "mm",
+          "sourcePage": 2,
+          "sourceSheet": 1,
+          "detail": "Bottom overview",
+          "derivation": "Explicit printed dimension, visually transcribed."
+        },
+        "individualFeatureAssociations": null,
+        "derivation": "Printed bottom-view ordinate set. Preserves acoustic-port, screw, connector and other aperture references without guessing ambiguous individual leader associations. Left means left of bottom view as drawn, not automatically front portrait left."
+      },
+      "connectorApertureAndDatum": {
+        "featureType": "connector-mechanical-reference",
+        "dimensions": {
+          "apertureHeight": {
+            "value": 3.14,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "thicknessDirectionCentre": {
+            "value": 3.91,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
+      },
+      "connectorMatingKeepoutProjection": {
+        "featureType": "connector-clearance-requirement",
+        "dimensions": {
+          "outwardDistance": {
+            "value": 14,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Mating connector keepout flush to product surface required outward14.0mm."
       }
     },
     "ambiguities": [
@@ -7864,6 +8584,160 @@
         "continuousBoundary": null,
         "derivation": "Every legible ordinate in this named region is preserved; no guessed pairing, curve or interpolation.",
         "meaning": "Upper hatched exclusion; preserve printed callout category. 15 Pro and 16 Pro/Pro Max callout says metal or other conductive material; other listed models say magnetic/permeable material."
+      },
+      "maximumBackCaseThickness": {
+        "featureType": "case-design-dimensional-note",
+        "dimensions": {
+          "maximumThickness": {
+            "value": 2.1,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Note 8",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Maximum accessory case thickness on backside to ensure full functionality; not body thickness."
+      },
+      "caseMaterialPermeabilityNote": {
+        "featureType": "case-design-material-note",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Note 5",
+        "printedMaximumRelativePermeability": 1.05,
+        "quantityKind": "dimensionless relative magnetic permeability",
+        "standardReference": "ASTM A342/A342M-14",
+        "derivation": "Explicit note; dimensionless ratio is not represented as a millimetre measurement."
+      },
+      "generalDrawingHandlingNotes": {
+        "featureType": "drawing-notes",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "derivation": "Explicit general drawing notes, summarized without converting to geometry.",
+        "notes": [
+          "No metal contact with product.",
+          "Do not obstruct ports/acoustic openings, imaging features or forward-facing sensors.",
+          "Do not touch glass.",
+          "No magnets on rear of product except MagSafe magnets."
+        ]
+      },
+      "bottomMechanicalOrdinateReferences": {
+        "featureType": "bottom-view-mechanical-ordinates",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Bottom overview",
+        "xFromLeftAsDrawn": [
+          {
+            "value": 20.16,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 26.92,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 31.95,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 34.38,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 43.38,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 45.8,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 50.83,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 62.11,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        ],
+        "thicknessDirectionCentre": {
+          "value": 3.91,
+          "unit": "mm",
+          "sourcePage": 2,
+          "sourceSheet": 1,
+          "detail": "Bottom overview",
+          "derivation": "Explicit printed dimension, visually transcribed."
+        },
+        "individualFeatureAssociations": null,
+        "derivation": "Printed bottom-view ordinate set. Preserves acoustic-port, screw, connector and other aperture references without guessing ambiguous individual leader associations. Left means left of bottom view as drawn, not automatically front portrait left."
+      },
+      "connectorApertureAndDatum": {
+        "featureType": "connector-mechanical-reference",
+        "dimensions": {
+          "apertureHeight": {
+            "value": 3.14,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "thicknessDirectionCentre": {
+            "value": 3.91,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
+      },
+      "connectorMatingKeepoutProjection": {
+        "featureType": "connector-clearance-requirement",
+        "dimensions": {
+          "outwardDistance": {
+            "value": 14,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Mating connector keepout flush to product surface required outward14.0mm."
       }
     },
     "ambiguities": [
@@ -9523,6 +10397,160 @@
         "continuousBoundary": null,
         "derivation": "Every legible ordinate in this named region is preserved; no guessed pairing, curve or interpolation.",
         "meaning": "Upper hatched exclusion; preserve printed callout category. 15 Pro and 16 Pro/Pro Max callout says metal or other conductive material; other listed models say magnetic/permeable material."
+      },
+      "maximumBackCaseThickness": {
+        "featureType": "case-design-dimensional-note",
+        "dimensions": {
+          "maximumThickness": {
+            "value": 2.1,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Note 8",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Maximum accessory case thickness on backside to ensure full functionality; not body thickness."
+      },
+      "caseMaterialPermeabilityNote": {
+        "featureType": "case-design-material-note",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Note 5",
+        "printedMaximumRelativePermeability": 1.05,
+        "quantityKind": "dimensionless relative magnetic permeability",
+        "standardReference": "ASTM A342/A342M-14",
+        "derivation": "Explicit note; dimensionless ratio is not represented as a millimetre measurement."
+      },
+      "generalDrawingHandlingNotes": {
+        "featureType": "drawing-notes",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "derivation": "Explicit general drawing notes, summarized without converting to geometry.",
+        "notes": [
+          "No metal contact with product.",
+          "Do not obstruct ports/acoustic openings, imaging features or forward-facing sensors.",
+          "Do not touch glass.",
+          "No magnets on rear of product except MagSafe magnets."
+        ]
+      },
+      "bottomMechanicalOrdinateReferences": {
+        "featureType": "bottom-view-mechanical-ordinates",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Bottom overview",
+        "xFromLeftAsDrawn": [
+          {
+            "value": 19.7,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 24.21,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 28.79,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 30.86,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 40.58,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 42.64,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 47.23,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 56.25,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        ],
+        "thicknessDirectionCentre": {
+          "value": 4.12,
+          "unit": "mm",
+          "sourcePage": 2,
+          "sourceSheet": 1,
+          "detail": "Bottom overview",
+          "derivation": "Explicit printed dimension, visually transcribed."
+        },
+        "individualFeatureAssociations": null,
+        "derivation": "Printed bottom-view ordinate set. Preserves acoustic-port, screw, connector and other aperture references without guessing ambiguous individual leader associations. Left means left of bottom view as drawn, not automatically front portrait left."
+      },
+      "connectorApertureAndDatum": {
+        "featureType": "connector-mechanical-reference",
+        "dimensions": {
+          "apertureHeight": {
+            "value": 3.14,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "thicknessDirectionCentre": {
+            "value": 4.12,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
+      },
+      "connectorMatingKeepoutProjection": {
+        "featureType": "connector-clearance-requirement",
+        "dimensions": {
+          "outwardDistance": {
+            "value": 14,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Mating connector keepout flush to product surface required outward14.0mm."
       }
     },
     "ambiguities": [
@@ -11130,6 +12158,192 @@
         "continuousBoundary": null,
         "derivation": "Every legible ordinate in this named region is preserved; no guessed pairing, curve or interpolation.",
         "meaning": "Upper hatched exclusion; preserve printed callout category. 15 Pro and 16 Pro/Pro Max callout says metal or other conductive material; other listed models say magnetic/permeable material."
+      },
+      "maximumBackCaseThickness": {
+        "featureType": "case-design-dimensional-note",
+        "dimensions": {
+          "maximumThickness": {
+            "value": 2.1,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Note 8",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Maximum accessory case thickness on backside to ensure full functionality; not body thickness."
+      },
+      "caseMaterialPermeabilityNote": {
+        "featureType": "case-design-material-note",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Note 5",
+        "printedMaximumRelativePermeability": 1.05,
+        "quantityKind": "dimensionless relative magnetic permeability",
+        "standardReference": "ASTM A342/A342M-14",
+        "derivation": "Explicit note; dimensionless ratio is not represented as a millimetre measurement."
+      },
+      "generalDrawingHandlingNotes": {
+        "featureType": "drawing-notes",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "derivation": "Explicit general drawing notes, summarized without converting to geometry.",
+        "notes": [
+          "No metal contact with product.",
+          "Do not obstruct ports/acoustic openings, imaging features or forward-facing sensors.",
+          "Do not touch glass.",
+          "No magnets on rear of product except MagSafe magnets."
+        ]
+      },
+      "bottomMechanicalOrdinateReferences": {
+        "featureType": "bottom-view-mechanical-ordinates",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Bottom overview",
+        "xFromLeftAsDrawn": [
+          {
+            "value": 20.11,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 22.37,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 24.62,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 26.88,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 31.88,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 45.71,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 50.7,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 52.96,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 55.21,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 57.46,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 59.72,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 61.97,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        ],
+        "thicknessDirectionCentre": {
+          "value": 4.12,
+          "unit": "mm",
+          "sourcePage": 2,
+          "sourceSheet": 1,
+          "detail": "Bottom overview",
+          "derivation": "Explicit printed dimension, visually transcribed."
+        },
+        "individualFeatureAssociations": null,
+        "derivation": "Printed bottom-view ordinate set. Preserves acoustic-port, screw, connector and other aperture references without guessing ambiguous individual leader associations. Left means left of bottom view as drawn, not automatically front portrait left."
+      },
+      "connectorApertureAndDatum": {
+        "featureType": "connector-mechanical-reference",
+        "dimensions": {
+          "apertureHeight": {
+            "value": 3.14,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "thicknessDirectionCentre": {
+            "value": 4.12,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
+      },
+      "connectorMatingKeepoutProjection": {
+        "featureType": "connector-clearance-requirement",
+        "dimensions": {
+          "outwardDistance": {
+            "value": 14,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Mating connector keepout flush to product surface required outward14.0mm."
       }
     },
     "ambiguities": [
@@ -12513,6 +13727,160 @@
         "continuousBoundary": null,
         "derivation": "Every legible ordinate in this named region is preserved; no guessed pairing, curve or interpolation.",
         "meaning": "Upper hatched exclusion; preserve printed callout category. 15 Pro and 16 Pro/Pro Max callout says metal or other conductive material; other listed models say magnetic/permeable material."
+      },
+      "maximumBackCaseThickness": {
+        "featureType": "case-design-dimensional-note",
+        "dimensions": {
+          "maximumThickness": {
+            "value": 2.1,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Note 8",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Maximum accessory case thickness on backside to ensure full functionality; not body thickness."
+      },
+      "caseMaterialPermeabilityNote": {
+        "featureType": "case-design-material-note",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Note 5",
+        "printedMaximumRelativePermeability": 1.05,
+        "quantityKind": "dimensionless relative magnetic permeability",
+        "standardReference": "ASTM A342/A342M-14",
+        "derivation": "Explicit note; dimensionless ratio is not represented as a millimetre measurement."
+      },
+      "generalDrawingHandlingNotes": {
+        "featureType": "drawing-notes",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "derivation": "Explicit general drawing notes, summarized without converting to geometry.",
+        "notes": [
+          "No metal contact with product.",
+          "Do not obstruct ports/acoustic openings, imaging features or forward-facing sensors.",
+          "Do not touch glass.",
+          "No magnets on rear of product except MagSafe magnets."
+        ]
+      },
+      "bottomMechanicalOrdinateReferences": {
+        "featureType": "bottom-view-mechanical-ordinates",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Bottom overview",
+        "xFromLeftAsDrawn": [
+          {
+            "value": 24.34,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 26.33,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 30.01,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 33.05,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 41.65,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 44.7,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 48.38,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 50.36,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        ],
+        "thicknessDirectionCentre": {
+          "value": 2.71,
+          "unit": "mm",
+          "sourcePage": 2,
+          "sourceSheet": 1,
+          "detail": "Bottom overview",
+          "derivation": "Explicit printed dimension, visually transcribed."
+        },
+        "individualFeatureAssociations": null,
+        "derivation": "Printed bottom-view ordinate set. Preserves acoustic-port, screw, connector and other aperture references without guessing ambiguous individual leader associations. Left means left of bottom view as drawn, not automatically front portrait left."
+      },
+      "connectorApertureAndDatum": {
+        "featureType": "connector-mechanical-reference",
+        "dimensions": {
+          "apertureHeight": {
+            "value": 2.7,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "thicknessDirectionCentre": {
+            "value": 2.6,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
+      },
+      "connectorMatingKeepoutProjection": {
+        "featureType": "connector-clearance-requirement",
+        "dimensions": {
+          "outwardDistance": {
+            "value": 14,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Mating connector keepout flush to product surface required outward14.0mm."
       }
     },
     "ambiguities": [
@@ -13696,6 +15064,160 @@
         "continuousBoundary": null,
         "derivation": "Every legible ordinate in this named region is preserved; no guessed pairing, curve or interpolation.",
         "meaning": "Upper hatched exclusion; preserve printed callout category. 15 Pro and 16 Pro/Pro Max callout says metal or other conductive material; other listed models say magnetic/permeable material."
+      },
+      "maximumBackCaseThickness": {
+        "featureType": "case-design-dimensional-note",
+        "dimensions": {
+          "maximumThickness": {
+            "value": 2.1,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Note 8",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Maximum accessory case thickness on backside to ensure full functionality; not body thickness."
+      },
+      "caseMaterialPermeabilityNote": {
+        "featureType": "case-design-material-note",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Note 5",
+        "printedMaximumRelativePermeability": 1.05,
+        "quantityKind": "dimensionless relative magnetic permeability",
+        "standardReference": "ASTM A342/A342M-14",
+        "derivation": "Explicit note; dimensionless ratio is not represented as a millimetre measurement."
+      },
+      "generalDrawingHandlingNotes": {
+        "featureType": "drawing-notes",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "derivation": "Explicit general drawing notes, summarized without converting to geometry.",
+        "notes": [
+          "No metal contact with product.",
+          "Do not obstruct ports/acoustic openings, imaging features or forward-facing sensors.",
+          "Do not touch glass.",
+          "No magnets on rear of product except MagSafe magnets."
+        ]
+      },
+      "bottomMechanicalOrdinateReferences": {
+        "featureType": "bottom-view-mechanical-ordinates",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Bottom overview",
+        "xFromLeftAsDrawn": [
+          {
+            "value": 18.79,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 24.83,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 28.84,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 30.97,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 40.55,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 42.69,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 46.69,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 57.24,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        ],
+        "thicknessDirectionCentre": {
+          "value": 3.9,
+          "unit": "mm",
+          "sourcePage": 2,
+          "sourceSheet": 1,
+          "detail": "Bottom overview",
+          "derivation": "Explicit printed dimension, visually transcribed."
+        },
+        "individualFeatureAssociations": null,
+        "derivation": "Printed bottom-view ordinate set. Preserves acoustic-port, screw, connector and other aperture references without guessing ambiguous individual leader associations. Left means left of bottom view as drawn, not automatically front portrait left."
+      },
+      "connectorApertureAndDatum": {
+        "featureType": "connector-mechanical-reference",
+        "dimensions": {
+          "apertureHeight": {
+            "value": 3.14,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "thicknessDirectionCentre": {
+            "value": 3.9,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
+      },
+      "connectorMatingKeepoutProjection": {
+        "featureType": "connector-clearance-requirement",
+        "dimensions": {
+          "outwardDistance": {
+            "value": 14,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Mating connector keepout flush to product surface required outward14.0mm."
       }
     },
     "ambiguities": [
@@ -14893,6 +16415,160 @@
         "continuousBoundary": null,
         "derivation": "Every legible ordinate in this named region is preserved; no guessed pairing, curve or interpolation.",
         "meaning": "Upper hatched exclusion; preserve printed callout category. 15 Pro and 16 Pro/Pro Max callout says metal or other conductive material; other listed models say magnetic/permeable material."
+      },
+      "maximumBackCaseThickness": {
+        "featureType": "case-design-dimensional-note",
+        "dimensions": {
+          "maximumThickness": {
+            "value": 2.1,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Note 8",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Maximum accessory case thickness on backside to ensure full functionality; not body thickness."
+      },
+      "caseMaterialPermeabilityNote": {
+        "featureType": "case-design-material-note",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Note 5",
+        "printedMaximumRelativePermeability": 1.05,
+        "quantityKind": "dimensionless relative magnetic permeability",
+        "standardReference": "ASTM A342/A342M-14",
+        "derivation": "Explicit note; dimensionless ratio is not represented as a millimetre measurement."
+      },
+      "generalDrawingHandlingNotes": {
+        "featureType": "drawing-notes",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "derivation": "Explicit general drawing notes, summarized without converting to geometry.",
+        "notes": [
+          "No metal contact with product.",
+          "Do not obstruct ports/acoustic openings, imaging features or forward-facing sensors.",
+          "Do not touch glass.",
+          "No magnets on rear of product except MagSafe magnets."
+        ]
+      },
+      "bottomMechanicalOrdinateReferences": {
+        "featureType": "bottom-view-mechanical-ordinates",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Bottom overview",
+        "xFromLeftAsDrawn": [
+          {
+            "value": 18.79,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 24.83,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 28.84,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 30.97,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 40.55,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 42.69,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 46.69,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 57.24,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        ],
+        "thicknessDirectionCentre": {
+          "value": 3.9,
+          "unit": "mm",
+          "sourcePage": 2,
+          "sourceSheet": 1,
+          "detail": "Bottom overview",
+          "derivation": "Explicit printed dimension, visually transcribed."
+        },
+        "individualFeatureAssociations": null,
+        "derivation": "Printed bottom-view ordinate set. Preserves acoustic-port, screw, connector and other aperture references without guessing ambiguous individual leader associations. Left means left of bottom view as drawn, not automatically front portrait left."
+      },
+      "connectorApertureAndDatum": {
+        "featureType": "connector-mechanical-reference",
+        "dimensions": {
+          "apertureHeight": {
+            "value": 3.14,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "thicknessDirectionCentre": {
+            "value": 3.9,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
+      },
+      "connectorMatingKeepoutProjection": {
+        "featureType": "connector-clearance-requirement",
+        "dimensions": {
+          "outwardDistance": {
+            "value": 14,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Mating connector keepout flush to product surface required outward14.0mm."
       }
     },
     "ambiguities": [
@@ -16325,6 +18001,160 @@
           }
         },
         "meaning": "Metal/conductive material exclusion; non-conductive material uniform thickness. Thickness-direction datum follows side view."
+      },
+      "maximumBackCaseThickness": {
+        "featureType": "case-design-dimensional-note",
+        "dimensions": {
+          "maximumThickness": {
+            "value": 2.1,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Note 8",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Maximum accessory case thickness on backside to ensure full functionality; not body thickness."
+      },
+      "caseMaterialPermeabilityNote": {
+        "featureType": "case-design-material-note",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Note 5",
+        "printedMaximumRelativePermeability": 1.05,
+        "quantityKind": "dimensionless relative magnetic permeability",
+        "standardReference": "ASTM A342/A342M-14",
+        "derivation": "Explicit note; dimensionless ratio is not represented as a millimetre measurement."
+      },
+      "generalDrawingHandlingNotes": {
+        "featureType": "drawing-notes",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "derivation": "Explicit general drawing notes, summarized without converting to geometry.",
+        "notes": [
+          "No metal contact with product.",
+          "Do not obstruct ports/acoustic openings, imaging features or forward-facing sensors.",
+          "Do not touch glass.",
+          "No magnets on rear of product except MagSafe magnets."
+        ]
+      },
+      "bottomMechanicalOrdinateReferences": {
+        "featureType": "bottom-view-mechanical-ordinates",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Bottom overview",
+        "xFromLeftAsDrawn": [
+          {
+            "value": 19.59,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 24.1,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 28.89,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 31.31,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 40.31,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 42.74,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 47.53,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 56.55,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        ],
+        "thicknessDirectionCentre": {
+          "value": 3.91,
+          "unit": "mm",
+          "sourcePage": 2,
+          "sourceSheet": 1,
+          "detail": "Bottom overview",
+          "derivation": "Explicit printed dimension, visually transcribed."
+        },
+        "individualFeatureAssociations": null,
+        "derivation": "Printed bottom-view ordinate set. Preserves acoustic-port, screw, connector and other aperture references without guessing ambiguous individual leader associations. Left means left of bottom view as drawn, not automatically front portrait left."
+      },
+      "connectorApertureAndDatum": {
+        "featureType": "connector-mechanical-reference",
+        "dimensions": {
+          "apertureHeight": {
+            "value": 3.25,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "thicknessDirectionCentre": {
+            "value": 3.91,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
+      },
+      "connectorMatingKeepoutProjection": {
+        "featureType": "connector-clearance-requirement",
+        "dimensions": {
+          "outwardDistance": {
+            "value": 14,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Mating connector keepout flush to product surface required outward14.0mm."
       }
     },
     "ambiguities": [],
@@ -17754,6 +19584,160 @@
           }
         },
         "meaning": "Metal/conductive material exclusion; non-conductive material uniform thickness. Thickness-direction datum follows side view."
+      },
+      "maximumBackCaseThickness": {
+        "featureType": "case-design-dimensional-note",
+        "dimensions": {
+          "maximumThickness": {
+            "value": 2.1,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Note 8",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Maximum accessory case thickness on backside to ensure full functionality; not body thickness."
+      },
+      "caseMaterialPermeabilityNote": {
+        "featureType": "case-design-material-note",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Note 5",
+        "printedMaximumRelativePermeability": 1.05,
+        "quantityKind": "dimensionless relative magnetic permeability",
+        "standardReference": "ASTM A342/A342M-14",
+        "derivation": "Explicit note; dimensionless ratio is not represented as a millimetre measurement."
+      },
+      "generalDrawingHandlingNotes": {
+        "featureType": "drawing-notes",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "derivation": "Explicit general drawing notes, summarized without converting to geometry.",
+        "notes": [
+          "No metal contact with product.",
+          "Do not obstruct ports/acoustic openings, imaging features or forward-facing sensors.",
+          "Do not touch glass.",
+          "No magnets on rear of product except MagSafe magnets."
+        ]
+      },
+      "bottomMechanicalOrdinateReferences": {
+        "featureType": "bottom-view-mechanical-ordinates",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Bottom overview",
+        "xFromLeftAsDrawn": [
+          {
+            "value": 20.39,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 27.16,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 31.95,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 34.09,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 43.67,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 45.8,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 50.6,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 61.87,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        ],
+        "thicknessDirectionCentre": {
+          "value": 3.91,
+          "unit": "mm",
+          "sourcePage": 2,
+          "sourceSheet": 1,
+          "detail": "Bottom overview",
+          "derivation": "Explicit printed dimension, visually transcribed."
+        },
+        "individualFeatureAssociations": null,
+        "derivation": "Printed bottom-view ordinate set. Preserves acoustic-port, screw, connector and other aperture references without guessing ambiguous individual leader associations. Left means left of bottom view as drawn, not automatically front portrait left."
+      },
+      "connectorApertureAndDatum": {
+        "featureType": "connector-mechanical-reference",
+        "dimensions": {
+          "apertureHeight": {
+            "value": 3.72,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "thicknessDirectionCentre": {
+            "value": 3.91,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
+      },
+      "connectorMatingKeepoutProjection": {
+        "featureType": "connector-clearance-requirement",
+        "dimensions": {
+          "outwardDistance": {
+            "value": 14,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Mating connector keepout flush to product surface required outward14.0mm."
       }
     },
     "ambiguities": [],
@@ -19230,6 +21214,160 @@
           }
         },
         "meaning": "Metal/conductive material exclusion; non-conductive material uniform thickness. Thickness-direction datum follows side view."
+      },
+      "maximumBackCaseThickness": {
+        "featureType": "case-design-dimensional-note",
+        "dimensions": {
+          "maximumThickness": {
+            "value": 2.1,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Note 8",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Maximum accessory case thickness on backside to ensure full functionality; not body thickness."
+      },
+      "caseMaterialPermeabilityNote": {
+        "featureType": "case-design-material-note",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Note 5",
+        "printedMaximumRelativePermeability": 1.05,
+        "quantityKind": "dimensionless relative magnetic permeability",
+        "standardReference": "ASTM A342/A342M-14",
+        "derivation": "Explicit note; dimensionless ratio is not represented as a millimetre measurement."
+      },
+      "generalDrawingHandlingNotes": {
+        "featureType": "drawing-notes",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "derivation": "Explicit general drawing notes, summarized without converting to geometry.",
+        "notes": [
+          "No metal contact with product.",
+          "Do not obstruct ports/acoustic openings, imaging features or forward-facing sensors.",
+          "Do not touch glass.",
+          "No magnets on rear of product except MagSafe magnets."
+        ]
+      },
+      "bottomMechanicalOrdinateReferences": {
+        "featureType": "bottom-view-mechanical-ordinates",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Bottom overview",
+        "xFromLeftAsDrawn": [
+          {
+            "value": 19.59,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 24.1,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 28.38,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 30.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 40.16,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 42.23,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 46.5,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 55.52,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        ],
+        "thicknessDirectionCentre": {
+          "value": 4.12,
+          "unit": "mm",
+          "sourcePage": 2,
+          "sourceSheet": 1,
+          "detail": "Bottom overview",
+          "derivation": "Explicit printed dimension, visually transcribed."
+        },
+        "individualFeatureAssociations": null,
+        "derivation": "Printed bottom-view ordinate set. Preserves acoustic-port, screw, connector and other aperture references without guessing ambiguous individual leader associations. Left means left of bottom view as drawn, not automatically front portrait left."
+      },
+      "connectorApertureAndDatum": {
+        "featureType": "connector-mechanical-reference",
+        "dimensions": {
+          "apertureHeight": {
+            "value": 3.14,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "thicknessDirectionCentre": {
+            "value": 4.12,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
+      },
+      "connectorMatingKeepoutProjection": {
+        "featureType": "connector-clearance-requirement",
+        "dimensions": {
+          "outwardDistance": {
+            "value": 14,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Mating connector keepout flush to product surface required outward14.0mm."
       }
     },
     "ambiguities": [],
@@ -20679,6 +22817,160 @@
           }
         },
         "meaning": "Metal/conductive material exclusion; non-conductive material uniform thickness. Thickness-direction datum follows side view."
+      },
+      "maximumBackCaseThickness": {
+        "featureType": "case-design-dimensional-note",
+        "dimensions": {
+          "maximumThickness": {
+            "value": 2.1,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Note 8",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Maximum accessory case thickness on backside to ensure full functionality; not body thickness."
+      },
+      "caseMaterialPermeabilityNote": {
+        "featureType": "case-design-material-note",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Note 5",
+        "printedMaximumRelativePermeability": 1.05,
+        "quantityKind": "dimensionless relative magnetic permeability",
+        "standardReference": "ASTM A342/A342M-14",
+        "derivation": "Explicit note; dimensionless ratio is not represented as a millimetre measurement."
+      },
+      "generalDrawingHandlingNotes": {
+        "featureType": "drawing-notes",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "derivation": "Explicit general drawing notes, summarized without converting to geometry.",
+        "notes": [
+          "No metal contact with product.",
+          "Do not obstruct ports/acoustic openings, imaging features or forward-facing sensors.",
+          "Do not touch glass.",
+          "No magnets on rear of product except MagSafe magnets."
+        ]
+      },
+      "bottomMechanicalOrdinateReferences": {
+        "featureType": "bottom-view-mechanical-ordinates",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Bottom overview",
+        "xFromLeftAsDrawn": [
+          {
+            "value": 20.4,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 27.17,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 31.44,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 33.87,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 42.86,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 45.29,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 49.56,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 60.84,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        ],
+        "thicknessDirectionCentre": {
+          "value": 4.12,
+          "unit": "mm",
+          "sourcePage": 2,
+          "sourceSheet": 1,
+          "detail": "Bottom overview",
+          "derivation": "Explicit printed dimension, visually transcribed."
+        },
+        "individualFeatureAssociations": null,
+        "derivation": "Printed bottom-view ordinate set. Preserves acoustic-port, screw, connector and other aperture references without guessing ambiguous individual leader associations. Left means left of bottom view as drawn, not automatically front portrait left."
+      },
+      "connectorApertureAndDatum": {
+        "featureType": "connector-mechanical-reference",
+        "dimensions": {
+          "apertureHeight": {
+            "value": 3.14,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "thicknessDirectionCentre": {
+            "value": 4.12,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
+      },
+      "connectorMatingKeepoutProjection": {
+        "featureType": "connector-clearance-requirement",
+        "dimensions": {
+          "outwardDistance": {
+            "value": 14,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Mating connector keepout flush to product surface required outward14.0mm."
       }
     },
     "ambiguities": [
@@ -21674,6 +23966,234 @@
         "pairedCoordinates": null,
         "continuousCurve": null,
         "derivation": "Explicit local side-profile ordinate sets; preserve multiple surfaces without guessing pairings or interpolation."
+      },
+      "maximumBackCaseThickness": {
+        "featureType": "case-design-dimensional-note",
+        "dimensions": {
+          "maximumThickness": {
+            "value": 5,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Note 10",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Maximum accessory case thickness on backside to ensure full functionality; not body thickness."
+      },
+      "caseMaterialPermeabilityNote": {
+        "featureType": "case-design-material-note",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Note 9",
+        "printedMaximumRelativePermeability": 1.05,
+        "quantityKind": "dimensionless relative magnetic permeability",
+        "standardReference": null,
+        "derivation": "Explicit note; dimensionless ratio is not represented as a millimetre measurement."
+      },
+      "generalDrawingHandlingNotes": {
+        "featureType": "drawing-notes",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "derivation": "Explicit general drawing notes, summarized without converting to geometry.",
+        "notes": [
+          "No metal contact with product.",
+          "Do not obstruct ports/acoustic openings, imaging features or forward-facing sensors.",
+          "Do not touch glass.",
+          "No high powered magnets.",
+          "Do not obstruct home/Touch ID sensor."
+        ]
+      },
+      "rearUpperConductiveExclusionBand": {
+        "featureType": "material-exclusion-boundary-reference",
+        "dimensions": {
+          "heightFromTop": {
+            "value": 15.4,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Rear view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Metal exclusion across full product volume in upper band; body outer contour closes boundary."
+      },
+      "rearLowerConductiveExclusionBand": {
+        "featureType": "material-exclusion-boundary-reference",
+        "dimensions": {
+          "heightFromBottom": {
+            "value": 13.51,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Rear view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Metal exclusion across full product volume in lower band; measured upward from body bottom."
+      },
+      "simTray": {
+        "featureType": "side-mechanical-reference",
+        "dimensions": {
+          "centerFromTop": {
+            "value": 52.72,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Right side view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "longitudinalLength": {
+            "value": 15.67,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Right side view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "transverseWidth": {
+            "value": 2.3,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Right side view",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        }
+      },
+      "connectorMatingKeepoutProjection": {
+        "featureType": "connector-clearance-requirement",
+        "dimensions": {
+          "outwardDistance": {
+            "value": 14,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail F",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Mating connector keepout flush to product surface required outward14.0mm."
+      },
+      "bottomMechanicalOrdinateReferences": {
+        "featureType": "bottom-view-mechanical-ordinates",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Bottom overview",
+        "xFromLeftAsDrawn": [
+          {
+            "value": 10.26,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 22.26,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 22.98,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 27.24,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 29.28,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 37.98,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 40.03,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 44.29,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 45.01,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 57.01,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        ],
+        "thicknessDirectionCentre": {
+          "value": 3.66,
+          "unit": "mm",
+          "sourcePage": 2,
+          "sourceSheet": 1,
+          "detail": "Bottom overview",
+          "derivation": "Explicit printed dimension, visually transcribed."
+        },
+        "individualFeatureAssociations": null,
+        "derivation": "Printed bottom-view ordinate set. Preserves acoustic-port, screw, connector and other aperture references without guessing ambiguous individual leader associations. Left means left of bottom view as drawn, not automatically front portrait left."
+      },
+      "connectorApertureAndDatum": {
+        "featureType": "connector-mechanical-reference",
+        "dimensions": {
+          "apertureHeight": {
+            "value": 2.95,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail F",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "thicknessDirectionCentre": {
+            "value": 3.655,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail F",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
       }
     },
     "ambiguities": [
@@ -22936,6 +25456,132 @@
           }
         },
         "meaning": "Mating connector keepout area flush to product surface required outward 14.0 mm."
+      },
+      "caseMaterialPermeabilityNote": {
+        "featureType": "case-design-material-note",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Note 5",
+        "printedMaximumRelativePermeability": 1.05,
+        "quantityKind": "dimensionless relative magnetic permeability",
+        "standardReference": "ASTM A342/A342M-14",
+        "derivation": "Explicit note; dimensionless ratio is not represented as a millimetre measurement."
+      },
+      "generalDrawingHandlingNotes": {
+        "featureType": "drawing-notes",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "derivation": "Explicit general drawing notes, summarized without converting to geometry.",
+        "notes": [
+          "No metal contact with product.",
+          "Do not obstruct ports/acoustic openings, imaging features or forward-facing sensors.",
+          "Do not touch glass.",
+          "No magnets on rear of product except MagSafe magnets."
+        ]
+      },
+      "bottomMechanicalOrdinateReferences": {
+        "featureType": "bottom-view-mechanical-ordinates",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Bottom overview",
+        "xFromLeftAsDrawn": [
+          {
+            "value": 19.14,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 25.18,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 29.37,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 31.54,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 39.99,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 42.16,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 46.34,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 56.89,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        ],
+        "thicknessDirectionCentre": {
+          "value": 3.9,
+          "unit": "mm",
+          "sourcePage": 2,
+          "sourceSheet": 1,
+          "detail": "Bottom overview",
+          "derivation": "Explicit printed dimension, visually transcribed."
+        },
+        "individualFeatureAssociations": null,
+        "derivation": "Printed bottom-view ordinate set. Preserves acoustic-port, screw, connector and other aperture references without guessing ambiguous individual leader associations. Left means left of bottom view as drawn, not automatically front portrait left."
+      },
+      "connectorApertureAndDatum": {
+        "featureType": "connector-mechanical-reference",
+        "dimensions": {
+          "apertureHeight": {
+            "value": 2.7,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "thicknessDirectionCentre": {
+            "value": 3.9,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
       }
     },
     "ambiguities": [],
@@ -24195,6 +26841,132 @@
           }
         },
         "meaning": "Mating connector keepout area flush to product surface required outward 14.0 mm."
+      },
+      "caseMaterialPermeabilityNote": {
+        "featureType": "case-design-material-note",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Note 5",
+        "printedMaximumRelativePermeability": 1.05,
+        "quantityKind": "dimensionless relative magnetic permeability",
+        "standardReference": "ASTM A342/A342M-14",
+        "derivation": "Explicit note; dimensionless ratio is not represented as a millimetre measurement."
+      },
+      "generalDrawingHandlingNotes": {
+        "featureType": "drawing-notes",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "derivation": "Explicit general drawing notes, summarized without converting to geometry.",
+        "notes": [
+          "No metal contact with product.",
+          "Do not obstruct ports/acoustic openings, imaging features or forward-facing sensors.",
+          "Do not touch glass.",
+          "No magnets on rear of product except MagSafe magnets."
+        ]
+      },
+      "bottomMechanicalOrdinateReferences": {
+        "featureType": "bottom-view-mechanical-ordinates",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Bottom overview",
+        "xFromLeftAsDrawn": [
+          {
+            "value": 20.16,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 28.46,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 32.64,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 34.81,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 43.26,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 45.43,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 49.62,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 62.42,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        ],
+        "thicknessDirectionCentre": {
+          "value": 3.9,
+          "unit": "mm",
+          "sourcePage": 2,
+          "sourceSheet": 1,
+          "detail": "Bottom overview",
+          "derivation": "Explicit printed dimension, visually transcribed."
+        },
+        "individualFeatureAssociations": null,
+        "derivation": "Printed bottom-view ordinate set. Preserves acoustic-port, screw, connector and other aperture references without guessing ambiguous individual leader associations. Left means left of bottom view as drawn, not automatically front portrait left."
+      },
+      "connectorApertureAndDatum": {
+        "featureType": "connector-mechanical-reference",
+        "dimensions": {
+          "apertureHeight": {
+            "value": 2.7,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "thicknessDirectionCentre": {
+            "value": 3.9,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
       }
     },
     "ambiguities": [],
@@ -25636,6 +28408,132 @@
           }
         },
         "meaning": "Mating connector keepout area flush to product surface required outward 14.0 mm."
+      },
+      "caseMaterialPermeabilityNote": {
+        "featureType": "case-design-material-note",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Note 5",
+        "printedMaximumRelativePermeability": 1.05,
+        "quantityKind": "dimensionless relative magnetic permeability",
+        "standardReference": "ASTM A342/A342M-14",
+        "derivation": "Explicit note; dimensionless ratio is not represented as a millimetre measurement."
+      },
+      "generalDrawingHandlingNotes": {
+        "featureType": "drawing-notes",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "derivation": "Explicit general drawing notes, summarized without converting to geometry.",
+        "notes": [
+          "No metal contact with product.",
+          "Do not obstruct ports/acoustic openings, imaging features or forward-facing sensors.",
+          "Do not touch glass.",
+          "No magnets on rear of product except MagSafe magnets."
+        ]
+      },
+      "bottomMechanicalOrdinateReferences": {
+        "featureType": "bottom-view-mechanical-ordinates",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Bottom overview",
+        "xFromLeftAsDrawn": [
+          {
+            "value": 19.11,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 25.15,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 29.33,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 31.35,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 40.11,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 42.12,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 46.31,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 56.86,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        ],
+        "thicknessDirectionCentre": {
+          "value": 3.85,
+          "unit": "mm",
+          "sourcePage": 2,
+          "sourceSheet": 1,
+          "detail": "Bottom overview",
+          "derivation": "Explicit printed dimension, visually transcribed."
+        },
+        "individualFeatureAssociations": null,
+        "derivation": "Printed bottom-view ordinate set. Preserves acoustic-port, screw, connector and other aperture references without guessing ambiguous individual leader associations. Left means left of bottom view as drawn, not automatically front portrait left."
+      },
+      "connectorApertureAndDatum": {
+        "featureType": "connector-mechanical-reference",
+        "dimensions": {
+          "apertureHeight": {
+            "value": 3.01,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "thicknessDirectionCentre": {
+            "value": 3.85,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
       }
     },
     "ambiguities": [
@@ -27054,6 +29952,132 @@
           }
         },
         "meaning": "Mating connector keepout area flush to product surface required outward 14.0 mm."
+      },
+      "caseMaterialPermeabilityNote": {
+        "featureType": "case-design-material-note",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Note 5",
+        "printedMaximumRelativePermeability": 1.05,
+        "quantityKind": "dimensionless relative magnetic permeability",
+        "standardReference": "ASTM A342/A342M-14",
+        "derivation": "Explicit note; dimensionless ratio is not represented as a millimetre measurement."
+      },
+      "generalDrawingHandlingNotes": {
+        "featureType": "drawing-notes",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "derivation": "Explicit general drawing notes, summarized without converting to geometry.",
+        "notes": [
+          "No metal contact with product.",
+          "Do not obstruct ports/acoustic openings, imaging features or forward-facing sensors.",
+          "Do not touch glass.",
+          "No magnets on rear of product except MagSafe magnets."
+        ]
+      },
+      "bottomMechanicalOrdinateReferences": {
+        "featureType": "bottom-view-mechanical-ordinates",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Bottom overview",
+        "xFromLeftAsDrawn": [
+          {
+            "value": 19.91,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 28.21,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 32.39,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 34.39,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 43.17,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 45.18,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 49.37,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 62.17,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        ],
+        "thicknessDirectionCentre": {
+          "value": 3.85,
+          "unit": "mm",
+          "sourcePage": 2,
+          "sourceSheet": 1,
+          "detail": "Bottom overview",
+          "derivation": "Explicit printed dimension, visually transcribed."
+        },
+        "individualFeatureAssociations": null,
+        "derivation": "Printed bottom-view ordinate set. Preserves acoustic-port, screw, connector and other aperture references without guessing ambiguous individual leader associations. Left means left of bottom view as drawn, not automatically front portrait left."
+      },
+      "connectorApertureAndDatum": {
+        "featureType": "connector-mechanical-reference",
+        "dimensions": {
+          "apertureHeight": {
+            "value": 3.01,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "thicknessDirectionCentre": {
+            "value": 3.85,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
       }
     },
     "ambiguities": [
@@ -28433,6 +31457,132 @@
           }
         },
         "meaning": "Mating connector keepout area flush to product surface required outward 14.0 mm."
+      },
+      "caseMaterialPermeabilityNote": {
+        "featureType": "case-design-material-note",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Note 5",
+        "printedMaximumRelativePermeability": 1.05,
+        "quantityKind": "dimensionless relative magnetic permeability",
+        "standardReference": "ASTM A342/A342M-14",
+        "derivation": "Explicit note; dimensionless ratio is not represented as a millimetre measurement."
+      },
+      "generalDrawingHandlingNotes": {
+        "featureType": "drawing-notes",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "derivation": "Explicit general drawing notes, summarized without converting to geometry.",
+        "notes": [
+          "No metal contact with product.",
+          "Do not obstruct ports/acoustic openings, imaging features or forward-facing sensors.",
+          "Do not touch glass.",
+          "No magnets on rear of product except MagSafe magnets."
+        ]
+      },
+      "bottomMechanicalOrdinateReferences": {
+        "featureType": "bottom-view-mechanical-ordinates",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Bottom overview",
+        "xFromLeftAsDrawn": [
+          {
+            "value": 19.14,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 25.18,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 29.37,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 31.74,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 39.79,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 42.16,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 46.34,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 56.89,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        ],
+        "thicknessDirectionCentre": {
+          "value": 3.75,
+          "unit": "mm",
+          "sourcePage": 2,
+          "sourceSheet": 1,
+          "detail": "Bottom overview",
+          "derivation": "Explicit printed dimension, visually transcribed."
+        },
+        "individualFeatureAssociations": null,
+        "derivation": "Printed bottom-view ordinate set. Preserves acoustic-port, screw, connector and other aperture references without guessing ambiguous individual leader associations. Left means left of bottom view as drawn, not automatically front portrait left."
+      },
+      "connectorApertureAndDatum": {
+        "featureType": "connector-mechanical-reference",
+        "dimensions": {
+          "apertureHeight": {
+            "value": 2.3,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "thicknessDirectionCentre": {
+            "value": 3.82,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
       }
     },
     "ambiguities": [],
@@ -29844,6 +32994,148 @@
           }
         },
         "meaning": "Mating connector keepout area flush to product surface required outward 14.0 mm."
+      },
+      "caseMaterialPermeabilityNote": {
+        "featureType": "case-design-material-note",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Note 5",
+        "printedMaximumRelativePermeability": 1.05,
+        "quantityKind": "dimensionless relative magnetic permeability",
+        "standardReference": "ASTM A342/A342M-14",
+        "derivation": "Explicit note; dimensionless ratio is not represented as a millimetre measurement."
+      },
+      "generalDrawingHandlingNotes": {
+        "featureType": "drawing-notes",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "derivation": "Explicit general drawing notes, summarized without converting to geometry.",
+        "notes": [
+          "No metal contact with product.",
+          "Do not obstruct ports/acoustic openings, imaging features or forward-facing sensors.",
+          "Do not touch glass.",
+          "No magnets on rear of product except MagSafe magnets."
+        ]
+      },
+      "bottomMechanicalOrdinateReferences": {
+        "featureType": "bottom-view-mechanical-ordinates",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Bottom overview",
+        "xFromLeftAsDrawn": [
+          {
+            "value": 17.74,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 21.53,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 25.71,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 28.08,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 36.13,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 38.5,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 43.45,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 43.71,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 47.96,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 50.22,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        ],
+        "thicknessDirectionCentre": {
+          "value": 3.75,
+          "unit": "mm",
+          "sourcePage": 2,
+          "sourceSheet": 1,
+          "detail": "Bottom overview",
+          "derivation": "Explicit printed dimension, visually transcribed."
+        },
+        "individualFeatureAssociations": null,
+        "derivation": "Printed bottom-view ordinate set. Preserves acoustic-port, screw, connector and other aperture references without guessing ambiguous individual leader associations. Left means left of bottom view as drawn, not automatically front portrait left."
+      },
+      "connectorApertureAndDatum": {
+        "featureType": "connector-mechanical-reference",
+        "dimensions": {
+          "apertureHeight": {
+            "value": 2.3,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail Z",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "thicknessDirectionCentre": {
+            "value": 3.82,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail Z",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
       }
     },
     "ambiguities": [
@@ -31101,7 +34393,7 @@
               "derivation": "Printed ordinate magnitude measured from rear-view top-left datum; y increases down in this normalized list."
             },
             {
-              "value": 67.65,
+              "value": 67.05,
               "unit": "mm",
               "sourcePage": 3,
               "sourceSheet": 2,
@@ -31109,7 +34401,7 @@
               "derivation": "Printed ordinate magnitude measured from rear-view top-left datum; y increases down in this normalized list."
             },
             {
-              "value": 68.69,
+              "value": 67.69,
               "unit": "mm",
               "sourcePage": 3,
               "sourceSheet": 2,
@@ -31117,7 +34409,7 @@
               "derivation": "Printed ordinate magnitude measured from rear-view top-left datum; y increases down in this normalized list."
             },
             {
-              "value": 69.98,
+              "value": 69.99,
               "unit": "mm",
               "sourcePage": 3,
               "sourceSheet": 2,
@@ -31179,8 +34471,7 @@
         "pairedCoordinates": null,
         "continuousBoundary": null,
         "derivation": "Every legible ordinate in this named region is preserved; no guessed pairing, curve or interpolation.",
-        "meaning": "Rear upper exclusion contours for metal or other conductive material, including sidewalls. Where crosshatching overlays another region, ordinates are kept as one reviewed local set; no inferred polygon.",
-        "ambiguity": "Lower local y label overlaps R2.00 callout; unresolved y is not promoted. The explicitly printed local R2.00 is retained separately."
+        "ambiguity": "Two overprinted lower-edge ordinate labels appear around 42 mm; no unambiguous radius callout or exact lower ordinate promoted. Verified high-resolution crop."
       },
       "rearLowerConductiveExclusionBoundary": {
         "featureType": "material-exclusion-boundary-ordinates",
@@ -31253,19 +34544,6 @@
         "derivation": "Every legible ordinate in this named region is preserved; no guessed pairing, curve or interpolation.",
         "meaning": "Upper magnetic/permeable-material exclusion including sidewalls. These are separate from the central charging exclusion and compass reference."
       },
-      "rearConductiveExclusionCornerRadius": {
-        "featureType": "material-exclusion-boundary-reference",
-        "dimensions": {
-          "radius": {
-            "value": 2,
-            "unit": "mm",
-            "sourcePage": 3,
-            "sourceSheet": 2,
-            "detail": "Rear upper conductive exclusion view",
-            "derivation": "Explicit printed dimension, visually transcribed."
-          }
-        }
-      },
       "maximumBackCaseThickness": {
         "featureType": "case-design-dimensional-note",
         "dimensions": {
@@ -31293,6 +34571,132 @@
           }
         },
         "meaning": "Mating connector keepout area flush to product surface required outward 14.0 mm."
+      },
+      "caseMaterialPermeabilityNote": {
+        "featureType": "case-design-material-note",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Note 5",
+        "printedMaximumRelativePermeability": 1.05,
+        "quantityKind": "dimensionless relative magnetic permeability",
+        "standardReference": "ASTM A342/A342M-14",
+        "derivation": "Explicit note; dimensionless ratio is not represented as a millimetre measurement."
+      },
+      "generalDrawingHandlingNotes": {
+        "featureType": "drawing-notes",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "derivation": "Explicit general drawing notes, summarized without converting to geometry.",
+        "notes": [
+          "No metal contact with product.",
+          "Do not obstruct ports/acoustic openings, imaging features or forward-facing sensors.",
+          "Do not touch glass.",
+          "No magnets on rear of product except MagSafe magnets."
+        ]
+      },
+      "bottomMechanicalOrdinateReferences": {
+        "featureType": "bottom-view-mechanical-ordinates",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Bottom overview",
+        "xFromLeftAsDrawn": [
+          {
+            "value": 19.14,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 25.18,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 29.37,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 31.74,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 39.79,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 42.16,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 46.34,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 56.89,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        ],
+        "thicknessDirectionCentre": {
+          "value": 3.75,
+          "unit": "mm",
+          "sourcePage": 2,
+          "sourceSheet": 1,
+          "detail": "Bottom overview",
+          "derivation": "Explicit printed dimension, visually transcribed."
+        },
+        "individualFeatureAssociations": null,
+        "derivation": "Printed bottom-view ordinate set. Preserves acoustic-port, screw, connector and other aperture references without guessing ambiguous individual leader associations. Left means left of bottom view as drawn, not automatically front portrait left."
+      },
+      "connectorApertureAndDatum": {
+        "featureType": "connector-mechanical-reference",
+        "dimensions": {
+          "apertureHeight": {
+            "value": 2.3,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "thicknessDirectionCentre": {
+            "value": 3.8,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
       }
     },
     "ambiguities": [
@@ -32737,6 +36141,132 @@
           }
         },
         "meaning": "Mating connector keepout area flush to product surface required outward 14.0 mm."
+      },
+      "caseMaterialPermeabilityNote": {
+        "featureType": "case-design-material-note",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Note 5",
+        "printedMaximumRelativePermeability": 1.05,
+        "quantityKind": "dimensionless relative magnetic permeability",
+        "standardReference": "ASTM A342/A342M-14",
+        "derivation": "Explicit note; dimensionless ratio is not represented as a millimetre measurement."
+      },
+      "generalDrawingHandlingNotes": {
+        "featureType": "drawing-notes",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "derivation": "Explicit general drawing notes, summarized without converting to geometry.",
+        "notes": [
+          "No metal contact with product.",
+          "Do not obstruct ports/acoustic openings, imaging features or forward-facing sensors.",
+          "Do not touch glass.",
+          "No magnets on rear of product except MagSafe magnets."
+        ]
+      },
+      "bottomMechanicalOrdinateReferences": {
+        "featureType": "bottom-view-mechanical-ordinates",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Bottom overview",
+        "xFromLeftAsDrawn": [
+          {
+            "value": 20.16,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 28.46,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 32.64,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 34.7,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 43.42,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 45.43,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 49.62,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 62.42,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        ],
+        "thicknessDirectionCentre": {
+          "value": 3.75,
+          "unit": "mm",
+          "sourcePage": 2,
+          "sourceSheet": 1,
+          "detail": "Bottom overview",
+          "derivation": "Explicit printed dimension, visually transcribed."
+        },
+        "individualFeatureAssociations": null,
+        "derivation": "Printed bottom-view ordinate set. Preserves acoustic-port, screw, connector and other aperture references without guessing ambiguous individual leader associations. Left means left of bottom view as drawn, not automatically front portrait left."
+      },
+      "connectorApertureAndDatum": {
+        "featureType": "connector-mechanical-reference",
+        "dimensions": {
+          "apertureHeight": {
+            "value": 3.01,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "thicknessDirectionCentre": {
+            "value": 3.82,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
       }
     },
     "ambiguities": [],
@@ -34037,6 +37567,132 @@
           }
         },
         "meaning": "Mating connector keepout area flush to product surface required outward 14.0 mm."
+      },
+      "caseMaterialPermeabilityNote": {
+        "featureType": "case-design-material-note",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Note 5",
+        "printedMaximumRelativePermeability": 1.05,
+        "quantityKind": "dimensionless relative magnetic permeability",
+        "standardReference": "ASTM A342/A342M-14",
+        "derivation": "Explicit note; dimensionless ratio is not represented as a millimetre measurement."
+      },
+      "generalDrawingHandlingNotes": {
+        "featureType": "drawing-notes",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "derivation": "Explicit general drawing notes, summarized without converting to geometry.",
+        "notes": [
+          "No metal contact with product.",
+          "Do not obstruct ports/acoustic openings, imaging features or forward-facing sensors.",
+          "Do not touch glass.",
+          "No magnets on rear of product except MagSafe magnets."
+        ]
+      },
+      "bottomMechanicalOrdinateReferences": {
+        "featureType": "bottom-view-mechanical-ordinates",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Bottom overview",
+        "xFromLeftAsDrawn": [
+          {
+            "value": 19.18,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 25.14,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 29.37,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 31.54,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 39.99,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 42.16,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 46.38,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 56.85,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        ],
+        "thicknessDirectionCentre": {
+          "value": 3.69,
+          "unit": "mm",
+          "sourcePage": 2,
+          "sourceSheet": 1,
+          "detail": "Bottom overview",
+          "derivation": "Explicit printed dimension, visually transcribed."
+        },
+        "individualFeatureAssociations": null,
+        "derivation": "Printed bottom-view ordinate set. Preserves acoustic-port, screw, connector and other aperture references without guessing ambiguous individual leader associations. Left means left of bottom view as drawn, not automatically front portrait left."
+      },
+      "connectorApertureAndDatum": {
+        "featureType": "connector-mechanical-reference",
+        "dimensions": {
+          "apertureHeight": {
+            "value": 2.7,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "thicknessDirectionCentre": {
+            "value": 3.67,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
       }
     },
     "ambiguities": [],
@@ -35409,6 +39065,132 @@
           }
         },
         "meaning": "Mating connector keepout area flush to product surface required outward 14.0 mm."
+      },
+      "caseMaterialPermeabilityNote": {
+        "featureType": "case-design-material-note",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Note 5",
+        "printedMaximumRelativePermeability": 1.05,
+        "quantityKind": "dimensionless relative magnetic permeability",
+        "standardReference": "ASTM A342/A342M-14",
+        "derivation": "Explicit note; dimensionless ratio is not represented as a millimetre measurement."
+      },
+      "generalDrawingHandlingNotes": {
+        "featureType": "drawing-notes",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "derivation": "Explicit general drawing notes, summarized without converting to geometry.",
+        "notes": [
+          "No metal contact with product.",
+          "Do not obstruct ports/acoustic openings, imaging features or forward-facing sensors.",
+          "Do not touch glass.",
+          "No magnets on rear of product except MagSafe magnets."
+        ]
+      },
+      "bottomMechanicalOrdinateReferences": {
+        "featureType": "bottom-view-mechanical-ordinates",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Bottom overview",
+        "xFromLeftAsDrawn": [
+          {
+            "value": 17.78,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 21.49,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 25.71,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 27.89,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 36.33,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 38.5,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 42.73,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 50.94,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        ],
+        "thicknessDirectionCentre": {
+          "value": 3.69,
+          "unit": "mm",
+          "sourcePage": 2,
+          "sourceSheet": 1,
+          "detail": "Bottom overview",
+          "derivation": "Explicit printed dimension, visually transcribed."
+        },
+        "individualFeatureAssociations": null,
+        "derivation": "Printed bottom-view ordinate set. Preserves acoustic-port, screw, connector and other aperture references without guessing ambiguous individual leader associations. Left means left of bottom view as drawn, not automatically front portrait left."
+      },
+      "connectorApertureAndDatum": {
+        "featureType": "connector-mechanical-reference",
+        "dimensions": {
+          "apertureHeight": {
+            "value": 2.7,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "thicknessDirectionCentre": {
+            "value": 3.69,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
       }
     },
     "ambiguities": [],
@@ -36822,6 +40604,132 @@
           }
         },
         "meaning": "Mating connector keepout area flush to product surface required outward 14.0 mm."
+      },
+      "caseMaterialPermeabilityNote": {
+        "featureType": "case-design-material-note",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Note 5",
+        "printedMaximumRelativePermeability": 1.05,
+        "quantityKind": "dimensionless relative magnetic permeability",
+        "standardReference": "ASTM A342/A342M-14",
+        "derivation": "Explicit note; dimensionless ratio is not represented as a millimetre measurement."
+      },
+      "generalDrawingHandlingNotes": {
+        "featureType": "drawing-notes",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "derivation": "Explicit general drawing notes, summarized without converting to geometry.",
+        "notes": [
+          "No metal contact with product.",
+          "Do not obstruct ports/acoustic openings, imaging features or forward-facing sensors.",
+          "Do not touch glass.",
+          "No magnets on rear of product except MagSafe magnets."
+        ]
+      },
+      "bottomMechanicalOrdinateReferences": {
+        "featureType": "bottom-view-mechanical-ordinates",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Bottom overview",
+        "xFromLeftAsDrawn": [
+          {
+            "value": 19.18,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 25.14,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 29.37,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 31.38,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 40.14,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 42.16,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 46.38,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 56.85,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        ],
+        "thicknessDirectionCentre": {
+          "value": 3.69,
+          "unit": "mm",
+          "sourcePage": 2,
+          "sourceSheet": 1,
+          "detail": "Bottom overview",
+          "derivation": "Explicit printed dimension, visually transcribed."
+        },
+        "individualFeatureAssociations": null,
+        "derivation": "Printed bottom-view ordinate set. Preserves acoustic-port, screw, connector and other aperture references without guessing ambiguous individual leader associations. Left means left of bottom view as drawn, not automatically front portrait left."
+      },
+      "connectorApertureAndDatum": {
+        "featureType": "connector-mechanical-reference",
+        "dimensions": {
+          "apertureHeight": {
+            "value": 3.01,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "thicknessDirectionCentre": {
+            "value": 3.67,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
       }
     },
     "ambiguities": [],
@@ -38061,15 +41969,15 @@
               "sourcePage": 3,
               "sourceSheet": 2,
               "detail": "Rear conductive-material exclusion view",
-              "derivation": "Printed ordinate magnitude measured from rear-view top-left datum; y increases down in this normalized list."
+              "derivation": "Explicit printed dimension, visually transcribed."
             },
             {
-              "value": 37.88,
+              "value": 37.96,
               "unit": "mm",
               "sourcePage": 3,
               "sourceSheet": 2,
               "detail": "Rear conductive-material exclusion view",
-              "derivation": "Printed ordinate magnitude measured from rear-view top-left datum; y increases down in this normalized list."
+              "derivation": "Explicit printed dimension, visually transcribed."
             },
             {
               "value": 61.98,
@@ -38077,7 +41985,7 @@
               "sourcePage": 3,
               "sourceSheet": 2,
               "detail": "Rear conductive-material exclusion view",
-              "derivation": "Printed ordinate magnitude measured from rear-view top-left datum; y increases down in this normalized list."
+              "derivation": "Explicit printed dimension, visually transcribed."
             },
             {
               "value": 68.15,
@@ -38085,15 +41993,15 @@
               "sourcePage": 3,
               "sourceSheet": 2,
               "detail": "Rear conductive-material exclusion view",
-              "derivation": "Printed ordinate magnitude measured from rear-view top-left datum; y increases down in this normalized list."
+              "derivation": "Explicit printed dimension, visually transcribed."
             },
             {
-              "value": 73.68,
+              "value": 73.69,
               "unit": "mm",
               "sourcePage": 3,
               "sourceSheet": 2,
               "detail": "Rear conductive-material exclusion view",
-              "derivation": "Printed ordinate magnitude measured from rear-view top-left datum; y increases down in this normalized list."
+              "derivation": "Explicit printed dimension, visually transcribed."
             }
           ],
           "y": [
@@ -38283,6 +42191,132 @@
           }
         },
         "meaning": "Mating connector keepout area flush to product surface required outward 14.0 mm."
+      },
+      "caseMaterialPermeabilityNote": {
+        "featureType": "case-design-material-note",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Note 5",
+        "printedMaximumRelativePermeability": 1.05,
+        "quantityKind": "dimensionless relative magnetic permeability",
+        "standardReference": "ASTM A342/A342M-14",
+        "derivation": "Explicit note; dimensionless ratio is not represented as a millimetre measurement."
+      },
+      "generalDrawingHandlingNotes": {
+        "featureType": "drawing-notes",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "derivation": "Explicit general drawing notes, summarized without converting to geometry.",
+        "notes": [
+          "No metal contact with product.",
+          "Do not obstruct ports/acoustic openings, imaging features or forward-facing sensors.",
+          "Do not touch glass.",
+          "No magnets on rear of product except MagSafe magnets."
+        ]
+      },
+      "bottomMechanicalOrdinateReferences": {
+        "featureType": "bottom-view-mechanical-ordinates",
+        "sourcePage": 2,
+        "sourceSheet": 1,
+        "detail": "Bottom overview",
+        "xFromLeftAsDrawn": [
+          {
+            "value": 20.2,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 28.42,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 32.64,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 34.66,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 43.42,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 45.43,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 49.66,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          {
+            "value": 62.38,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Bottom overview",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        ],
+        "thicknessDirectionCentre": {
+          "value": 3.69,
+          "unit": "mm",
+          "sourcePage": 2,
+          "sourceSheet": 1,
+          "detail": "Bottom overview",
+          "derivation": "Explicit printed dimension, visually transcribed."
+        },
+        "individualFeatureAssociations": null,
+        "derivation": "Printed bottom-view ordinate set. Preserves acoustic-port, screw, connector and other aperture references without guessing ambiguous individual leader associations. Left means left of bottom view as drawn, not automatically front portrait left."
+      },
+      "connectorApertureAndDatum": {
+        "featureType": "connector-mechanical-reference",
+        "dimensions": {
+          "apertureHeight": {
+            "value": 3.01,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          },
+          "thicknessDirectionCentre": {
+            "value": 3.69,
+            "unit": "mm",
+            "sourcePage": 2,
+            "sourceSheet": 1,
+            "detail": "Detail C",
+            "derivation": "Explicit printed dimension, visually transcribed."
+          }
+        },
+        "meaning": "Physical connector aperture height and printed bottom-view thickness-direction datum; separate from accessory keepout envelope."
       }
     },
     "ambiguities": [],
