@@ -1,6 +1,7 @@
 import json,math,pathlib
 root=pathlib.Path(__file__).resolve().parents[1];table=json.loads((root/'src/device_dimensions/devices.json').read_text())
 ids=set(); hardware=set()
+drawing_pages={d['drawing']['url']:{p['page'] for p in d['drawing']['pages']} for d in table['devices'] if d['drawing']}
 for d in table['devices']:
     assert d['id'] not in ids,d['id'];ids.add(d['id'])
     for id in d['identifiers']:
@@ -15,7 +16,9 @@ for d in table['devices']:
         assert measurement['unit'] in ('mm','degree'), d['id']
         assert math.isfinite(measurement['value']), d['id']
         assert measurement['page']>=2 and measurement['feature'] and measurement['quantity'], d['id']
-        if d['drawing']:assert measurement['page'] in [p['page'] for p in d['drawing']['pages']],d['id']
+        if d['drawing']:
+            source=measurement.get('source') or d['drawing']['url']
+            assert source in drawing_pages and measurement['page'] in drawing_pages[source],(d['id'],source,measurement['page'])
     for profile in d['profiles']:
         assert profile['unit']=='mm' and profile['page']>=2,d['id']
         if profile.get('kind')=='labelled-point-table':
