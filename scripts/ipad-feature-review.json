@@ -352,14 +352,14 @@
       },
       {
         "feature": "volume-buttons",
-        "quantity": "upper-centre-from-top",
+        "quantity": "upper-button-top-edge-from-top",
         "value": 19.33,
         "unit": "mm",
         "page": 3
       },
       {
         "feature": "volume-buttons",
-        "quantity": "lower-centre-from-top",
+        "quantity": "lower-button-top-edge-from-top",
         "value": 31.39,
         "unit": "mm",
         "page": 3
@@ -3068,14 +3068,14 @@
       },
       {
         "feature": "volume-buttons",
-        "quantity": "upper-centre-from-top",
+        "quantity": "upper-button-top-edge-from-top",
         "value": 19.33,
         "unit": "mm",
         "page": 3
       },
       {
         "feature": "volume-buttons",
-        "quantity": "lower-centre-from-top",
+        "quantity": "lower-button-top-edge-from-top",
         "value": 31.39,
         "unit": "mm",
         "page": 3
@@ -5770,14 +5770,14 @@
       },
       {
         "feature": "volume-buttons",
-        "quantity": "upper-centre-from-top",
+        "quantity": "upper-button-top-edge-from-top",
         "value": 19.33,
         "unit": "mm",
         "page": 3
       },
       {
         "feature": "volume-buttons",
-        "quantity": "lower-centre-from-top",
+        "quantity": "lower-button-top-edge-from-top",
         "value": 31.39,
         "unit": "mm",
         "page": 3
@@ -8163,14 +8163,14 @@
       },
       {
         "feature": "volume-buttons",
-        "quantity": "upper-centre-from-top",
+        "quantity": "upper-button-top-edge-from-top",
         "value": 19.33,
         "unit": "mm",
         "page": 3
       },
       {
         "feature": "volume-buttons",
-        "quantity": "lower-centre-from-top",
+        "quantity": "lower-button-top-edge-from-top",
         "value": 31.39,
         "unit": "mm",
         "page": 3
@@ -10231,7 +10231,7 @@
       },
       {
         "feature": "top-button",
-        "quantity": "centre-from-right",
+        "quantity": "right-end-from-right",
         "value": 12.69,
         "page": 2,
         "unit": "mm",
@@ -12433,7 +12433,7 @@
       },
       {
         "feature": "top-button",
-        "quantity": "centre-from-right",
+        "quantity": "right-end-from-right",
         "value": 12.69,
         "page": 2,
         "unit": "mm",
@@ -14635,7 +14635,7 @@
       },
       {
         "feature": "top-button",
-        "quantity": "centre-from-right",
+        "quantity": "right-end-from-right",
         "value": 12.69,
         "page": 2,
         "unit": "mm",
@@ -16837,7 +16837,7 @@
       },
       {
         "feature": "top-button",
-        "quantity": "centre-from-right",
+        "quantity": "right-end-from-right",
         "value": 12.69,
         "page": 2,
         "unit": "mm",
@@ -20487,7 +20487,7 @@
       },
       {
         "feature": "top-button",
-        "quantity": "centre-from-right",
+        "quantity": "right-end-from-right",
         "value": 12.69,
         "page": 2,
         "unit": "mm",
@@ -24137,7 +24137,7 @@
       },
       {
         "feature": "top-button",
-        "quantity": "centre-from-right",
+        "quantity": "right-end-from-right",
         "value": 12.69,
         "page": 2,
         "unit": "mm",
@@ -28049,7 +28049,7 @@
       },
       {
         "feature": "volume-buttons",
-        "quantity": "width",
+        "quantity": "gap-between-buttons",
         "value": 2,
         "page": 3,
         "unit": "mm",
@@ -28057,7 +28057,7 @@
       },
       {
         "feature": "volume-buttons",
-        "quantity": "upper-centre-from-top",
+        "quantity": "upper-button-top-edge-from-top",
         "value": 22.72,
         "page": 3,
         "unit": "mm",
@@ -28065,7 +28065,7 @@
       },
       {
         "feature": "volume-buttons",
-        "quantity": "lower-centre-from-top",
+        "quantity": "lower-button-top-edge-from-top",
         "value": 34.78,
         "page": 3,
         "unit": "mm",
@@ -28259,6 +28259,190 @@
         "page": 8,
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf",
         "unit": "mm"
+      },
+      {
+        "feature": "sleep-wake-button",
+        "quantity": "length",
+        "value": 17.12,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "sleep-wake-button",
+        "quantity": "right-end-from-right",
+        "value": 15.15,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "sleep-wake-button",
+        "quantity": "nearest-edge-to-cover-glass",
+        "value": 1.54,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "sleep-wake-button-keepout",
+        "quantity": "clearance-to-housing",
+        "value": 0,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "sleep-wake-button-keepout",
+        "quantity": "clearance-to-cover-glass",
+        "value": 0,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "top-left-speaker-array",
+        "quantity": "near-end-from-left",
+        "value": 29.44,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "top-left-speaker-array",
+        "quantity": "far-end-from-left",
+        "value": 57.66,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "top-right-speaker-array",
+        "quantity": "near-end-from-right",
+        "value": 37.14,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "top-right-speaker-array",
+        "quantity": "far-end-from-right",
+        "value": 58.6,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "top-and-bottom-speaker-arrays",
+        "quantity": "centre-to-cover-glass",
+        "value": 3.49,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "bottom-speaker-arrays",
+        "quantity": "near-end-from-each-side",
+        "value": 29.44,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "bottom-speaker-arrays",
+        "quantity": "far-end-from-each-side",
+        "value": 57.66,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "bottom-view-reference-protrusion",
+        "value": 2.08,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "usb-c-connector-keepout",
+        "quantity": "height",
+        "value": 3.54,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "display-active-area",
+        "quantity": "top-and-bottom-margin",
+        "value": 10.28,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "width",
+        "value": 2.56,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "sim-tray",
+        "quantity": "length",
+        "value": 16.41,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "sim-tray",
+        "quantity": "bottom-edge-from-bottom",
+        "value": 26.49,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "x-from-body-centre-in-rear-view",
+        "value": -74.85,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "y-from-body-centre-in-rear-view",
+        "value": 109.41,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "x-from-body-centre-in-rear-view",
+        "value": -74.85,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "y-from-body-centre-in-rear-view",
+        "value": 94.49,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "rear-camera-edge-profile",
+        "quantity": "corner-radius",
+        "value": 0.12,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
       }
     ],
     "features": {
@@ -29643,9 +29827,10 @@
         }
       }
     },
-    "reviewScope": "A16 drawing explicitly covers iPad A16 and 10th generation. Named camera/sensor/button/connector dimensions and title-block tolerances reviewed; other pages, magnets and local contour callouts remain incomplete. Hall-sensor/compass coordinates, depth references and trigger/release field intervals reviewed. Generation-specific magnet centre/polarity table normalized, with separate A16/10th PM x positions and10th-only C3 shunt. SP section ordinates are retained as unresolved where source values conflict with position/body extents. Shared section/edge/corner profiles and antenna metal-clearance boundaries are normalized.",
+    "reviewScope": "A16 drawing explicitly covers iPad A16 and 10th generation. Named camera/sensor/button/connector dimensions and title-block tolerances reviewed; other pages, magnets and local contour callouts remain incomplete. Hall-sensor/compass coordinates, depth references and trigger/release field intervals reviewed. Generation-specific magnet centre/polarity table normalized, with separate A16/10th PM x positions and10th-only C3 shunt. SP section ordinates are retained as unresolved where source values conflict with position/body extents. Shared section/edge/corner profiles and antenna metal-clearance boundaries are normalized. Remaining front/rear acoustic array, control, connector and SIM-tray references plus rear-camera edge contour reviewed. Volume reference positions are upper ends, not centres.",
     "ambiguities": [
-      "Section BA-BA SP-FH9/10/11 negative ordinates appear above zero; SP-CH9/10 printed -201/-204.72 exceed half body height. Do not use these as body-centred placement coordinates."
+      "Section BA-BA SP-FH9/10/11 negative ordinates appear above zero; SP-CH9/10 printed -201/-204.72 exceed half body height. Do not use these as body-centred placement coordinates.",
+      "Rear camera depth references differ: page 2 bottom-view REAR CAMERA 2.08 versus page 3 REAR CAMERA WINDOW TO HSG BACK SIDE 1.93. Preserve both named references; they are not silently treated as the same surface."
     ],
     "profiles": [
       {
@@ -29743,6 +29928,30 @@
           -6.98
         ],
         "note": "Separate explicit ordinate sets, not paired polygon vertices."
+      },
+      {
+        "feature": "rear-camera-edge-profile",
+        "detail": "AR",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf",
+        "unit": "mm",
+        "coordinateConvention": "Local detail AR datum; x right and y up, signed ordinates as printed.",
+        "coordinateStatus": "reviewed-unpaired-ordinates",
+        "x": [
+          -1.78,
+          -1.53,
+          -1.08,
+          -0.53,
+          0
+        ],
+        "y": [
+          0,
+          0.04,
+          0.26,
+          0.72,
+          2.52
+        ],
+        "note": "Independent ordinate sets; not paired polygon points."
       }
     ]
   },
@@ -30035,7 +30244,7 @@
       },
       {
         "feature": "volume-buttons",
-        "quantity": "width",
+        "quantity": "gap-between-buttons",
         "value": 2,
         "page": 3,
         "unit": "mm",
@@ -30043,7 +30252,7 @@
       },
       {
         "feature": "volume-buttons",
-        "quantity": "upper-centre-from-top",
+        "quantity": "upper-button-top-edge-from-top",
         "value": 22.72,
         "page": 3,
         "unit": "mm",
@@ -30051,7 +30260,7 @@
       },
       {
         "feature": "volume-buttons",
-        "quantity": "lower-centre-from-top",
+        "quantity": "lower-button-top-edge-from-top",
         "value": 34.78,
         "page": 3,
         "unit": "mm",
@@ -30245,6 +30454,190 @@
         "page": 8,
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf",
         "unit": "mm"
+      },
+      {
+        "feature": "sleep-wake-button",
+        "quantity": "length",
+        "value": 17.12,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "sleep-wake-button",
+        "quantity": "right-end-from-right",
+        "value": 15.15,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "sleep-wake-button",
+        "quantity": "nearest-edge-to-cover-glass",
+        "value": 1.54,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "sleep-wake-button-keepout",
+        "quantity": "clearance-to-housing",
+        "value": 0,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "sleep-wake-button-keepout",
+        "quantity": "clearance-to-cover-glass",
+        "value": 0,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "top-left-speaker-array",
+        "quantity": "near-end-from-left",
+        "value": 29.44,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "top-left-speaker-array",
+        "quantity": "far-end-from-left",
+        "value": 57.66,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "top-right-speaker-array",
+        "quantity": "near-end-from-right",
+        "value": 37.14,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "top-right-speaker-array",
+        "quantity": "far-end-from-right",
+        "value": 58.6,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "top-and-bottom-speaker-arrays",
+        "quantity": "centre-to-cover-glass",
+        "value": 3.49,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "bottom-speaker-arrays",
+        "quantity": "near-end-from-each-side",
+        "value": 29.44,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "bottom-speaker-arrays",
+        "quantity": "far-end-from-each-side",
+        "value": 57.66,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "bottom-view-reference-protrusion",
+        "value": 2.08,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "usb-c-connector-keepout",
+        "quantity": "height",
+        "value": 3.54,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "display-active-area",
+        "quantity": "top-and-bottom-margin",
+        "value": 10.28,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "volume-buttons",
+        "quantity": "width",
+        "value": 2.56,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "sim-tray",
+        "quantity": "length",
+        "value": 16.41,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "sim-tray",
+        "quantity": "bottom-edge-from-bottom",
+        "value": 26.49,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "x-from-body-centre-in-rear-view",
+        "value": -74.85,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "y-from-body-centre-in-rear-view",
+        "value": 109.41,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "x-from-body-centre-in-rear-view",
+        "value": -74.85,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "rear-microphone",
+        "quantity": "y-from-body-centre-in-rear-view",
+        "value": 94.49,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
+      },
+      {
+        "feature": "rear-camera-edge-profile",
+        "quantity": "corner-radius",
+        "value": 0.12,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf"
       }
     ],
     "features": {
@@ -31674,9 +32067,10 @@
         }
       }
     },
-    "reviewScope": "A16 drawing explicitly covers iPad A16 and 10th generation. Named camera/sensor/button/connector dimensions and title-block tolerances reviewed; other pages, magnets and local contour callouts remain incomplete. Hall-sensor/compass coordinates, depth references and trigger/release field intervals reviewed. Generation-specific magnet centre/polarity table normalized, with separate A16/10th PM x positions and10th-only C3 shunt. SP section ordinates are retained as unresolved where source values conflict with position/body extents. Shared section/edge/corner profiles and antenna metal-clearance boundaries are normalized.",
+    "reviewScope": "A16 drawing explicitly covers iPad A16 and 10th generation. Named camera/sensor/button/connector dimensions and title-block tolerances reviewed; other pages, magnets and local contour callouts remain incomplete. Hall-sensor/compass coordinates, depth references and trigger/release field intervals reviewed. Generation-specific magnet centre/polarity table normalized, with separate A16/10th PM x positions and10th-only C3 shunt. SP section ordinates are retained as unresolved where source values conflict with position/body extents. Shared section/edge/corner profiles and antenna metal-clearance boundaries are normalized. Remaining front/rear acoustic array, control, connector and SIM-tray references plus rear-camera edge contour reviewed. Volume reference positions are upper ends, not centres.",
     "ambiguities": [
-      "Section BA-BA SP-FH9/10/11 negative ordinates appear above zero; SP-CH9/10 printed -201/-204.72 exceed half body height. Do not use these as body-centred placement coordinates."
+      "Section BA-BA SP-FH9/10/11 negative ordinates appear above zero; SP-CH9/10 printed -201/-204.72 exceed half body height. Do not use these as body-centred placement coordinates.",
+      "Rear camera depth references differ: page 2 bottom-view REAR CAMERA 2.08 versus page 3 REAR CAMERA WINDOW TO HSG BACK SIDE 1.93. Preserve both named references; they are not silently treated as the same surface."
     ],
     "profiles": [
       {
@@ -31774,6 +32168,30 @@
           -6.98
         ],
         "note": "Separate explicit ordinate sets, not paired polygon vertices."
+      },
+      {
+        "feature": "rear-camera-edge-profile",
+        "detail": "AR",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-a16.pdf",
+        "unit": "mm",
+        "coordinateConvention": "Local detail AR datum; x right and y up, signed ordinates as printed.",
+        "coordinateStatus": "reviewed-unpaired-ordinates",
+        "x": [
+          -1.78,
+          -1.53,
+          -1.08,
+          -0.53,
+          0
+        ],
+        "y": [
+          0,
+          0.04,
+          0.26,
+          0.72,
+          2.52
+        ],
+        "note": "Independent ordinate sets; not paired polygon points."
       }
     ]
   },
@@ -35517,7 +35935,7 @@
       },
       {
         "feature": "top-button",
-        "quantity": "centre-from-right",
+        "quantity": "right-end-from-right",
         "value": 12.71,
         "page": 2,
         "unit": "mm",
@@ -35967,6 +36385,198 @@
         "value": 0.12,
         "unit": "mm",
         "page": 3
+      },
+      {
+        "feature": "top-button",
+        "quantity": "length",
+        "value": 17.12,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "top-button",
+        "quantity": "nearest-edge-to-cover-glass",
+        "value": 1.09,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "top-button-keepout",
+        "quantity": "clearance-to-housing",
+        "value": 0,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "top-button-keepout",
+        "quantity": "clearance-to-cover-glass",
+        "value": 0,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "top-left-speaker-array",
+        "quantity": "near-end-from-left",
+        "value": 28.22,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "top-left-speaker-array",
+        "quantity": "far-end-from-left",
+        "value": 56.44,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "top-right-speaker-array",
+        "quantity": "near-end-from-right",
+        "value": 35.94,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "top-right-speaker-array",
+        "quantity": "far-end-from-right",
+        "value": 56.46,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "bottom-left-speaker-array",
+        "quantity": "near-end-from-left",
+        "value": 28.22,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "bottom-left-speaker-array",
+        "quantity": "far-end-from-left",
+        "value": 56.44,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "bottom-right-speaker-array",
+        "quantity": "near-end-from-right",
+        "value": 28.22,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "bottom-right-speaker-array",
+        "quantity": "far-end-from-right",
+        "value": 56.37,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "speaker-arrays",
+        "quantity": "centre-to-cover-glass",
+        "value": 3.04,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "top-side-microphone",
+        "quantity": "centre-to-cover-glass",
+        "value": 3.04,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "top-side-microphone",
+        "quantity": "centre-from-left",
+        "value": 89.26,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "front-camera",
+        "quantity": "centre-from-right",
+        "value": 89.25,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "left-ambient-light-sensor",
+        "quantity": "centre-from-left",
+        "value": 22.13,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "middle-left-ambient-light-sensor",
+        "quantity": "centre-from-left",
+        "value": 51.4,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "right-ambient-light-sensor",
+        "quantity": "centre-from-right",
+        "value": 26.47,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "ambient-light-sensors",
+        "quantity": "centre-from-top",
+        "value": 4.62,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "usb-c-connector-keepout",
+        "quantity": "height",
+        "value": 3.09,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "display-active-area",
+        "quantity": "top-and-bottom-margin",
+        "value": 10.04,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "display-active-area",
+        "quantity": "side-margin",
+        "value": 10.03,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "bottom-view-protrusion-reference",
+        "value": 2.08,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf"
       }
     ],
     "profiles": [
@@ -36069,7 +36679,7 @@
         "note": "Independent printed ordinate sets, not paired polygon points."
       }
     ],
-    "reviewScope": "Fifth-generation camera/ALS, acoustic, button, rear-camera and connector dimensions reviewed. Although its title also mentions fourth generation, front camera dimensions are not applied to that older model: its own drawing specifies different geometry. Generation-specific magnetic page: BV/A coordinates and complete tabulated surface/inside polarity, CG contacts, sensor coordinates and partial PM/SP/OR references. Modern Air magnetic flux regions or sensor depths are not copied to this older drawing. Edge/corner ordinate sets, all labelled section dimensions and antenna offsets reviewed. Rear sheet reviewed: camera mounting and contour, volume-button gap and width, SIM tray and connector geometry.",
+    "reviewScope": "Fifth-generation camera/ALS, acoustic, button, rear-camera and connector dimensions reviewed. Although its title also mentions fourth generation, front camera dimensions are not applied to that older model: its own drawing specifies different geometry. Generation-specific magnetic page: BV/A coordinates and complete tabulated surface/inside polarity, CG contacts, sensor coordinates and partial PM/SP/OR references. Modern Air magnetic flux regions or sensor depths are not copied to this older drawing. Edge/corner ordinate sets, all labelled section dimensions and antenna offsets reviewed. Rear sheet reviewed: camera mounting and contour, volume-button gap and width, SIM tray and connector geometry. Remaining front sheet references normalized: individual ALS offsets, full button length and end datum, speaker-array ends, connector and display-edge references.",
     "features": {
       "magnetDetail": {
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-5th-generation.pdf",
@@ -37947,7 +38557,7 @@
       },
       {
         "feature": "top-button",
-        "quantity": "centre-from-right",
+        "quantity": "right-end-from-right",
         "value": 12.71,
         "page": 2,
         "unit": "mm",
@@ -38399,6 +39009,198 @@
         "value": 0.12,
         "unit": "mm",
         "page": 3
+      },
+      {
+        "feature": "top-button",
+        "quantity": "length",
+        "value": 17.12,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "top-button",
+        "quantity": "nearest-edge-to-cover-glass",
+        "value": 1.09,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "top-button-keepout",
+        "quantity": "clearance-to-housing",
+        "value": 0,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "top-button-keepout",
+        "quantity": "clearance-to-cover-glass",
+        "value": 0,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "top-left-speaker-array",
+        "quantity": "near-end-from-left",
+        "value": 28.22,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "top-left-speaker-array",
+        "quantity": "far-end-from-left",
+        "value": 56.44,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "top-right-speaker-array",
+        "quantity": "near-end-from-right",
+        "value": 35.94,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "top-right-speaker-array",
+        "quantity": "far-end-from-right",
+        "value": 56.46,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "bottom-left-speaker-array",
+        "quantity": "near-end-from-left",
+        "value": 28.22,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "bottom-left-speaker-array",
+        "quantity": "far-end-from-left",
+        "value": 56.44,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "bottom-right-speaker-array",
+        "quantity": "near-end-from-right",
+        "value": 28.22,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "bottom-right-speaker-array",
+        "quantity": "far-end-from-right",
+        "value": 56.37,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "speaker-arrays",
+        "quantity": "centre-to-cover-glass",
+        "value": 3.04,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "top-side-microphone",
+        "quantity": "centre-to-cover-glass",
+        "value": 3.04,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "top-side-microphone",
+        "quantity": "centre-from-left",
+        "value": 89.26,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "front-camera",
+        "quantity": "centre-from-right",
+        "value": 89.26,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "left-ambient-light-sensor",
+        "quantity": "centre-from-left",
+        "value": 22.13,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "middle-left-ambient-light-sensor",
+        "quantity": "centre-from-left",
+        "value": 51.4,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "right-ambient-light-sensor",
+        "quantity": "centre-from-right",
+        "value": 26.47,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "ambient-light-sensors",
+        "quantity": "centre-from-top",
+        "value": 4.62,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "usb-c-connector-keepout",
+        "quantity": "height",
+        "value": 3.09,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "display-active-area",
+        "quantity": "top-and-bottom-margin",
+        "value": 10.04,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "display-active-area",
+        "quantity": "side-margin",
+        "value": 10.03,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
+      },
+      {
+        "feature": "rear-camera",
+        "quantity": "bottom-view-protrusion-reference",
+        "value": 2.08,
+        "unit": "mm",
+        "page": 2,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf"
       }
     ],
     "profiles": [
@@ -38501,7 +39303,7 @@
         "note": "Independent printed ordinate sets, not paired polygon points."
       }
     ],
-    "reviewScope": "Fourth-generation own front camera/ALS, acoustic, button and connector dimensions from its PDF page2. Front camera keepout differs substantially from fifth-generation even though the newer drawing title lists both. Generation-specific magnetic page: BV/A coordinates and complete tabulated surface/inside polarity, CG contacts, sensor coordinates and partial PM/SP/OR references. Modern Air magnetic flux regions or sensor depths are not copied to this older drawing. Edge/corner ordinate sets, all labelled section dimensions and antenna offsets reviewed. Rear sheet reviewed: camera mounting and contour, volume-button gap and width, SIM tray and connector geometry.",
+    "reviewScope": "Fourth-generation own front camera/ALS, acoustic, button and connector dimensions from its PDF page2. Front camera keepout differs substantially from fifth-generation even though the newer drawing title lists both. Generation-specific magnetic page: BV/A coordinates and complete tabulated surface/inside polarity, CG contacts, sensor coordinates and partial PM/SP/OR references. Modern Air magnetic flux regions or sensor depths are not copied to this older drawing. Edge/corner ordinate sets, all labelled section dimensions and antenna offsets reviewed. Rear sheet reviewed: camera mounting and contour, volume-button gap and width, SIM tray and connector geometry. Remaining front sheet references normalized: individual ALS offsets, full button length and end datum, speaker-array ends, connector and display-edge references.",
     "features": {
       "magnetDetail": {
         "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-4th-generation.pdf",

@@ -136,3 +136,15 @@ test('magnetic segment boundaries remain distinct from centers and revisions', (
  assert.equal(dims.find(x=>x.feature==='volume-buttons' && x.quantity==='width').value,2.56);
  assert.equal(dims.find(x=>x.feature==='volume-buttons' && x.quantity==='gap-between-buttons').value,2);
 });
+
+test('mechanical datums distinguish edges, gaps and control centers', () => {
+ const measure=(id,feature,quantity)=>findDevice(id).additionalDimensions.find(x=>x.feature===feature&&x.quantity===quantity)?.value;
+ assert.equal(measure('ipad-8th-generation','home-button','center-from-bottom'),10.06);
+ assert.equal(measure('ipad-8th-generation','home-button','diameter'),undefined);
+ assert.equal(measure('ipad-8th-generation','display-active-area','side-margin'),9.28);
+ assert.equal(measure('ipad-a16','volume-buttons','width'),2.56);
+ assert.equal(measure('ipad-a16','volume-buttons','gap-between-buttons'),2);
+ assert.equal(measure('ipad-a16','sleep-wake-button','right-end-from-right'),15.15);
+ assert.equal(measure('ipad-air-11-inch-m4','inductive-charger-window','section-width'),3.11);
+ assert.equal(measure('ipad-air-11-inch-m4','volume-button','section-nearest-edge-to-cover-glass'),1.81);
+});
