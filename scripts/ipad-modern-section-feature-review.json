@@ -1,0 +1,1791 @@
+[
+  {
+    "id": "ipad-pro-11-inch-m4",
+    "sourcePagesReviewed": [
+      5,
+      6
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "speaker",
+        "quantity": "centre-to-cover-glass",
+        "value": 2.66,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "Y-Y"
+      },
+      {
+        "feature": "sleep-wake-button",
+        "quantity": "section-width",
+        "value": 2.26,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "W-W"
+      },
+      {
+        "feature": "inductive-charger-window",
+        "quantity": "section-width",
+        "value": 2.99,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "detail": "U-U"
+      },
+      {
+        "feature": "antenna-keepout",
+        "quantity": "outside-housing-width",
+        "value": 9.54,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "note": "Antenna sheet: y=0 at horizontal product centerline, positive upward. Right-side-region x=0 at right housing side and negative inward; perimeter-band widths measured from housing edge. Do not combine these local axes with magnet-sheet coordinates."
+      },
+      {
+        "feature": "antenna-keepout",
+        "quantity": "inside-housing-width",
+        "value": 10.34,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "note": "Antenna sheet: y=0 at horizontal product centerline, positive upward. Right-side-region x=0 at right housing side and negative inward; perimeter-band widths measured from housing edge. Do not combine these local axes with magnet-sheet coordinates."
+      },
+      {
+        "feature": "antenna-top-band",
+        "quantity": "side-boundary-y",
+        "value": 102.18,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "note": "Antenna sheet: y=0 at horizontal product centerline, positive upward. Right-side-region x=0 at right housing side and negative inward; perimeter-band widths measured from housing edge. Do not combine these local axes with magnet-sheet coordinates."
+      },
+      {
+        "feature": "antenna-bottom-band",
+        "quantity": "side-boundary-y",
+        "value": -102.18,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "note": "Antenna sheet: y=0 at horizontal product centerline, positive upward. Right-side-region x=0 at right housing side and negative inward; perimeter-band widths measured from housing edge. Do not combine these local axes with magnet-sheet coordinates."
+      },
+      {
+        "feature": "antenna-right-side-region",
+        "quantity": "upper-boundary-y",
+        "value": -49.24,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "note": "Antenna sheet: y=0 at horizontal product centerline, positive upward. Right-side-region x=0 at right housing side and negative inward; perimeter-band widths measured from housing edge. Do not combine these local axes with magnet-sheet coordinates."
+      },
+      {
+        "feature": "antenna-right-side-region",
+        "quantity": "lower-boundary-y",
+        "value": -86.94,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "note": "Antenna sheet: y=0 at horizontal product centerline, positive upward. Right-side-region x=0 at right housing side and negative inward; perimeter-band widths measured from housing edge. Do not combine these local axes with magnet-sheet coordinates."
+      },
+      {
+        "feature": "antenna-right-side-region",
+        "quantity": "inner-boundary-x",
+        "value": -14.59,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "note": "Antenna sheet: y=0 at horizontal product centerline, positive upward. Right-side-region x=0 at right housing side and negative inward; perimeter-band widths measured from housing edge. Do not combine these local axes with magnet-sheet coordinates."
+      }
+    ],
+    "profiles": [],
+    "features": {
+      "antennaExclusion": {
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m4.pdf",
+        "page": 6,
+        "scope": "Do not obstruct the illustrated antenna areas with metal. Top/bottom bands shown on front and rear; extra rectangular right-side exclusion drawn on front view only.",
+        "boundaryStatus": "Printed offsets and limits retained. Rounded outer band contour is not supplied as a separate point table; no polygon inferred from artwork."
+      }
+    },
+    "reviewScope": "Final section/detail and antenna sheets visually reviewed. Adds only measurements and side-profile streams absent from main feature review; source-local signs and datums retained."
+  },
+  {
+    "id": "ipad-pro-11-inch-m5",
+    "sourcePagesReviewed": [
+      5,
+      6
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "speaker",
+        "quantity": "centre-to-cover-glass",
+        "value": 2.66,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "Y-Y"
+      },
+      {
+        "feature": "sleep-wake-button",
+        "quantity": "section-width",
+        "value": 2.26,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "W-W"
+      },
+      {
+        "feature": "inductive-charger-window",
+        "quantity": "section-width",
+        "value": 2.99,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "detail": "U-U"
+      },
+      {
+        "feature": "antenna-keepout",
+        "quantity": "outside-housing-width",
+        "value": 9.54,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "note": "Antenna sheet: y=0 at horizontal product centerline, positive upward. Right-side-region x=0 at right housing side and negative inward; perimeter-band widths measured from housing edge. Do not combine these local axes with magnet-sheet coordinates."
+      },
+      {
+        "feature": "antenna-keepout",
+        "quantity": "inside-housing-width",
+        "value": 10.34,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "note": "Antenna sheet: y=0 at horizontal product centerline, positive upward. Right-side-region x=0 at right housing side and negative inward; perimeter-band widths measured from housing edge. Do not combine these local axes with magnet-sheet coordinates."
+      },
+      {
+        "feature": "antenna-top-band",
+        "quantity": "side-boundary-y",
+        "value": 102.18,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "note": "Antenna sheet: y=0 at horizontal product centerline, positive upward. Right-side-region x=0 at right housing side and negative inward; perimeter-band widths measured from housing edge. Do not combine these local axes with magnet-sheet coordinates."
+      },
+      {
+        "feature": "antenna-bottom-band",
+        "quantity": "side-boundary-y",
+        "value": -102.18,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "note": "Antenna sheet: y=0 at horizontal product centerline, positive upward. Right-side-region x=0 at right housing side and negative inward; perimeter-band widths measured from housing edge. Do not combine these local axes with magnet-sheet coordinates."
+      },
+      {
+        "feature": "antenna-right-side-region",
+        "quantity": "upper-boundary-y",
+        "value": -49.24,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "note": "Antenna sheet: y=0 at horizontal product centerline, positive upward. Right-side-region x=0 at right housing side and negative inward; perimeter-band widths measured from housing edge. Do not combine these local axes with magnet-sheet coordinates."
+      },
+      {
+        "feature": "antenna-right-side-region",
+        "quantity": "lower-boundary-y",
+        "value": -86.94,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "note": "Antenna sheet: y=0 at horizontal product centerline, positive upward. Right-side-region x=0 at right housing side and negative inward; perimeter-band widths measured from housing edge. Do not combine these local axes with magnet-sheet coordinates."
+      },
+      {
+        "feature": "antenna-right-side-region",
+        "quantity": "inner-boundary-x",
+        "value": -14.59,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "note": "Antenna sheet: y=0 at horizontal product centerline, positive upward. Right-side-region x=0 at right housing side and negative inward; perimeter-band widths measured from housing edge. Do not combine these local axes with magnet-sheet coordinates."
+      }
+    ],
+    "profiles": [],
+    "features": {
+      "antennaExclusion": {
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-11-inch-m5.pdf",
+        "page": 6,
+        "scope": "Do not obstruct the illustrated antenna areas with metal. Top/bottom bands shown on front and rear; extra rectangular right-side exclusion drawn on front view only.",
+        "boundaryStatus": "Printed offsets and limits retained. Rounded outer band contour is not supplied as a separate point table; no polygon inferred from artwork."
+      }
+    },
+    "reviewScope": "Final section/detail and antenna sheets visually reviewed. Adds only measurements and side-profile streams absent from main feature review; source-local signs and datums retained."
+  },
+  {
+    "id": "ipad-pro-13-inch-m4",
+    "sourcePagesReviewed": [
+      5,
+      6
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "speaker",
+        "quantity": "centre-to-cover-glass",
+        "value": 2.59,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "Y-Y"
+      },
+      {
+        "feature": "sleep-wake-button",
+        "quantity": "section-width",
+        "value": 2.26,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "W-W"
+      },
+      {
+        "feature": "inductive-charger-window",
+        "quantity": "section-width",
+        "value": 2.99,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "detail": "U-U"
+      },
+      {
+        "feature": "antenna-top-band",
+        "quantity": "side-boundary-y",
+        "value": 118.11,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "note": "Antenna sheet: y=0 at horizontal product centerline, positive upward. Right-side-region x=0 at right housing side and negative inward; perimeter-band widths measured from housing edge. Do not combine these local axes with magnet-sheet coordinates."
+      },
+      {
+        "feature": "antenna-bottom-band",
+        "quantity": "side-boundary-y",
+        "value": -118.11,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "note": "Antenna sheet: y=0 at horizontal product centerline, positive upward. Right-side-region x=0 at right housing side and negative inward; perimeter-band widths measured from housing edge. Do not combine these local axes with magnet-sheet coordinates."
+      },
+      {
+        "feature": "antenna-right-side-region",
+        "quantity": "upper-boundary-y",
+        "value": -49.25,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "note": "Antenna sheet: y=0 at horizontal product centerline, positive upward. Right-side-region x=0 at right housing side and negative inward; perimeter-band widths measured from housing edge. Do not combine these local axes with magnet-sheet coordinates."
+      },
+      {
+        "feature": "antenna-right-side-region",
+        "quantity": "lower-boundary-y",
+        "value": -86.95,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "note": "Antenna sheet: y=0 at horizontal product centerline, positive upward. Right-side-region x=0 at right housing side and negative inward; perimeter-band widths measured from housing edge. Do not combine these local axes with magnet-sheet coordinates."
+      },
+      {
+        "feature": "antenna-right-side-region",
+        "quantity": "inner-boundary-x",
+        "value": -14.58,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "note": "Antenna sheet: y=0 at horizontal product centerline, positive upward. Right-side-region x=0 at right housing side and negative inward; perimeter-band widths measured from housing edge. Do not combine these local axes with magnet-sheet coordinates."
+      }
+    ],
+    "profiles": [],
+    "features": {
+      "antennaExclusion": {
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m4.pdf",
+        "page": 6,
+        "scope": "Do not obstruct the illustrated antenna areas with metal. Top/bottom bands shown on front and rear; extra rectangular right-side exclusion drawn on front view only.",
+        "boundaryStatus": "Printed offsets and limits retained. Rounded outer band contour is not supplied as a separate point table; no polygon inferred from artwork."
+      }
+    },
+    "reviewScope": "Final section/detail and antenna sheets visually reviewed. Adds only measurements and side-profile streams absent from main feature review; source-local signs and datums retained."
+  },
+  {
+    "id": "ipad-pro-13-inch-m5",
+    "sourcePagesReviewed": [
+      5,
+      6
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "speaker",
+        "quantity": "centre-to-cover-glass",
+        "value": 2.59,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "Y-Y"
+      },
+      {
+        "feature": "sleep-wake-button",
+        "quantity": "section-width",
+        "value": 2.26,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "W-W"
+      },
+      {
+        "feature": "inductive-charger-window",
+        "quantity": "section-width",
+        "value": 2.99,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "detail": "U-U"
+      },
+      {
+        "feature": "antenna-keepout",
+        "quantity": "outside-housing-width",
+        "value": 7.72,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "note": "Antenna sheet: y=0 at horizontal product centerline, positive upward. Right-side-region x=0 at right housing side and negative inward; perimeter-band widths measured from housing edge. Do not combine these local axes with magnet-sheet coordinates."
+      },
+      {
+        "feature": "antenna-keepout",
+        "quantity": "inside-housing-width",
+        "value": 12.15,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "note": "Antenna sheet: y=0 at horizontal product centerline, positive upward. Right-side-region x=0 at right housing side and negative inward; perimeter-band widths measured from housing edge. Do not combine these local axes with magnet-sheet coordinates."
+      },
+      {
+        "feature": "antenna-top-band",
+        "quantity": "side-boundary-y",
+        "value": 118.11,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "note": "Antenna sheet: y=0 at horizontal product centerline, positive upward. Right-side-region x=0 at right housing side and negative inward; perimeter-band widths measured from housing edge. Do not combine these local axes with magnet-sheet coordinates."
+      },
+      {
+        "feature": "antenna-bottom-band",
+        "quantity": "side-boundary-y",
+        "value": -118.11,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "note": "Antenna sheet: y=0 at horizontal product centerline, positive upward. Right-side-region x=0 at right housing side and negative inward; perimeter-band widths measured from housing edge. Do not combine these local axes with magnet-sheet coordinates."
+      },
+      {
+        "feature": "antenna-right-side-region",
+        "quantity": "upper-boundary-y",
+        "value": -49.25,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "note": "Antenna sheet: y=0 at horizontal product centerline, positive upward. Right-side-region x=0 at right housing side and negative inward; perimeter-band widths measured from housing edge. Do not combine these local axes with magnet-sheet coordinates."
+      },
+      {
+        "feature": "antenna-right-side-region",
+        "quantity": "lower-boundary-y",
+        "value": -86.95,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "note": "Antenna sheet: y=0 at horizontal product centerline, positive upward. Right-side-region x=0 at right housing side and negative inward; perimeter-band widths measured from housing edge. Do not combine these local axes with magnet-sheet coordinates."
+      },
+      {
+        "feature": "antenna-right-side-region",
+        "quantity": "inner-boundary-x",
+        "value": -14.58,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "note": "Antenna sheet: y=0 at horizontal product centerline, positive upward. Right-side-region x=0 at right housing side and negative inward; perimeter-band widths measured from housing edge. Do not combine these local axes with magnet-sheet coordinates."
+      }
+    ],
+    "profiles": [],
+    "features": {
+      "antennaExclusion": {
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-pro-13-inch-m5.pdf",
+        "page": 6,
+        "scope": "Do not obstruct the illustrated antenna areas with metal. Top/bottom bands shown on front and rear; extra rectangular right-side exclusion drawn on front view only.",
+        "boundaryStatus": "Printed offsets and limits retained. Rounded outer band contour is not supplied as a separate point table; no polygon inferred from artwork."
+      }
+    },
+    "reviewScope": "Final section/detail and antenna sheets visually reviewed. Adds only measurements and side-profile streams absent from main feature review; source-local signs and datums retained."
+  },
+  {
+    "id": "ipad-air-11-inch-m2",
+    "sourcePagesReviewed": [
+      3,
+      5,
+      6
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "top-button",
+        "quantity": "section-nearest-edge-to-cover-glass",
+        "value": 1.09,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "detail": "Z-Z"
+      },
+      {
+        "feature": "right-microphone",
+        "quantity": "section-outer-distance-from-edge",
+        "value": 4.49,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "detail": "AN-AN",
+        "note": "Outer opening-side witness line to housing outside edge; adjacent inner distance4.09 retained in main feature review."
+      },
+      {
+        "feature": "antenna-keepout",
+        "quantity": "outside-housing-width",
+        "value": 8,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Source labels both widths HOUSING OUTSIDE;11.88 witness lines extend inward from housing edge. Vertical102.43 dimensions printed unsigned separately above/below centerline; no sign added."
+      },
+      {
+        "feature": "antenna-keepout",
+        "quantity": "inward-housing-offset",
+        "value": 11.88,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Source labels both widths HOUSING OUTSIDE;11.88 witness lines extend inward from housing edge. Vertical102.43 dimensions printed unsigned separately above/below centerline; no sign added."
+      },
+      {
+        "feature": "antenna-top-band",
+        "quantity": "side-boundary-distance-from-horizontal-centerline",
+        "value": 102.43,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Source labels both widths HOUSING OUTSIDE;11.88 witness lines extend inward from housing edge. Vertical102.43 dimensions printed unsigned separately above/below centerline; no sign added."
+      },
+      {
+        "feature": "antenna-bottom-band",
+        "quantity": "side-boundary-distance-from-horizontal-centerline",
+        "value": 102.43,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Source labels both widths HOUSING OUTSIDE;11.88 witness lines extend inward from housing edge. Vertical102.43 dimensions printed unsigned separately above/below centerline; no sign added."
+      },
+      {
+        "feature": "rear-camera-base-transition",
+        "quantity": "fillet-radius",
+        "value": 0.12,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "detail": "K",
+        "note": "Explicit radius at side-wall transition to housing; not lens optical radius."
+      }
+    ],
+    "profiles": [
+      {
+        "feature": "housing-side-edge-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "upper-horizontal",
+        "values": [
+          0,
+          0.02,
+          0.21,
+          0.54,
+          0.97
+        ],
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "detail": "N",
+        "coordinateSystem": "Upper and lower curves have separate parenthesized 0.00 origins at their respective outer surfaces. Horizontal distances inward are positive; upper vertical ordinates are negative, lower vertical ordinates positive. No through-thickness translation inferred.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      },
+      {
+        "feature": "housing-side-edge-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "upper-vertical",
+        "values": [
+          0,
+          -0.02,
+          -0.19,
+          -0.54,
+          -1.12
+        ],
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "detail": "N",
+        "coordinateSystem": "Upper and lower curves have separate parenthesized 0.00 origins at their respective outer surfaces. Horizontal distances inward are positive; upper vertical ordinates are negative, lower vertical ordinates positive. No through-thickness translation inferred.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      },
+      {
+        "feature": "housing-side-edge-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "lower-horizontal",
+        "values": [
+          0,
+          0.06,
+          0.17,
+          0.39,
+          0.7
+        ],
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "detail": "N",
+        "coordinateSystem": "Upper and lower curves have separate parenthesized 0.00 origins at their respective outer surfaces. Horizontal distances inward are positive; upper vertical ordinates are negative, lower vertical ordinates positive. No through-thickness translation inferred.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      },
+      {
+        "feature": "housing-side-edge-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "lower-vertical",
+        "values": [
+          0,
+          0.07,
+          0.24,
+          0.41,
+          1.12
+        ],
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "detail": "N",
+        "coordinateSystem": "Upper and lower curves have separate parenthesized 0.00 origins at their respective outer surfaces. Horizontal distances inward are positive; upper vertical ordinates are negative, lower vertical ordinates positive. No through-thickness translation inferred.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      },
+      {
+        "feature": "rear-camera-side-wall-transition",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "horizontal",
+        "values": [
+          -1.93,
+          -1.74,
+          -1.48,
+          -1.14,
+          -0.79,
+          -0.46,
+          -0.14,
+          0
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "detail": "K",
+        "coordinateSystem": "Local datum at camera-base/housing tangent transition as shown. Horizontal ordinates negative toward raised camera side wall; positive vertical ordinates outward. These are mechanical contour points, not optical geometry.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      },
+      {
+        "feature": "rear-camera-side-wall-transition",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "vertical",
+        "values": [
+          2.52,
+          0.83,
+          0.47,
+          0.21,
+          0.07,
+          0.01,
+          0
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "detail": "K",
+        "coordinateSystem": "Local datum at camera-base/housing tangent transition as shown. Horizontal ordinates negative toward raised camera side wall; positive vertical ordinates outward. These are mechanical contour points, not optical geometry.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      }
+    ],
+    "features": {
+      "sharedDrawingApplicability": {
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "page": 2,
+        "note": "Primary drawing title explicitly lists iPad Air 11-inch M4, M3 and M2. These section/antenna measurements use that shared M4-hosted drawing, not an unverified cross-generation inference."
+      },
+      "antennaLabelAmbiguity": {
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "page": 6,
+        "note": "8.00 and11.88 both labelled HOUSING OUTSIDE. Distances retained; inward/outward roles follow visible witness-line endpoints without rewriting printed text."
+      },
+      "antennaExclusion": {
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "page": 6,
+        "scope": "Do not obstruct antenna regions with metal. Front and rear boundary artwork reviewed; no unprinted corner curve or finite depth inferred."
+      }
+    },
+    "reviewScope": "Final section/detail and antenna sheets visually reviewed. Adds only measurements and side-profile streams absent from main feature review; source-local signs and datums retained. Rear camera side-wall transition detail also transcribed from targeted page3 audit; main lens/button corrections communicated separately."
+  },
+  {
+    "id": "ipad-air-11-inch-m3",
+    "sourcePagesReviewed": [
+      3,
+      5,
+      6
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "top-button",
+        "quantity": "section-nearest-edge-to-cover-glass",
+        "value": 1.09,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "detail": "Z-Z"
+      },
+      {
+        "feature": "right-microphone",
+        "quantity": "section-outer-distance-from-edge",
+        "value": 4.49,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "detail": "AN-AN",
+        "note": "Outer opening-side witness line to housing outside edge; adjacent inner distance4.09 retained in main feature review."
+      },
+      {
+        "feature": "antenna-keepout",
+        "quantity": "outside-housing-width",
+        "value": 8,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Source labels both widths HOUSING OUTSIDE;11.88 witness lines extend inward from housing edge. Vertical102.43 dimensions printed unsigned separately above/below centerline; no sign added."
+      },
+      {
+        "feature": "antenna-keepout",
+        "quantity": "inward-housing-offset",
+        "value": 11.88,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Source labels both widths HOUSING OUTSIDE;11.88 witness lines extend inward from housing edge. Vertical102.43 dimensions printed unsigned separately above/below centerline; no sign added."
+      },
+      {
+        "feature": "antenna-top-band",
+        "quantity": "side-boundary-distance-from-horizontal-centerline",
+        "value": 102.43,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Source labels both widths HOUSING OUTSIDE;11.88 witness lines extend inward from housing edge. Vertical102.43 dimensions printed unsigned separately above/below centerline; no sign added."
+      },
+      {
+        "feature": "antenna-bottom-band",
+        "quantity": "side-boundary-distance-from-horizontal-centerline",
+        "value": 102.43,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Source labels both widths HOUSING OUTSIDE;11.88 witness lines extend inward from housing edge. Vertical102.43 dimensions printed unsigned separately above/below centerline; no sign added."
+      },
+      {
+        "feature": "rear-camera-base-transition",
+        "quantity": "fillet-radius",
+        "value": 0.12,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "detail": "K",
+        "note": "Explicit radius at side-wall transition to housing; not lens optical radius."
+      }
+    ],
+    "profiles": [
+      {
+        "feature": "housing-side-edge-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "upper-horizontal",
+        "values": [
+          0,
+          0.02,
+          0.21,
+          0.54,
+          0.97
+        ],
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "detail": "N",
+        "coordinateSystem": "Upper and lower curves have separate parenthesized 0.00 origins at their respective outer surfaces. Horizontal distances inward are positive; upper vertical ordinates are negative, lower vertical ordinates positive. No through-thickness translation inferred.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      },
+      {
+        "feature": "housing-side-edge-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "upper-vertical",
+        "values": [
+          0,
+          -0.02,
+          -0.19,
+          -0.54,
+          -1.12
+        ],
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "detail": "N",
+        "coordinateSystem": "Upper and lower curves have separate parenthesized 0.00 origins at their respective outer surfaces. Horizontal distances inward are positive; upper vertical ordinates are negative, lower vertical ordinates positive. No through-thickness translation inferred.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      },
+      {
+        "feature": "housing-side-edge-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "lower-horizontal",
+        "values": [
+          0,
+          0.06,
+          0.17,
+          0.39,
+          0.7
+        ],
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "detail": "N",
+        "coordinateSystem": "Upper and lower curves have separate parenthesized 0.00 origins at their respective outer surfaces. Horizontal distances inward are positive; upper vertical ordinates are negative, lower vertical ordinates positive. No through-thickness translation inferred.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      },
+      {
+        "feature": "housing-side-edge-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "lower-vertical",
+        "values": [
+          0,
+          0.07,
+          0.24,
+          0.41,
+          1.12
+        ],
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "detail": "N",
+        "coordinateSystem": "Upper and lower curves have separate parenthesized 0.00 origins at their respective outer surfaces. Horizontal distances inward are positive; upper vertical ordinates are negative, lower vertical ordinates positive. No through-thickness translation inferred.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      },
+      {
+        "feature": "rear-camera-side-wall-transition",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "horizontal",
+        "values": [
+          -1.93,
+          -1.74,
+          -1.48,
+          -1.14,
+          -0.79,
+          -0.46,
+          -0.14,
+          0
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "detail": "K",
+        "coordinateSystem": "Local datum at camera-base/housing tangent transition as shown. Horizontal ordinates negative toward raised camera side wall; positive vertical ordinates outward. These are mechanical contour points, not optical geometry.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      },
+      {
+        "feature": "rear-camera-side-wall-transition",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "vertical",
+        "values": [
+          2.52,
+          0.83,
+          0.47,
+          0.21,
+          0.07,
+          0.01,
+          0
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "detail": "K",
+        "coordinateSystem": "Local datum at camera-base/housing tangent transition as shown. Horizontal ordinates negative toward raised camera side wall; positive vertical ordinates outward. These are mechanical contour points, not optical geometry.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      }
+    ],
+    "features": {
+      "sharedDrawingApplicability": {
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "page": 2,
+        "note": "Primary drawing title explicitly lists iPad Air 11-inch M4, M3 and M2. These section/antenna measurements use that shared M4-hosted drawing, not an unverified cross-generation inference."
+      },
+      "antennaLabelAmbiguity": {
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "page": 6,
+        "note": "8.00 and11.88 both labelled HOUSING OUTSIDE. Distances retained; inward/outward roles follow visible witness-line endpoints without rewriting printed text."
+      },
+      "antennaExclusion": {
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "page": 6,
+        "scope": "Do not obstruct antenna regions with metal. Front and rear boundary artwork reviewed; no unprinted corner curve or finite depth inferred."
+      }
+    },
+    "reviewScope": "Final section/detail and antenna sheets visually reviewed. Adds only measurements and side-profile streams absent from main feature review; source-local signs and datums retained. Rear camera side-wall transition detail also transcribed from targeted page3 audit; main lens/button corrections communicated separately."
+  },
+  {
+    "id": "ipad-air-11-inch-m4",
+    "sourcePagesReviewed": [
+      3,
+      5,
+      6
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "top-button",
+        "quantity": "section-nearest-edge-to-cover-glass",
+        "value": 1.09,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "detail": "Z-Z"
+      },
+      {
+        "feature": "right-microphone",
+        "quantity": "section-outer-distance-from-edge",
+        "value": 4.49,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "detail": "AN-AN",
+        "note": "Outer opening-side witness line to housing outside edge; adjacent inner distance4.09 retained in main feature review."
+      },
+      {
+        "feature": "antenna-keepout",
+        "quantity": "outside-housing-width",
+        "value": 8,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Source labels both widths HOUSING OUTSIDE;11.88 witness lines extend inward from housing edge. Vertical102.43 dimensions printed unsigned separately above/below centerline; no sign added."
+      },
+      {
+        "feature": "antenna-keepout",
+        "quantity": "inward-housing-offset",
+        "value": 11.88,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Source labels both widths HOUSING OUTSIDE;11.88 witness lines extend inward from housing edge. Vertical102.43 dimensions printed unsigned separately above/below centerline; no sign added."
+      },
+      {
+        "feature": "antenna-top-band",
+        "quantity": "side-boundary-distance-from-horizontal-centerline",
+        "value": 102.43,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Source labels both widths HOUSING OUTSIDE;11.88 witness lines extend inward from housing edge. Vertical102.43 dimensions printed unsigned separately above/below centerline; no sign added."
+      },
+      {
+        "feature": "antenna-bottom-band",
+        "quantity": "side-boundary-distance-from-horizontal-centerline",
+        "value": 102.43,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "note": "Source labels both widths HOUSING OUTSIDE;11.88 witness lines extend inward from housing edge. Vertical102.43 dimensions printed unsigned separately above/below centerline; no sign added."
+      },
+      {
+        "feature": "rear-camera-base-transition",
+        "quantity": "fillet-radius",
+        "value": 0.12,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "detail": "K",
+        "note": "Explicit radius at side-wall transition to housing; not lens optical radius."
+      }
+    ],
+    "profiles": [
+      {
+        "feature": "housing-side-edge-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "upper-horizontal",
+        "values": [
+          0,
+          0.02,
+          0.21,
+          0.54,
+          0.97
+        ],
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "detail": "N",
+        "coordinateSystem": "Upper and lower curves have separate parenthesized 0.00 origins at their respective outer surfaces. Horizontal distances inward are positive; upper vertical ordinates are negative, lower vertical ordinates positive. No through-thickness translation inferred.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      },
+      {
+        "feature": "housing-side-edge-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "upper-vertical",
+        "values": [
+          0,
+          -0.02,
+          -0.19,
+          -0.54,
+          -1.12
+        ],
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "detail": "N",
+        "coordinateSystem": "Upper and lower curves have separate parenthesized 0.00 origins at their respective outer surfaces. Horizontal distances inward are positive; upper vertical ordinates are negative, lower vertical ordinates positive. No through-thickness translation inferred.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      },
+      {
+        "feature": "housing-side-edge-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "lower-horizontal",
+        "values": [
+          0,
+          0.06,
+          0.17,
+          0.39,
+          0.7
+        ],
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "detail": "N",
+        "coordinateSystem": "Upper and lower curves have separate parenthesized 0.00 origins at their respective outer surfaces. Horizontal distances inward are positive; upper vertical ordinates are negative, lower vertical ordinates positive. No through-thickness translation inferred.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      },
+      {
+        "feature": "housing-side-edge-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "lower-vertical",
+        "values": [
+          0,
+          0.07,
+          0.24,
+          0.41,
+          1.12
+        ],
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "detail": "N",
+        "coordinateSystem": "Upper and lower curves have separate parenthesized 0.00 origins at their respective outer surfaces. Horizontal distances inward are positive; upper vertical ordinates are negative, lower vertical ordinates positive. No through-thickness translation inferred.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      },
+      {
+        "feature": "rear-camera-side-wall-transition",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "horizontal",
+        "values": [
+          -1.93,
+          -1.74,
+          -1.48,
+          -1.14,
+          -0.79,
+          -0.46,
+          -0.14,
+          0
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "detail": "K",
+        "coordinateSystem": "Local datum at camera-base/housing tangent transition as shown. Horizontal ordinates negative toward raised camera side wall; positive vertical ordinates outward. These are mechanical contour points, not optical geometry.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      },
+      {
+        "feature": "rear-camera-side-wall-transition",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "vertical",
+        "values": [
+          2.52,
+          0.83,
+          0.47,
+          0.21,
+          0.07,
+          0.01,
+          0
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "detail": "K",
+        "coordinateSystem": "Local datum at camera-base/housing tangent transition as shown. Horizontal ordinates negative toward raised camera side wall; positive vertical ordinates outward. These are mechanical contour points, not optical geometry.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      }
+    ],
+    "features": {
+      "sharedDrawingApplicability": {
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "page": 2,
+        "note": "Primary drawing title explicitly lists iPad Air 11-inch M4, M3 and M2. These section/antenna measurements use that shared M4-hosted drawing, not an unverified cross-generation inference."
+      },
+      "antennaLabelAmbiguity": {
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "page": 6,
+        "note": "8.00 and11.88 both labelled HOUSING OUTSIDE. Distances retained; inward/outward roles follow visible witness-line endpoints without rewriting printed text."
+      },
+      "antennaExclusion": {
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-11-inch-m4.pdf",
+        "page": 6,
+        "scope": "Do not obstruct antenna regions with metal. Front and rear boundary artwork reviewed; no unprinted corner curve or finite depth inferred."
+      }
+    },
+    "reviewScope": "Final section/detail and antenna sheets visually reviewed. Adds only measurements and side-profile streams absent from main feature review; source-local signs and datums retained. Rear camera side-wall transition detail also transcribed from targeted page3 audit; main lens/button corrections communicated separately."
+  },
+  {
+    "id": "ipad-air-13-inch-m2",
+    "sourcePagesReviewed": [
+      3,
+      5,
+      6
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "top-button",
+        "quantity": "section-farthest-edge-to-cover-glass",
+        "value": 5.09,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "detail": "AP-AP",
+        "note": "Section spans from far edge of button to cover-glass outside plane; center distance3.09 is retained in main feature review."
+      },
+      {
+        "feature": "antenna-keepout",
+        "quantity": "outside-housing-width",
+        "value": 7.99,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Unsigned linear distances as printed on antenna sheet; horizontal centerline and adjacent housing tangent/witness lines are local references. Do not turn these into absolute coordinates without explicit datum transformation."
+      },
+      {
+        "feature": "antenna-keepout",
+        "quantity": "inward-housing-offset",
+        "value": 11.98,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Unsigned linear distances as printed on antenna sheet; horizontal centerline and adjacent housing tangent/witness lines are local references. Do not turn these into absolute coordinates without explicit datum transformation."
+      },
+      {
+        "feature": "antenna-top-band",
+        "quantity": "left-inner-notch-offset-from-left-housing-edge",
+        "value": 25.34,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Unsigned linear distances as printed on antenna sheet; horizontal centerline and adjacent housing tangent/witness lines are local references. Do not turn these into absolute coordinates without explicit datum transformation."
+      },
+      {
+        "feature": "antenna-top-band",
+        "quantity": "step-height",
+        "value": 10.73,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Unsigned linear distances as printed on antenna sheet; horizontal centerline and adjacent housing tangent/witness lines are local references. Do not turn these into absolute coordinates without explicit datum transformation."
+      },
+      {
+        "feature": "antenna-top-band",
+        "quantity": "left-side-boundary-distance-above-horizontal-centerline",
+        "value": 117.66,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Unsigned linear distances as printed on antenna sheet; horizontal centerline and adjacent housing tangent/witness lines are local references. Do not turn these into absolute coordinates without explicit datum transformation."
+      },
+      {
+        "feature": "antenna-bottom-band",
+        "quantity": "left-side-boundary-distance-below-horizontal-centerline",
+        "value": 117.66,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Unsigned linear distances as printed on antenna sheet; horizontal centerline and adjacent housing tangent/witness lines are local references. Do not turn these into absolute coordinates without explicit datum transformation."
+      },
+      {
+        "feature": "antenna-right-side-region",
+        "quantity": "height",
+        "value": 51,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Unsigned linear distances as printed on antenna sheet; horizontal centerline and adjacent housing tangent/witness lines are local references. Do not turn these into absolute coordinates without explicit datum transformation."
+      },
+      {
+        "feature": "antenna-right-side-region",
+        "quantity": "lower-boundary-distance-above-horizontal-centerline",
+        "value": 41.88,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Unsigned linear distances as printed on antenna sheet; horizontal centerline and adjacent housing tangent/witness lines are local references. Do not turn these into absolute coordinates without explicit datum transformation."
+      },
+      {
+        "feature": "antenna-right-side-region",
+        "quantity": "gap-from-top-band-side-boundary",
+        "value": 24.78,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Unsigned linear distances as printed on antenna sheet; horizontal centerline and adjacent housing tangent/witness lines are local references. Do not turn these into absolute coordinates without explicit datum transformation."
+      },
+      {
+        "feature": "antenna-bottom-band",
+        "quantity": "right-side-boundary-distance-below-horizontal-centerline",
+        "value": 98.14,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Unsigned linear distances as printed on antenna sheet; horizontal centerline and adjacent housing tangent/witness lines are local references. Do not turn these into absolute coordinates without explicit datum transformation."
+      },
+      {
+        "feature": "rear-camera-base-transition",
+        "quantity": "fillet-radius",
+        "value": 0.12,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "detail": "AZ",
+        "note": "Explicit radius at side-wall transition to housing; not lens optical radius."
+      }
+    ],
+    "profiles": [
+      {
+        "feature": "housing-side-edge-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "upper-horizontal",
+        "values": [
+          0,
+          0.06,
+          0.43,
+          1.12
+        ],
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "detail": "AR",
+        "coordinateSystem": "Upper/lower curves use separate parenthesized0.00 origins at respective outer surfaces. Positive horizontal ordinates inward; negative upper and positive lower vertical ordinates retained. No inferred common thickness datum.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      },
+      {
+        "feature": "housing-side-edge-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "upper-vertical",
+        "values": [
+          0,
+          -0.06,
+          -0.43,
+          -1.12
+        ],
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "detail": "AR",
+        "coordinateSystem": "Upper/lower curves use separate parenthesized0.00 origins at respective outer surfaces. Positive horizontal ordinates inward; negative upper and positive lower vertical ordinates retained. No inferred common thickness datum.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      },
+      {
+        "feature": "housing-side-edge-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "lower-horizontal",
+        "values": [
+          0,
+          0.06,
+          0.43,
+          0.95
+        ],
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "detail": "AR",
+        "coordinateSystem": "Upper/lower curves use separate parenthesized0.00 origins at respective outer surfaces. Positive horizontal ordinates inward; negative upper and positive lower vertical ordinates retained. No inferred common thickness datum.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      },
+      {
+        "feature": "housing-side-edge-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "lower-vertical",
+        "values": [
+          0,
+          0.06,
+          0.43,
+          1.12
+        ],
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "detail": "AR",
+        "coordinateSystem": "Upper/lower curves use separate parenthesized0.00 origins at respective outer surfaces. Positive horizontal ordinates inward; negative upper and positive lower vertical ordinates retained. No inferred common thickness datum.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      },
+      {
+        "feature": "rear-camera-side-wall-transition",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "horizontal",
+        "values": [
+          -1.93,
+          -1.92,
+          -1.69,
+          -1.2,
+          -0.74,
+          -0.46,
+          -0.15,
+          0
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "detail": "AZ",
+        "coordinateSystem": "Local datum at camera-base/housing tangent transition as shown. Horizontal ordinates negative toward raised camera side wall; positive vertical ordinates outward. These are mechanical contour points, not optical geometry.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      },
+      {
+        "feature": "rear-camera-side-wall-transition",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "vertical",
+        "values": [
+          2.1,
+          1.57,
+          0.74,
+          0.24,
+          0.05,
+          0.01,
+          0
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "detail": "AZ",
+        "coordinateSystem": "Local datum at camera-base/housing tangent transition as shown. Horizontal ordinates negative toward raised camera side wall; positive vertical ordinates outward. These are mechanical contour points, not optical geometry.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      }
+    ],
+    "features": {
+      "sharedDrawingApplicability": {
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "page": 2,
+        "note": "Primary drawing title explicitly lists iPad Air 13-inch M4, M3 and M2. These section/antenna measurements use that shared M4-hosted drawing, not an unverified cross-generation inference."
+      },
+      "antennaLabelAmbiguity": {
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "page": 6,
+        "note": "Lower11.98 inward offset is labelled HOUSING OUTSIDE although its witnesses lie inside housing; preserved as inward offset with original-label ambiguity. Top and bottom band cutouts are asymmetric; no symmetry imposed."
+      },
+      "antennaExclusion": {
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "page": 6,
+        "scope": "Do not obstruct antenna regions with metal. Front and rear boundary artwork reviewed; no unprinted corner curve or finite depth inferred."
+      }
+    },
+    "reviewScope": "Final section/detail and antenna sheets visually reviewed. Adds only measurements and side-profile streams absent from main feature review; source-local signs and datums retained. Rear camera side-wall transition detail also transcribed from targeted page3 audit; main lens/button corrections communicated separately."
+  },
+  {
+    "id": "ipad-air-13-inch-m3",
+    "sourcePagesReviewed": [
+      3,
+      5,
+      6
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "top-button",
+        "quantity": "section-farthest-edge-to-cover-glass",
+        "value": 5.09,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "detail": "AP-AP",
+        "note": "Section spans from far edge of button to cover-glass outside plane; center distance3.09 is retained in main feature review."
+      },
+      {
+        "feature": "antenna-keepout",
+        "quantity": "outside-housing-width",
+        "value": 7.99,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Unsigned linear distances as printed on antenna sheet; horizontal centerline and adjacent housing tangent/witness lines are local references. Do not turn these into absolute coordinates without explicit datum transformation."
+      },
+      {
+        "feature": "antenna-keepout",
+        "quantity": "inward-housing-offset",
+        "value": 11.98,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Unsigned linear distances as printed on antenna sheet; horizontal centerline and adjacent housing tangent/witness lines are local references. Do not turn these into absolute coordinates without explicit datum transformation."
+      },
+      {
+        "feature": "antenna-top-band",
+        "quantity": "left-inner-notch-offset-from-left-housing-edge",
+        "value": 25.34,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Unsigned linear distances as printed on antenna sheet; horizontal centerline and adjacent housing tangent/witness lines are local references. Do not turn these into absolute coordinates without explicit datum transformation."
+      },
+      {
+        "feature": "antenna-top-band",
+        "quantity": "step-height",
+        "value": 10.73,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Unsigned linear distances as printed on antenna sheet; horizontal centerline and adjacent housing tangent/witness lines are local references. Do not turn these into absolute coordinates without explicit datum transformation."
+      },
+      {
+        "feature": "antenna-top-band",
+        "quantity": "left-side-boundary-distance-above-horizontal-centerline",
+        "value": 117.66,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Unsigned linear distances as printed on antenna sheet; horizontal centerline and adjacent housing tangent/witness lines are local references. Do not turn these into absolute coordinates without explicit datum transformation."
+      },
+      {
+        "feature": "antenna-bottom-band",
+        "quantity": "left-side-boundary-distance-below-horizontal-centerline",
+        "value": 117.66,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Unsigned linear distances as printed on antenna sheet; horizontal centerline and adjacent housing tangent/witness lines are local references. Do not turn these into absolute coordinates without explicit datum transformation."
+      },
+      {
+        "feature": "antenna-right-side-region",
+        "quantity": "height",
+        "value": 51,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Unsigned linear distances as printed on antenna sheet; horizontal centerline and adjacent housing tangent/witness lines are local references. Do not turn these into absolute coordinates without explicit datum transformation."
+      },
+      {
+        "feature": "antenna-right-side-region",
+        "quantity": "lower-boundary-distance-above-horizontal-centerline",
+        "value": 41.88,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Unsigned linear distances as printed on antenna sheet; horizontal centerline and adjacent housing tangent/witness lines are local references. Do not turn these into absolute coordinates without explicit datum transformation."
+      },
+      {
+        "feature": "antenna-right-side-region",
+        "quantity": "gap-from-top-band-side-boundary",
+        "value": 24.78,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Unsigned linear distances as printed on antenna sheet; horizontal centerline and adjacent housing tangent/witness lines are local references. Do not turn these into absolute coordinates without explicit datum transformation."
+      },
+      {
+        "feature": "antenna-bottom-band",
+        "quantity": "right-side-boundary-distance-below-horizontal-centerline",
+        "value": 98.14,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Unsigned linear distances as printed on antenna sheet; horizontal centerline and adjacent housing tangent/witness lines are local references. Do not turn these into absolute coordinates without explicit datum transformation."
+      },
+      {
+        "feature": "rear-camera-base-transition",
+        "quantity": "fillet-radius",
+        "value": 0.12,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "detail": "AZ",
+        "note": "Explicit radius at side-wall transition to housing; not lens optical radius."
+      }
+    ],
+    "profiles": [
+      {
+        "feature": "housing-side-edge-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "upper-horizontal",
+        "values": [
+          0,
+          0.06,
+          0.43,
+          1.12
+        ],
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "detail": "AR",
+        "coordinateSystem": "Upper/lower curves use separate parenthesized0.00 origins at respective outer surfaces. Positive horizontal ordinates inward; negative upper and positive lower vertical ordinates retained. No inferred common thickness datum.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      },
+      {
+        "feature": "housing-side-edge-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "upper-vertical",
+        "values": [
+          0,
+          -0.06,
+          -0.43,
+          -1.12
+        ],
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "detail": "AR",
+        "coordinateSystem": "Upper/lower curves use separate parenthesized0.00 origins at respective outer surfaces. Positive horizontal ordinates inward; negative upper and positive lower vertical ordinates retained. No inferred common thickness datum.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      },
+      {
+        "feature": "housing-side-edge-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "lower-horizontal",
+        "values": [
+          0,
+          0.06,
+          0.43,
+          0.95
+        ],
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "detail": "AR",
+        "coordinateSystem": "Upper/lower curves use separate parenthesized0.00 origins at respective outer surfaces. Positive horizontal ordinates inward; negative upper and positive lower vertical ordinates retained. No inferred common thickness datum.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      },
+      {
+        "feature": "housing-side-edge-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "lower-vertical",
+        "values": [
+          0,
+          0.06,
+          0.43,
+          1.12
+        ],
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "detail": "AR",
+        "coordinateSystem": "Upper/lower curves use separate parenthesized0.00 origins at respective outer surfaces. Positive horizontal ordinates inward; negative upper and positive lower vertical ordinates retained. No inferred common thickness datum.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      },
+      {
+        "feature": "rear-camera-side-wall-transition",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "horizontal",
+        "values": [
+          -1.93,
+          -1.92,
+          -1.69,
+          -1.2,
+          -0.74,
+          -0.46,
+          -0.15,
+          0
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "detail": "AZ",
+        "coordinateSystem": "Local datum at camera-base/housing tangent transition as shown. Horizontal ordinates negative toward raised camera side wall; positive vertical ordinates outward. These are mechanical contour points, not optical geometry.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      },
+      {
+        "feature": "rear-camera-side-wall-transition",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "vertical",
+        "values": [
+          2.1,
+          1.57,
+          0.74,
+          0.24,
+          0.05,
+          0.01,
+          0
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "detail": "AZ",
+        "coordinateSystem": "Local datum at camera-base/housing tangent transition as shown. Horizontal ordinates negative toward raised camera side wall; positive vertical ordinates outward. These are mechanical contour points, not optical geometry.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      }
+    ],
+    "features": {
+      "sharedDrawingApplicability": {
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "page": 2,
+        "note": "Primary drawing title explicitly lists iPad Air 13-inch M4, M3 and M2. These section/antenna measurements use that shared M4-hosted drawing, not an unverified cross-generation inference."
+      },
+      "antennaLabelAmbiguity": {
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "page": 6,
+        "note": "Lower11.98 inward offset is labelled HOUSING OUTSIDE although its witnesses lie inside housing; preserved as inward offset with original-label ambiguity. Top and bottom band cutouts are asymmetric; no symmetry imposed."
+      },
+      "antennaExclusion": {
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "page": 6,
+        "scope": "Do not obstruct antenna regions with metal. Front and rear boundary artwork reviewed; no unprinted corner curve or finite depth inferred."
+      }
+    },
+    "reviewScope": "Final section/detail and antenna sheets visually reviewed. Adds only measurements and side-profile streams absent from main feature review; source-local signs and datums retained. Rear camera side-wall transition detail also transcribed from targeted page3 audit; main lens/button corrections communicated separately."
+  },
+  {
+    "id": "ipad-air-13-inch-m4",
+    "sourcePagesReviewed": [
+      3,
+      5,
+      6
+    ],
+    "additionalDimensions": [
+      {
+        "feature": "top-button",
+        "quantity": "section-farthest-edge-to-cover-glass",
+        "value": 5.09,
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "detail": "AP-AP",
+        "note": "Section spans from far edge of button to cover-glass outside plane; center distance3.09 is retained in main feature review."
+      },
+      {
+        "feature": "antenna-keepout",
+        "quantity": "outside-housing-width",
+        "value": 7.99,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Unsigned linear distances as printed on antenna sheet; horizontal centerline and adjacent housing tangent/witness lines are local references. Do not turn these into absolute coordinates without explicit datum transformation."
+      },
+      {
+        "feature": "antenna-keepout",
+        "quantity": "inward-housing-offset",
+        "value": 11.98,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Unsigned linear distances as printed on antenna sheet; horizontal centerline and adjacent housing tangent/witness lines are local references. Do not turn these into absolute coordinates without explicit datum transformation."
+      },
+      {
+        "feature": "antenna-top-band",
+        "quantity": "left-inner-notch-offset-from-left-housing-edge",
+        "value": 25.34,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Unsigned linear distances as printed on antenna sheet; horizontal centerline and adjacent housing tangent/witness lines are local references. Do not turn these into absolute coordinates without explicit datum transformation."
+      },
+      {
+        "feature": "antenna-top-band",
+        "quantity": "step-height",
+        "value": 10.73,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Unsigned linear distances as printed on antenna sheet; horizontal centerline and adjacent housing tangent/witness lines are local references. Do not turn these into absolute coordinates without explicit datum transformation."
+      },
+      {
+        "feature": "antenna-top-band",
+        "quantity": "left-side-boundary-distance-above-horizontal-centerline",
+        "value": 117.66,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Unsigned linear distances as printed on antenna sheet; horizontal centerline and adjacent housing tangent/witness lines are local references. Do not turn these into absolute coordinates without explicit datum transformation."
+      },
+      {
+        "feature": "antenna-bottom-band",
+        "quantity": "left-side-boundary-distance-below-horizontal-centerline",
+        "value": 117.66,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Unsigned linear distances as printed on antenna sheet; horizontal centerline and adjacent housing tangent/witness lines are local references. Do not turn these into absolute coordinates without explicit datum transformation."
+      },
+      {
+        "feature": "antenna-right-side-region",
+        "quantity": "height",
+        "value": 51,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Unsigned linear distances as printed on antenna sheet; horizontal centerline and adjacent housing tangent/witness lines are local references. Do not turn these into absolute coordinates without explicit datum transformation."
+      },
+      {
+        "feature": "antenna-right-side-region",
+        "quantity": "lower-boundary-distance-above-horizontal-centerline",
+        "value": 41.88,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Unsigned linear distances as printed on antenna sheet; horizontal centerline and adjacent housing tangent/witness lines are local references. Do not turn these into absolute coordinates without explicit datum transformation."
+      },
+      {
+        "feature": "antenna-right-side-region",
+        "quantity": "gap-from-top-band-side-boundary",
+        "value": 24.78,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Unsigned linear distances as printed on antenna sheet; horizontal centerline and adjacent housing tangent/witness lines are local references. Do not turn these into absolute coordinates without explicit datum transformation."
+      },
+      {
+        "feature": "antenna-bottom-band",
+        "quantity": "right-side-boundary-distance-below-horizontal-centerline",
+        "value": 98.14,
+        "unit": "mm",
+        "page": 6,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "note": "Unsigned linear distances as printed on antenna sheet; horizontal centerline and adjacent housing tangent/witness lines are local references. Do not turn these into absolute coordinates without explicit datum transformation."
+      },
+      {
+        "feature": "rear-camera-base-transition",
+        "quantity": "fillet-radius",
+        "value": 0.12,
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "detail": "AZ",
+        "note": "Explicit radius at side-wall transition to housing; not lens optical radius."
+      }
+    ],
+    "profiles": [
+      {
+        "feature": "housing-side-edge-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "upper-horizontal",
+        "values": [
+          0,
+          0.06,
+          0.43,
+          1.12
+        ],
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "detail": "AR",
+        "coordinateSystem": "Upper/lower curves use separate parenthesized0.00 origins at respective outer surfaces. Positive horizontal ordinates inward; negative upper and positive lower vertical ordinates retained. No inferred common thickness datum.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      },
+      {
+        "feature": "housing-side-edge-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "upper-vertical",
+        "values": [
+          0,
+          -0.06,
+          -0.43,
+          -1.12
+        ],
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "detail": "AR",
+        "coordinateSystem": "Upper/lower curves use separate parenthesized0.00 origins at respective outer surfaces. Positive horizontal ordinates inward; negative upper and positive lower vertical ordinates retained. No inferred common thickness datum.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      },
+      {
+        "feature": "housing-side-edge-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "lower-horizontal",
+        "values": [
+          0,
+          0.06,
+          0.43,
+          0.95
+        ],
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "detail": "AR",
+        "coordinateSystem": "Upper/lower curves use separate parenthesized0.00 origins at respective outer surfaces. Positive horizontal ordinates inward; negative upper and positive lower vertical ordinates retained. No inferred common thickness datum.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      },
+      {
+        "feature": "housing-side-edge-profile",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "lower-vertical",
+        "values": [
+          0,
+          0.06,
+          0.43,
+          1.12
+        ],
+        "unit": "mm",
+        "page": 5,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "detail": "AR",
+        "coordinateSystem": "Upper/lower curves use separate parenthesized0.00 origins at respective outer surfaces. Positive horizontal ordinates inward; negative upper and positive lower vertical ordinates retained. No inferred common thickness datum.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      },
+      {
+        "feature": "rear-camera-side-wall-transition",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "horizontal",
+        "values": [
+          -1.93,
+          -1.92,
+          -1.69,
+          -1.2,
+          -0.74,
+          -0.46,
+          -0.15,
+          0
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "detail": "AZ",
+        "coordinateSystem": "Local datum at camera-base/housing tangent transition as shown. Horizontal ordinates negative toward raised camera side wall; positive vertical ordinates outward. These are mechanical contour points, not optical geometry.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      },
+      {
+        "feature": "rear-camera-side-wall-transition",
+        "kind": "independent-ordinate-sequence",
+        "sequence": "vertical",
+        "values": [
+          2.1,
+          1.57,
+          0.74,
+          0.24,
+          0.05,
+          0.01,
+          0
+        ],
+        "unit": "mm",
+        "page": 3,
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "detail": "AZ",
+        "coordinateSystem": "Local datum at camera-base/housing tangent transition as shown. Horizontal ordinates negative toward raised camera side wall; positive vertical ordinates outward. These are mechanical contour points, not optical geometry.",
+        "note": "Independent ordinate stream; do not zip with another stream to invent paired points."
+      }
+    ],
+    "features": {
+      "sharedDrawingApplicability": {
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "page": 2,
+        "note": "Primary drawing title explicitly lists iPad Air 13-inch M4, M3 and M2. These section/antenna measurements use that shared M4-hosted drawing, not an unverified cross-generation inference."
+      },
+      "antennaLabelAmbiguity": {
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "page": 6,
+        "note": "Lower11.98 inward offset is labelled HOUSING OUTSIDE although its witnesses lie inside housing; preserved as inward offset with original-label ambiguity. Top and bottom band cutouts are asymmetric; no symmetry imposed."
+      },
+      "antennaExclusion": {
+        "source": "https://developer.apple.com/download/files/accessories/dimensional-drawings/ipad-air-13-inch-m4.pdf",
+        "page": 6,
+        "scope": "Do not obstruct antenna regions with metal. Front and rear boundary artwork reviewed; no unprinted corner curve or finite depth inferred."
+      }
+    },
+    "reviewScope": "Final section/detail and antenna sheets visually reviewed. Adds only measurements and side-profile streams absent from main feature review; source-local signs and datums retained. Rear camera side-wall transition detail also transcribed from targeted page3 audit; main lens/button corrections communicated separately."
+  }
+]
